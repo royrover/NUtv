@@ -27,7 +27,7 @@ else:
     data = {
         'name': 'highlights - dooball_id',
         'image': 'https://dooball.id/images/logo/rBdVFRtw3Qf9WtZz9P6yfNaZXEUywKGlogo_2.png',
-        'url': 'https://dl.dropbox.com/scl/fi/hw8el5fsspkyqgtt23qvd/dbidhl.w3u?rlkey=vl74squo3v3jqtqnkwq9jfulb&st=8kdsstzs&dl=0',
+        'url': '',
         'author': "",
         'stations': []
     }
