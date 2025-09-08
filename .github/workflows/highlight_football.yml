@@ -44,7 +44,7 @@ jobs:
               "buaksib.json",
               "dbidhl.json",
               "dlshl.json",
-              "hugballhl.json",
+              "hugball.json",
           ]
 
           token = os.environ["TELEGRAM_BOT_TOKEN"]
