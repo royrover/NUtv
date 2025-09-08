@@ -41,10 +41,10 @@ jobs:
           import requests
 
           files = [
-              "buaksib.json",
+              "buaksibhl.json",
               "dbidhl.json",
               "dlshl.json",
-              "hugball.json",
+              "hugballhl.json",
           ]
 
           token = os.environ["TELEGRAM_BOT_TOKEN"]
