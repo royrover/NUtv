@@ -94,7 +94,6 @@ data["stations"] = new_stations + data["stations"]
 
 # อัปเดตวันที่ล่าสุด
 data["author"] = f"update {datetime.now().strftime('%d-%m-%Y %H:%M:%S')}"
-data["url"] = ""
 
 # บันทึก JSON
 with open(json_file, "w", encoding="utf-8") as f:
