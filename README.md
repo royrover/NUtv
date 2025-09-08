@@ -41,9 +41,9 @@ pip install requests beautifulsoup4 lxml python-telegram-bot dropbox
 
 📁 อัปโหลดไฮไลท์ฟุตบอลสำเร็จ:
 
-✅ /New Wiseplay/Highlight Football/acdsport_replay.json
-✅ /New Wiseplay/Highlight Football/dookeela_rerun.json
-✅ /New Wiseplay/Highlight Football/goaldaddyth.json
+✅ /data/sport_rerun/acdsport_replay.json
+✅ /data/sport_rerun/dookeela_rerun.json
+✅ /data/sport_rerun/goaldaddyth.json
 
 🎉 อัปโหลดทั้งหมดเสร็จสิ้นแล้ว 07-09-2025 13:07:38
 
