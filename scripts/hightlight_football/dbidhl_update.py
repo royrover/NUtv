@@ -9,8 +9,6 @@ import platform
 # === ตรวจสอบระบบปฏิบัติการ ===
 SYSTEM = platform.system()
 
-SYSTEM = platform.system()
-
 if SYSTEM == "Windows":
     SAVE_DIR = os.path.dirname(os.path.abspath(__file__))
 elif SYSTEM == "Linux":
