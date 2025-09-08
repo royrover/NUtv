@@ -1,0 +1,38 @@
+name: Sport Rerun Update
+
+on:
+  schedule:
+    - cron: '0 9 * * *'  # เวลา 16:00 ไทย
+  workflow_dispatch:
+
+jobs:
+  update_sport_rerun:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.13
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install requests
+
+      - name: Run DOOKEELA Rerun
+        run: python scripts/sport_rerun/dookeela_rerun.py
+
+
+      - name: Commit JSON/M3U
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/sport_rerun/*.json data/sport_rerun/*.m3u
+          git commit -m "Auto update Sport Rerun"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
