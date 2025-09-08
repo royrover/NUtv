@@ -94,7 +94,6 @@ data["stations"] = new_stations + data["stations"]
 
 # อัปเดตวันที่ล่าสุด
 data["author"] = f"update {datetime.now().strftime('%d-%m-%Y %H:%M:%S')}"
-data["url"] = "https://www.dropbox.com/scl/fi/vmlc52iibxsb4rfcrejjl/dookeela_rerun.json?rlkey=t740fig7t06h9os6e2vlqfexd&st=xdue3rtv&raw=1"
 
 # บันทึก JSON
 with open(json_file, "w", encoding="utf-8") as f:
