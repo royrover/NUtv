@@ -20,9 +20,8 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install --upgrade pip
-          pip install requests
-          pip install requests beautifulsoup4
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 lxml python-telegram-bot dropbox
 
       - name: Run Sport Rerun Scripts
         run: |
@@ -31,27 +30,42 @@ jobs:
           python scripts/sport_rerun/goaldaddyth.py
 
       - name: Send Telegram Notification
-        run: |
-          python - <<EOF
-          import os, datetime, requests
-          time_now = datetime.datetime.utcnow() + datetime.timedelta(hours=7)
-          time_str = time_now.strftime("%d-%m-%Y %H:%M:%S")
-          msg = f"📁 อัปโหลด Sport Rerun เสร็จสิ้นแล้ว {time_str}"
-          token = os.environ["TELEGRAM_BOT_TOKEN"]
-          chat_id = os.environ["TELEGRAM_CHAT_ID"]
-          requests.post(f"https://api.telegram.org/bot{token}/sendMessage",
-                        data={"chat_id": chat_id, "text": msg})
-          EOF
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          python - <<EOF
+          import os
+          import datetime
+          import requests
+
+          files = [
+              "acdsport_replay.json",
+              "dookeela_rerun.json",
+              "goaldaddyth.json",
+          ]
+
+          token = os.environ["TELEGRAM_BOT_TOKEN"]
+          chat_id = os.environ["TELEGRAM_CHAT_ID"]
+
+          time_now = datetime.datetime.utcnow() + datetime.timedelta(hours=7)
+          time_str = time_now.strftime("%d-%m-%Y %H:%M:%S")
+
+          msg = "📁 อัปโหลดไฮไลท์ฟุตบอลสำเร็จ:\n\n"
+          for f in files:
+              msg += f"✅ /New Wiseplay/Highlight Football/{f}\n"
+          msg += f"\n🎉 อัปโหลดทั้งหมดเสร็จสิ้นแล้ว {time_str}"
+
+          requests.post(f"https://api.telegram.org/bot{token}/sendMessage",
+                        data={"chat_id": chat_id, "text": msg})
+          EOF
 
       - name: Commit JSON/M3U
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git add data/sport_rerun/*.json
           git commit -m "Auto update Sport Rerun" || echo "No changes"
           git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
