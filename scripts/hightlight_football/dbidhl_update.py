@@ -17,7 +17,7 @@ else:  # Android (Termux)
     SAVE_DIR = "/storage/emulated/0/htdocs/PYTHON/HL UPDATE/Highlight Football"
 
 os.makedirs(SAVE_DIR, exist_ok=True)
-json_file = os.path.join(SAVE_DIR, "dbid.json")
+json_file = os.path.join(SAVE_DIR, "dbidhl.json")
 
 
 if os.path.exists(json_file):
