@@ -13,7 +13,7 @@ if SYSTEM == "Windows":
 elif SYSTEM == "Linux":
     SAVE_DIR = os.path.join(os.getcwd(), "data/sport_rerun")
 else:  # Android (Termux)
-    SAVE_DIR = "/storage/emulated/0/htdocs/PYTHON/HL UPDATE /Highlight Football"
+    SAVE_DIR = "/storage/emulated/0/htdocs/PYTHON/HL UPDATE/sport_rerun"
 
 os.makedirs(SAVE_DIR, exist_ok=True)
 json_file = os.path.join(SAVE_DIR, "dookeela_rerun.json")
