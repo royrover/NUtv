@@ -126,23 +126,12 @@ data["stations"] = new_stations + stations_list
 data["author"] = f"update {datetime.now().strftime('%d-%m-%Y %H:%M:%S')}"
 
 # ✅ เขียนไฟล์ JSON (.w3u)
-with open(output_file, 'w', encoding='utf-8') as file:
+with open(json_file, 'w', encoding='utf-8') as file:
     json.dump(data, file, ensure_ascii=False, indent=4)
 
 print(json.dumps(data, ensure_ascii=False, indent=4))
-print(f"✅ File {output_file} updated successfully.")
+print(f"✅ File {json_file} updated successfully.")
 
 data['author'] = f"update {datetime.now().strftime('%d-%m-%Y %H:%M:%S')}"
 
-# ✅ สร้างไฟล์ .m3u
-m3u_content = "#EXTM3U\n"
-ref = "|User-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8&Referer=https://dooball.id/"
 
-for station in data["stations"]:
-    m3u_content += f'#EXTINF:-1 tvg-logo="{station["image"]}" group-title="Sports Replays", {station["name"]}\n{station["url"]}{ref}\n'
-
-with open(m3u_file, "w", encoding="utf-8") as f:
-    print(m3u_content)
-    f.write(m3u_content)
-
-print("✅ บันทึกเรียบร้อย:", json_file, "และ", m3u_file)
