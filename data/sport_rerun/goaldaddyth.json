@@ -1,0 +1,92 @@
+{
+    "name": "Sports Replays",
+    "image": "https://www.goaldaddyth.com/logos/goaldaddy-logo.webp",
+    "url": "",
+    "author": "update 08-09-2025 09:38:40",
+    "stations": [
+        {
+            "name": "โคลัมเบีย - คาเตโกเรีย พรีเมร่า เอ - ฟอร์ตาเลซ่า เอฟซี vs ลา อีคูดัด",
+            "image": "https://media.gq.com/photos/59e76aaaf964810d9a9b8d2f/16:9/w_1600,c_limit/GQ_50Greatest_final_v2.jpg",
+            "url": "https://playback.gdd599.vip/live-DC7625D4AEF60CDAAE84EFF96D4D70FD-20250908094156.mp4",
+            "referer": "https://www.goaldaddyth.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        },
+        {
+            "name": "WNBA - ลาสเวกัสเอซ vs ชิคาโก สกาย",
+            "image": "https://media.gq.com/photos/59e76aaaf964810d9a9b8d2f/16:9/w_1600,c_limit/GQ_50Greatest_final_v2.jpg",
+            "url": "https://playback.gdd599.vip/live-637012E0F3A5E52B8343C360DD00519C-20250908090146.mp4",
+            "referer": "https://www.goaldaddyth.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        },
+        {
+            "name": "อเมริกา - เมเจอร์ลีกซอกเกอร์ - สปอร์ติง แคนซัส ซิตี้ vs สโมสรฟุตบอลออสติน",
+            "image": "https://media.gq.com/photos/59e76aaaf964810d9a9b8d2f/16:9/w_1600,c_limit/GQ_50Greatest_final_v2.jpg",
+            "url": "https://playback.gdd599.vip/live-E17A5F3259969340708E949ECEDBDD12-20250908070930.mp4",
+            "referer": "https://www.goaldaddyth.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        },
+        {
+            "name": "ฟุตบอลโลกโซนยุโรป - รอบคัดเลือก - โปแลนด์ vs ฟินแลนด์",
+            "image": "https://media.dotvth.com/livestream/manualthumbnails/69890.webp?nocache=1757268127822",
+            "url": "https://playback.gdd599.vip/live-B96F0220D772864FA5021EA2A3D0F9CE-20250908021148.mp4",
+            "referer": "https://www.goaldaddyth.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        },
+        {
+            "name": "ฟุตบอลโลกโซนยุโรป - รอบคัดเลือก - ลักเซมเบิร์ก vs สโลวาเกีย",
+            "image": "https://media.dotvth.com/livestream/manualthumbnails/69888.webp?nocache=1757269566526",
+            "url": "https://playback.gdd599.vip/live-005F20A156297FD21196DD712C36AC59-20250908022940.mp4",
+            "referer": "https://www.goaldaddyth.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        },
+        {
+            "name": "ฟุตบอลโลกโซนยุโรป - รอบคัดเลือก - ตุรกี vs สเปน",
+            "image": "https://media.dotvth.com/livestream/manualthumbnails/69889.webp?nocache=1757131342183",
+            "url": "https://playback.gdd599.vip/live-C21173915074ACDF1D344C6E001AF25B-20250908021241.mp4",
+            "referer": "https://www.goaldaddyth.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        },
+        {
+            "name": "ฟุตบอลโลกโซนยุโรป - รอบคัดเลือก - เบลเยียม vs คาซัคสถาน",
+            "image": "https://media.dotvth.com/livestream/manualthumbnails/69891.webp?nocache=1757248852898",
+            "url": "https://playback.gdd599.vip/live-98F859BC0AB22892DC20262A1D11CAF5-20250908021940.mp4",
+            "referer": "https://www.goaldaddyth.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        },
+        {
+            "name": "ฟุตบอลโลกโซนยุโรป - รอบคัดเลือก - เอฟวายอาร์ มาซิโดเนีย vs ลิกเตนสไตน์",
+            "image": "https://media.dotvth.com/livestream/manualthumbnails/69755.webp?nocache=1756871527542",
+            "url": "https://playback.gdd599.vip/live-9C597AEE8B861D159A5F2D9E571A5620-20250907231205.mp4",
+            "referer": "https://www.goaldaddyth.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        },
+        {
+            "name": "ฟุตบอลโลกโซนยุโรป - รอบคัดเลือก - ลิธัวเนีย vs เนเธอร์แลนด์",
+            "image": "https://media.dotvth.com/livestream/manualthumbnails/69748.webp?nocache=1757249187308",
+            "url": "https://playback.gdd599.vip/live-F176517177B030C563C2171444B52C3E-20250907232549.mp4",
+            "referer": "https://www.goaldaddyth.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        },
+        {
+            "name": "FIBA บาสเกตบอลยูโร - อิตาลี vs สโลวีเนีย",
+            "image": "https://media.gq.com/photos/59e76aaaf964810d9a9b8d2f/16:9/w_1600,c_limit/GQ_50Greatest_final_v2.jpg",
+            "url": "https://playback.gdd599.vip/live-5603978B4158BAE7E26B3D8B89369D8F-20250907233918.mp4",
+            "referer": "https://www.goaldaddyth.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        },
+        {
+            "name": "กระชับมิตร - ลีกนานาชาติ - กาตาร์ vs รัสเซีย",
+            "image": "https://media.gq.com/photos/59e76aaaf964810d9a9b8d2f/16:9/w_1600,c_limit/GQ_50Greatest_final_v2.jpg",
+            "url": "https://playback.gdd599.vip/live-B3A88ED1689D5747A1CF676B4BBDC968-20250908004403.mp4",
+            "referer": "https://www.goaldaddyth.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        },
+        {
+            "name": "คิงส์คัพ (ไทย) - ไทย vs อิรัก",
+            "image": "https://media.dotvth.com/livestream/manualthumbnails/70051.webp?nocache=1757240051349",
+            "url": "https://playback.gdd599.vip/live-3AB5B410AFE470A7A066575CFF23E171-20250907195317.mp4",
+            "referer": "https://www.goaldaddyth.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        }
+    ]
+}

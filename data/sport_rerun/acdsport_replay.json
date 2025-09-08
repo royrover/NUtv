@@ -1,0 +1,218 @@
+{
+    "name": "acdsport replay",
+    "image": "https://acdsport.com/acd/social.jpg",
+    "url": "https://dl.dropbox.com/scl/fi/2lk9rp530f3mh8sn095pu/acdsport_replay.json?rlkey=ikxvfvv3nljrwb9xervk3r9mp&st=6nqt04sc&dl=0",
+    "author": "update 08-09-2025 09:38:35",
+    "stations": [
+        {
+            "name": "Sep 07 - 18:45 World Cup - Qualification Europe Turkey vs Spain",
+            "image": "https://image.azencode.com/upload/Football/Turkey.png",
+            "url": "https://vod.starxcdn.xyz/vod/live05-1757270700-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Sep 07 - 18:45 World Cup - Qualification Europe Germany vs Northern Ireland",
+            "image": "https://image.azencode.com/teams/25.png",
+            "url": "https://vod.starxcdn.xyz/vod/us_fs1-1757270700-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Sep 06 - 16:00 World Cup - Qualification Europe Armenia vs Portugal",
+            "image": "https://image.azencode.com/upload/Football/Armenia.png",
+            "url": "https://vod.starxcdn.xyz/vod/us_foxsplus-1757174400-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Sep 06 - 16:00 World Cup - Qualification Europe England vs Andorra",
+            "image": "https://image.azencode.com/teams/10.png",
+            "url": "https://vod.starxcdn.xyz/vod/us_fs2-1757174400-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Sep 05 - 18:45 World Cup - Qualification Europe Ukraine vs France",
+            "image": "https://image.azencode.com/upload/Football/Ukraine.png",
+            "url": "https://vod.starxcdn.xyz/vod/us_fs2-1757097900-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Sep 05 - 18:45 World Cup - Qualification Europe Italy vs Estonia",
+            "image": "https://image.azencode.com/upload/Football/Italy.png",
+            "url": "https://vod.starxcdn.xyz/vod/live03-1757097900-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Sep 05 - 00:30 World Cup - Qualification South America Brazil vs Chile",
+            "image": "https://image.azencode.com/teams/6.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_premiersports2-1757032200-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Sep 04 - 23:30 World Cup - Qualification South America Argentina vs Venezuela",
+            "image": "https://image.azencode.com/teams/26.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_premiersports1-1757028600-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Sep 04 - 18:45 World Cup - Qualification Europe Bulgaria vs Spain",
+            "image": "https://image.azencode.com/upload/Football/Bulgaria.png",
+            "url": "https://vod.starxcdn.xyz/vod/us_fs2-1757011500-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Sep 04 - 18:45 World Cup - Qualification Europe Slovakia vs Germany",
+            "image": "https://image.azencode.com/upload/Football/Slovakia.png",
+            "url": "https://vod.starxcdn.xyz/vod/pt_sporttv3-1757011500-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Sep 04 - 14:00 World Cup - Qualification Europe Kazakhstan vs Wales",
+            "image": "https://image.azencode.com/teams/1095.png",
+            "url": "https://vod.starxcdn.xyz/vod/us_fs2-1756994400-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Aug 31 - 19:30 La Liga Rayo Vallecano vs Barcelona",
+            "image": "https://image.azencode.com/teams/728.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn6-1756668600-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Aug 31 - 18:45 Serie A Inter vs Udinese",
+            "image": "https://image.azencode.com/teams/505.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts1-1756665900-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Aug 31 - 18:45 Serie A Lazio vs Verona",
+            "image": "https://image.azencode.com/teams/487.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount3-1756665900-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Aug 31 - 18:45 Ligue 1 Lyon vs Marseille",
+            "image": "https://image.azencode.com/upload/Football/Lyon.png",
+            "url": "https://vod.starxcdn.xyz/vod/pt_sporttv4-1756665900-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Aug 31 - 18:00 Premier League Aston Villa vs Crystal Palace",
+            "image": "https://image.azencode.com/teams/66.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_ssepl-1756663200-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Aug 31 - 17:30 La Liga Espanyol vs Osasuna",
+            "image": "https://image.azencode.com/teams/540.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn5-1756661400-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Aug 31 - 17:30 Bundesliga FC Koln vs SC Freiburg",
+            "image": "https://image.azencode.com/teams/192.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn2-1756661400-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Aug 31 - 17:00 La Liga Real Betis vs Athletic Club",
+            "image": "https://image.azencode.com/teams/543.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn4-1756659600-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Aug 31 - 16:30 Serie A Torino vs Fiorentina",
+            "image": "https://image.azencode.com/teams/503.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount2-1756657800-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Aug 31 - 16:30 Serie A Genoa vs Juventus",
+            "image": "https://image.azencode.com/teams/495.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount1-1756657800-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Aug 31 - 15:30 Premier League Liverpool vs Arsenal",
+            "image": "https://image.azencode.com/teams/40.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_ssepl-1756654200-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Aug 31 - 15:30 Bundesliga Borussia Dortmund vs Union Berlin",
+            "image": "https://image.azencode.com/teams/165.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn1-1756654200-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Aug 31 - 15:15 Ligue 1 Monaco vs Strasbourg",
+            "image": "https://image.azencode.com/teams/91.png",
+            "url": "https://vod.starxcdn.xyz/vod/pt_sporttv3-1756653300-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Aug 31 - 15:00 La Liga Celta Vigo vs Villarreal",
+            "image": "https://image.azencode.com/teams/538.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn3-1756652400-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Aug 31 - 13:30 Bundesliga VfL Wolfsburg vs FSV Mainz 05",
+            "image": "https://image.azencode.com/teams/161.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn0-1756647000-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Aug 31 - 13:00 Ligue 1 Angers vs Rennes",
+            "image": "https://image.azencode.com/teams/77.png",
+            "url": "https://vod.starxcdn.xyz/vod/pt_sporttv1-1756645200-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Aug 31 - 13:00 Premier League Nottingham Forest vs West Ham",
+            "image": "https://image.azencode.com/teams/65.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_ssepl-1756645200-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Aug 31 - 13:00 Premier League Brighton vs Manchester City",
+            "image": "https://image.azencode.com/teams/51.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_ssmain-1756645200-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Aug 30 - 19:30 La Liga Real Madrid vs Mallorca",
+            "image": "https://image.azencode.com/teams/541.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn8-1756582200-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        }
+    ]
+}
