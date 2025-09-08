@@ -10,6 +10,8 @@ SYSTEM = platform.system()
 
 if SYSTEM == "Windows":
     SAVE_DIR = os.path.dirname(os.path.abspath(__file__))
+elif SYSTEM == "Linux":
+    SAVE_DIR = os.path.join(os.getcwd(), "data/sport_rerun")
 else:  # Android (Termux)
     SAVE_DIR = "/storage/emulated/0/htdocs/PYTHON/HL UPDATE /Highlight Football"
 
