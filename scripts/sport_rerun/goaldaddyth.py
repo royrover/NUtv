@@ -2,6 +2,20 @@ import requests
 import json
 from datetime import datetime
 import os
+import platform
+
+# === ตรวจสอบระบบปฏิบัติการ ===
+SYSTEM = platform.system()
+
+if SYSTEM == "Windows":
+    SAVE_DIR = os.path.dirname(os.path.abspath(__file__))
+elif SYSTEM == "Linux":
+    SAVE_DIR = os.path.join(os.getcwd(), "data/sport_rerun")
+else:  # Android (Termux)
+    SAVE_DIR = "/storage/emulated/0/htdocs/PYTHON/HL UPDATE /Highlight Football"
+
+os.makedirs(SAVE_DIR, exist_ok=True)
+json_file = os.path.join(SAVE_DIR, "goaldaddyth.json")
 
 def response_status_code(response):
     if response.status_code == 200:
@@ -40,13 +54,6 @@ token = json_data['data']['token']
 # Header สำหรับเข้าถึง API จริง
 headers_2 = headers_1.copy()
 headers_2["Authorization"] = f"Bearer {token}"
-
-# กำหนดชื่อไฟล์
-#json_file = r"G:\Dropbox\New Wiseplay\Highlight Football\Football-Rerun.m3u8"
-json_file = "Football-Rerun.m3u"
-#json_file = r"/storage/emulated/0/htdocs/PYTHON/HL UPDATE /Highlight Football/Football-Rerun.m3u8"
-m3u_file = r"gdaddy.m3u"
-output_file = json_file
 
 # โหลดไฟล์เดิมถ้ามี
 if os.path.exists(json_file):
@@ -126,15 +133,4 @@ print(f"✅ File {output_file} updated successfully.")
 
 data['author'] = f"update {datetime.now().strftime('%d-%m-%Y %H:%M:%S')}"
 
-# ✅ สร้างไฟล์ .m3u
-m3u_content = "#EXTM3U\n"
-ref = "|User-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8&Referer=https://dooball.id/"
-
-for station in data["stations"]:
-    m3u_content += f'#EXTINF:-1 tvg-logo="{station["image"]}" group-title="Sports Replays", {station["name"]}\n{station["url"]}{ref}\n'
-
-with open(m3u_file, "w", encoding="utf-8") as f:
-    print(m3u_content)
-    f.write(m3u_content)
-
-print("✅ บันทึกเรียบร้อย:", json_file, "และ", m3u_file)
+print("✅ บันทึกเรียบร้อย:", json_file)
