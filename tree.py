@@ -12,6 +12,6 @@ def print_tree(root_dir, prefix=''):
             print_tree(path, prefix + extension)
 
 if __name__ == '__main__':
-    folder_path = r'G:\Dropbox\xampp\htdocs\PYTHON\Serie-Movie\NUtv'  # เปลี่ยนเป็น path ที่ต้องการ
+    folder_path = 'https://github.com/royrover/NUtv'  # เปลี่ยนเป็น path ที่ต้องการ
     print(folder_path)
     print_tree(folder_path)
