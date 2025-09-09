@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
 concurrency:
   group: highlight-football-update-${{ github.event_name }}-${{ github.run_id }}
-  cancel-in-progress: true
+  cancel-in-progress: false
 jobs:
   update_highlight_football:
     runs-on: ubuntu-latest
@@ -19,6 +19,10 @@ jobs:
         timeout-minutes: 5
       - name: Check Workflow Lock
         run: |
+          if [ ! -d ".git" ]; then
+            echo "Error: Not a git repository"
+            exit 1
+          fi
           LOCK_FILE="workflow_lock.txt"
           if [ -f "$LOCK_FILE" ]; then
             echo "Another workflow is running, exiting"
@@ -35,6 +39,14 @@ jobs:
         with:
           fetch-depth: 0
         timeout-minutes: 10
+      - name: Verify Git Repository
+        run: |
+          if [ ! -d ".git" ]; then
+            echo "Error: Git repository not found after checkout"
+            exit 1
+          fi
+          echo "Git repository verified"
+        timeout-minutes: 5
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
@@ -63,6 +75,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          if [ ! -d ".git" ]; then
+            echo "Error: Not a git repository"
+            exit 1
+          fi
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git add data/highlight_football/*.json
@@ -71,6 +87,10 @@ jobs:
       - name: Check Telegram Lock
         if: env.WORKFLOW_LOCKED == 'true'
         run: |
+          if [ ! -d ".git" ]; then
+            echo "Error: Not a git repository"
+            exit 1
+          fi
           TELEGRAM_LOCK="telegram_lock.txt"
           if [ -f "$TELEGRAM_LOCK" ]; then
             echo "Telegram already sent, skipping"
@@ -111,7 +131,11 @@ jobs:
       - name: Clean Up Lock Files
         if: always()
         run: |
+          if [ ! -d ".git" ]; then
+            echo "Error: Not a git repository"
+            exit 0
+          fi
           git rm -f workflow_lock.txt telegram_lock.txt || echo "No lock files to remove"
           git commit -m "Remove lock files" || echo "No changes"
-          git push origin main
+          git push origin main || echo "Failed to push, no changes"
         timeout-minutes: 5
