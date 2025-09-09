@@ -2,7 +2,7 @@ name: Highlight Football Update
 
 on:
   schedule:
-    - cron: '15 0,12 * * *' # 07:15 และ 19:15 ไทย
+    - cron: '15 0,12 * * *'  # 07:15 และ 19:15 ไทย
   workflow_dispatch:
 
 jobs:
@@ -10,135 +10,59 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 1️⃣ Checkout repo
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v3
         with:
           fetch-depth: 0
-          token: ${{ secrets.GITHUB_TOKEN }}
 
-      # 2️⃣ Check for existing lock file
-      - name: Check for lock file
-        id: check-lock
-        run: |
-          if [ -f "highlight_football.lock" ]; then
-            echo "LOCK_EXISTS=true" >> $GITHUB_ENV
-            echo "⚠️  Lock file exists, skipping execution"
-            exit 0
-          else
-            echo "LOCK_EXISTS=false" >> $GITHUB_ENV
-            echo "🔓 No lock file, proceeding"
-          fi
-
-      # 3️⃣ Create lock file
-      - name: Create lock file
-        if: env.LOCK_EXISTS == 'false'
-        run: |
-          echo "Lock created at $(date)" > highlight_football.lock
-          echo "🔒 Lock file created"
-
-      # 4️⃣ Setup Python
       - name: Setup Python
-        if: env.LOCK_EXISTS == 'false'
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v4
         with:
-          python-version: '3.13'
+          python-version: 3.13
 
-      # 5️⃣ Install dependencies
       - name: Install dependencies
-        if: env.LOCK_EXISTS == 'false'
         run: |
           python -m pip install --upgrade pip
-          pip install --timeout=100 requests beautifulsoup4 lxml python-telegram-bot dropbox
-        env:
-          PIP_CACHE_DIR: ~/.cache/pip
+          pip install requests beautifulsoup4 lxml python-telegram-bot dropbox
 
-      # 6️⃣ Run Highlight Football Scripts
       - name: Run Highlight Football Scripts
-        if: env.LOCK_EXISTS == 'false'
         run: |
           python scripts/highlight_football/buaksib_update.py
           python scripts/highlight_football/dbidhl_update.py
           python scripts/highlight_football/dlshl_update.py
           python scripts/highlight_football/hugballhl_update.py
 
-      # 7️⃣ Check for changes
-      - name: Check for changes
-        if: env.LOCK_EXISTS == 'false'
-        id: check-changes
-        run: |
-          git add data/highlight_football/*.json
-          if git diff --staged --quiet; then
-            echo "HAS_CHANGES=false" >> $GITHUB_ENV
-            echo "No changes detected"
-          else
-            echo "HAS_CHANGES=true" >> $GITHUB_ENV
-            echo "Changes detected"
-          fi
-
-      # 8️⃣ Send Telegram Notification
-      - name: Send Telegram Notification
-        if: env.LOCK_EXISTS == 'false' && env.HAS_CHANGES == 'true'
-        env:
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        run: |
-          python - <<EOF
-          import os
-          import datetime
-          import requests
-
-          files = [
-              "buaksibhl.json",
-              "dbidhl.json", 
-              "dlshl.json",
-              "hugballhl.json"
-          ]
-
-          token = os.environ.get("TELEGRAM_BOT_TOKEN")
-          chat_id = os.environ.get("TELEGRAM_CHAT_ID")
-
-          if not token or not chat_id:
-              print("❌ Telegram token หรือ chat_id ไม่ถูกต้อง")
-              exit(1)
-
-          time_now = datetime.datetime.utcnow() + datetime.timedelta(hours=7)
-          time_str = time_now.strftime("%d-%m-%Y %H:%M:%S")
-
-          msg = "📁 อัปโหลดไฮไลท์ฟุตบอลสำเร็จ:\n\n"
-          for f in files:
-              msg += f"✅ /data/highlight_football/{f}\n"
-          msg += f"\n🎉 อัปโหลดทั้งหมดเสร็จสิ้นแล้ว {time_str}"
-
-          r = requests.post(
-              f"https://api.telegram.org/bot{token}/sendMessage",
-              data={"chat_id": chat_id, "text": msg}
-          )
-
-          print(f"Telegram response: {r.status_code} {r.text}")
-          if r.status_code != 200:
-              print("❌ ส่งข้อความ Telegram ไม่สำเร็จ")
-          else:
-              print("✅ ส่งข้อความ Telegram สำเร็จ")
-          EOF
-
-      # 9️⃣ Commit & Push JSON
       - name: Commit & Push JSON
-        if: env.LOCK_EXISTS == 'false' && env.HAS_CHANGES == 'true'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git add data/highlight_football/*.json
-          git commit -m "Auto update Highlight Football"
-          git push origin main
+          git commit -m "Auto update Highlight Football" || echo "No changes"
+          git push origin main --force
 
-      # 🔟 Clean up lock file
-      - name: Clean up lock file
-        if: always() && env.LOCK_EXISTS == 'false'
+      - name: Send Telegram Notification
+        if: github.event_name == 'push' && github.actor != 'github-actions[bot]'
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
-          if [ -f "highlight_football.lock" ]; then
-            rm highlight_football.lock
-            echo "🔓 Lock file removed"
-          fi
+          python - <<EOF
+          import os, datetime, requests
+
+          files = ["buaksibhl.json","dbidhl.json","dlshl.json","hugballhl.json"]
+          token = os.environ["TELEGRAM_BOT_TOKEN"]
+          chat_id = os.environ["TELEGRAM_CHAT_ID"]
+          time_now = datetime.datetime.utcnow() + datetime.timedelta(hours=7)
+          time_str = time_now.strftime("%d-%m-%Y %H:%M:%S")
+
+          msg = "📁 อัปโหลดไฮไลท์ฟุตบอลสำเร็จ:\n\n"
+          for f in files:
+              msg += f"✅ /data/Highlight Football/{f}\n"
+          msg += f"\n🎉 อัปโหลดทั้งหมดเสร็จสิ้นแล้ว {time_str}"
+
+          r = requests.post(f"https://api.telegram.org/bot{token}/sendMessage",
+                            data={"chat_id": chat_id, "text": msg})
+          print(r.status_code, r.text)
+          EOF
