@@ -184,7 +184,7 @@ else:
 
 data["author"] = f"update {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}"
 
-with open(output_file, 'w', encoding='utf-8') as f:
+with open(json_file, 'w', encoding='utf-8') as f:
     json.dump(data, f, ensure_ascii=False, indent=4)
 
 print(f"✅ บันทึกไฟล์ {json_file} เรียบร้อยแล้ว")
