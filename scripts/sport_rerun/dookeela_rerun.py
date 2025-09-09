@@ -119,8 +119,8 @@ print(f"✅ บันทึกเรียบร้อย: {json_file}")
 with open(m3u_file, "w", encoding="utf-8") as f:
     m3u_content = "#EXTM3U\n"
     for station in data["stations"]:
-        image = station.get("image", "")
         name = station.get("name", "No Title").replace(":", "")
+        image = station.get("image", "")
         url = station.get("url")
         m3u_content += f'#EXTINF:-1 tvg-logo="{image}", group-title="LIVE SPORT", {name}\n'
         m3u_content += f'{url}\n'
