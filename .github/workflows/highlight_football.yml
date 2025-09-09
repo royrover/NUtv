@@ -2,7 +2,7 @@ name: Highlight Football Update
 
 on:
   schedule:
-    - cron: '15 0,12 * * *'  # 07:15 และ 19:15 ไทย
+    - cron: '47 5 * * *'  # รันทุกวัน 12:46 ไทย
   workflow_dispatch:
 
 jobs:
@@ -32,7 +32,7 @@ jobs:
           python scripts/highlight_football/dlshl_update.py
           python scripts/highlight_football/hugballhl_update.py
 
-      - name: Commit & Push JSON to data-json branch
+      - name: Commit & Push JSON to separate branch
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
@@ -43,7 +43,7 @@ jobs:
           git commit -m "Auto update Highlight Football" || echo "No changes"
           git push origin data-json --force
 
-      - name: Send Telegram Notification (ครั้งเดียว)
+      - name: Send Telegram Notification (เฉพาะ schedule/manual)
         if: ${{ github.event_name == 'schedule' || github.event_name == 'workflow_dispatch' }}
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
