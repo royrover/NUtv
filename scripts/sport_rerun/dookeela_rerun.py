@@ -82,7 +82,7 @@ for page in range(1, 4):  # ✅ หน้า 1-3
 
         # ✅ title + วันที่
         if item.get("title"):
-            title = f"{item['title']} ({created_date})"
+            title = f"{item['title']} - {created_date}"
         else:
             fixture = item.get("fixture")
             if fixture:
@@ -92,7 +92,7 @@ for page in range(1, 4):  # ✅ หน้า 1-3
                 title = f"{home} vs {away} | {league} ({created_date})"
             else:
                 base_name = os.path.basename(final_url).replace(".mp4/playlist.m3u8", "")
-                title = f"{base_name.replace('%20', ' ')} ({created_date})"
+                title = f"{base_name.replace('%20', ' ')} - {created_date}"
 
         new_stations.append({
             "name": title,
