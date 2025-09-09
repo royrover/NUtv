@@ -22,7 +22,7 @@ headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/237.36.2.178 Safari/537.36",
 }
 
-# โหลดข้อมูลเก่า ถ้ามี
+# โหลดข้อมูลเก่า
 if os.path.exists(json_file):
     with open(json_file, "r", encoding="utf-8") as f:
         data = json.load(f)
@@ -35,69 +35,82 @@ else:
         "stations": [],
     }
 
-# เก็บ URL ที่มีอยู่แล้วกันซ้ำ
 existing_urls = set(item["url"] for item in data["stations"])
+old_first_url = data["stations"][0]["url"] if data["stations"] else None
 
 new_stations = []
-skip_count = 0
+stop_fetch = False
 
-for page in range(1, 4):  # ✅ ดึงหน้า 1-3
+for page in range(1, 4):  # ✅ หน้า 1-3
+    if stop_fetch:
+        break
     try:
         url = f"https://dookeela.live/api/reruns?page={page}"
         print(f"\n📌 ดึงข้อมูลหน้า {page}: {url}")
-
-        response = requests.get(url, headers=headers).json()
-        for item in response.get("data", []):
-            final_url = item.get("video_url")
-            if not final_url or final_url in existing_urls:
-                print("⏩ ข้าม (ลิงก์ซ้ำหรือว่าง)")
-                continue
-
-            # 🚫 ข้าม YouTube highlight
-            if "youtube.com" in final_url or "youtu.be" in final_url:
-                print("⏩ ข้าม (YouTube Highlight)")
-                continue
-
-            # ✅ ใช้ title ถ้ามีค่า
-            if item.get("title"):
-                title = item["title"]
-            else:
-                fixture = item.get("fixture")
-                if fixture:
-                    league = fixture.get("league", {}).get("name", "Unknown League")
-                    home = fixture.get("teamhome", {}).get("name", "Home")
-                    away = fixture.get("teamaway", {}).get("name", "Away")
-                    title = f"{home} vs {away} | {league}"
-                else:
-                    # fallback ถ้าไม่มี fixture + title เป็น null
-                    base_name = os.path.basename(final_url).replace(".mp4/playlist.m3u8", "")
-                    title = base_name.replace("%20", " ")
-
-            new_stations.append({
-                "name": title,
-                "image": item.get("thumbnail_path"),
-                "url": final_url
-            })
-            existing_urls.add(final_url)
-            print(f"✅ เพิ่ม: {title}")
-
-
-
-        if not response.get("data"):
-            print("❌ ไม่พบข้อมูลในหน้านี้")
+        resp = requests.get(url, headers=headers, timeout=10)
+        resp.raise_for_status()
+        response = resp.json()
     except Exception as e:
         print(f"⚠️ Error: {e}")
         continue
 
-# เพิ่มรายการใหม่ไว้ด้านบน
+    for item in response.get("data", []):
+        final_url = item.get("video_url")
+        if not final_url:
+            print("⏩ ข้าม (URL ว่าง)")
+            continue
+
+        created_date = None
+        try:
+            dt = datetime.strptime(item["created_at"], "%Y-%m-%dT%H:%M:%S.%fZ")
+            created_date = dt.strftime("%d-%m-%Y")
+        except:
+            created_date = "Unknown"
+
+        if old_first_url and final_url == old_first_url:
+            print("⏹️ เจอลิงก์ซ้ำกับรอบที่แล้ว หยุดดึงข้อมูล")
+            stop_fetch = True
+            break
+
+        if final_url in existing_urls:
+            print("⏩ ข้าม (ลิงก์ซ้ำในไฟล์ปัจจุบัน)")
+            continue
+
+        if "youtube.com" in final_url or "youtu.be" in final_url:
+            print("⏩ ข้าม (YouTube Highlight)")
+            continue
+
+        # ✅ title + วันที่
+        if item.get("title"):
+            title = f"{item['title']} ({created_date})"
+        else:
+            fixture = item.get("fixture")
+            if fixture:
+                league = fixture.get("league", {}).get("name", "Unknown League")
+                home = fixture.get("teamhome", {}).get("name", "Home")
+                away = fixture.get("teamaway", {}).get("name", "Away")
+                title = f"{home} vs {away} | {league} ({created_date})"
+            else:
+                base_name = os.path.basename(final_url).replace(".mp4/playlist.m3u8", "")
+                title = f"{base_name.replace('%20', ' ')} ({created_date})"
+
+        new_stations.append({
+            "name": title,
+            "image": item.get("thumbnail_path"),
+            "url": final_url
+        })
+        existing_urls.add(final_url)
+        print(f"✅ เพิ่ม: {title}")
+
+    if not response.get("data"):
+        print("❌ ไม่พบข้อมูลในหน้านี้")
+
 data["stations"] = new_stations + data["stations"]
-
-# อัปเดตวันที่ล่าสุด
 data["author"] = f"update {datetime.now().strftime('%d-%m-%Y %H:%M:%S')}"
+data["url"] = ""
 
-# บันทึก JSON
 with open(json_file, "w", encoding="utf-8") as f:
     json.dump(data, f, indent=4, ensure_ascii=False)
-print(json.dumps(data, ensure_ascii=False, indent=4))
 
+print(json.dumps(data, ensure_ascii=False, indent=4))
 print(f"✅ บันทึกเรียบร้อย: {json_file}")
