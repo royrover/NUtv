@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 1️⃣ Checkout repo (fetch all commits)
+      # 1️⃣ Checkout repo (fetch-depth 0 เพื่อ pull/rebase ได้)
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
@@ -35,38 +35,62 @@ jobs:
           python scripts/highlight_football/dbidhl_update.py
           python scripts/highlight_football/dlshl_update.py
           python scripts/highlight_football/hugballhl_update.py
-      
-      # 5️⃣ Commit & Push JSON
+
+      # 5️⃣ Commit & Force Push JSON ไป branch แยก data-json
       - name: Commit & Push JSON
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
+
+          git checkout -B data-json
           git add data/highlight_football/*.json
           git commit -m "Auto update Highlight Football" || echo "No changes"
-          git push origin data-json --force
-      
-      # 6️⃣ Send Telegram Notification
+          git push -u origin data-json --force
+
+      # 6️⃣ Send Telegram Notification หลัง push เสร็จ
       - name: Send Telegram Notification
+        if: ${{ github.event_name == 'schedule' || github.event_name == 'workflow_dispatch' }}
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
           python - <<EOF
-          import os, datetime, requests
-      
-          files = ["buaksibhl.json", "dbidhl.json", "dlshl.json", "hugballhl.json"]
-          token = os.environ["TELEGRAM_BOT_TOKEN"]
-          chat_id = os.environ["TELEGRAM_CHAT_ID"]
-      
+          import os
+          import datetime
+          import requests
+
+          files = [
+              "buaksibhl.json",
+              "dbidhl.json",
+              "dlshl.json",
+              "hugballhl.json",
+          ]
+
+          token = os.environ.get("TELEGRAM_BOT_TOKEN")
+          chat_id = os.environ.get("TELEGRAM_CHAT_ID")
+
+          if not token or not chat_id:
+              print("❌ Telegram token หรือ chat_id ไม่ถูกต้อง")
+              exit(1)
+
           time_now = datetime.datetime.utcnow() + datetime.timedelta(hours=7)
           time_str = time_now.strftime("%d-%m-%Y %H:%M:%S")
-      
+
           msg = "📁 อัปโหลดไฮไลท์ฟุตบอลสำเร็จ:\n\n"
           for f in files:
               msg += f"✅ /data/Highlight Football/{f}\n"
           msg += f"\n🎉 อัปโหลดทั้งหมดเสร็จสิ้นแล้ว {time_str}"
-      
-          r = requests.post(f"https://api.telegram.org/bot{token}/sendMessage",
-                            data={"chat_id": chat_id, "text": msg})
-          print(r.status_code, r.text)
+
+          r = requests.post(
+              f"https://api.telegram.org/bot{token}/sendMessage",
+              data={"chat_id": chat_id, "text": msg}
+          )
+
+          print(f"Telegram response: {r.status_code} {r.text}")
+          if r.status_code != 200:
+              print("❌ ส่งข้อความ Telegram ไม่สำเร็จ")
+          else:
+              print("✅ ส่งข้อความ Telegram สำเร็จ")
           EOF
