@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
 concurrency:
   group: highlight-football-update-${{ github.event_name }}-${{ github.run_id }}
-  cancel-in-progress: false
+  cancel-in-progress: false # ปิดชั่วคราวเพื่อ debug
 jobs:
   update_highlight_football:
     runs-on: ubuntu-latest
@@ -17,27 +17,11 @@ jobs:
           echo "Ref: ${{ github.ref }}"
           echo "Run ID: ${{ github.run_id }}"
         timeout-minutes: 5
-      - name: Check Workflow Lock
-        run: |
-          if [ ! -d ".git" ]; then
-            echo "Error: Not a git repository"
-            exit 1
-          fi
-          LOCK_FILE="workflow_lock.txt"
-          if [ -f "$LOCK_FILE" ]; then
-            echo "Another workflow is running, exiting"
-            exit 1
-          fi
-          echo "Workflow running at $(date -u)" > $LOCK_FILE
-          git add $LOCK_FILE
-          git commit -m "Add workflow lock" || echo "No changes"
-          git push origin main
-          echo "WORKFLOW_LOCKED=true" >> $GITHUB_ENV
-        timeout-minutes: 5
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
         timeout-minutes: 10
       - name: Verify Git Repository
         run: |
@@ -46,6 +30,17 @@ jobs:
             exit 1
           fi
           echo "Git repository verified"
+          git status
+        timeout-minutes: 5
+      - name: Check Workflow Lock
+        run: |
+          LOCK_FILE="workflow_lock.txt"
+          if [ -f "$LOCK_FILE" ]; then
+            echo "Another workflow is running, exiting"
+            exit 1
+          fi
+          echo "Workflow running at $(date -u)" > $LOCK_FILE
+          echo "WORKFLOW_LOCKED=true" >> $GITHUB_ENV
         timeout-minutes: 5
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -71,35 +66,15 @@ jobs:
           python scripts/highlight_football/hugballhl_update.py || echo "Error in hugballhl_update.py"
         timeout-minutes: 20
         continue-on-error: true
-      - name: Commit & Push JSON
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          if [ ! -d ".git" ]; then
-            echo "Error: Not a git repository"
-            exit 1
-          fi
-          git config --local user.name "github-actions[bot]"
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/highlight_football/*.json
-          git diff --staged --quiet || (git commit -m "Auto update Highlight Football" && git push origin main && echo "CHANGES_COMMITTED=true" >> $GITHUB_ENV)
-        timeout-minutes: 10
       - name: Check Telegram Lock
         if: env.WORKFLOW_LOCKED == 'true'
         run: |
-          if [ ! -d ".git" ]; then
-            echo "Error: Not a git repository"
-            exit 1
-          fi
           TELEGRAM_LOCK="telegram_lock.txt"
           if [ -f "$TELEGRAM_LOCK" ]; then
             echo "Telegram already sent, skipping"
             exit 0
           fi
           echo "Sending Telegram notification at $(date -u)" > $TELEGRAM_LOCK
-          git add $TELEGRAM_LOCK
-          git commit -m "Add Telegram lock" || echo "No changes"
-          git push origin main
           echo "SEND_TELEGRAM=true" >> $GITHUB_ENV
         timeout-minutes: 5
       - name: Send Telegram Notification
@@ -128,14 +103,31 @@ jobs:
           os.environ["TELEGRAM_SENT"] = "true"
           EOF
         timeout-minutes: 5
-      - name: Clean Up Lock Files
-        if: always()
+      - name: Commit & Push Changes
+        if: env.WORKFLOW_LOCKED == 'true'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           if [ ! -d ".git" ]; then
             echo "Error: Not a git repository"
+            exit 1
+          fi
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/highlight_football/*.json workflow_lock.txt telegram_lock.txt
+          git diff --staged --quiet || (git commit -m "Auto update Highlight Football and lock files" && git push origin main && echo "CHANGES_COMMITTED=true" >> $GITHUB_ENV)
+        timeout-minutes: 10
+      - name: Clean Up Lock Files
+        if: always()
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if [ ! -d ".git" ]; then
+            echo "Error: Not a git repository, skipping cleanup"
             exit 0
           fi
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git rm -f workflow_lock.txt telegram_lock.txt || echo "No lock files to remove"
-          git commit -m "Remove lock files" || echo "No changes"
-          git push origin main || echo "Failed to push, no changes"
+          git diff --staged --quiet || (git commit -m "Remove lock files" && git push origin main)
         timeout-minutes: 5
