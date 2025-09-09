@@ -52,6 +52,7 @@ jobs:
           files = [
               "acdsport_replay.json",
               "dookeela_rerun.json",
+              "dookeela_rerun.m3u",
               "goaldaddyth.json",
           ]
 
