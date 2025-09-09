@@ -5,6 +5,10 @@ on:
     - cron: '15 0,12 * * *' # 07:15 และ 19:15 ไทย
   workflow_dispatch:
 
+concurrency:
+  group: highlight-football-update-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   update_highlight_football:
     runs-on: ubuntu-latest
@@ -46,15 +50,17 @@ jobs:
           git add data/highlight_football/*.json
           if git diff --staged --quiet; then
             echo "HAS_CHANGES=false" >> $GITHUB_ENV
+            echo "NO_CHANGES=true" >> $GITHUB_ENV
             echo "No changes detected"
           else
             echo "HAS_CHANGES=true" >> $GITHUB_ENV
+            echo "NO_CHANGES=false" >> $GITHUB_ENV
             echo "Changes detected"
           fi
 
-      # 6️⃣ Send Telegram Notification
+      # 6️⃣ Send Telegram Notification (Only for manual trigger or schedule)
       - name: Send Telegram Notification
-        if: env.HAS_CHANGES == 'true'
+        if: ${{ (github.event_name == 'schedule' || github.event_name == 'workflow_dispatch') && env.HAS_CHANGES == 'true' }}
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
@@ -98,7 +104,7 @@ jobs:
               print("✅ ส่งข้อความ Telegram สำเร็จ")
           EOF
 
-      # 7️⃣ Commit & Push JSON
+      # 7️⃣ Commit & Push JSON (Only if changes detected)
       - name: Commit & Push JSON
         if: env.HAS_CHANGES == 'true'
         env:
@@ -109,3 +115,9 @@ jobs:
           git add data/highlight_football/*.json
           git commit -m "Auto update Highlight Football"
           git push origin main
+
+      # 8️⃣ Skip notification message
+      - name: Skip notification
+        if: env.NO_CHANGES == 'true'
+        run: |
+          echo "No changes detected, skipping Telegram notification and commit"
