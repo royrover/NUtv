@@ -31,7 +31,7 @@ jobs:
           python scripts/highlight_football/dbidhl_update.py
           python scripts/highlight_football/dlshl_update.py
           python scripts/highlight_football/hugballhl_update.py
-
+      
       - name: Commit & Push JSON
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -61,8 +61,6 @@ jobs:
               msg += f"✅ /data/Highlight Football/{f}\n"
           msg += f"\n🎉 อัปโหลดทั้งหมดเสร็จสิ้นแล้ว {time_str}"
       
-          r = requests.post(f"https://api.telegram.org/bot{token}/sendMessage",
-                            data={"chat_id": chat_id, "text": msg})
-          print(r.status_code, r.text)
+          requests.post(f"https://api.telegram.org/bot{token}/sendMessage",
+                        data={"chat_id": chat_id, "text": msg})
           EOF
-
