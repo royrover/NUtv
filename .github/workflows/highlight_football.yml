@@ -10,25 +10,21 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 1️⃣ Checkout repository
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
 
-      # 2️⃣ Setup Python
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
           python-version: 3.13
 
-      # 3️⃣ Install dependencies
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4 lxml python-telegram-bot dropbox
 
-      # 4️⃣ Run Highlight Football Scripts
       - name: Run Highlight Football Scripts
         run: |
           python scripts/highlight_football/buaksib_update.py
@@ -36,8 +32,7 @@ jobs:
           python scripts/highlight_football/dlshl_update.py
           python scripts/highlight_football/hugballhl_update.py
 
-      # 5️⃣ Commit & Push JSON to a separate branch
-      - name: Commit & Push JSON
+      - name: Commit & Push JSON to data-json branch
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
@@ -48,8 +43,7 @@ jobs:
           git commit -m "Auto update Highlight Football" || echo "No changes"
           git push origin data-json --force
 
-      # 6️⃣ Send Telegram Notification (เฉพาะ schedule/manual)
-      - name: Send Telegram Notification
+      - name: Send Telegram Notification (ครั้งเดียว)
         if: ${{ github.event_name == 'schedule' || github.event_name == 'workflow_dispatch' }}
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
@@ -70,10 +64,6 @@ jobs:
           token = os.environ.get("TELEGRAM_BOT_TOKEN")
           chat_id = os.environ.get("TELEGRAM_CHAT_ID")
 
-          if not token or not chat_id:
-              print("❌ Telegram token หรือ chat_id ไม่ถูกต้อง")
-              exit(1)
-
           time_now = datetime.datetime.utcnow() + datetime.timedelta(hours=7)
           time_str = time_now.strftime("%d-%m-%Y %H:%M:%S")
 
@@ -86,10 +76,5 @@ jobs:
               f"https://api.telegram.org/bot{token}/sendMessage",
               data={"chat_id": chat_id, "text": msg}
           )
-
           print(f"Telegram response: {r.status_code} {r.text}")
-          if r.status_code == 200:
-              print("✅ ส่งข้อความ Telegram สำเร็จ")
-          else:
-              print("❌ ส่งข้อความ Telegram ไม่สำเร็จ")
           EOF
