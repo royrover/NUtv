@@ -2,8 +2,15 @@
     "name": "Sports Replays",
     "image": "https://www.goaldaddyth.com/logos/goaldaddy-logo.webp",
     "url": "",
-    "author": "update 09-09-2025 03:19:50",
+    "author": "update 09-09-2025 03:51:19",
     "stations": [
+        {
+            "name": "ฟุตบอลโลก - CONCACAF (รอบคัดเลือก) - ปานามา vs กัวเตมาลา",
+            "image": "https://media.gq.com/photos/59e76aaaf964810d9a9b8d2f/16:9/w_1600,c_limit/GQ_50Greatest_final_v2.jpg",
+            "url": "https://playback.gdd599.vip/live-A6F5AC81278BEE36BE63B40CB96105C6-20250909092536.mp4",
+            "referer": "https://www.goaldaddyth.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        },
         {
             "name": "ฟุตบอลโลก - CONCACAF (รอบคัดเลือก) - เอลซัลวาดอร์ vs ซูรินาเม",
             "image": "https://media.gq.com/photos/59e76aaaf964810d9a9b8d2f/16:9/w_1600,c_limit/GQ_50Greatest_final_v2.jpg",
