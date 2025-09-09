@@ -16,6 +16,7 @@ else:  # Android (Termux)
 
 os.makedirs(SAVE_DIR, exist_ok=True)
 json_file = os.path.join(SAVE_DIR, "goaldaddyth.json")
+m3u_file = os.path.join(SAVE_DIR, "goaldaddyth.m3u")
 
 def response_status_code(response):
     if response.status_code == 200:
@@ -141,6 +142,14 @@ with open(json_file, 'w', encoding='utf-8') as file:
 print(json.dumps(data, ensure_ascii=False, indent=4))
 print(f"✅ File {json_file} updated successfully.")
 
-data['author'] = f"update {datetime.now().strftime('%d-%m-%Y %H:%M:%S')}"
+with open(m3u_file, 'w', encoding='utf-8') as file:
+    m3u_content = '#EXTM3U\n'
+    for station in data['stations']:
+        m3u_content += f'#EXTINF:-1 tvg-logo="{station["image"]}",{station["name"]}\n{station["url"]}\n'
+    file.write(m3u_content)
+
+print(m3u_content)
+print(f"✅ File {m3u_file} updated successfully.")
+
 
 
