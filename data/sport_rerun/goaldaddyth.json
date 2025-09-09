@@ -2,8 +2,85 @@
     "name": "Sports Replays",
     "image": "https://www.goaldaddyth.com/logos/goaldaddy-logo.webp",
     "url": "",
-    "author": "update 08-09-2025 12:20:41",
+    "author": "update 09-09-2025 00:21:05",
     "stations": [
+        {
+            "name": "ฟุตบอลโลกโซนยุโรป - รอบคัดเลือก - โคโซโว vs สวีเดน",
+            "image": "https://media.dotvth.com/livestream/manualthumbnails/69860.webp?nocache=1757355851334",
+            "url": "https://playback.gdd599.vip/live-0797CF6ACA8825484F25F574F21E800C-20250909022439.mp4",
+            "referer": "https://www.goaldaddyth.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        },
+        {
+            "name": "ฟุตบอลโลกโซนยุโรป - รอบคัดเลือก - อิสราเอล vs อิตาลี",
+            "image": "https://media.dotvth.com/livestream/manualthumbnails/69863.webp?nocache=1757338172228",
+            "url": "https://playback.gdd599.vip/live-F9C9192B0CD90E599F74531E0CFF9CEF-20250909022656.mp4",
+            "referer": "https://www.goaldaddyth.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        },
+        {
+            "name": "ฟุตบอลโลกโซนยุโรป - รอบคัดเลือก - โครเอเชีย vs มอนเตเนโกร",
+            "image": "https://media.dotvth.com/livestream/manualthumbnails/69864.webp?nocache=1757355157949",
+            "url": "https://playback.gdd599.vip/live-0EAC0368A30B64055A6938C7B85CB7BC-20250909021326.mp4",
+            "referer": "https://www.goaldaddyth.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        },
+        {
+            "name": "ฟุตบอลโลกโซนยุโรป - รอบคัดเลือก - กรีซ vs เดนมาร์ก",
+            "image": "https://media.dotvth.com/livestream/manualthumbnails/69862.webp?nocache=1757345757765",
+            "url": "https://playback.gdd599.vip/live-9148A032473BF9F211A0FEAA95969CD1-20250909013131.mp4",
+            "referer": "https://www.goaldaddyth.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        },
+        {
+            "name": "ฟุตบอลโลกโซนยุโรป - รอบคัดเลือก - ยิบรอลตาร์ vs หมู่เกาะแฟโร",
+            "image": "https://media.dotvth.com/livestream/manualthumbnails/69866.webp?nocache=1757355487334",
+            "url": "https://playback.gdd599.vip/live-A6A65EB0F610F3DE80E33A96CAC53B6B-20250909021630.mp4",
+            "referer": "https://www.goaldaddyth.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        },
+        {
+            "name": "ฟุตบอลโลกโซนยุโรป - รอบคัดเลือก - สวิตเซอร์แลนด์ vs สโลวีเนีย",
+            "image": "https://media.dotvth.com/livestream/manualthumbnails/69859.webp?nocache=1757356132061",
+            "url": "https://playback.gdd599.vip/live-E7131C5FBEF81FDCCD358DC89522B595-20250909023047.mp4",
+            "referer": "https://www.goaldaddyth.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        },
+        {
+            "name": "CAFA Nations Cup (In Tajikistan and Uzbekistan) - อุซเบกิสถาน vs อิหร่าน",
+            "image": "https://media.gq.com/photos/59e76aaaf964810d9a9b8d2f/16:9/w_1600,c_limit/GQ_50Greatest_final_v2.jpg",
+            "url": "https://playback.gdd599.vip/live-169CBEE754A9E5A7F9323F043C6891DC-20250908224301.mp4",
+            "referer": "https://www.goaldaddyth.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        },
+        {
+            "name": "CAFA Nations Cup (In Tajikistan and Uzbekistan) - โอมาน vs อินเดีย",
+            "image": "https://media.gq.com/photos/59e76aaaf964810d9a9b8d2f/16:9/w_1600,c_limit/GQ_50Greatest_final_v2.jpg",
+            "url": "https://playback.gdd599.vip/live-AFACFA3EED16CE86103BA3F287FB468D-20250908200755.mp4",
+            "referer": "https://www.goaldaddyth.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        },
+        {
+            "name": "ฟุตบอลโลก - แอฟริกา (รอบคัดเลือก) - โมซัมบิก vs บอตสวานา",
+            "image": "https://media.gq.com/photos/59e76aaaf964810d9a9b8d2f/16:9/w_1600,c_limit/GQ_50Greatest_final_v2.jpg",
+            "url": "https://playback.gdd599.vip/live-9DC384BFC7E7E782AB7603AEAE0C38BC-20250908205509.mp4",
+            "referer": "https://www.goaldaddyth.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        },
+        {
+            "name": "ฟุตบอลโลก - แอฟริกา (รอบคัดเลือก) - แซมเบีย vs โมร็อกโก",
+            "image": "https://media.gq.com/photos/59e76aaaf964810d9a9b8d2f/16:9/w_1600,c_limit/GQ_50Greatest_final_v2.jpg",
+            "url": "https://playback.gdd599.vip/live-919537EAD2842BC153E23BC0B45417B0-20250908210305.mp4",
+            "referer": "https://www.goaldaddyth.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        },
+        {
+            "name": "ฟุตบอลโลก - แอฟริกา (รอบคัดเลือก) - อิเควทอเรียลกินี vs ตูนิเซีย",
+            "image": "https://media.gq.com/photos/59e76aaaf964810d9a9b8d2f/16:9/w_1600,c_limit/GQ_50Greatest_final_v2.jpg",
+            "url": "https://playback.gdd599.vip/live-65CDD59A83D139B27C575BCC3112A64C-20250908205957.mp4",
+            "referer": "https://www.goaldaddyth.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        },
         {
             "name": "โคลัมเบีย - คาเตโกเรีย พรีเมร่า เอ - ฟอร์ตาเลซ่า เอฟซี vs ลา อีคูดัด",
             "image": "https://media.gq.com/photos/59e76aaaf964810d9a9b8d2f/16:9/w_1600,c_limit/GQ_50Greatest_final_v2.jpg",
