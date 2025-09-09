@@ -77,7 +77,12 @@ new_stations = []
 start_page = 1
 end_page = 1
 
+stop_flag = False  # ตัวแปรไว้เช็คว่าต้องหยุดหรือไม่
+
 for page in range(start_page, end_page + 1):
+    if stop_flag:
+        break
+
     api_url = f"https://api.gdaddy.tv/v1/liveStream/playback?languageId=3&pageNumber={page}&rowCount=12&sportIds=0&sportIds=1"
     print(f"📦 ดึงข้อมูลจากหน้า {page}: {api_url}")
     
@@ -95,12 +100,15 @@ for page in range(start_page, end_page + 1):
             image = item.get('streamThumbnailUrl')
             if 'vodthumbnails' in image:
                 image = "https://media.gq.com/photos/59e76aaaf964810d9a9b8d2f/16:9/w_1600,c_limit/GQ_50Greatest_final_v2.jpg"
-            else:
-                image = image
 
-            if not final_url or final_url in existing_urls:
-                print("⏩ ข้าม (ลิงก์ซ้ำหรือว่าง)")
+            if not final_url:
+                print("⏩ ข้าม (ลิงก์ว่าง)")
                 continue
+
+            if final_url in existing_urls:
+                print(f"🛑 เจอลิงก์ซ้ำ: {final_url} → หยุดดึงข้อมูลแล้ว")
+                stop_flag = True
+                break  # ออกจาก loop ของ all_data
 
             station_data = {
                 "name": title,
@@ -120,6 +128,7 @@ for page in range(start_page, end_page + 1):
     except json.JSONDecodeError as e:
         print(f"❌ JSON Decode Error on page {page}: {e}")
         continue
+
 
 # ✅ อัปเดตข้อมูล
 data["stations"] = new_stations + stations_list
