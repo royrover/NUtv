@@ -4,7 +4,7 @@ on:
     - cron: '15 0,12 * * *' # 07:15 และ 19:15 ไทย
   workflow_dispatch:
 concurrency:
-  group: ${{ github.workflow }}-${{ github.event_name }}
+  group: highlight-football-update-${{ github.event_name }}-${{ github.run_id }}
   cancel-in-progress: true
 jobs:
   update_highlight_football:
@@ -16,6 +16,19 @@ jobs:
           echo "Actor: ${{ github.actor }}"
           echo "Ref: ${{ github.ref }}"
           echo "Run ID: ${{ github.run_id }}"
+        timeout-minutes: 5
+      - name: Check Workflow Lock
+        run: |
+          LOCK_FILE="workflow_lock.txt"
+          if [ -f "$LOCK_FILE" ]; then
+            echo "Another workflow is running, exiting"
+            exit 1
+          fi
+          echo "Workflow running at $(date -u)" > $LOCK_FILE
+          git add $LOCK_FILE
+          git commit -m "Add workflow lock" || echo "No changes"
+          git push origin main
+          echo "WORKFLOW_LOCKED=true" >> $GITHUB_ENV
         timeout-minutes: 5
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -37,14 +50,15 @@ jobs:
       - name: Run Highlight Football Scripts
         run: |
           echo "Running buaksib_update.py"
-          python scripts/highlight_football/buaksib_update.py
+          python scripts/highlight_football/buaksib_update.py || echo "Error in buaksib_update.py"
           echo "Running dbidhl_update.py"
-          python scripts/highlight_football/dbidhl_update.py
+          python scripts/highlight_football/dbidhl_update.py || echo "Error in dbidhl_update.py"
           echo "Running dlshl_update.py"
-          python scripts/highlight_football/dlshl_update.py
+          python scripts/highlight_football/dlshl_update.py || echo "Error in dlshl_update.py"
           echo "Running hugballhl_update.py"
-          python scripts/highlight_football/hugballhl_update.py
+          python scripts/highlight_football/hugballhl_update.py || echo "Error in hugballhl_update.py"
         timeout-minutes: 20
+        continue-on-error: true
       - name: Commit & Push JSON
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -54,21 +68,22 @@ jobs:
           git add data/highlight_football/*.json
           git diff --staged --quiet || (git commit -m "Auto update Highlight Football" && git push origin main && echo "CHANGES_COMMITTED=true" >> $GITHUB_ENV)
         timeout-minutes: 10
-      - name: Check Lock File
+      - name: Check Telegram Lock
+        if: env.WORKFLOW_LOCKED == 'true'
         run: |
-          LOCK_FILE="telegram_lock.txt"
-          if [ -f "$LOCK_FILE" ]; then
+          TELEGRAM_LOCK="telegram_lock.txt"
+          if [ -f "$TELEGRAM_LOCK" ]; then
             echo "Telegram already sent, skipping"
             exit 0
           fi
-          echo "Sending Telegram notification" > $LOCK_FILE
-          git add $LOCK_FILE
-          git commit -m "Add Telegram lock file" || echo "No changes"
+          echo "Sending Telegram notification at $(date -u)" > $TELEGRAM_LOCK
+          git add $TELEGRAM_LOCK
+          git commit -m "Add Telegram lock" || echo "No changes"
           git push origin main
           echo "SEND_TELEGRAM=true" >> $GITHUB_ENV
         timeout-minutes: 5
       - name: Send Telegram Notification
-        if: env.SEND_TELEGRAM == 'true'
+        if: env.WORKFLOW_LOCKED == 'true' && env.SEND_TELEGRAM == 'true'
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
@@ -92,4 +107,11 @@ jobs:
           print(r.status_code, r.text)
           os.environ["TELEGRAM_SENT"] = "true"
           EOF
+        timeout-minutes: 5
+      - name: Clean Up Lock Files
+        if: always()
+        run: |
+          git rm -f workflow_lock.txt telegram_lock.txt || echo "No lock files to remove"
+          git commit -m "Remove lock files" || echo "No changes"
+          git push origin main
         timeout-minutes: 5
