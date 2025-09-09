@@ -2,8 +2,15 @@
     "name": "Sports Replays",
     "image": "https://www.goaldaddyth.com/logos/goaldaddy-logo.webp",
     "url": "",
-    "author": "update 09-09-2025 09:56:05",
+    "author": "update 09-09-2025 12:19:49",
     "stations": [
+        {
+            "name": "เอเอฟซี เอเชียคัพ U23 (รอบคัดเลือก) - สิงคโปร์ U23 vs บังกลาเทศ U23",
+            "image": "https://media.gq.com/photos/59e76aaaf964810d9a9b8d2f/16:9/w_1600,c_limit/GQ_50Greatest_final_v2.jpg",
+            "url": "https://playback.gdd599.vip/live-C12CD1074924FA3B0A920737B225A07E-20250909165656.mp4",
+            "referer": "https://www.goaldaddyth.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        },
         {
             "name": "ฟุตบอลโลก - CONCACAF (รอบคัดเลือก) - ปานามา vs กัวเตมาลา",
             "image": "https://media.gq.com/photos/59e76aaaf964810d9a9b8d2f/16:9/w_1600,c_limit/GQ_50Greatest_final_v2.jpg",
