@@ -1,51 +1,46 @@
 name: Highlight Football Update
 
 on:
-  workflow_dispatch:       # รันด้วยมือ
   schedule:
-    - cron: '15 0,12 * * *'  # 07:15 และ 19:15 ไทย
+    - cron: '15 0,12 * * *'
+  workflow_dispatch:
 
 jobs:
   update_highlight_football:
     runs-on: ubuntu-latest
-
     steps:
-      # 1️⃣ Checkout repo
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
         with:
           fetch-depth: 0
 
-      # 2️⃣ Setup Python
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
           python-version: 3.13
 
-      # 3️⃣ Install dependencies
       - name: Install dependencies
         run: |
-          python -m pip install --upgrade pip
-          pip install requests beautifulsoup4 lxml dropbox
+          pip install --upgrade pip
+          pip install requests beautifulsoup4 lxml python-telegram-bot dropbox
 
-      # 4️⃣ Run Highlight Football Scripts
-      - name: Run Highlight Football Scripts
+      - name: Run Highlight Scripts
         run: |
           python scripts/highlight_football/buaksib_update.py
           python scripts/highlight_football/dbidhl_update.py
           python scripts/highlight_football/dlshl_update.py
           python scripts/highlight_football/hugballhl_update.py
 
-      - name: Commit & Push JSON
+      - name: Commit & Push to data-json branch
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git checkout -B data-json
           git add data/highlight_football/*.json
           git commit -m "Auto update Highlight Football" || echo "No changes"
-          git push origin main --force
-      
+          git push origin data-json --force
+
       - name: Send Telegram Notification
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
@@ -53,26 +48,19 @@ jobs:
         run: |
           python - <<EOF
           import os, datetime, requests
-      
-          files = [
-              "buaksibhl.json",
-              "dbidhl.json",
-              "dlshl.json",
-              "hugballhl.json"
-          ]
-      
+
+          files = ["buaksibhl.json","dbidhl.json","dlshl.json","hugballhl.json"]
           token = os.environ["TELEGRAM_BOT_TOKEN"]
           chat_id = os.environ["TELEGRAM_CHAT_ID"]
-      
+
           time_now = datetime.datetime.utcnow() + datetime.timedelta(hours=7)
           time_str = time_now.strftime("%d-%m-%Y %H:%M:%S")
-      
+
           msg = "📁 อัปโหลดไฮไลท์ฟุตบอลสำเร็จ:\n\n"
           for f in files:
               msg += f"✅ /data/Highlight Football/{f}\n"
           msg += f"\n🎉 อัปโหลดทั้งหมดเสร็จสิ้นแล้ว {time_str}"
-      
-          r = requests.post(f"https://api.telegram.org/bot{token}/sendMessage",
-                            data={"chat_id": chat_id, "text": msg})
-          print(f"Telegram response: {r.status_code} {r.text}")
+
+          requests.post(f"https://api.telegram.org/bot{token}/sendMessage",
+                        data={"chat_id": chat_id,"text":msg})
           EOF
