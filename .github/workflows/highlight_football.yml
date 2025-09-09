@@ -17,46 +17,68 @@ jobs:
           fetch-depth: 0
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # 2️⃣ Setup Python
+      # 2️⃣ Check for existing lock file
+      - name: Check for lock file
+        id: check-lock
+        run: |
+          if [ -f "highlight_football.lock" ]; then
+            echo "LOCK_EXISTS=true" >> $GITHUB_ENV
+            echo "⚠️  Lock file exists, skipping execution"
+            exit 0
+          else
+            echo "LOCK_EXISTS=false" >> $GITHUB_ENV
+            echo "🔓 No lock file, proceeding"
+          fi
+
+      # 3️⃣ Create lock file
+      - name: Create lock file
+        if: env.LOCK_EXISTS == 'false'
+        run: |
+          echo "Lock created at $(date)" > highlight_football.lock
+          echo "🔒 Lock file created"
+
+      # 4️⃣ Setup Python
       - name: Setup Python
+        if: env.LOCK_EXISTS == 'false'
         uses: actions/setup-python@v5
         with:
           python-version: '3.13'
 
-      # 3️⃣ Install dependencies
+      # 5️⃣ Install dependencies
       - name: Install dependencies
+        if: env.LOCK_EXISTS == 'false'
         run: |
           python -m pip install --upgrade pip
           pip install --timeout=100 requests beautifulsoup4 lxml python-telegram-bot dropbox
         env:
           PIP_CACHE_DIR: ~/.cache/pip
 
-      # 4️⃣ Run Highlight Football Scripts
+      # 6️⃣ Run Highlight Football Scripts
       - name: Run Highlight Football Scripts
+        if: env.LOCK_EXISTS == 'false'
         run: |
           python scripts/highlight_football/buaksib_update.py
           python scripts/highlight_football/dbidhl_update.py
           python scripts/highlight_football/dlshl_update.py
           python scripts/highlight_football/hugballhl_update.py
 
-      # 5️⃣ Check for changes
+      # 7️⃣ Check for changes
       - name: Check for changes
+        if: env.LOCK_EXISTS == 'false'
         id: check-changes
         run: |
           git add data/highlight_football/*.json
           if git diff --staged --quiet; then
             echo "HAS_CHANGES=false" >> $GITHUB_ENV
-            echo "NO_CHANGES=true" >> $GITHUB_ENV
             echo "No changes detected"
           else
             echo "HAS_CHANGES=true" >> $GITHUB_ENV
-            echo "NO_CHANGES=false" >> $GITHUB_ENV
             echo "Changes detected"
           fi
 
-      # 6️⃣ Send Telegram Notification (Only for manual trigger or schedule)
+      # 8️⃣ Send Telegram Notification
       - name: Send Telegram Notification
-        if: ${{ (github.event_name == 'schedule' || github.event_name == 'workflow_dispatch') && env.HAS_CHANGES == 'true' && github.actor != 'github-actions[bot]' }}
+        if: env.LOCK_EXISTS == 'false' && env.HAS_CHANGES == 'true'
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
@@ -100,9 +122,9 @@ jobs:
               print("✅ ส่งข้อความ Telegram สำเร็จ")
           EOF
 
-      # 7️⃣ Commit & Push JSON (Only if changes detected)
+      # 9️⃣ Commit & Push JSON
       - name: Commit & Push JSON
-        if: env.HAS_CHANGES == 'true' && github.actor != 'github-actions[bot]'
+        if: env.LOCK_EXISTS == 'false' && env.HAS_CHANGES == 'true'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
@@ -112,8 +134,11 @@ jobs:
           git commit -m "Auto update Highlight Football"
           git push origin main
 
-      # 8️⃣ Skip notification message
-      - name: Skip notification
-        if: env.NO_CHANGES == 'true'
+      # 🔟 Clean up lock file
+      - name: Clean up lock file
+        if: always() && env.LOCK_EXISTS == 'false'
         run: |
-          echo "No changes detected, skipping Telegram notification and commit"
+          if [ -f "highlight_football.lock" ]; then
+            rm highlight_football.lock
+            echo "🔓 Lock file removed"
+          fi
