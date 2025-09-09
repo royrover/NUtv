@@ -17,6 +17,7 @@ else:  # Android (Termux)
 
 os.makedirs(SAVE_DIR, exist_ok=True)
 json_file = os.path.join(SAVE_DIR, "dookeela_rerun.json")
+m3u_file = os.path.join(SAVE_DIR, "dookeela_rerun.m3u")
 
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/237.36.2.178 Safari/537.36",
@@ -114,3 +115,15 @@ with open(json_file, "w", encoding="utf-8") as f:
 
 print(json.dumps(data, ensure_ascii=False, indent=4))
 print(f"✅ บันทึกเรียบร้อย: {json_file}")
+
+with open(m3u_file, "w", encoding="utf-8") as f:
+    m3u_content = "#EXTM3U\n"
+    for group in data["groups"]:
+        for match_info in group["groups"]:
+            for station in match_info["stations"]:
+                m3u_content += f'#EXTINF:-1 tvg-logo="{station["image"]}", group-title="LIVE SPORT", {match_info["name"].replace(":", "")}\n'
+                m3u_content += f'{station["url"]}|User-agent={station["userAgent"]}&Referer={station["referer"]}\n'
+    f.write(m3u_content)
+print(m3u_content)
+
+print(f"✅ อัปเดตไฟล์ JSON และ M3U เรียบร้อย")
