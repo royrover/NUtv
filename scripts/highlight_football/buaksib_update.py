@@ -54,7 +54,7 @@ else:
     data = {
         "name": "highlights football buaksib",
         "image": "https://www.buaksib.com/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Flogo-summer.5abd78a6.png&w=256&q=75",
-        "url": "https://dl.dropbox.com/scl/fi/6caphn6y6f1l9z2mj4cjm/buaksibhl.w3u?rlkey=9lp73dgx3yij8d5vbdbguo1tu&st=qkiqx2kk&dl=0",
+        "url": "",
         "author": f"update {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}",
         "stations": []
     }
