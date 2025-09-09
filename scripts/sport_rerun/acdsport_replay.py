@@ -47,6 +47,15 @@ old_first_url = data["stations"][0]["url"] if data["stations"] else None
 new_stations = []
 stop_fetch = False
 
+response = requests.get(url, headers=headers)
+response.encoding = "utf-8"
+response.raise_for_status()
+
+soup = BeautifulSoup(response.text, "html.parser")
+all_links = soup.find_all(
+    "div", class_="d-flex justify-content-between fixture-page-item active"
+)
+
 for link in all_links:
     if stop_fetch:
         break
