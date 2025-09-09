@@ -2,8 +2,44 @@
     "name": "Hugball Highlights",
     "image": "https://www.hugball.net/images/logo.png",
     "url": "https://dl.dropbox.com/scl/fi/7tv8jfl2fu7ptwfhm2jyx/hugballhl.w3u?rlkey=xpzl58r3cg3ir5gf87s6pd2yd&st=d44kup15&dl=0",
-    "author": "update 09-09-2025 00:26:57",
+    "author": "update 09-09-2025 02:03:40",
     "stations": [
+        {
+            "name": "⚽ ไฮไลท์ เบลารุส 0-2 สกอตแลนด์",
+            "image": "https://image.hugball.net/Pic/Video/m55252_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/08-2025/BielorrusiaEsco.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ กรีซ 0-3 เดนมาร์ก",
+            "image": "https://image.hugball.net/Pic/Video/m55251_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/08-2025/GreeciaDinamarc.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ โคโซโว 2-0 สวีเดน",
+            "image": "https://image.hugball.net/Pic/Video/m55250_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/08-2025/KosovoSuecia.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ สวิตเซอร์แลนด์ 3-0 สโลวีเนีย",
+            "image": "https://image.hugball.net/Pic/Video/m55249_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/08-2025/SwituizaEslov.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ โครเอเชีย 4-0 มอนเตเนโกร",
+            "image": "https://image.hugball.net/Pic/Video/m55248_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/08-2025/CroaciaMont.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ อิสราเอล 4-5 อิตาลี",
+            "image": "https://image.hugball.net/Pic/Video/m55247_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/08-2025/raItali.mp4",
+            "referer": "https://www.hugball.net/"
+        },
         {
             "name": "⚽ ไฮไลท์ ไทย 0-1 อิรัก",
             "image": "https://image.hugball.net/Pic/Video/m55246_1.png",
