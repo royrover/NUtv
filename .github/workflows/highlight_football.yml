@@ -1,14 +1,14 @@
 name: Highlight Football Update
+
 on:
   schedule:
-    - cron: '15 0,12 * * *' # 07:15 และ 19:15 ไทย
+    - cron: '15 0,12 * * *'  # 07:15 และ 19:15 ไทย
   workflow_dispatch:
-concurrency:
-  group: ${{ github.workflow }}-${{ github.event_name }}
-  cancel-in-progress: true
+
 jobs:
   update_highlight_football:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
@@ -32,6 +32,7 @@ jobs:
           python scripts/highlight_football/dlshl_update.py
           python scripts/highlight_football/hugballhl_update.py
 
+
       - name: Commit & Push JSON
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -39,29 +40,25 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git add data/highlight_football/*.json
-          git commit -m "Auto update Highlight Football" || echo "No changes"
-          git push origin main --force
-
+          git diff --staged --quiet || (git commit -m "Auto update Highlight Football" && git push origin main --force && echo "CHANGES_COMMITTED=true" >> $GITHUB_ENV)
+      
       - name: Send Telegram Notification
-        if: github.event_name == 'push' && github.actor != 'github-actions[bot]'
+        if: env.CHANGES_COMMITTED == 'true'
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
           python - <<EOF
           import os, datetime, requests
-
           files = ["buaksibhl.json","dbidhl.json","dlshl.json","hugballhl.json"]
           token = os.environ["TELEGRAM_BOT_TOKEN"]
           chat_id = os.environ["TELEGRAM_CHAT_ID"]
           time_now = datetime.datetime.utcnow() + datetime.timedelta(hours=7)
           time_str = time_now.strftime("%d-%m-%Y %H:%M:%S")
-
           msg = "📁 อัปโหลดไฮไลท์ฟุตบอลสำเร็จ:\n\n"
           for f in files:
               msg += f"✅ /data/Highlight Football/{f}\n"
           msg += f"\n🎉 อัปโหลดทั้งหมดเสร็จสิ้นแล้ว {time_str}"
-
           r = requests.post(f"https://api.telegram.org/bot{token}/sendMessage",
                             data={"chat_id": chat_id, "text": msg})
           print(r.status_code, r.text)
