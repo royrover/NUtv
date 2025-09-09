@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 1️⃣ Checkout repo (ดึง commit ทั้งหมด)
+      # 1️⃣ Checkout repository
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
@@ -28,7 +28,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4 lxml python-telegram-bot dropbox
 
-      # 4️⃣ Run Highlight Football Scripts (ทีละไฟล์)
+      # 4️⃣ Run Highlight Football Scripts
       - name: Run buaksib_update.py
         run: python scripts/highlight_football/buaksib_update.py
 
@@ -41,18 +41,23 @@ jobs:
       - name: Run hugballhl_update.py
         run: python scripts/highlight_football/hugballhl_update.py
 
-      # 5️⃣ Telegram Notification (ใช้ flag ป้องกันซ้ำ)
+      # 5️⃣ Commit & Push JSON/M3U
+      - name: Commit & Push JSON
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/highlight_football/*.json
+          git commit -m "Auto update Highlight Football" || echo "No changes"
+          git push origin main --force
+
+      # 6️⃣ Send Telegram Notification (หลัง push)
       - name: Send Telegram Notification
-        if: ${{ github.event_name == 'schedule' || github.event_name == 'workflow_dispatch' }}
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
-          if [ -f "$GITHUB_WORKSPACE/.telegram_sent" ]; then
-            echo "Telegram already sent, skipping"
-            exit 0
-          fi
-
           python - <<EOF
           import os, datetime, requests
 
@@ -78,20 +83,6 @@ jobs:
               f"https://api.telegram.org/bot{token}/sendMessage",
               data={"chat_id": chat_id, "text": msg}
           )
+
           print(f"Telegram response: {r.status_code} {r.text}")
           EOF
-
-          # สร้าง flag file ป้องกัน Telegram ซ้ำ
-          touch $GITHUB_WORKSPACE/.telegram_sent
-
-      # 6️⃣ Commit & Force Push JSON/M3U
-      - name: Commit & Push JSON
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          git config --local user.name "github-actions[bot]"
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/highlight_football/*.json
-          git commit -m "Auto update Highlight Football" || echo "No changes"
-          git push origin main --force
-
