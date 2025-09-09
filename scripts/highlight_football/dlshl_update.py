@@ -19,7 +19,7 @@ else:  # Android (Termux)
 os.makedirs(SAVE_DIR, exist_ok=True)
 json_file = os.path.join(SAVE_DIR, "dlshl.json")
 
-
+# โหลดไฟล์ JSON เก่า
 if os.path.exists(json_file):
     with open(json_file, "r", encoding="utf-8") as f:
         data = json.load(f)
@@ -46,7 +46,12 @@ headers = {
     "Referer": "https://dooball.id/"
 }
 
+stop_flag = False  # ถ้าเจอลิงก์ซ้ำ จะหยุดดึงทันที
+
 for page in range(start_page, end_page + 1):
+    if stop_flag:
+        break
+
     url = f"{base_url}?page={page}"
     print(f"🔎 Fetching URL: {url}\n")
     try:
@@ -57,6 +62,9 @@ for page in range(start_page, end_page + 1):
         highlights = soup.find_all('div', {'class': 'card shadow w-100'})
 
         for highlight in highlights:
+            if stop_flag:
+                break
+
             title_tag = highlight.find('h2', {'class': 'fs-5'})
             img_tag = highlight.find('img')
             link_tag = highlight.find('a', {'class': 'stretched-link'})
@@ -103,9 +111,14 @@ for page in range(start_page, end_page + 1):
                                 print(f"❌ Error fetching iframe for {title}: {e}")
                                 continue
 
-                if not final_url or final_url in existing_urls:
-                    print("⏩ ข้าม (ลิงก์ซ้ำหรือว่าง)")
+                if not final_url:
+                    print("⏩ ข้าม (ลิงก์ว่าง)")
                     continue
+
+                if final_url in existing_urls:
+                    print(f"🛑 เจอลิงก์ซ้ำ: {final_url} → หยุดดึงข้อมูลแล้ว")
+                    stop_flag = True
+                    break
 
                 station_data = {
                     'name': f"⚽ {title}",
