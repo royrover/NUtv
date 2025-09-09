@@ -36,7 +36,7 @@ jobs:
           python scripts/highlight_football/dlshl_update.py
           python scripts/highlight_football/hugballhl_update.py
 
-      # 5️⃣ Commit & Push JSON ไป branch แยก data-json
+      # 5️⃣ Commit & Push JSON to a separate branch
       - name: Commit & Push JSON
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -48,8 +48,9 @@ jobs:
           git commit -m "Auto update Highlight Football" || echo "No changes"
           git push origin data-json --force
 
-      # 6️⃣ Send Telegram Notification หลัง push JSON เสร็จ
+      # 6️⃣ Send Telegram Notification (ครั้งเดียวหลัง push)
       - name: Send Telegram Notification
+        if: ${{ github.event_name == 'schedule' || github.event_name == 'workflow_dispatch' }}
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
@@ -87,8 +88,8 @@ jobs:
           )
 
           print(f"Telegram response: {r.status_code} {r.text}")
-          if r.status_code != 200:
-              print("❌ ส่งข้อความ Telegram ไม่สำเร็จ")
-          else:
+          if r.status_code == 200:
               print("✅ ส่งข้อความ Telegram สำเร็จ")
+          else:
+              print("❌ ส่งข้อความ Telegram ไม่สำเร็จ")
           EOF
