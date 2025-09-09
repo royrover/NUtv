@@ -1,16 +1,16 @@
-name: Highlight Football Update
+name: Live Sport Update
 
 on:
   schedule:
-    - cron: '15 0,12 * * *'  # 07:15 และ 19:15 ไทย
+    - cron: '0 0,12 * * *'  # 07:00 และ 19:00 ไทย
   workflow_dispatch:
 
 jobs:
-  update_highlight_football:
+  update_live_sport:
     runs-on: ubuntu-latest
 
     steps:
-      # 1️⃣ Checkout repo (main)
+      # 1️⃣ Checkout repository (main)
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
@@ -28,7 +28,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4 lxml python-telegram-bot dropbox
 
-      # 4️⃣ Run Highlight Football Scripts
+      # 4️⃣ Run Highlight Football Scripts (ทีละไฟล์)
       - name: Run Highlight Football Scripts
         run: |
           python scripts/highlight_football/buaksib_update.py
@@ -36,7 +36,14 @@ jobs:
           python scripts/highlight_football/dlshl_update.py
           python scripts/highlight_football/hugballhl_update.py
 
-      # 5️⃣ Commit & Push JSON/M3U ไป branch update-json
+      # 5️⃣ Run Sport Rerun Scripts (ทีละไฟล์)
+      - name: Run Sport Rerun Scripts
+        run: |
+          python scripts/sport_rerun/acdsport_replay.py
+          python scripts/sport_rerun/dookeela_rerun.py
+          python scripts/sport_rerun/goaldaddyth.py
+
+      # 6️⃣ Commit & Push JSON/M3U ไป branch update-json
       - name: Commit & Push JSON
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -44,11 +51,11 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git checkout -B update-json
-          git add data/highlight_football/*.json
-          git commit -m "Auto update Highlight Football" || echo "No changes"
+          git add data/highlight_football/*.json data/sport_rerun/*.json
+          git commit -m "Auto update Live Sport JSON" || echo "No changes"
           git push origin update-json --force
 
-      # 6️⃣ Send Telegram Notification หลัง push
+      # 7️⃣ ส่ง Telegram หลัง push
       - name: Send Telegram Notification
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
@@ -57,11 +64,17 @@ jobs:
           python - <<EOF
           import os, datetime, requests
 
-          files = [
+          hf_files = [
               "buaksibhl.json",
               "dbidhl.json",
               "dlshl.json",
               "hugballhl.json",
+          ]
+
+          sr_files = [
+              "acdsport_replay.json",
+              "dookeela_rerun.json",
+              "goaldaddyth.json",
           ]
 
           token = os.environ.get("TELEGRAM_BOT_TOKEN")
@@ -70,15 +83,18 @@ jobs:
           time_now = datetime.datetime.utcnow() + datetime.timedelta(hours=7)
           time_str = time_now.strftime("%d-%m-%Y %H:%M:%S")
 
-          msg = "📁 อัปโหลดไฮไลท์ฟุตบอลสำเร็จ:\n\n"
-          for f in files:
+          msg = "📁 อัปเดต Live Sport สำเร็จ:\n\n"
+          msg += "🏆 Highlight Football:\n"
+          for f in hf_files:
               msg += f"✅ /data/Highlight Football/{f}\n"
+          msg += "\n⚽ Sport Rerun:\n"
+          for f in sr_files:
+              msg += f"✅ /data/sport_rerun/{f}\n"
           msg += f"\n🎉 อัปโหลดทั้งหมดเสร็จสิ้นแล้ว {time_str}"
 
           r = requests.post(
               f"https://api.telegram.org/bot{token}/sendMessage",
               data={"chat_id": chat_id, "text": msg}
           )
-
           print(f"Telegram response: {r.status_code} {r.text}")
           EOF
