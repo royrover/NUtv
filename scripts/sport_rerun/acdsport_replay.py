@@ -41,19 +41,15 @@ else:
 # เก็บรายการ URL ที่มีอยู่แล้ว เพื่อป้องกันข้อมูลซ้ำ
 existing_urls = set(item["url"] for item in data["stations"])
 
-response = requests.get(url, headers=headers)
-response.encoding = "utf-8"
-response.raise_for_status()
-
-soup = BeautifulSoup(response.text, "html.parser")
-all_links = soup.find_all(
-    "div", class_="d-flex justify-content-between fixture-page-item active"
-)
-
-# ใช้ reversed() เพื่อเรียงใหม่ → เก่า ตามหน้าเว็บ
+# เก็บ URL ตัวแรกของรอบก่อน (ใช้ตรวจซ้ำแล้ว break)
+old_first_url = data["stations"][0]["url"] if data["stations"] else None
 
 new_stations = []
+stop_fetch = False
+
 for link in all_links:
+    if stop_fetch:
+        break
     try:
         time = link.find("p", class_="time-format").text.strip()
         league = link.find("div", class_="mt-1 tournament").text.strip()
@@ -85,8 +81,15 @@ for link in all_links:
         final_url_match = re.search(r'link:"(http.*?\.m3u8)"', iframe_html)
         if final_url_match:
             final_url = final_url_match.group(1).encode().decode("unicode_escape")
+
+            # ✅ ถ้าเจอลิงก์ตรงกับรอบก่อน → หยุดดึงข้อมูล
+            if old_first_url and final_url == old_first_url:
+                print("⏹️ เจอลิงก์ซ้ำกับรอบที่แล้ว หยุดดึงข้อมูล")
+                stop_fetch = True
+                break
+
             if final_url in existing_urls:
-                print("⏩ ข้าม (ลิงก์ซ้ำ)")
+                print("⏩ ข้าม (ลิงก์ซ้ำในไฟล์ปัจจุบัน)")
                 continue
 
             # เพิ่มรายการใหม่ไว้ด้านบน
