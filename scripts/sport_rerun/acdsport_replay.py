@@ -127,5 +127,5 @@ data["author"] = f"update {datetime.now().strftime('%d-%m-%Y %H:%M:%S')}"
 # บันทึก JSON
 with open(json_file, "w", encoding="utf-8") as f:
     json.dump(data, f, indent=4, ensure_ascii=False)
-
+print(json.dump(data, indent=4, ensure_ascii=False))
 print("✅ บันทึกเรียบร้อย:", json_file)
