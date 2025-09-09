@@ -10,9 +10,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 1️⃣ Checkout repo
+      # 1️⃣ Checkout repo (ดึง commit ทั้งหมดเพื่อป้องกัน push fail)
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
 
       # 2️⃣ Setup Python
       - name: Setup Python
@@ -68,8 +70,7 @@ jobs:
           EOF
 
       # 6️⃣ Commit & Push JSON/M3U
-      - name: Commit JSON/M3U
-        if: github.actor != 'github-actions[bot]'  # ป้องกัน loop
+      - name: Commit JSON
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
@@ -77,5 +78,5 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git add data/highlight_football/*.json
           git commit -m "Auto update Highlight Football" || echo "No changes"
-          git push
-
+          git pull --rebase origin main
+          git push origin main
