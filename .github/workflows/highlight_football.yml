@@ -2,7 +2,7 @@ name: Highlight Football Update
 
 on:
   schedule:
-    - cron: '46 5 * * *'  # รันทุกวัน 12:46 ไทย
+    - cron: '47 5 * * *'  # รันทุกวัน 12:46 ไทย
   workflow_dispatch:
 
 jobs:
