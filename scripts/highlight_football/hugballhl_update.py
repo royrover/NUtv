@@ -49,7 +49,7 @@ else:
     data = {
         "name": "Hugball Highlights",
         "image": "https://www.hugball.net/images/logo.png",
-        "url": "https://dl.dropbox.com/scl/fi/7tv8jfl2fu7ptwfhm2jyx/hugballhl.w3u?rlkey=xpzl58r3cg3ir5gf87s6pd2yd&st=d44kup15&dl=0",
+        "url": "",
         "author": "",
         "stations": []
     }
@@ -150,6 +150,7 @@ with open(json_file, 'w', encoding='utf-8') as file:
     json.dump(data, file, ensure_ascii=False, indent=4)
 
 print(f"✅ File {json_file} updated successfully.")
+
 
 
 
