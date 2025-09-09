@@ -73,6 +73,7 @@ jobs:
       - name: Commit JSON
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        if: github.actor != 'github-actions[bot]'
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
