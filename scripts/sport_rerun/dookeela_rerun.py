@@ -118,12 +118,12 @@ print(f"✅ บันทึกเรียบร้อย: {json_file}")
 
 with open(m3u_file, "w", encoding="utf-8") as f:
     m3u_content = "#EXTM3U\n"
-    for group in data["groups"]:
-        for match_info in group["groups"]:
-            for station in match_info["stations"]:
-                m3u_content += f'#EXTINF:-1 tvg-logo="{station["image"]}", group-title="LIVE SPORT", {match_info["name"].replace(":", "")}\n'
-                m3u_content += f'{station["url"]}|User-agent={station["userAgent"]}&Referer={station["referer"]}\n'
+    for station in data["stations"]:
+        image = station.get("image", "")
+        name = station.get("name", "No Title").replace(":", "")
+        url = station.get("url")
+        m3u_content += f'#EXTINF:-1 tvg-logo="{image}", group-title="LIVE SPORT", {name}\n'
+        m3u_content += f'{url}|User-agent={headers["User-Agent"]}&Referer={headers["Referer"]}\n'
     f.write(m3u_content)
 print(m3u_content)
-
 print(f"✅ อัปเดตไฟล์ JSON และ M3U เรียบร้อย")
