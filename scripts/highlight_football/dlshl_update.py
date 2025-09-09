@@ -148,5 +148,6 @@ data["author"] = f"update {datetime.now().strftime('%d-%m-%Y %H:%M:%S')}"
 with open(json_file, 'w', encoding='utf-8') as file:
     json.dump(data, file, ensure_ascii=False, indent=4)
 
-print(json.dumps(data, ensure_ascii=False, indent=4))
+#print(json.dumps(data, ensure_ascii=False, indent=4))
 print(f"✅ File {json_file} updated successfully.")
+
