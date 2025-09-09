@@ -41,6 +41,7 @@ def extract_video_url(final_html):
 
 
 # โหลดข้อมูลเก่า ถ้ามี
+
 if os.path.exists(json_file):
     with open(json_file, "r", encoding="utf-8") as f:
         data = json.load(f)
@@ -116,9 +117,13 @@ def main():
                 else:
                     video_url = None
 
-                if not video_url or video_url in existing_urls:
-                    print("⏩ ข้าม (ลิงก์ซ้ำหรือว่าง)")
+                if not video_url:
+                    print("⏩ ข้าม (ไม่มีลิงก์วิดีโอ)")
                     continue
+
+                if video_url in existing_urls:
+                    print("⏩ เจอลิงก์ซ้ำ หยุดการทำงานทันที")
+                    return  # <<< หยุด main() เลย
 
                 station_data = {
                     "name": "⚽ " + title,
@@ -134,14 +139,18 @@ def main():
 main()
 
 # อัปเดตข้อมูล
-data["stations"] = new_stations + stations_list
+if new_stations:
+    print(f"🆕 เพิ่มรายการใหม่ {len(new_stations)} รายการ")
+    data["stations"] = new_stations + stations_list
+
 data["author"] = f"update {datetime.now().strftime('%d-%m-%Y %H:%M:%S')}"
 
 # เขียนไฟล์
 with open(json_file, 'w', encoding='utf-8') as file:
     json.dump(data, file, ensure_ascii=False, indent=4)
 
-print(json.dumps(data, ensure_ascii=False, indent=4))
 print(f"✅ File {json_file} updated successfully.")
+
+
 
 
