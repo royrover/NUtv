@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 1️⃣ Checkout repository (ดึง commit ทั้งหมด)
+      # 1️⃣ Checkout repository
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
@@ -36,8 +36,8 @@ jobs:
           python scripts/highlight_football/dlshl_update.py
           python scripts/highlight_football/hugballhl_update.py
 
-      # 5️⃣ Commit JSON ไป branch แยก
-      - name: Commit & Push JSON to data-json
+      # 5️⃣ Commit & Push JSON ไป branch แยก data-json
+      - name: Commit & Push JSON
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
@@ -48,7 +48,7 @@ jobs:
           git commit -m "Auto update Highlight Football" || echo "No changes"
           git push origin data-json --force
 
-      # 6️⃣ Send Telegram Notification (หลัง push เสร็จ)
+      # 6️⃣ Send Telegram Notification หลัง push JSON เสร็จ
       - name: Send Telegram Notification
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
