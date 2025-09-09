@@ -36,7 +36,7 @@ jobs:
           python scripts/highlight_football/dlshl_update.py
           python scripts/highlight_football/hugballhl_update.py
 
-      # 5️⃣ Commit & Push JSON (branch แยก)
+      # commit & push step
       - name: Commit & Push JSON
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -47,6 +47,7 @@ jobs:
           git add data/highlight_football/*.json
           git commit -m "Auto update Highlight Football" || echo "No changes"
           git push origin data-json --force
+
 
       # 6️⃣ Send Telegram Notification (หลัง push JSON ครั้งเดียว)
       - name: Send Telegram Notification
