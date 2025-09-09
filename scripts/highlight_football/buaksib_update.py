@@ -47,10 +47,6 @@ def fetch_video_links(video_url):
         print(f"❌ เกิดข้อผิดพลาด: {e}")
         return None
 
-json_file = r"G:\Dropbox\New Wiseplay\Highlight Football\buaksibhl.w3u"
-m3u_file = "buaksibhl.m3u"
-output_file = json_file
-
 if os.path.exists(json_file):
     with open(json_file, "r", encoding="utf-8") as f:
         data = json.load(f)
@@ -58,7 +54,7 @@ else:
     data = {
         "name": "highlights football buaksib",
         "image": "https://www.buaksib.com/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Flogo-summer.5abd78a6.png&w=256&q=75",
-        "url": "",
+        "url": "https://dl.dropbox.com/scl/fi/6caphn6y6f1l9z2mj4cjm/buaksibhl.w3u?rlkey=9lp73dgx3yij8d5vbdbguo1tu&st=qkiqx2kk&dl=0",
         "author": f"update {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}",
         "stations": []
     }
@@ -66,6 +62,7 @@ else:
 stations_list = data["stations"]
 existing_urls = set(item["url"] for item in stations_list)
 new_stations = []
+stop_flag = False  # ตัวแปรใช้หยุดเมื่อเจอลิงก์ซ้ำ
 
 if response.status_code == 200:
     soup = BeautifulSoup(response.text, 'html.parser')
@@ -92,8 +89,12 @@ if response.status_code == 200:
 
             raw_url = f"https://www.buaksib.com{hl.find('a')['href']}"
             final_url = fetch_video_links(raw_url)
-            if not final_url or final_url in existing_urls:
+            if not final_url:
                 continue
+            if final_url in existing_urls:
+                print("⏩ เจอลิงก์ซ้ำ หยุดการดึงข้อมูล")
+                stop_flag = True
+                break
 
             new_stations.append({
                 "name": f"⚽ {name}",
@@ -104,79 +105,87 @@ if response.status_code == 200:
             existing_urls.add(final_url)
             print(f"✅ เพิ่มจากหน้าแรก: {name}")
 
-    request_url = "https://newbackend.buaksib.com/graphql"
-    payload = {
-        "operationName": "GET_CATEGORY",
-        "variables": {
-            "id": "/category/football-highlights/",
-            "first": 40,
-            "after": after
-        },
-        "query": """query GET_CATEGORY($id: ID!, $first: Int, $after: String) {
-          category(id: $id, idType: URI) {
-            posts(first: $first, after: $after) {
-              edges {
-                node {
-                  date
-                  slug
-                  excerpt(format: RENDERED)
-                  featuredImage {
+    if not stop_flag:  # ถ้าไม่เจอลิงก์ซ้ำ จึงไปดึงต่อจาก GraphQL
+        request_url = "https://newbackend.buaksib.com/graphql"
+        payload = {
+            "operationName": "GET_CATEGORY",
+            "variables": {
+                "id": "/category/football-highlights/",
+                "first": 40,
+                "after": after
+            },
+            "query": """query GET_CATEGORY($id: ID!, $first: Int, $after: String) {
+              category(id: $id, idType: URI) {
+                posts(first: $first, after: $after) {
+                  edges {
                     node {
-                      mediaItemUrl
+                      date
+                      slug
+                      excerpt(format: RENDERED)
+                      featuredImage {
+                        node {
+                          mediaItemUrl
+                        }
+                      }
+                      title(format: RENDERED)
                     }
                   }
-                  title(format: RENDERED)
+                  pageInfo {
+                    endCursor
+                    hasNextPage
+                  }
                 }
               }
-              pageInfo {
-                endCursor
-                hasNextPage
-              }
-            }
-          }
-        }"""
-    }
+            }"""
+        }
 
-    headers2 = {
-        "Content-Type": "application/json",
-        "Referer": "https://www.buaksib.com",
-        "Origin": "https://www.buaksib.com"
-    }
+        headers2 = {
+            "Content-Type": "application/json",
+            "Referer": "https://www.buaksib.com",
+            "Origin": "https://www.buaksib.com"
+        }
 
-    response_ajax = requests.post(request_url, headers=headers2, json=payload)
+        response_ajax = requests.post(request_url, headers=headers2, json=payload)
 
-    if response_ajax.status_code == 200:
-        json_data = response_ajax.json()
-        edges = json_data.get('data', {}).get('category', {}).get('posts', {}).get('edges', [])
-        for edge in edges:
-            node = edge.get("node", {})
-            name = node.get("title", "N/A").strip()
-            image = node.get("featuredImage", {}).get("node", {}).get("mediaItemUrl", "")
-            slug = node.get("slug", "")
-            raw_url = f"https://www.buaksib.com/highlights/{slug}/video/"
+        if response_ajax.status_code == 200:
+            json_data = response_ajax.json()
+            edges = json_data.get('data', {}).get('category', {}).get('posts', {}).get('edges', [])
+            for edge in edges:
+                node = edge.get("node", {})
+                name = node.get("title", "N/A").strip()
+                image = node.get("featuredImage", {}).get("node", {}).get("mediaItemUrl", "")
+                slug = node.get("slug", "")
+                raw_url = f"https://www.buaksib.com/highlights/{slug}/video/"
 
-            final_url = fetch_video_links(raw_url)
-            if not final_url or final_url in existing_urls:
-                print("⏩ ข้าม (ลิงก์ซ้ำหรือว่าง)")
-                continue
+                final_url = fetch_video_links(raw_url)
+                if not final_url:
+                    continue
+                if final_url in existing_urls:
+                    print("⏩ เจอลิงก์ซ้ำ (GraphQL) หยุดการทำงาน")
+                    break
 
-            new_stations.append({
-                "name": f"⚽ {name}",
-                "image": image,
-                "url": final_url,
-                "referer": "https://www.buaksib.com/"
-            })
-            existing_urls.add(final_url)
-            print(f"✅ เพิ่มจาก GraphQL: {name}")
-    else:
-        print(f"❌ ไม่สามารถโหลดข้อมูลเพิ่มเติมจาก GraphQL (status: {response_ajax.status_code})")
+                new_stations.append({
+                    "name": f"⚽ {name}",
+                    "image": image,
+                    "url": final_url,
+                    "referer": "https://www.buaksib.com/"
+                })
+                existing_urls.add(final_url)
+                print(f"✅ เพิ่มจาก GraphQL: {name}")
+        else:
+            print(f"❌ ไม่สามารถโหลดข้อมูลเพิ่มเติมจาก GraphQL (status: {response_ajax.status_code})")
 
 # รวมรายการใหม่+เดิม
-data["stations"] = new_stations + stations_list
-data["author"] = f"update {datetime.now().strftime('%d-%m-%Y %H:%M:%S')}"
+if new_stations:
+    print(f"🆕 เพิ่มรายการใหม่ {len(new_stations)} รายการ")
+    data["stations"] = new_stations + stations_list
+else:
+    print("ℹ️ ไม่มีรายการใหม่")
 
-with open(json_file, 'w', encoding='utf-8') as f:
+data["author"] = f"update {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}"
+
+with open(output_file, 'w', encoding='utf-8') as f:
     json.dump(data, f, ensure_ascii=False, indent=4)
 
-print(json.dumps(data, ensure_ascii=False, indent=4))
 print(f"✅ บันทึกไฟล์ {json_file} เรียบร้อยแล้ว")
+
