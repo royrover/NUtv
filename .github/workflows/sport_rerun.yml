@@ -51,9 +51,11 @@ jobs:
 
           files = [
               "acdsport_replay.json",
+              "acdsport_replay.m3u",
               "dookeela_rerun.json",
               "dookeela_rerun.m3u",
               "goaldaddyth.json",
+              "goaldaddyth.m3u",
           ]
 
           token = os.environ.get("TELEGRAM_BOT_TOKEN")
