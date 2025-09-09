@@ -18,6 +18,7 @@ else:  # Android (Termux)
 
 os.makedirs(SAVE_DIR, exist_ok=True)
 json_file = os.path.join(SAVE_DIR, "acdsport_replay.json")
+m3u_file = os.path.join(SAVE_DIR, "acdsport_replay.m3u")
 
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/237.84.2.178 Safari/537.36",
@@ -128,4 +129,16 @@ data["author"] = f"update {datetime.now().strftime('%d-%m-%Y %H:%M:%S')}"
 with open(json_file, "w", encoding="utf-8") as f:
     json.dump(data, f, indent=4, ensure_ascii=False)
 print(json.dumps(data, ensure_ascii=False, indent=2))
-print("✅ บันทึกเรียบร้อย:", json_file)
+
+with open(m3u_file, "w", encoding="utf-8") as f:
+    m3u_content = "#EXTM3U\n"
+    for station in data["stations"]:
+        m3u_content += f'#EXTINF:-1 tvg-logo="{station["image"]}", group-title="LIVE SPORT", {station["name"].replace(":", "")}\n'
+        m3u_content += f'{station["url"]}\n'
+    f.write(m3u_content)
+print(m3u_content)
+
+print(f"✅ อัปเดตไฟล์ JSON และ M3U เรียบร้อย")
+
+
+print("✅ บันทึกเรียบร้อย:", json_file, m3u_file)
