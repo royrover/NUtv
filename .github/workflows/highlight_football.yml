@@ -5,10 +5,6 @@ on:
     - cron: '15 0,12 * * *' # 07:15 และ 19:15 ไทย
   workflow_dispatch:
 
-concurrency:
-  group: highlight-football-update-${{ github.ref }}
-  cancel-in-progress: true
-
 jobs:
   update_highlight_football:
     runs-on: ubuntu-latest
@@ -60,7 +56,7 @@ jobs:
 
       # 6️⃣ Send Telegram Notification (Only for manual trigger or schedule)
       - name: Send Telegram Notification
-        if: ${{ (github.event_name == 'schedule' || github.event_name == 'workflow_dispatch') && env.HAS_CHANGES == 'true' }}
+        if: ${{ (github.event_name == 'schedule' || github.event_name == 'workflow_dispatch') && env.HAS_CHANGES == 'true' && github.actor != 'github-actions[bot]' }}
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
@@ -106,7 +102,7 @@ jobs:
 
       # 7️⃣ Commit & Push JSON (Only if changes detected)
       - name: Commit & Push JSON
-        if: env.HAS_CHANGES == 'true'
+        if: env.HAS_CHANGES == 'true' && github.actor != 'github-actions[bot]'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
