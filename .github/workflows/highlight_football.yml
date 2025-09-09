@@ -36,8 +36,9 @@ jobs:
           python scripts/highlight_football/dlshl_update.py
           python scripts/highlight_football/hugballhl_update.py
 
-      # 5️⃣ Send Telegram Notification (ครั้งเดียว)
+      # 5️⃣ Send Telegram Notification (เฉพาะตอน schedule)
       - name: Send Telegram Notification
+        if: ${{ github.event_name == 'schedule' }}
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
@@ -73,7 +74,6 @@ jobs:
       - name: Commit JSON
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        if: github.actor != 'github-actions[bot]'
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
