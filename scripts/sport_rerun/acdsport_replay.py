@@ -33,7 +33,7 @@ else:
     data = {
         "name": "acdsport replay",
         "image": "https://acdsport.com/acd/social.jpg",
-        "url": "https://dl.dropbox.com/scl/fi/2lk9rp530f3mh8sn095pu/acdsport_replay.json?rlkey=ikxvfvv3nljrwb9xervk3r9mp&st=6nqt04sc&dl=0",
+        "url": "",
         "author": "",
         "stations": [],
     }
