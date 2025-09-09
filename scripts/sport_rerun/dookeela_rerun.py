@@ -123,7 +123,7 @@ with open(m3u_file, "w", encoding="utf-8") as f:
         name = station.get("name", "No Title").replace(":", "")
         url = station.get("url")
         m3u_content += f'#EXTINF:-1 tvg-logo="{image}", group-title="LIVE SPORT", {name}\n'
-        m3u_content += f'{url}|User-agent={headers["User-Agent"]}&Referer={headers["Referer"]}\n'
+        m3u_content += f'{url}\n'
     f.write(m3u_content)
 print(m3u_content)
 print(f"✅ อัปเดตไฟล์ JSON และ M3U เรียบร้อย")
