@@ -43,7 +43,7 @@ jobs:
           git diff --staged --quiet || (git commit -m "Auto update Highlight Football" && git push origin main --force && echo "CHANGES_COMMITTED=true" >> $GITHUB_ENV)
       
       - name: Send Telegram Notification
-        if: env.CHANGES_COMMITTED == 'true'
+        if: (github.event_name == 'schedule' || github.event_name == 'workflow_dispatch') && env.CHANGES_COMMITTED == 'true'
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
