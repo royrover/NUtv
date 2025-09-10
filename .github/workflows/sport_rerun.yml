@@ -40,17 +40,17 @@ jobs:
       - name: List generated files
         run: ls -al data/sport_rerun/
 
-      # 6️⃣ Commit & Push JSON/M3U
+      # 6️⃣ Commit & Push JSON/M3U เข้า main branch
       - name: Commit & Push JSON/M3U
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git checkout -B data-json
+          git checkout main
           git add data/sport_rerun/*
           git commit -m "Auto update Sport Rerun" || echo "No changes"
-          git push origin data-json --force
+          git push origin main
 
       # 7️⃣ Send Telegram Notification
       - name: Send Telegram Notification
