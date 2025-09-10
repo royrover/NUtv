@@ -18,6 +18,7 @@ else:  # Android (Termux)
 
 os.makedirs(SAVE_DIR, exist_ok=True)
 json_file = os.path.join(SAVE_DIR, "dbidhl.json")
+m3u_file = os.path.join(SAVE_DIR, "dbidhl.m3u")
 
 # โหลดไฟล์ JSON เก่า
 if os.path.exists(json_file):
@@ -38,7 +39,7 @@ new_stations = []
 
 base_url = "https://dooball.id/highlights"
 start_page = 1
-end_page = 5
+end_page = 2
 
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
@@ -147,7 +148,17 @@ data["author"] = f"update {datetime.now().strftime('%d-%m-%Y %H:%M:%S')}"
 # ✅ เขียนไฟล์ JSON (.w3u)
 with open(json_file, 'w', encoding='utf-8') as file:
     json.dump(data, file, ensure_ascii=False, indent=4)
-
 #print(json.dumps(data, ensure_ascii=False, indent=4))
-print(f"✅ File {json_file} updated successfully.")
+
+
+with open(m3u_file, 'w', encoding='utf-8') as f:
+    m3u_content = "#EXTM3U\n"
+    for station in data["stations"]:
+        m3u_content += f'#EXTINF:-1 tvg-logo="{station["image"]}", group-title="LIVE SPORT", {station["name"].replace(":", "")}\n'
+        m3u_content += f'#EXTVLCOPT:http-user-agent={station["userAgent"]}\n'
+        m3u_content += f'#EXTVLCOPT:http-referrer={station["referer"]}\n'
+        m3u_content += f'{station["url"]}\n'
+    f.write(m3u_content)
+
+print(f"✅ บันทึกไฟล์ {json_file} และ {m3u_file} เรียบร้อยแล้ว")
 
