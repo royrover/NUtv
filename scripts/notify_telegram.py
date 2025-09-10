@@ -2,6 +2,7 @@ import os
 import sys
 import requests
 import datetime
+import time
 
 def send_telegram_message(bot_token, chat_id, message):
     url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
@@ -24,12 +25,24 @@ if __name__ == "__main__":
         print("❌ TELEGRAM_BOT_TOKEN หรือ TELEGRAM_CHAT_ID ไม่ได้ตั้งค่า")
         exit(1)
 
-    # ใช้ไฟล์ flag กันส่งซ้ำ
-    flag_file = ".telegram_sent.flag"
-    if os.path.exists(flag_file):
-        print("✅ Telegram ส่งแล้วในรอบนี้ ไม่ส่งซ้ำ")
+    # ใช้ flag file + timestamp กันส่งซ้ำ
+    FLAG_FILE = ".telegram_sent.flag"
+    MAX_INTERVAL = 300  # 5 นาที
+    send_allowed = True
+
+    if os.path.exists(FLAG_FILE):
+        try:
+            last_sent = float(open(FLAG_FILE).read())
+            if time.time() - last_sent < MAX_INTERVAL:
+                send_allowed = False
+        except:
+            send_allowed = True  # ถ้าอ่านไฟล์ผิด ให้ส่ง
+
+    if not send_allowed:
+        print(f"✅ Telegram ส่งแล้วในช่วง {MAX_INTERVAL} วินาทีล่าสุด ไม่ส่งซ้ำ")
         exit(0)
 
+    # เวลาปัจจุบัน +7 ชั่วโมงไทย
     now = datetime.datetime.utcnow() + datetime.timedelta(hours=7)
     time_str = now.strftime("%d-%m-%Y %H:%M:%S")
 
@@ -37,10 +50,8 @@ if __name__ == "__main__":
 
     for folder_path in folders:
         try:
-            # list ไฟล์ .json และ .m3u
             files = [f for f in os.listdir(folder_path) if f.endswith((".json", ".m3u"))]
-            # ใช้ set ตัดไฟล์ซ้ำ
-            files = sorted(set(files))
+            files = sorted(set(files))  # ตัดไฟล์ซ้ำ
             if files:
                 message += f"🏷️ หมวด: {folder_path}\n"
                 for f in files:
@@ -51,9 +62,9 @@ if __name__ == "__main__":
         except Exception as e:
             message += f"❌ เกิดข้อผิดพลาดในการอ่าน {folder_path}: {e}\n\n"
 
-    # ส่งข้อความ Telegram
+    # ส่ง Telegram
     send_telegram_message(bot_token, chat_id, message)
 
-    # สร้าง flag file กันส่งซ้ำ
-    with open(flag_file, "w") as f:
-        f.write("sent")
+    # อัปเดต flag file
+    with open(FLAG_FILE, "w") as f:
+        f.write(str(time.time()))
