@@ -44,7 +44,7 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git checkout -B data-json
-          git add data/highlight_football/*.json #data/highlight_football/*.m3u
+          git add data/highlight_football/*.json data/highlight_football/*.m3u
           git commit -m "Auto update Highlight Football" || echo "No changes"
           git push origin data-json --force
 
