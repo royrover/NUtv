@@ -190,7 +190,7 @@ with open(m3u_file, 'w', encoding='utf-8') as f:
     m3u_content = "#EXTM3U\n"
     for station in data["stations"]:
         m3u_content += f'#EXTINF:-1 tvg-logo="{station["image"]}", group-title="LIVE SPORT", {station["name"].replace(":", "")}\n'
-        m3u_content += f'#EXTVLCOPT:http-user-agent={station["userAgent"]}\n'
+        m3u_content += f'#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36\n'
         m3u_content += f'#EXTVLCOPT:http-referrer={station["referer"]}\n'
         m3u_content += f'{station["url"]}\n'
     f.write(m3u_content)
