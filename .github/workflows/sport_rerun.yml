@@ -40,7 +40,7 @@ jobs:
       - name: List generated files
         run: ls -al data/sport_rerun/
 
-      # 6️⃣ Commit & Push JSON/M3U ไป branch แยก
+      # 6️⃣ Commit & Push JSON/M3U
       - name: Commit & Push JSON/M3U
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
