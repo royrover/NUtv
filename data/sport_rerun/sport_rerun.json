@@ -1,0 +1,27 @@
+{
+    "name": "Sport Replay",
+    "author": "royrover",
+    "date": "2025-09-10 10:42:35",
+    "groups": [
+        {
+            "name": "Update 2025-09-10 10:42:35",
+            "url": "",
+            "import": false
+        },
+        {
+            "name": "acdsport",
+            "url": "https://raw.githubusercontent.com/royrover/NUtv/refs/heads/main/data/sport_rerun/acdsport_replay.json",
+            "import": false
+        },
+        {
+            "name": "dookeela",
+            "url": "https://raw.githubusercontent.com/royrover/NUtv/refs/heads/main/data/sport_rerun/dookeela_rerun.json",
+            "import": false
+        },
+        {
+            "name": "goaldaddyth",
+            "url": "https://raw.githubusercontent.com/royrover/NUtv/refs/heads/main/data/sport_rerun/goaldaddyth.json",
+            "import": false
+        }
+    ]
+}

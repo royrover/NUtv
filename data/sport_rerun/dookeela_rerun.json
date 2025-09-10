@@ -2,8 +2,23 @@
     "name": "DOOKEELA Rerun",
     "image": "https://www.dropbox.com/scl/fi/0wslhpbbirva0wx4rlbzn/DKL.png?rlkey=37e1vu25obzmo5kikjkax30t7&st=7ey1fj5e&raw=1",
     "url": "",
-    "author": "update 10-09-2025 02:24:48",
+    "author": "update 10-09-2025 10:42:39",
     "stations": [
+        {
+            "name": "Serbia vs England | World Cup - Qualification Europe (10-09-2025)",
+            "image": "https://images.dookeela2.live/1ea51f4905fd47abb43f7ba22c817198:dkl-images-storage/rerun/1757476662.jpg",
+            "url": "https://ks7jcc.cdn.akamaiz.com/rerun/ฟุตบอลโลก 2026 รอบคัดเลือก โซนยุโรป 2026 -  เซอร์เบีย vs อังกฤษ [10-09-2025 01_45].mp4/playlist.m3u8"
+        },
+        {
+            "name": "Hungary vs Portugal | World Cup - Qualification Europe (10-09-2025)",
+            "image": "https://images.dookeela2.live/1ea51f4905fd47abb43f7ba22c817198:dkl-images-storage/rerun/1757476313.jpg",
+            "url": "https://ks7jcc.cdn.akamaiz.com/rerun/ฟุตบอลโลก 2026 รอบคัดเลือก โซนยุโรป 2026 - ฮังการี vs โปรตุเกส [10-09-2025 01_45].mp4/playlist.m3u8"
+        },
+        {
+            "name": "France vs Iceland | World Cup - Qualification Europe (10-09-2025)",
+            "image": "https://images.dookeela2.live/1ea51f4905fd47abb43f7ba22c817198:dkl-images-storage/rerun/1757475967.jpg",
+            "url": "https://ks7jcc.cdn.akamaiz.com/rerun/ฟุตบอลโลก 2026 รอบคัดเลือก โซนยุโรป 2026 - ฝรั่งเศส vs ไอซ์แลนด์ [10-09-2025 01_45].mp4/playlist.m3u8"
+        },
         {
             "name": "Israel vs Italy | World Cup - Qualification Europe (10-09-2025)",
             "image": "https://images.dookeela2.live/1ea51f4905fd47abb43f7ba22c817198:dkl-images-storage/rerun/1757470103.jpg",
