@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 1️⃣ Checkout repo
+      # 1️⃣ Checkout repository
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
@@ -35,7 +35,7 @@ jobs:
           python scripts/sport_rerun/dookeela_rerun.py
           python scripts/sport_rerun/goaldaddyth.py
 
-      # 5️⃣ Commit & Force Push JSON/M3U
+      # 5️⃣ Commit & Push JSON/M3U
       - name: Commit & Push JSON/M3U
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -46,9 +46,9 @@ jobs:
           git commit -m "Auto update Sport Rerun" || echo "No changes"
           git push origin main --force
 
-      # 6️⃣ Send Telegram Notification (ใช้ notify_telegram.py)
+      # 6️⃣ Send Telegram Notification (รอบเดียว)
       - name: Send Telegram Notification
-        if: ${{ github.event_name != 'push' }}
+        if: ${{ github.event_name == 'schedule' || github.event_name == 'workflow_dispatch' }}
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
