@@ -2,15 +2,12 @@ import os
 import json
 from datetime import datetime
 
-# บังคับใช้ folder จาก repo root
+# บังคับใช้ folder จาก root ของ repo
 SAVE_DIR = os.path.join(os.getcwd(), "data", "sport_rerun")
 os.makedirs(SAVE_DIR, exist_ok=True)
-print("SAVE_DIR:", SAVE_DIR)
 
-json_file = os.path.join(SAVE_DIR, "sport_rerun.json")  # ใช้ .json test ก่อน
-print("Will save JSON to:", json_file)
+json_file = os.path.join(SAVE_DIR, "sport_rerun.json")
 
-# ตัวอย่างข้อมูล
 data = {
     "name": "Sport Replay",
     "author": "royrover",
@@ -19,7 +16,7 @@ data = {
         {
             "name": f"Update {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}",
             "url": "",
-            "import": False,
+            "import": False
         },
         {
             "name": "acdsport",
@@ -42,11 +39,11 @@ data = {
 # เขียนไฟล์
 try:
     with open(json_file, "w", encoding="utf-8") as f:
-        json.dump(data, f, indent=4, ensure_ascii=False)
-    print("✅ File saved successfully:", json_file)
+        json.dump(data, f, ensure_ascii=False, indent=4)
+    print("✅ File created:", json_file)
 except Exception as e:
-    print("❌ Failed to save file:", e)
+    print("❌ Failed to create file:", e)
 
-# ตรวจสอบ folder
-print("Listing folder contents:")
+# ตรวจสอบ folder contents
+print("Listing folder contents after write:")
 print(os.listdir(SAVE_DIR))
