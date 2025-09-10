@@ -1,12 +1,12 @@
-name: Sport Rerun Update
+name: Highlight Football Update
 
 on:
   schedule:
-    - cron: '0 0,12 * * *'  # 07:00 และ 19:00 ไทย
+    - cron: '0 2,14 * * *'  # 09:00 และ 21:00 ไทย
   workflow_dispatch:
 
 jobs:
-  update_sport_rerun:
+  update_highlight_football:
     runs-on: ubuntu-latest
 
     steps:
@@ -25,11 +25,12 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4 lxml python-telegram-bot dropbox
 
-      - name: Run Sport Rerun Scripts
+      - name: Run Highlight Football Scripts
         run: |
-          python scripts/sport_rerun/acdsport_replay.py
-          python scripts/sport_rerun/dookeela_rerun.py
-          python scripts/sport_rerun/goaldaddyth.py
+          python scripts/highlight_football/buaksib_update.py
+          python scripts/highlight_football/dbidhl_update.py
+          python scripts/highlight_football/dlshl_update.py
+          python scripts/highlight_football/hugballhl_update.py
 
       - name: Commit & Push JSON/M3U
         env:
@@ -37,8 +38,8 @@ jobs:
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/sport_rerun/*.json data/sport_rerun/*.m3u
-          git commit -m "Auto update Sport Rerun" || echo "No changes"
+          git add data/highlight_football/*.json data/highlight_football/*.m3u
+          git commit -m "Auto update Highlight Football" || echo "No changes"
           git push origin main --force
 
       - name: Send Telegram Notification
@@ -46,4 +47,4 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
-          python notify_telegram.py data/sport_rerun
+          python notify_telegram.py data/highlight_football
