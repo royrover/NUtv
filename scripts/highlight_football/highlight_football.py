@@ -11,10 +11,10 @@ if SYSTEM == "Windows":
 elif SYSTEM == "Linux":
     SAVE_DIR = os.path.join(os.getcwd(), "data/highlight_football")
 else:  # Android (Termux)
-    SAVE_DIR = "/storage/emulated/0/htdocs/PYTHON/HL UPDATE /Highlight Football/"
+    SAVE_DIR = "/storage/emulated/0/htdocs/PYTHON/HL_UPDATE_/Highlight_Football"
 
 os.makedirs(SAVE_DIR, exist_ok=True)
-json_file = os.path.join(SAVE_DIR, "highlight_football.json")
+json_file = os.path.join(SAVE_DIR, "highlight_football.m3u")
 
 today_date = datetime.now().strftime("%Y-%m-%d")
 
@@ -61,4 +61,5 @@ with open(json_file, 'w', encoding='utf-8') as f:
     print(json.dumps(data, ensure_ascii=False, indent=4))
 
 print(f"\n✅ ข้อมูลถูกบันทึกในไฟล์ {json_file} เรียบร้อยแล้ว")
+
 
