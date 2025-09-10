@@ -2,7 +2,7 @@ name: Highlight Football Update
 
 on:
   schedule:
-    - cron: '15 0,12 * * *'  # รัน 07:15 และ 19:15 ตามเวลาไทย
+    - cron: '15 0,12 * * *'  # 07:15 และ 19:15 ไทย
   workflow_dispatch:
 
 jobs:
@@ -31,12 +31,13 @@ jobs:
       # 4️⃣ Run Highlight Football Scripts
       - name: Run Highlight Football Scripts
         run: |
-          python scripts/highlight_football/buaksibhl_update.py
+          python scripts/highlight_football/highlight_football.py
+          python scripts/highlight_football/buaksib_update.py
           python scripts/highlight_football/dbidhl_update.py
           python scripts/highlight_football/dlshl_update.py
           python scripts/highlight_football/hugballhl_update.py
 
-      # 5️⃣ Commit & Push JSON/M3U ไป main
+      # 5️⃣ Commit & Push JSON/M3U กลับไป main
       - name: Commit & Push JSON/M3U
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
