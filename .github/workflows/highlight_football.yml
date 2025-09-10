@@ -1,8 +1,9 @@
+# Highlight Football Update
 name: Highlight Football Update
 
 on:
   schedule:
-    - cron: '0 2,14 * * *'  # 09:00 และ 21:00 ไทย
+    - cron: '0 2,12 * * *'  # รันทุกวัน 09:00 และ 19:00 ไทย
   workflow_dispatch:
 
 jobs:
@@ -10,21 +11,25 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # 1️⃣ Checkout
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
 
+      # 2️⃣ Setup Python
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
           python-version: 3.13
 
+      # 3️⃣ Install dependencies
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4 lxml python-telegram-bot dropbox
 
+      # 4️⃣ Run scripts
       - name: Run Highlight Football Scripts
         run: |
           python scripts/highlight_football/buaksib_update.py
@@ -32,19 +37,22 @@ jobs:
           python scripts/highlight_football/dlshl_update.py
           python scripts/highlight_football/hugballhl_update.py
 
-      - name: Commit & Push JSON/M3U
+      # 5️⃣ Commit & Push JSON
+      - name: Commit & Push JSON
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/highlight_football/*.json data/highlight_football/*.m3u
+          git add data/highlight_football/*.json
           git commit -m "Auto update Highlight Football" || echo "No changes"
-          git push origin main --force
+          git push origin data-json --force
 
+      # 6️⃣ Send Telegram Notification (รันครั้งเดียว)
       - name: Send Telegram Notification
+        if: ${{ github.event_name == 'schedule' || github.event_name == 'workflow_dispatch' }}
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
-          python notify_telegram.py data/highlight_football
+          python scripts/notify_telegram.py data/highlight_football
