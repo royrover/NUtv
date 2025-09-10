@@ -27,24 +27,24 @@ data = {
             "url": "",
             "import": False,
         },
-{
-            "name": "goaldaddyth",
-            "image": "https://i1.sndcdn.com/avatars-sen5MqKQrKyo43a7-2M6hlg-t1080x1080.jpg",
-            "url": "",
-            "import": False
-        },
         {
             "name": "acdsport",
             "image": "https://i1.sndcdn.com/avatars-sen5MqKQrKyo43a7-2M6hlg-t1080x1080.jpg",
-            "url": "",
+            "url": "https://raw.githubusercontent.com/royrover/NUtv/refs/heads/main/data/sport_rerun/acdsport_replay.json?token=GHSAT0AAAAAADHBFSZ3QZUNSPDGF2Z7GQXO2GBIUKQ",
             "import": False
-        },
+        },        
         {
             "name": "dookeela",
             "image": "https://i1.sndcdn.com/avatars-sen5MqKQrKyo43a7-2M6hlg-t1080x1080.jpg",
-            "url": "",
+            "url": "https://raw.githubusercontent.com/royrover/NUtv/refs/heads/main/data/sport_rerun/dookeela_rerun.json?token=GHSAT0AAAAAADHBFSZ3NC2CD6EPA6LJ7ZXW2GBIVYA",
+            "import": False           
+        },
+        {
+            "name": "goaldaddyth",
+            "image": "https://i1.sndcdn.com/avatars-sen5MqKQrKyo43a7-2M6hlg-t1080x1080.jpg",
+            "url": "https://raw.githubusercontent.com/royrover/NUtv/refs/heads/main/data/sport_rerun/goaldaddyth.json?token=GHSAT0AAAAAADHBFSZ27JPHYBXL42L5BMNW2GBIWFQ",
             "import": False
-        }
+        }        
     ]
 }
 
