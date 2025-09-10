@@ -19,6 +19,7 @@ else:  # Android (Termux)
 
 os.makedirs(SAVE_DIR, exist_ok=True)
 json_file = os.path.join(SAVE_DIR, "buaksibhl.json")
+m3u_file = os.path.join(SAVE_DIR, "buaksibhl.m3u")
 
 url = 'https://www.buaksib.com/football-highlights/'
 headers1 = {
@@ -31,21 +32,18 @@ response = requests.get(url, headers=headers1)
 
 def fetch_video_links(video_url):
     try:
-        response = requests.get(video_url)
-        if response.status_code != 200:
-            print(f"⚠️ ไม่สามารถโหลดหน้า {video_url}")
-            return None
-
-        match = re.search(r'"reserveEmbed3":"(https://.*?)",', response.text)
+        response = requests.get(video_url, timeout=10)
+        response.raise_for_status()
+        match = re.search(r'"reserveEmbed3":"(https://.*?)"', response.text)
         if match:
             return match.group(1)
         else:
             print(f"⚠️ ไม่พบลิงก์วิดีโอใน {video_url}")
             return None
-
-    except Exception as e:
-        print(f"❌ เกิดข้อผิดพลาด: {e}")
+    except requests.RequestException as e:
+        print(f"❌ เกิดข้อผิดพลาด: {e} ที่ {video_url}")
         return None
+
 
 if os.path.exists(json_file):
     with open(json_file, "r", encoding="utf-8") as f:
@@ -187,5 +185,14 @@ data["author"] = f"update {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}"
 with open(json_file, 'w', encoding='utf-8') as f:
     json.dump(data, f, ensure_ascii=False, indent=4)
 
-print(f"✅ บันทึกไฟล์ {json_file} เรียบร้อยแล้ว")
 
+with open(m3u_file, 'w', encoding='utf-8') as f:
+    m3u_content = "#EXTM3U\n"
+    for station in data["stations"]:
+        m3u_content += f'#EXTINF:-1 tvg-logo="{station["image"]}", group-title="LIVE SPORT", {station["name"].replace(":", "")}\n'
+        m3u_content += f'#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36\n'
+        m3u_content += f'#EXTVLCOPT:http-referrer={station["referer"]}\n'
+        m3u_content += f'{station["url"]}\n'
+    f.write(m3u_content)
+
+print(f"✅ บันทึกไฟล์ {json_file} และ {m3u_file} เรียบร้อยแล้ว")
