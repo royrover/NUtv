@@ -5,7 +5,7 @@
     "url": "",
     "groups": [
         {
-            "name": "Update 2025-09-10 19:17:59",
+            "name": "Update 2025-09-10 19:46:00",
             "image": "https://i.pinimg.com/originals/2c/64/60/2c6460852e1c2a13a3e7ac8bea39acd3.gif",
             "url": "",
             "import": false
@@ -13,19 +13,19 @@
         {
             "name": "acdsport",
             "image": "https://i1.sndcdn.com/avatars-sen5MqKQrKyo43a7-2M6hlg-t1080x1080.jpg",
-            "url": "https://raw.githubusercontent.com/royrover/NUtv/main/data/sport_rerun/acdsport_replay.json",
+            "url": "https://raw.githubusercontent.com/royrover/NUtv/refs/heads/main/data/sport_rerun/acdsport_replay.json?token=GHSAT0AAAAAADK2IVYYUHTE6EA6RBEZ5QPK2GBN5ZQ",
             "import": false
         },
         {
             "name": "dookeela",
             "image": "https://i1.sndcdn.com/avatars-sen5MqKQrKyo43a7-2M6hlg-t1080x1080.jpg",
-            "url": "https://raw.githubusercontent.com/royrover/NUtv/main/data/sport_rerun/dookeela_rerun.json",
+            "url": "https://raw.githubusercontent.com/royrover/NUtv/refs/heads/main/data/sport_rerun/dookeela_rerun.json?token=GHSAT0AAAAAADK2IVYYYIL4Y6BHLQ6LEVRG2GBN7JA",
             "import": false
         },
         {
             "name": "goaldaddyth",
             "image": "https://i1.sndcdn.com/avatars-sen5MqKQrKyo43a7-2M6hlg-t1080x1080.jpg",
-            "url": "https://raw.githubusercontent.com/royrover/NUtv/main/data/sport_rerun/goaldaddyth.json",
+            "url": "https://raw.githubusercontent.com/royrover/NUtv/refs/heads/main/data/sport_rerun/goaldaddyth.json?token=GHSAT0AAAAAADK2IVYYNDL5AVTNDS7SAYK62GBN76A",
             "import": false
         }
     ]
