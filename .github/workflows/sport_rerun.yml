@@ -44,7 +44,7 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git checkout -B data-json
-          git add data/sport_rerun/*.json data/sport_rerun/*.m3u
+          git add data/sport_rerun/*
           git commit -m "Auto update Sport Rerun" || echo "No changes"
           git push origin data-json --force
 
