@@ -1,39 +1,41 @@
-import requests
 import os
 import sys
-import logging
-import time
+import requests
 
-# ตั้งค่า logging
-logging.basicConfig(filename="telegram_notify.log", level=logging.INFO,
-                    format="%(asctime)s - %(levelname)s - %(message)s")
-
-def send_telegram_message(bot_token, chat_id, message, retries=3):
+def send_telegram_message(bot_token, chat_id, message):
     url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
     payload = {"chat_id": chat_id, "text": message, "parse_mode": "HTML"}
-
-    for attempt in range(1, retries + 1):
-        try:
-            resp = requests.post(url, data=payload, timeout=10)
-            resp.raise_for_status()
-            logging.info("✅ ส่งข้อความ Telegram สำเร็จ")
-            print("✅ ส่งข้อความ Telegram สำเร็จ")
-            return True
-        except Exception as e:
-            logging.warning(f"❌ ครั้งที่ {attempt} ส่งไม่สำเร็จ: {e}")
-            print(f"❌ ครั้งที่ {attempt} ส่งไม่สำเร็จ: {e}")
-            time.sleep(3)  # รอ 3 วินาทีแล้วลองใหม่
-    logging.error("❌ ส่งข้อความ Telegram ไม่สำเร็จหลังจาก retry ทั้งหมด")
-    return False
+    try:
+        resp = requests.post(url, data=payload, timeout=10)
+        resp.raise_for_status()
+        print("✅ ส่งข้อความ Telegram สำเร็จ")
+    except Exception as e:
+        print(f"❌ ส่งข้อความ Telegram ไม่สำเร็จ: {e}")
 
 if __name__ == "__main__":
-    message = sys.argv[1] if len(sys.argv) > 1 else "สวัสดีจาก GitHub Action!"
-    
+    # กำหนดหลาย folder ผ่าน argument หรือ default
+    folders = sys.argv[1:] or ["data/highlight_football", "data/sport_rerun"]
+
     bot_token = os.getenv("TELEGRAM_BOT_TOKEN")
     chat_id = os.getenv("TELEGRAM_CHAT_ID")
-    
+
     if not bot_token or not chat_id:
         print("❌ TELEGRAM_BOT_TOKEN หรือ TELEGRAM_CHAT_ID ไม่ได้ตั้งค่า")
         sys.exit(1)
-    
+
+    message = "📁 อัปโหลดไฟล์สำเร็จ:\n\n"
+
+    for folder_path in folders:
+        try:
+            files = [f for f in os.listdir(folder_path) if f.endswith(".json")]
+            if files:
+                message += f"🏷️ หมวด: {folder_path}\n"
+                for f in files:
+                    message += f"✅ /{folder_path}/{f}\n"
+                message += "\n"
+            else:
+                message += f"⚠️ หมวด: {folder_path} ไม่มีไฟล์ .json\n\n"
+        except Exception as e:
+            message += f"❌ เกิดข้อผิดพลาดในการอ่าน {folder_path}: {e}\n\n"
+
     send_telegram_message(bot_token, chat_id, message)
