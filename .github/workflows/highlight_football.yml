@@ -31,10 +31,10 @@ jobs:
       # 4️⃣ Run Highlight Football Scripts
       - name: Run Highlight Football Scripts
         run: |
-          python scripts/highlight_football/buaksibhl.py
-          python scripts/highlight_football/dbidhl.py
-          python scripts/highlight_football/dlshl.py
-          python scripts/highlight_football/hugballhl.py
+          python scripts/highlight_football/buaksibhl_update.py
+          python scripts/highlight_football/dbidhl_update.py
+          python scripts/highlight_football/dlshl_update.py
+          python scripts/highlight_football/hugballhl_update.py
 
       # 5️⃣ Commit & Push JSON/M3U ไป main
       - name: Commit & Push JSON/M3U
