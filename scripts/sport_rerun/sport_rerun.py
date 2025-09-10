@@ -2,6 +2,7 @@ import json
 import os
 import platform
 from datetime import datetime
+from zoneinfo import ZoneInfo  # สำหรับตั้ง timezone
 
 # === ตรวจสอบระบบปฏิบัติการ ===
 SYSTEM = platform.system()
@@ -15,10 +16,13 @@ else:  # Android (Termux)
 # สร้างโฟลเดอร์ถ้ายังไม่มี
 os.makedirs(SAVE_DIR, exist_ok=True)
 
-# ตั้งชื่อไฟล์ (ให้เป็น .json ไปเลยนะครับ)
+# ตั้งชื่อไฟล์ (ให้เป็น .json)
 json_file = os.path.join(SAVE_DIR, "sport_rerun.json")
 
-# ข้อมูลตัวอย่าง (จริง ๆ คุณณุจะมี script scrape ของแต่ละเว็บมาลงตรงนี้)
+# เวลาไทย
+now_th = datetime.now(ZoneInfo("Asia/Bangkok"))
+
+# ข้อมูลตัวอย่าง
 data = {
     "name": "Sport Replay",
     "author": "royrover",
@@ -26,7 +30,7 @@ data = {
     "url": "",
     "groups": [
         {
-            "name": f"Update {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}",
+            "name": f"Update {now_th.strftime('%Y-%m-%d %H:%M:%S')}",  # เวลาไทยตรง ๆ
             "image": "https://i.pinimg.com/originals/2c/64/60/2c6460852e1c2a13a3e7ac8bea39acd3.gif",
             "url": "",
             "import": False,
