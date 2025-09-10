@@ -13,7 +13,7 @@ else:  # Android (Termux)
     SAVE_DIR = "/storage/emulated/0/htdocs/PYTHON/live_sport"
     
 os.makedirs(SAVE_DIR, exist_ok=True)
-json_file = os.path.join(SAVE_DIR, "sport_rerun.m3u")
+json_file = os.path.join(SAVE_DIR, "sport_rerun.json")
 
 data = {
     "name": "Sport Replay",
