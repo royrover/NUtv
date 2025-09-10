@@ -2,8 +2,56 @@
     "name": "highlights football buaksib",
     "image": "https://www.buaksib.com/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Flogo-summer.5abd78a6.png&w=256&q=75",
     "url": "",
-    "author": "update 2025-09-09 06:13:07",
+    "author": "update 2025-09-10 11:35:31",
     "stations": [
+        {
+            "name": "⚽ โบลิเวีย พบ บราซิล 10.09.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/09/Bolivia_Vs_Brazil_09_09_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Bolivia_Vs_Brazil_09_09_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ เอกวาดอร์ พบ อาร์เจนติน่า 10.09.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/09/Ecuador_Vs_Argentina_09_09_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Ecuador_Vs_Argentina_09_09_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ เซอร์เบีย พบ อังกฤษ 09.09.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/09/Serbia_Vs_England_09_09_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Serbia_Vs_England_09_09_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ ฮังการี พบ โปรตุเกส 09.09.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/09/Hungary_Vs_Portugal_09_09_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Hungary_Vs_Portugal_09_09_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ ฝรั่งเศส พบ ไอซ์แลนด์ 09.09.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/09/France_Vs_Iceland_09_09_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/France_Vs_Iceland_09_09_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ ไทย U23 พบ มาเลเซีย U23 09.09.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/09/Thailand_Vs_Malaysia_09_09_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Thailand_Vs_Malaysia_09_09_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ โครเอเชีย พบ มอนเตเนโกร 08.09.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/09/Croatia_Vs_Montenegro_08_09_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Croatia_Vs_Montenegro_08_09_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ อิสราเอล พบ อิตาลี่ 08.09.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/09/Israel_Vs_Italy_08_09_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Israel_Vs_Italy_08_09_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
         {
             "name": "⚽ ตุรกี พบ สเปน 07.09.2025 ไฮไลท์ฟุตบอล",
             "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/09/Turkey_Vs_Spain_07_09_25.jpg",
