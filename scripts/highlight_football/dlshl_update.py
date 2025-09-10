@@ -1,3 +1,4 @@
+
 import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
@@ -18,6 +19,7 @@ else:  # Android (Termux)
 
 os.makedirs(SAVE_DIR, exist_ok=True)
 json_file = os.path.join(SAVE_DIR, "dlshl.json")
+m3u_file = os.path.join(SAVE_DIR, "dlshl.m3u")
 
 # โหลดไฟล์ JSON เก่า
 if os.path.exists(json_file):
@@ -149,5 +151,15 @@ with open(json_file, 'w', encoding='utf-8') as file:
     json.dump(data, file, ensure_ascii=False, indent=4)
 
 #print(json.dumps(data, ensure_ascii=False, indent=4))
-print(f"✅ File {json_file} updated successfully.")
+
+with open(m3u_file, 'w', encoding='utf-8') as file:
+    m3u_content = "#EXTM3U\n"
+    for station in data["stations"]:
+        m3u_content += f'#EXTINF:-1 tvg-logo="{station["image"]}", group-title="LIVE SPORT", {station["name"].replace(":", "")}\n'
+        m3u_content += f'#EXTVLCOPT:http-user-agent={station["userAgent"]}\n'
+        m3u_content += f'#EXTVLCOPT:http-referrer={station["referer"]}\n'
+        m3u_content += f'{station["url"]}\n'
+    file.write(m3u_content)
+
+print(f"✅ File {json_file} และ {m3u_file} updated successfully.")
 
