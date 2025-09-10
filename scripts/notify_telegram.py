@@ -1,6 +1,7 @@
 import os
 import sys
 import requests
+import datetime
 
 def send_telegram_message(bot_token, chat_id, message):
     url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
@@ -19,16 +20,19 @@ if __name__ == "__main__":
 
     if not bot_token or not chat_id:
         print("❌ TELEGRAM_BOT_TOKEN หรือ TELEGRAM_CHAT_ID ไม่ได้ตั้งค่า")
-        sys.exit(1)
+        exit(1)
 
-    message = "📁 อัปโหลดไฟล์สำเร็จ:\n\n"
+    now = datetime.datetime.utcnow() + datetime.timedelta(hours=7)
+    time_str = now.strftime("%d-%m-%Y %H:%M:%S")
+
+    message = f"📁 อัปโหลดไฟล์สำเร็จ:\n\nเวลา: {time_str}\n\n"
 
     for folder_path in folders:
         try:
             files = [f for f in os.listdir(folder_path) if f.endswith((".json", ".m3u"))]
             if files:
                 message += f"🏷️ หมวด: {folder_path}\n"
-                for f in files:
+                for f in sorted(files):
                     message += f"✅ /{folder_path}/{f}\n"
                 message += "\n"
             else:
@@ -37,3 +41,4 @@ if __name__ == "__main__":
             message += f"❌ เกิดข้อผิดพลาดในการอ่าน {folder_path}: {e}\n\n"
 
     send_telegram_message(bot_token, chat_id, message)
+
