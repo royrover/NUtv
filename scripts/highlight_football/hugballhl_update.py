@@ -1,3 +1,4 @@
+
 import requests
 from bs4 import BeautifulSoup
 import json
@@ -17,6 +18,7 @@ else:  # Android (Termux)
 
 os.makedirs(SAVE_DIR, exist_ok=True)
 json_file = os.path.join(SAVE_DIR, "hugballhl.json")
+m3u_file = os.path.join(SAVE_DIR, "hugballhl.m3u")
 
 def fetch_video_data(url, headers):
     try:
@@ -148,8 +150,18 @@ data["author"] = f"update {datetime.now().strftime('%d-%m-%Y %H:%M:%S')}"
 # เขียนไฟล์
 with open(json_file, 'w', encoding='utf-8') as file:
     json.dump(data, file, ensure_ascii=False, indent=4)
+    
+    
+with open(m3u_file, 'w', encoding='utf-8') as file:
+    m3u_content = "#EXTM3U\n"
+    for station in data["stations"]:
+        m3u_content += f'#EXTINF:-1 tvg-logo="{station["image"]}", group-title="LIVE SPORT", {station["name"].replace(":", "")}\n'
+        m3u_content += f'#EXTVLCOPT:http-user-agent={station["userAgent"]}\n'
+        m3u_content += f'#EXTVLCOPT:http-referrer={station["referer"]}\n'
+        m3u_content += f'{station["url"]}\n'
+    file.write(m3u_content)
 
-print(f"✅ File {json_file} updated successfully.")
+print(f"✅ File {json_file} และ {m3u_file} updated successfully.")
 
 
 
