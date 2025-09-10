@@ -2,6 +2,7 @@ import json
 import os
 import platform
 from datetime import datetime
+from zoneinfo import ZoneInfo  # สำหรับตั้ง timezone
 
 # === ตรวจสอบระบบปฏิบัติการ ===
 SYSTEM = platform.system()
@@ -13,10 +14,13 @@ elif SYSTEM == "Linux":
 else:  # Android (Termux)
     SAVE_DIR = "/storage/emulated/0/htdocs/PYTHON/HL_UPDATE_/Highlight_Football"
 
+# สร้างโฟลเดอร์ถ้ายังไม่มี
 os.makedirs(SAVE_DIR, exist_ok=True)
+
 json_file = os.path.join(SAVE_DIR, "highlight_football.m3u")
 
-today_date = datetime.now().strftime("%Y-%m-%d")
+# เวลาไทย
+today_date = datetime.now(ZoneInfo("Asia/Bangkok")).strftime("%Y-%m-%d")
 
 data = {
     "name": "Highlight Football",
@@ -24,42 +28,41 @@ data = {
     "url": "http://tiny.cc/HL112777",
     "groups": [
         {
-        "name": f"{today_date} (เรียงตามวันที่ Update) ==>",
-        "image": "https://i.pinimg.com/originals/2c/64/60/2c6460852e1c2a13a3e7ac8bea39acd3.gif",
-        "url": "",
-        "import": False,
+            "name": f"{today_date} (เรียงตามวันที่ Update) ==>",
+            "image": "https://i.pinimg.com/originals/2c/64/60/2c6460852e1c2a13a3e7ac8bea39acd3.gif",
+            "url": "",
+            "import": False,
         },
         {
-        "name": "HUGBALL Highlight",
-        "image": "https://dl.dropbox.com/scl/fi/6wgozsv2npilnesejb57s/hugball.png?rlkey=8nhnay0m06x1uyaab46op1a78&st=1rcnmyc1&dl=0",
-        "url": "https://dl.dropbox.com/scl/fi/7tv8jfl2fu7ptwfhm2jyx/hugballhl.w3u?rlkey=xpzl58r3cg3ir5gf87s6pd2yd&st=2wrz7t8r&dl=0",
-        "import": False
+            "name": "HUGBALL Highlight",
+            "image": "https://dl.dropbox.com/scl/fi/6wgozsv2npilnesejb57s/hugball.png?rlkey=8nhnay0m06x1uyaab46op1a78&st=1rcnmyc1&dl=0",
+            "url": "https://dl.dropbox.com/scl/fi/7tv8jfl2fu7ptwfhm2jyx/hugballhl.w3u?rlkey=xpzl58r3cg3ir5gf87s6pd2yd&st=2wrz7t8r&dl=0",
+            "import": False
         },
         {
-        "name": "Buaksib Highlight",
-        "image": "https://dl.dropbox.com/scl/fi/o9whi4gtwhevafw41fb5c/buaksib.png?rlkey=fsrnpq55y5ybsddn4svsvffcd&st=bv66w6bo&dl=0",
-        "url": "https://dl.dropbox.com/scl/fi/6caphn6y6f1l9z2mj4cjm/buaksibhl.w3u?rlkey=9lp73dgx3yij8d5vbdbguo1tu&st=wfpvdgei&dl=0",
-        "import": False
+            "name": "Buaksib Highlight",
+            "image": "https://dl.dropbox.com/scl/fi/o9whi4gtwhevafw41fb5c/buaksib.png?rlkey=fsrnpq55y5ybsddn4svsvffcd&st=bv66w6bo&dl=0",
+            "url": "https://dl.dropbox.com/scl/fi/6caphn6y6f1l9z2mj4cjm/buaksibhl.w3u?rlkey=9lp73dgx3yij8d5vbdbguo1tu&st=wfpvdgei&dl=0",
+            "import": False
         },
         {
-        "name": "Dooballid Highlight",
-        "image": "https://dl.dropbox.com/scl/fi/jsbor6kauv3tz0dkf4x0d/dooballid.png?rlkey=qj93d4gz8kg0w6v759bkob4kl&st=xu18ha7g&dl=0",
-        "url": "https://dl.dropbox.com/scl/fi/hw8el5fsspkyqgtt23qvd/dbidhl.w3u?rlkey=vl74squo3v3jqtqnkwq9jfulb&st=3u6xdbxf&dl=0",
-        "import": False
+            "name": "Dooballid Highlight",
+            "image": "https://dl.dropbox.com/scl/fi/jsbor6kauv3tz0dkf4x0d/dooballid.png?rlkey=qj93d4gz8kg0w6v759bkob4kl&st=xu18ha7g&dl=0",
+            "url": "https://dl.dropbox.com/scl/fi/hw8el5fsspkyqgtt23qvd/dbidhl.w3u?rlkey=vl74squo3v3jqtqnkwq9jfulb&st=3u6xdbxf&dl=0",
+            "import": False
         },
         {
-        "name": "demo-live.siamzeed Highlight",
-        "image": "https://dl.dropbox.com/scl/fi/6k28rfw01frni4e9fqpjs/DBSZ.png?rlkey=vaqtxgro9jas48to32pp5ybzq&st=a7j0tl6b&dl=0",
-        "url": "https://dl.dropbox.com/scl/fi/d4p7170362xdt9w4civz1/dlshl.w3u?rlkey=vwo771m3hxnzy0suvtf5jan77&st=fcyycp7u&dl=0",
-        "import": False
+            "name": "demo-live.siamzeed Highlight",
+            "image": "https://dl.dropbox.com/scl/fi/6k28rfw01frni4e9fqpjs/DBSZ.png?rlkey=vaqtxgro9jas48to32pp5ybzq&st=a7j0tl6b&dl=0",
+            "url": "https://dl.dropbox.com/scl/fi/d4p7170362xdt9w4civz1/dlshl.w3u?rlkey=vwo771m3hxnzy0suvtf5jan77&st=fcyycp7u&dl=0",
+            "import": False
          }
      ]
 }
 
+# === เขียนไฟล์ JSON/M3U ===
 with open(json_file, 'w', encoding='utf-8') as f:
     json.dump(data, f, ensure_ascii=False, indent=4)
     print(json.dumps(data, ensure_ascii=False, indent=4))
 
 print(f"\n✅ ข้อมูลถูกบันทึกในไฟล์ {json_file} เรียบร้อยแล้ว")
-
-
