@@ -14,7 +14,7 @@ else:  # Android (Termux)
     SAVE_DIR = "/storage/emulated/0/htdocs/PYTHON/HL UPDATE /Highlight Football/"
 
 os.makedirs(SAVE_DIR, exist_ok=True)
-json_file = os.path.join(SAVE_DIR, "highlight_football.m3u")
+json_file = os.path.join(SAVE_DIR, "highlight_football.json")
 
 today_date = datetime.now().strftime("%Y-%m-%d")
 
