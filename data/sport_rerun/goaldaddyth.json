@@ -2,8 +2,43 @@
     "name": "Sports Replays",
     "image": "https://www.goaldaddyth.com/logos/goaldaddy-logo.webp",
     "url": "",
-    "author": "update 10-09-2025 00:44:20",
+    "author": "update 10-09-2025 02:24:49",
     "stations": [
+        {
+            "name": "อเมริกาใต้ - ฟีฟ่า เวิลด์คัพ (รอบคัดเลือก) - โบลิเวีย vs บราซิล",
+            "image": "https://media.gq.com/photos/59e76aaaf964810d9a9b8d2f/16:9/w_1600,c_limit/GQ_50Greatest_final_v2.jpg",
+            "url": "https://playback.gdd599.vip/live-1DCCB37EFB43972C0751E9A65F6AE238-20250910074036.mp4",
+            "referer": "https://www.goaldaddyth.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        },
+        {
+            "name": "อเมริกาใต้ - ฟีฟ่า เวิลด์คัพ (รอบคัดเลือก) - เวเนซุเอลา vs โคลัมเบีย",
+            "image": "https://media.gq.com/photos/59e76aaaf964810d9a9b8d2f/16:9/w_1600,c_limit/GQ_50Greatest_final_v2.jpg",
+            "url": "https://playback.gdd599.vip/live-C9D161EC683AA8D25DF2F0311F8F6940-20250910074120.mp4",
+            "referer": "https://www.goaldaddyth.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        },
+        {
+            "name": "อเมริกาใต้ - ฟีฟ่า เวิลด์คัพ (รอบคัดเลือก) - ชิลี vs อุรุกวัย",
+            "image": "https://media.gq.com/photos/59e76aaaf964810d9a9b8d2f/16:9/w_1600,c_limit/GQ_50Greatest_final_v2.jpg",
+            "url": "https://playback.gdd599.vip/live-FABD0AEEE1DB4466830C4C656D836C49-20250910074253.mp4",
+            "referer": "https://www.goaldaddyth.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        },
+        {
+            "name": "อเมริกาใต้ - ฟีฟ่า เวิลด์คัพ (รอบคัดเลือก) - เปรู vs ปารากวัย",
+            "image": "https://media.gq.com/photos/59e76aaaf964810d9a9b8d2f/16:9/w_1600,c_limit/GQ_50Greatest_final_v2.jpg",
+            "url": "https://playback.gdd599.vip/live-FDC038C86D14B1B96EA6E400CC19B40B-20250910074350.mp4",
+            "referer": "https://www.goaldaddyth.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        },
+        {
+            "name": "อเมริกาใต้ - ฟีฟ่า เวิลด์คัพ (รอบคัดเลือก) - เอกวาดอร์ vs อาร์เจนตินา",
+            "image": "https://media.gq.com/photos/59e76aaaf964810d9a9b8d2f/16:9/w_1600,c_limit/GQ_50Greatest_final_v2.jpg",
+            "url": "https://playback.gdd599.vip/live-600CF2120FDEE82B7621445DE649EA9B-20250910070038.mp4",
+            "referer": "https://www.goaldaddyth.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        },
         {
             "name": "ฟุตบอลโลกโซนยุโรป - รอบคัดเลือก - ฮังการี vs โปรตุเกส",
             "image": "https://media.livekickgoal.com/livestream/manualthumbnails/69871.webp?nocache=1757214459170",

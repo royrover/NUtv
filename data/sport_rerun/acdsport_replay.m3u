@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/2381.png", group-title="LIVE SPORT", Sep 09 - 2330 World Cup - Qualification South America Bolivia vs Brazil
+https://vod.starxcdn.xyz/vod/espn0-1757460600-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/2382.png", group-title="LIVE SPORT", Sep 09 - 2300 World Cup - Qualification South America Ecuador vs Argentina
+https://vod.starxcdn.xyz/vod/uk_premiersports1-1757458800-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.azencode.com/upload/Football/Hungary.png", group-title="LIVE SPORT", Sep 09 - 1845 World Cup - Qualification Europe Hungary vs Portugal
 https://vod.starxcdn.xyz/vod/live03-1757443500-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.azencode.com/teams/14.png", group-title="LIVE SPORT", Sep 09 - 1845 World Cup - Qualification Europe Serbia vs England

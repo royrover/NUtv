@@ -2,8 +2,22 @@
     "name": "acdsport replay",
     "image": "https://acdsport.com/acd/social.jpg",
     "url": "https://dl.dropbox.com/scl/fi/2lk9rp530f3mh8sn095pu/acdsport_replay.json?rlkey=ikxvfvv3nljrwb9xervk3r9mp&st=6nqt04sc&dl=0",
-    "author": "update 10-09-2025 00:44:17",
+    "author": "update 10-09-2025 02:24:47",
     "stations": [
+        {
+            "name": "Sep 09 - 23:30 World Cup - Qualification South America Bolivia vs Brazil",
+            "image": "https://image.azencode.com/teams/2381.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn0-1757460600-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Sep 09 - 23:00 World Cup - Qualification South America Ecuador vs Argentina",
+            "image": "https://image.azencode.com/teams/2382.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_premiersports1-1757458800-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
         {
             "name": "Sep 09 - 18:45 World Cup - Qualification Europe Hungary vs Portugal",
             "image": "https://image.azencode.com/upload/Football/Hungary.png",
