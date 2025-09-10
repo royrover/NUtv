@@ -35,57 +35,7 @@ jobs:
           python scripts/sport_rerun/dookeela_rerun.py
           python scripts/sport_rerun/goaldaddyth.py
 
-      # 5️⃣ Send Telegram Notification
-      - name: Send Telegram Notification
-        if: ${{ (github.event_name == 'schedule' || github.event_name == 'workflow_dispatch') && github.actor != 'github-actions[bot]' }}
-
-
-        env:
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        run: |
-          python - <<EOF
-          import os
-          import datetime
-          import requests
-
-          files = [
-              "acdsport_replay.json",
-              "acdsport_replay.m3u",
-              "dookeela_rerun.json",
-              "dookeela_rerun.m3u",
-              "goaldaddyth.json",
-              "goaldaddyth.m3u",
-          ]
-
-          token = os.environ.get("TELEGRAM_BOT_TOKEN")
-          chat_id = os.environ.get("TELEGRAM_CHAT_ID")
-
-          if not token or not chat_id:
-              print("❌ Telegram token หรือ chat_id ไม่ถูกต้อง")
-              exit(1)
-
-          time_now = datetime.datetime.utcnow() + datetime.timedelta(hours=7)
-          time_str = time_now.strftime("%d-%m-%Y %H:%M:%S")
-
-          msg = "📁 อัปโหลด Sport Rerun สำเร็จ:\n\n"
-          for f in files:
-              msg += f"✅ /data/sport_rerun/{f}\n"
-          msg += f"\n🎉 อัปโหลดทั้งหมดเสร็จสิ้นแล้ว {time_str}"
-
-          r = requests.post(
-              f"https://api.telegram.org/bot{token}/sendMessage",
-              data={"chat_id": chat_id, "text": msg}
-          )
-
-          print(f"Telegram response: {r.status_code} {r.text}")
-          if r.status_code != 200:
-              print("❌ ส่งข้อความ Telegram ไม่สำเร็จ")
-          else:
-              print("✅ ส่งข้อความ Telegram สำเร็จ")
-          EOF
-
-      # 6️⃣ Commit & Force Push JSON/M3U
+      # 5️⃣ Commit & Force Push JSON/M3U
       - name: Commit & Push JSON/M3U
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -95,3 +45,12 @@ jobs:
           git add data/sport_rerun/*.json data/sport_rerun/*.m3u
           git commit -m "Auto update Sport Rerun" || echo "No changes"
           git push origin main --force
+
+      # 6️⃣ Send Telegram Notification (ใช้ notify_telegram.py)
+      - name: Send Telegram Notification
+        if: ${{ github.event_name != 'push' }}
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          python scripts/notify_telegram.py data/sport_rerun
