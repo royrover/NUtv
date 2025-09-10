@@ -36,7 +36,11 @@ jobs:
           python scripts/sport_rerun/dookeela_rerun.py
           python scripts/sport_rerun/goaldaddyth.py
 
-      # 5️⃣ Commit & Push JSON/M3U ไป branch แยก
+      # 5️⃣ Debug: list generated files
+      - name: List generated files
+        run: ls -al data/sport_rerun/
+
+      # 6️⃣ Commit & Push JSON/M3U ไป branch แยก
       - name: Commit & Push JSON/M3U
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -48,7 +52,7 @@ jobs:
           git commit -m "Auto update Sport Rerun" || echo "No changes"
           git push origin data-json --force
 
-      # 6️⃣ Send Telegram Notification (รอบเดียว)
+      # 7️⃣ Send Telegram Notification
       - name: Send Telegram Notification
         if: ${{ (github.event_name == 'schedule' || github.event_name == 'workflow_dispatch') && github.actor != 'github-actions[bot]' }}
         env:
