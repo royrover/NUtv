@@ -6,6 +6,7 @@ import json
 import re
 import os
 import platform
+from zoneinfo import ZoneInfo  # สำหรับตั้ง timezone
 
 # === ตรวจสอบระบบปฏิบัติการ ===
 SYSTEM = platform.system()
@@ -20,6 +21,9 @@ else:  # Android (Termux)
 os.makedirs(SAVE_DIR, exist_ok=True)
 json_file = os.path.join(SAVE_DIR, "dlshl.json")
 m3u_file = os.path.join(SAVE_DIR, "dlshl.m3u")
+
+# เวลาไทย
+today_date = datetime.now(ZoneInfo("Asia/Bangkok")).strftime("%Y-%m-%d")
 
 # โหลดไฟล์ JSON เก่า
 if os.path.exists(json_file):
@@ -162,4 +166,5 @@ with open(m3u_file, 'w', encoding='utf-8') as file:
     file.write(m3u_content)
 
 print(f"✅ File {json_file} และ {m3u_file} updated successfully.")
+
 
