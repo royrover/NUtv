@@ -23,7 +23,7 @@ json_file = os.path.join(SAVE_DIR, "buaksibhl.json")
 m3u_file = os.path.join(SAVE_DIR, "buaksibhl.m3u")
 
 # เวลาไทย
-today_date = datetime.now(ZoneInfo("Asia/Bangkok")).strftime("%Y-%m-%d")
+now_th = datetime.now(ZoneInfo("Asia/Bangkok"))
 
 url = 'https://www.buaksib.com/football-highlights/'
 headers1 = {
