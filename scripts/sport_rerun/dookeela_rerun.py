@@ -111,7 +111,7 @@ for page in range(1, 4):  # ✅ หน้า 1-3
         print("❌ ไม่พบข้อมูลในหน้านี้")
 
 data["stations"] = new_stations + data["stations"]
-data["author"] = f"update {datetime.now().strftime('%d-%m-%Y %H:%M:%S')}"
+data["author"] = f"update {now_th.strftime('%d-%m-%Y %H:%M:%S')}"
 data["url"] = ""
 
 with open(json_file, "w", encoding="utf-8") as f:
