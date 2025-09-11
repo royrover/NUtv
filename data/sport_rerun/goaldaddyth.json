@@ -2,8 +2,36 @@
     "name": "Sports Replays",
     "image": "https://www.goaldaddyth.com/logos/goaldaddy-logo.webp",
     "url": "",
-    "author": "update 10-09-2025 12:46:04",
+    "author": "update 11-09-2025 00:45:12",
     "stations": [
+        {
+            "name": "พรีเมียร์ลีก อินเตอร์เนชั่นแนลคัพ U21 (อังกฤษ) - เลสเตอร์ ซิตี้ U21 vs Juventus U21",
+            "image": "https://media.livekickgoal.com/livestream/manualthumbnails/69948.webp?nocache=1757525093800",
+            "url": "https://playback.gdd599.vip/live-75F281797E0957AA4908AC84EB28AB10-20250911012557.mp4",
+            "referer": "https://www.goaldaddyth.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        },
+        {
+            "name": "อังกฤษ - พรีเมียร์ลีกคัพ U21 - โคเวนทรี U21 vs แบล็กเบิร์น U21",
+            "image": "https://media.livekickgoal.com/livestream/manualthumbnails/69949.webp?nocache=1757509963289",
+            "url": "https://playback.gdd599.vip/live-E736C1642DD0449872E03092CE35EC36-20250911014053.mp4",
+            "referer": "https://www.goaldaddyth.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        },
+        {
+            "name": "FIBA บาสเกตบอลยูโร - ฟินแลนด์ vs จอร์เจีย",
+            "image": "https://media.gq.com/photos/59e76aaaf964810d9a9b8d2f/16:9/w_1600,c_limit/GQ_50Greatest_final_v2.jpg",
+            "url": "https://playback.gdd599.vip/live-4C54DF9F1EB725908A60DA42E51D7409-20250910214443.mp4",
+            "referer": "https://www.goaldaddyth.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        },
+        {
+            "name": "Lucky GDD Slot - แตกง่าย ได้จริง สล็อต GDD โบนัสจัดเต็ม!",
+            "image": "https://media.livekickgoal.com/livestream/manualthumbnails/69967.webp?nocache=1757232902523",
+            "url": "https://playback.gdd599.vip/live-E9655A5989458D971A211E12469FE34F-20250910200652.mp4",
+            "referer": "https://www.goaldaddyth.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        },
         {
             "name": "ฟุตบอลโลก - CONCACAF (รอบคัดเลือก) - คอสตาริกา vs เฮติ",
             "image": "https://media.gq.com/photos/59e76aaaf964810d9a9b8d2f/16:9/w_1600,c_limit/GQ_50Greatest_final_v2.jpg",
