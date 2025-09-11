@@ -6,6 +6,7 @@ import platform
 from bs4 import BeautifulSoup
 import urllib.parse
 from datetime import datetime
+from zoneinfo import ZoneInfo  # สำหรับตั้ง timezone
 
 # === ตรวจสอบระบบปฏิบัติการ ===
 SYSTEM = platform.system()
@@ -20,6 +21,9 @@ else:  # Android (Termux)
 os.makedirs(SAVE_DIR, exist_ok=True)
 json_file = os.path.join(SAVE_DIR, "buaksibhl.json")
 m3u_file = os.path.join(SAVE_DIR, "buaksibhl.m3u")
+
+# เวลาไทย
+today_date = datetime.now(ZoneInfo("Asia/Bangkok")).strftime("%Y-%m-%d")
 
 url = 'https://www.buaksib.com/football-highlights/'
 headers1 = {
