@@ -127,7 +127,7 @@ for link in all_links:
 data["stations"] = new_stations + data["stations"]
 
 # อัปเดตวันที่ล่าสุด
-data["author"] = f"update {datetime.now().strftime('%d-%m-%Y %H:%M:%S')}"
+data["author"] = f"update {now_th.strftime('%d-%m-%Y %H:%M:%S')}"
 
 # บันทึก JSON
 with open(json_file, "w", encoding="utf-8") as f:
