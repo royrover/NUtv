@@ -1,6 +1,10 @@
 import os
 import sys
 import requests
+from datetime import datetime
+from zoneinfo import ZoneInfo
+
+now_th = datetime.now(ZoneInfo("Asia/Bangkok"))
 
 def send_telegram_message(bot_token, chat_id, message):
     url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
@@ -22,6 +26,7 @@ if __name__ == "__main__":
         sys.exit(1)
 
     message = "📁 อัปโหลดไฟล์สำเร็จ:\n\n"
+    message += f"🕒 เวลาอัปเดต: {now_th.strftime('%Y-%m-%d %H:%M:%S')}\n\n"
 
     for folder_path in folders:
         try:
