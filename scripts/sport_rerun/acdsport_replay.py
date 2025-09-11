@@ -5,6 +5,7 @@ import re
 import json
 import os
 import platform
+from zoneinfo import ZoneInfo  # สำหรับตั้ง timezone
 
 # === ตรวจสอบระบบปฏิบัติการ ===
 SYSTEM = platform.system()
@@ -23,6 +24,9 @@ m3u_file = os.path.join(SAVE_DIR, "acdsport_replay.m3u")
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/237.84.2.178 Safari/537.36",
 }
+
+# เวลาไทย
+now_th = datetime.now(ZoneInfo("Asia/Bangkok"))
 
 url = "https://acdsport.com/replay.html"
 
