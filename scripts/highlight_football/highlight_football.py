@@ -20,7 +20,8 @@ os.makedirs(SAVE_DIR, exist_ok=True)
 json_file = os.path.join(SAVE_DIR, "highlight_football.m3u")
 
 # เวลาไทย
-today_date = datetime.now(ZoneInfo("Asia/Bangkok")).strftime("%Y-%m-%d")
+now_th = datetime.now(ZoneInfo("Asia/Bangkok"))
+
 
 data = {
     "name": "Highlight Football",
@@ -28,7 +29,7 @@ data = {
     "url": "http://tiny.cc/HL112777",
     "groups": [
         {
-            "name": f"{today_date} (เรียงตามวันที่ Update) ==>",
+            "name": f"update {now_th.strftime('%d-%m-%Y %H:%M:%S')}",
             "image": "https://i.pinimg.com/originals/2c/64/60/2c6460852e1c2a13a3e7ac8bea39acd3.gif",
             "url": "",
             "import": False,
