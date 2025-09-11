@@ -22,7 +22,7 @@ json_file = os.path.join(SAVE_DIR, "dbidhl.json")
 m3u_file = os.path.join(SAVE_DIR, "dbidhl.m3u")
 
 # เวลาไทย
-today_date = datetime.now(ZoneInfo("Asia/Bangkok")).strftime("%Y-%m-%d")
+now_th = datetime.now(ZoneInfo("Asia/Bangkok"))
 
 # โหลดไฟล์ JSON เก่า
 if os.path.exists(json_file):
@@ -165,6 +165,7 @@ with open(m3u_file, 'w', encoding='utf-8') as f:
     f.write(m3u_content)
 
 print(f"✅ บันทึกไฟล์ {json_file} และ {m3u_file} เรียบร้อยแล้ว")
+
 
 
 
