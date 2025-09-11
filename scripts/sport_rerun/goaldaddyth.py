@@ -3,6 +3,7 @@ import json
 from datetime import datetime
 import os
 import platform
+from zoneinfo import ZoneInfo  # สำหรับตั้ง timezone
 
 # === ตรวจสอบระบบปฏิบัติการ ===
 SYSTEM = platform.system()
@@ -17,6 +18,9 @@ else:  # Android (Termux)
 os.makedirs(SAVE_DIR, exist_ok=True)
 json_file = os.path.join(SAVE_DIR, "goaldaddyth.json")
 m3u_file = os.path.join(SAVE_DIR, "goaldaddyth.m3u")
+
+# เวลาไทย
+now_th = datetime.now(ZoneInfo("Asia/Bangkok"))
 
 def response_status_code(response):
     if response.status_code == 200:
