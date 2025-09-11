@@ -4,6 +4,7 @@ from datetime import datetime
 import json
 import os
 import platform
+from zoneinfo import ZoneInfo  # สำหรับตั้ง timezone
 
 # === ตรวจสอบระบบปฏิบัติการ ===
 SYSTEM = platform.system()
@@ -18,6 +19,9 @@ else:  # Android (Termux)
 os.makedirs(SAVE_DIR, exist_ok=True)
 json_file = os.path.join(SAVE_DIR, "dookeela_rerun.json")
 m3u_file = os.path.join(SAVE_DIR, "dookeela_rerun.m3u")
+
+# เวลาไทย
+now_th = datetime.now(ZoneInfo("Asia/Bangkok"))
 
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/237.36.2.178 Safari/537.36",
