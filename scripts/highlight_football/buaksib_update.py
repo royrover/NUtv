@@ -184,7 +184,7 @@ if new_stations:
 else:
     print("ℹ️ ไม่มีรายการใหม่")
 
-data["author"] = f"update {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}"
+data["author"] = f"update {now_th.strftime('%d-%m-%Y %H:%M:%S')}"
 
 with open(json_file, 'w', encoding='utf-8') as f:
     json.dump(data, f, ensure_ascii=False, indent=4)
