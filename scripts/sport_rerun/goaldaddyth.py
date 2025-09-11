@@ -137,7 +137,7 @@ for page in range(start_page, end_page + 1):
 
 # ✅ อัปเดตข้อมูล
 data["stations"] = new_stations + stations_list
-data["author"] = f"update {datetime.now().strftime('%d-%m-%Y %H:%M:%S')}"
+data["author"] = f"update {now_th.strftime('%d-%m-%Y %H:%M:%S')}"
 
 # ✅ เขียนไฟล์ JSON (.w3u)
 with open(json_file, 'w', encoding='utf-8') as file:
