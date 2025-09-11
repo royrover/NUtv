@@ -17,7 +17,7 @@ def send_telegram_message(bot_token, chat_id, message):
         print(f"❌ ส่งข้อความ Telegram ไม่สำเร็จ: {e}")
 
 if __name__ == "__main__":
-    folders = sys.argv[1:] or ["data/highlight_football", "data/sport_rerun"]
+    folders = sys.argv[1:] or ["data/highlight_football", "data/sport_rerun", "data/youtube_live"]
     bot_token = os.getenv("TELEGRAM_BOT_TOKEN")
     chat_id = os.getenv("TELEGRAM_CHAT_ID")
 
