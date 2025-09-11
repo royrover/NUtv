@@ -148,7 +148,7 @@ for page in range(start_page, end_page + 1):
 
 # ✅ อัปเดตข้อมูล
 data["stations"] = new_stations + stations_list
-data["author"] = f"update {now_th.strftime('%d-%m-%Y %H:%M:%S')}"
+data["author"] = f"update {today_date.strftime('%d-%m-%Y %H:%M:%S')}"
 
 # ✅ เขียนไฟล์ JSON (.w3u)
 with open(json_file, 'w', encoding='utf-8') as file:
@@ -166,6 +166,7 @@ with open(m3u_file, 'w', encoding='utf-8') as file:
     file.write(m3u_content)
 
 print(f"✅ File {json_file} และ {m3u_file} updated successfully.")
+
 
 
 
