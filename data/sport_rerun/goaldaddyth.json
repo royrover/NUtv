@@ -2,8 +2,29 @@
     "name": "Sports Replays",
     "image": "https://www.goaldaddyth.com/logos/goaldaddy-logo.webp",
     "url": "",
-    "author": "update 11-09-2025 00:45:12",
+    "author": "update 11-09-2025 19:17:53",
     "stations": [
+        {
+            "name": "อินโดนีเซีย - ซูเปอร์ลีก - พีเอส เซเมน ปาดัง vs พีเอสบีเอส บีไอเอเค",
+            "image": "https://media.gq.com/photos/59e76aaaf964810d9a9b8d2f/16:9/w_1600,c_limit/GQ_50Greatest_final_v2.jpg",
+            "url": "https://playback.gdd599.vip/live-9C8822E00879209E84D4ADC24C872E97-20250911163157.mp4",
+            "referer": "https://www.goaldaddyth.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        },
+        {
+            "name": "บราซิล - คัพ - อิสโปร์ชีกลูบีโกริงชังส์เปาลิสตา vs แอตเลติโก้ พาราเนนเซ่",
+            "image": "https://media.gq.com/photos/59e76aaaf964810d9a9b8d2f/16:9/w_1600,c_limit/GQ_50Greatest_final_v2.jpg",
+            "url": "https://playback.gdd599.vip/live-C9CC48EA89C2A45A065B0B9C922D5F9C-20250911082406.mp4",
+            "referer": "https://www.goaldaddyth.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        },
+        {
+            "name": "โคลัมเบีย - คาเตโกเรีย พรีเมร่า เอ - มิลเลียนนาริออส vs เดปอร์ติโบ ปาสโต้",
+            "image": "https://media.gq.com/photos/59e76aaaf964810d9a9b8d2f/16:9/w_1600,c_limit/GQ_50Greatest_final_v2.jpg",
+            "url": "https://playback.gdd599.vip/live-7FE03C54AC96E6DFA355283375B69728-20250911082856.mp4",
+            "referer": "https://www.goaldaddyth.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        },
         {
             "name": "พรีเมียร์ลีก อินเตอร์เนชั่นแนลคัพ U21 (อังกฤษ) - เลสเตอร์ ซิตี้ U21 vs Juventus U21",
             "image": "https://media.livekickgoal.com/livestream/manualthumbnails/69948.webp?nocache=1757525093800",
