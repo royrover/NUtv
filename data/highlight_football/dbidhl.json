@@ -2,8 +2,40 @@
     "name": "highlights - dooball_id",
     "image": "https://dooball.id/images/logo/rBdVFRtw3Qf9WtZz9P6yfNaZXEUywKGlogo_2.png",
     "url": "",
-    "author": "update 11-09-2025 19:54:15",
+    "author": "update 12-09-2025 08:56:36",
     "stations": [
+        {
+            "name": "⚽  เอฟซี โมโลเดชโน่ 3 - 2 เนมาน กร็อดโน่ - เบลารุส พรีเมียร์ลีก 2025/11.9.68",
+            "image": "https://dooball.id/images/CJcfEiHEevXTL8eDgQyJBCNiD5E64QPmaxresdefault.jpg",
+            "url": "https://ayetg0dujezzntj.hidenken.com:443/highlight/เอฟซี โมโลเดชโน่ 3-2 เนมาน กร็อดโน่.mp4/playlist.m3u8",
+            "referer": "https://dooball.id/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "⚽  มิลเลียนนาริออส 1 - 0 เดปอร์ติโบ ปาสโต้ - โคลัมเบีย พรีเมร่าเอ 2025/11.9.68",
+            "image": "https://dooball.id/images/4zAX59PJwOUVzfbvjBi3W867rOh67gJmaxresdefault.jpg",
+            "url": "https://ayetg0dujezzntj.hidenken.com:443/highlight/Millonarios vs. Pasto (resumen y goles) _ Liga BetPlay Dimayor 2025-2 _ Fecha 2.mp4/playlist.m3u8",
+            "referer": "https://dooball.id/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "⚽  โครินเธียนส์ 2 - 0 แอตเลติโก้ พาราเนนเซ่ - บราซิล คัพ 2025/11.9.68",
+            "image": "https://dooball.id/images/OqaQ9YdbieS5rHwsKrOIfSEfnhfvabWmaxresdefault_(1).jpg",
+            "url": "https://ayetg0dujezzntj.hidenken.com:443/highlight/CORINTHIANS 2-0 ATHLETICO.mp4/playlist.m3u8",
+            "referer": "https://dooball.id/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "⚽  ฟลูมิเนนเซ่ 2 - 0 บาเฮีย บีเอ - บราซิล คัพ 2025/11.9.68",
+            "image": "https://dooball.id/images/wXlbIsh9l7pQgqEs4b6QxglrJDTJNNbmaxresdefault_(1).jpg",
+            "url": "https://ayetg0dujezzntj.hidenken.com:443/highlight/FLUMINENSE 2-0 BAHIA.mp4/playlist.m3u8",
+            "referer": "https://dooball.id/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
         {
             "name": "⚽  คูราเซา 3 - 2 เบอร์มิวด้า - ฟุตบอลโลก โซนอเมริกาเหนือ 2025/10.9.68",
             "image": "https://dooball.id/images/pr3dJxHUj0SmArMJRLgfu8qtGDslaEUmaxresdefault_(10).jpg",
