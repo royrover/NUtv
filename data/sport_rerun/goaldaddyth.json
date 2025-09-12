@@ -2,8 +2,36 @@
     "name": "Sports Replays",
     "image": "https://www.goaldaddyth.com/logos/goaldaddy-logo.webp",
     "url": "",
-    "author": "update 11-09-2025 19:17:53",
+    "author": "update 12-09-2025 07:43:48",
     "stations": [
+        {
+            "name": "ยูฟ่าแชมเปียนส์ลีก - ลีกผู้หญิง (รอบคัดเลือก) - ฮัคเค่น (ญ) vs แอตเลติโก้ มาดริด (ญ)",
+            "image": "https://media.livekickgoal.com/livestream/manualthumbnails/69952.webp?nocache=1757172124303",
+            "url": "https://playback.gdd599.vip/live-C2083E3F1CB621C6064A41D6A75E552E-20250912005806.mp4",
+            "referer": "https://www.goaldaddyth.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        },
+        {
+            "name": "ยูฟ่าแชมเปียนส์ลีก - ลีกผู้หญิง (รอบคัดเลือก) - จีเคเอส คาโตวีตเซ (ญ) vs เอฟซี ตเว็นเตอ (ญ)",
+            "image": "https://media.livekickgoal.com/livestream/manualthumbnails/70093.webp?nocache=1757603273787",
+            "url": "https://playback.gdd599.vip/live-5C3CA76C94A227F802A16A843FBF59D6-20250911230918.mp4",
+            "referer": "https://www.goaldaddyth.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        },
+        {
+            "name": "ยูฟ่าแชมเปียนส์ลีก - ลีกผู้หญิง (รอบคัดเลือก) - ปารีส เอฟซี (ญ) vs ออสเตรีย เวียนนา (หญิง)",
+            "image": "https://media.livekickgoal.com/livestream/manualthumbnails/69951.webp?nocache=1757609095872",
+            "url": "https://playback.gdd599.vip/live-F1DD19DEAE3360CAE532BEAB672285E8-20250912004601.mp4",
+            "referer": "https://www.goaldaddyth.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        },
+        {
+            "name": "รัซเซีย - คัพ - FC Amkal Moscow vs เอฟซี ชัลยุต เบลโกรอด",
+            "image": "https://media.gq.com/photos/59e76aaaf964810d9a9b8d2f/16:9/w_1600,c_limit/GQ_50Greatest_final_v2.jpg",
+            "url": "https://playback.gdd599.vip/live-B43E6CC9484E3CC6C8C7DDC63298FF99-20250911215812.mp4",
+            "referer": "https://www.goaldaddyth.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        },
         {
             "name": "อินโดนีเซีย - ซูเปอร์ลีก - พีเอส เซเมน ปาดัง vs พีเอสบีเอส บีไอเอเค",
             "image": "https://media.gq.com/photos/59e76aaaf964810d9a9b8d2f/16:9/w_1600,c_limit/GQ_50Greatest_final_v2.jpg",
