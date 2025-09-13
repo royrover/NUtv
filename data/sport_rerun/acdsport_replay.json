@@ -2,8 +2,29 @@
     "name": "acdsport replay",
     "image": "https://acdsport.com/acd/social.jpg",
     "url": "https://dl.dropbox.com/scl/fi/2lk9rp530f3mh8sn095pu/acdsport_replay.json?rlkey=ikxvfvv3nljrwb9xervk3r9mp&st=6nqt04sc&dl=0",
-    "author": "update 12-09-2025 19:18:45",
+    "author": "update 13-09-2025 07:41:22",
     "stations": [
+        {
+            "name": "Sep 12 - 19:00 La Liga Sevilla vs Elche",
+            "image": "https://image.azencode.com/teams/536.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_premiersports1-1757703600-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Sep 12 - 18:45 Ligue 1 Marseille vs Lorient",
+            "image": "https://image.azencode.com/teams/81.png",
+            "url": "https://vod.starxcdn.xyz/vod/pt_sporttv3-1757702700-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Sep 12 - 18:30 Bundesliga Bayer Leverkusen vs Eintracht Frankfurt",
+            "image": "https://image.azencode.com/teams/168.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn0-1757701800-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
         {
             "name": "Sep 09 - 23:30 World Cup - Qualification South America Bolivia vs Brazil",
             "image": "https://image.azencode.com/teams/2381.png",
