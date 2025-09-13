@@ -2,8 +2,32 @@
     "name": "Hugball Highlights",
     "image": "https://www.hugball.net/images/logo.png",
     "url": "",
-    "author": "update 12-09-2025 19:53:13",
+    "author": "update 13-09-2025 08:54:07",
     "stations": [
+        {
+            "name": "⚽ ไฮไลท์ อิปสวิช ทาวน์ 5-0 เชฟฟิลด์ ยูไนเต็ด",
+            "image": "https://image.hugball.net/Pic/Video/m55265_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/08-2025/Ipswich50SheffieldUnited.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ เซบีย่า 2-2 เอลเช่",
+            "image": "https://image.hugball.net/Pic/Video/m55264_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/08-2025/Sevilla22Elche.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ โอลิมปิก มาร์กเซย 4-0 ลอริยองต์",
+            "image": "https://image.hugball.net/Pic/Video/m55263_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/08-2025/OlympiqueMarseille40Lorient.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ เลเวอร์คูเซ่น 3-1 ไอน์ทรัค แฟร้งค์เฟิร์ต",
+            "image": "https://image.hugball.net/Pic/Video/m55262_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/08-2025/BayerLeverkusen31EintrachtFrankfurt.mp4",
+            "referer": "https://www.hugball.net/"
+        },
         {
             "name": "⚽ ไฮไลท์ ไทย (ยู 23) 2-1 มาเลเซีย (ยู 23)",
             "image": "https://image.hugball.net/Pic/Video/m55261_1.png",
