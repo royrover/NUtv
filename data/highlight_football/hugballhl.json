@@ -2,8 +2,38 @@
     "name": "Hugball Highlights",
     "image": "https://www.hugball.net/images/logo.png",
     "url": "",
-    "author": "update 14-09-2025 09:06:11",
+    "author": "update 14-09-2025 19:49:05",
     "stations": [
+        {
+            "name": "⚽ ไฮไลท์ ชลบุรี เอฟซี 0-1 แบงค็อก ยูไนเต็ด",
+            "image": "https://image.hugball.net/Pic/Video/m55293_1.png",
+            "url": "https://hugball2.b-cdn.net/hilight/14092568/CBR0-1BKK.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ สุโขทัย เอฟซี 1-2 ลำพูน วอร์ริเออร์",
+            "image": "https://image.hugball.net/Pic/Video/m55292_1.png",
+            "url": "https://hugball2.b-cdn.net/hilight/14092568/SKT1-2LP.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ ราชบุรี มิตรผล เอฟซี 1-0 การท่าเรือ เอฟซี",
+            "image": "https://image.hugball.net/Pic/Video/m55291_1.png",
+            "url": "https://hugball2.b-cdn.net/hilight/14092568/RTC1-0PORT.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ อุทัยธานี เอฟซี 0-1 บีจี ปทุม ยูไนเต็ด",
+            "image": "https://image.hugball.net/Pic/Video/m55290_1.png",
+            "url": "https://hugball2.b-cdn.net/hilight/14092568/UT0-1BG.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ บุรีรัมย์ ยูไนเต็ด 2-0 ประจวบคีรีขันธ์ เอฟซี",
+            "image": "https://image.hugball.net/Pic/Video/m55289_1.png",
+            "url": "https://hugball2.b-cdn.net/hilight/14092568/BRR2-0PC.mp4",
+            "referer": "https://www.hugball.net/"
+        },
         {
             "name": "⚽ ไฮไลท์ บาเยิร์น มิวนิค 5-0 ฮัมบูร์ก",
             "image": "https://image.hugball.net/Pic/Video/m55288_1.jpg",

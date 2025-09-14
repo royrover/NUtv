@@ -1,4 +1,24 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://image.hugball.net/Pic/Video/m55293_1.png", group-title="LIVE SPORT", ⚽ ไฮไลท์ ชลบุรี เอฟซี 0-1 แบงค็อก ยูไนเต็ด
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.hugball.net/
+https://hugball2.b-cdn.net/hilight/14092568/CBR0-1BKK.mp4
+#EXTINF:-1 tvg-logo="https://image.hugball.net/Pic/Video/m55292_1.png", group-title="LIVE SPORT", ⚽ ไฮไลท์ สุโขทัย เอฟซี 1-2 ลำพูน วอร์ริเออร์
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.hugball.net/
+https://hugball2.b-cdn.net/hilight/14092568/SKT1-2LP.mp4
+#EXTINF:-1 tvg-logo="https://image.hugball.net/Pic/Video/m55291_1.png", group-title="LIVE SPORT", ⚽ ไฮไลท์ ราชบุรี มิตรผล เอฟซี 1-0 การท่าเรือ เอฟซี
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.hugball.net/
+https://hugball2.b-cdn.net/hilight/14092568/RTC1-0PORT.mp4
+#EXTINF:-1 tvg-logo="https://image.hugball.net/Pic/Video/m55290_1.png", group-title="LIVE SPORT", ⚽ ไฮไลท์ อุทัยธานี เอฟซี 0-1 บีจี ปทุม ยูไนเต็ด
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.hugball.net/
+https://hugball2.b-cdn.net/hilight/14092568/UT0-1BG.mp4
+#EXTINF:-1 tvg-logo="https://image.hugball.net/Pic/Video/m55289_1.png", group-title="LIVE SPORT", ⚽ ไฮไลท์ บุรีรัมย์ ยูไนเต็ด 2-0 ประจวบคีรีขันธ์ เอฟซี
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.hugball.net/
+https://hugball2.b-cdn.net/hilight/14092568/BRR2-0PC.mp4
 #EXTINF:-1 tvg-logo="https://image.hugball.net/Pic/Video/m55288_1.jpg", group-title="LIVE SPORT", ⚽ ไฮไลท์ บาเยิร์น มิวนิค 5-0 ฮัมบูร์ก
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.hugball.net/
