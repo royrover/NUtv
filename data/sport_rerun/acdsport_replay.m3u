@@ -1,4 +1,50 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/108.png", group-title="LIVE SPORT", Sep 13 - 1905 Ligue 1 Auxerre vs Monaco
+https://vod.starxcdn.xyz/vod/pt_sporttv3-1757790300-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/530.png", group-title="LIVE SPORT", Sep 13 - 1900 La Liga Atletico Madrid vs Villarreal
+https://vod.starxcdn.xyz/vod/espn9-1757790000-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/55.png", group-title="LIVE SPORT", Sep 13 - 1900 Premier League Brentford vs Chelsea
+https://vod.starxcdn.xyz/vod/uk_ssepl-1757790000-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/502.png", group-title="LIVE SPORT", Sep 13 - 1845 Serie A Fiorentina vs Napoli
+https://vod.starxcdn.xyz/vod/paramount3-1757789100-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/531.png", group-title="LIVE SPORT", Sep 13 - 1630 La Liga Athletic Club vs Alaves
+https://vod.starxcdn.xyz/vod/espn8-1757781000-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/48.png", group-title="LIVE SPORT", Sep 13 - 1630 Premier League West Ham vs Tottenham
+https://vod.starxcdn.xyz/vod/uk_ssepl-1757781000-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/157.png", group-title="LIVE SPORT", Sep 13 - 1630 Bundesliga Bayern Munich vs Hamburger SV
+https://vod.starxcdn.xyz/vod/espn5-1757781000-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/496.png", group-title="LIVE SPORT", Sep 13 - 1600 Serie A Juventus vs Inter
+https://vod.starxcdn.xyz/vod/paramount2-1757779200-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/upload/Football/OGC Nice.png", group-title="LIVE SPORT", Sep 13 - 1500 Ligue 1 Nice vs Nantes
+https://vod.starxcdn.xyz/vod/pt_sporttv3-1757775600-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/548.png", group-title="LIVE SPORT", Sep 13 - 1415 La Liga Real Sociedad vs Real Madrid
+https://vod.starxcdn.xyz/vod/espn7-1757772900-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/52.png", group-title="LIVE SPORT", Sep 13 - 1400 Premier League Crystal Palace vs Sunderland
+https://vod.starxcdn.xyz/vod/epl_cry-1757772000-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/45.png", group-title="LIVE SPORT", Sep 13 - 1400 Premier League Everton vs Aston Villa
+https://vod.starxcdn.xyz/vod/epl_eve-1757772000-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/36.png", group-title="LIVE SPORT", Sep 13 - 1400 Premier League Fulham vs Leeds
+https://vod.starxcdn.xyz/vod/epl_ful-1757772000-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/35.png", group-title="LIVE SPORT", Sep 13 - 1400 Premier League Bournemouth vs Brighton
+https://vod.starxcdn.xyz/vod/epl_bou-1757772000-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/34.png", group-title="LIVE SPORT", Sep 13 - 1400 Premier League Newcastle vs Wolves
+https://vod.starxcdn.xyz/vod/uk_premiersports1-1757772000-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/182.png", group-title="LIVE SPORT", Sep 13 - 1330 Bundesliga Union Berlin vs 1899 Hoffenheim
+https://vod.starxcdn.xyz/vod/espn4-1757770200-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/upload/Football/Heidenheim.png", group-title="LIVE SPORT", Sep 13 - 1330 Bundesliga FC Heidenheim vs Borussia Dortmund
+https://vod.starxcdn.xyz/vod/espn3-1757770200-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/164.png", group-title="LIVE SPORT", Sep 13 - 1330 Bundesliga FSV Mainz 05 vs RB Leipzig
+https://vod.starxcdn.xyz/vod/espn2-1757770200-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/161.png", group-title="LIVE SPORT", Sep 13 - 1330 Bundesliga VfL Wolfsburg vs FC Koln
+https://vod.starxcdn.xyz/vod/espn1-1757770200-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/160.png", group-title="LIVE SPORT", Sep 13 - 1330 Bundesliga SC Freiburg vs VfB Stuttgart
+https://vod.starxcdn.xyz/vod/espn0-1757770200-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/490.png", group-title="LIVE SPORT", Sep 13 - 1300 Serie A Cagliari vs Parma
+https://vod.starxcdn.xyz/vod/paramount1-1757768400-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/546.png", group-title="LIVE SPORT", Sep 13 - 1200 La Liga Getafe vs Oviedo
+https://vod.starxcdn.xyz/vod/espn6-1757764800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/42.png", group-title="LIVE SPORT", Sep 13 - 1130 Premier League Arsenal vs Nottingham Forest
+https://vod.starxcdn.xyz/vod/uk_bts1-1757763000-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.azencode.com/teams/536.png", group-title="LIVE SPORT", Sep 12 - 1900 La Liga Sevilla vs Elche
 https://vod.starxcdn.xyz/vod/uk_premiersports1-1757703600-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.azencode.com/teams/81.png", group-title="LIVE SPORT", Sep 12 - 1845 Ligue 1 Marseille vs Lorient
