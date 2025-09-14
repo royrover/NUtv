@@ -2,8 +2,32 @@
     "name": "highlights football buaksib",
     "image": "https://www.buaksib.com/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Flogo-summer.5abd78a6.png&w=256&q=75",
     "url": "",
-    "author": "update 13-09-2025 19:48:59",
+    "author": "update 14-09-2025 09:05:32",
     "stations": [
+        {
+            "name": "⚽ ชลบุรี เอฟซี พบ ทรู แบงค็อก ยูไนเต็ด 13.09.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/09/Chonburi_Vs_True_Bangkok_13_09_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Chonburi_Vs_True_Bangkok_13_09_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ นิวคาสเซิ่ล ยูไนเต็ด พบ วูล์ฟแฮมป์ตัน 13.09.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/09/Newcastle_Vs_Wolver_13_09_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Newcastle_Vs_Wolver_13_09_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ ราชบุรี เอฟซี พบ การท่าเรือ เอฟซี 13.09.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/09/Ratchaburi_FC_Vs_Port_FC_13_09_2025.jpg",
+            "url": "https://bdphap.com/ssd1/th/Ratchaburi_FC_Vs_Port_FC_13_09_2025.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ อาร์เซน่อล พบ ฟอเรสต์ 13.09.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/09/Arsenal_Vs_Forest_13_09_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Arsenal_Vs_Forest_13_09_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
         {
             "name": "⚽ อุทัยธานี เอฟซี พบ บีจี ปทุม ยูไนเต็ด 12.09.2025 ไฮไลท์ฟุตบอล",
             "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/09/Uthaithani_Vs_BG_12_09_25.jpg",
