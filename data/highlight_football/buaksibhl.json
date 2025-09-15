@@ -2,8 +2,20 @@
     "name": "highlights football buaksib",
     "image": "https://www.buaksib.com/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Flogo-summer.5abd78a6.png&w=256&q=75",
     "url": "",
-    "author": "update 15-09-2025 09:07:07",
+    "author": "update 15-09-2025 19:57:10",
     "stations": [
+        {
+            "name": "⚽ แมนเชสเตอร์ ซิตี้ พบ แมนเชสเตอร์ ยูไนเต็ด 14.09.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/09/ManCity_Vs_Manc_U_14_09_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/ManCity_Vs_Manc_U_14_09_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ พลังกาญจน์ เอฟซี พบ นครราชสีมา มาสด้า เอฟซี 14.09.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/09/Kanchanaburi_Vs_Nakhonratchasima_14_09_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Kanchanaburi_Vs_Nakhonratchasima_14_09_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
         {
             "name": "⚽ เบิร์นลี่ย์ พบ ลิเวอร์พูล 14.09.2025 ไฮไลท์ฟุตบอล",
             "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/09/Burnley_Vs_Liverpool_14_09_25.jpg",
