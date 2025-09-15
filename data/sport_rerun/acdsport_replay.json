@@ -2,8 +2,148 @@
     "name": "acdsport replay",
     "image": "https://acdsport.com/acd/social.jpg",
     "url": "https://dl.dropbox.com/scl/fi/2lk9rp530f3mh8sn095pu/acdsport_replay.json?rlkey=ikxvfvv3nljrwb9xervk3r9mp&st=6nqt04sc&dl=0",
-    "author": "update 14-09-2025 19:15:49",
+    "author": "update 15-09-2025 07:49:12",
     "stations": [
+        {
+            "name": "Sep 14 - 19:00 La Liga Barcelona vs Valencia",
+            "image": "https://image.azencode.com/teams/529.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_premiersports1-1757876400-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Sep 14 - 18:45 Serie A AC Milan vs Bologna",
+            "image": "https://image.azencode.com/teams/489.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts1-1757875500-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Sep 14 - 18:45 Ligue 1 Rennes vs Lyon",
+            "image": "https://image.azencode.com/teams/94.png",
+            "url": "https://vod.starxcdn.xyz/vod/pt_sporttv3-1757875500-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Sep 14 - 18:00 Saudi Arabia - Pro League Al Nassr vs Al Kholood",
+            "image": "https://image.azencode.com/upload/Football/Al Nassr.png",
+            "url": "https://vod.starxcdn.xyz/vod/us_foxsplus-1757872800-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Sep 14 - 16:30 La Liga Osasuna vs Rayo Vallecano",
+            "image": "https://image.azencode.com/teams/727.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn4-1757867400-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Sep 14 - 16:00 Serie A Sassuolo vs Lazio",
+            "image": "https://image.azencode.com/teams/488.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount4-1757865600-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Sep 14 - 15:30 Premier League Manchester City vs Manchester United",
+            "image": "https://image.azencode.com/teams/50.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_ssepl-1757863800-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Sep 14 - 15:30 Bundesliga Borussia Monchengladbach vs Werder Bremen",
+            "image": "https://image.azencode.com/teams/163.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn1-1757863800-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Sep 14 - 15:15 Ligue 1 Metz vs Angers",
+            "image": "https://image.azencode.com/upload/Football/Metz.png",
+            "url": "https://vod.starxcdn.xyz/vod/live05-1757862900-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Sep 14 - 15:15 Ligue 1 Stade Brestois 29 vs Paris FC",
+            "image": "https://image.azencode.com/teams/106.png",
+            "url": "https://vod.starxcdn.xyz/vod/live04-1757862900-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Sep 14 - 15:15 Ligue 1 Strasbourg vs LE Havre",
+            "image": "https://image.azencode.com/teams/95.png",
+            "url": "https://vod.starxcdn.xyz/vod/live03-1757862900-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Sep 14 - 15:15 Ligue 1 Paris Saint Germain vs Lens",
+            "image": "https://image.azencode.com/teams/85.png",
+            "url": "https://vod.starxcdn.xyz/vod/pt_sporttv3-1757862900-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Sep 14 - 14:15 La Liga Levante vs Real Betis",
+            "image": "https://image.azencode.com/teams/539.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn3-1757859300-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Sep 14 - 13:30 Bundesliga FC St. Pauli vs FC Augsburg",
+            "image": "https://image.azencode.com/teams/186.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn0-1757856600-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Sep 14 - 13:00 Serie A Pisa vs Udinese",
+            "image": "https://image.azencode.com/teams/801.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount3-1757854800-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Sep 14 - 13:00 Serie A Atalanta vs Lecce",
+            "image": "https://image.azencode.com/teams/499.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount2-1757854800-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Sep 14 - 13:00 Ligue 1 Lille vs Toulouse",
+            "image": "https://image.azencode.com/teams/79.png",
+            "url": "https://vod.starxcdn.xyz/vod/pt_sporttv3-1757854800-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Sep 14 - 13:00 Premier League Burnley vs Liverpool",
+            "image": "https://image.azencode.com/teams/44.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_ssepl-1757854800-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Sep 14 - 12:00 La Liga Celta Vigo vs Girona",
+            "image": "https://image.azencode.com/teams/538.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn2-1757851200-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Sep 14 - 10:30 Serie A AS Roma vs Torino",
+            "image": "https://image.azencode.com/teams/497.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount1-1757845800-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
         {
             "name": "Sep 13 - 19:05 Ligue 1 Auxerre vs Monaco",
             "image": "https://image.azencode.com/teams/108.png",

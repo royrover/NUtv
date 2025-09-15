@@ -1,4 +1,44 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/529.png", group-title="LIVE SPORT", Sep 14 - 1900 La Liga Barcelona vs Valencia
+https://vod.starxcdn.xyz/vod/uk_premiersports1-1757876400-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/489.png", group-title="LIVE SPORT", Sep 14 - 1845 Serie A AC Milan vs Bologna
+https://vod.starxcdn.xyz/vod/uk_bts1-1757875500-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/94.png", group-title="LIVE SPORT", Sep 14 - 1845 Ligue 1 Rennes vs Lyon
+https://vod.starxcdn.xyz/vod/pt_sporttv3-1757875500-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/upload/Football/Al Nassr.png", group-title="LIVE SPORT", Sep 14 - 1800 Saudi Arabia - Pro League Al Nassr vs Al Kholood
+https://vod.starxcdn.xyz/vod/us_foxsplus-1757872800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/727.png", group-title="LIVE SPORT", Sep 14 - 1630 La Liga Osasuna vs Rayo Vallecano
+https://vod.starxcdn.xyz/vod/espn4-1757867400-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/488.png", group-title="LIVE SPORT", Sep 14 - 1600 Serie A Sassuolo vs Lazio
+https://vod.starxcdn.xyz/vod/paramount4-1757865600-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/50.png", group-title="LIVE SPORT", Sep 14 - 1530 Premier League Manchester City vs Manchester United
+https://vod.starxcdn.xyz/vod/uk_ssepl-1757863800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/163.png", group-title="LIVE SPORT", Sep 14 - 1530 Bundesliga Borussia Monchengladbach vs Werder Bremen
+https://vod.starxcdn.xyz/vod/espn1-1757863800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/upload/Football/Metz.png", group-title="LIVE SPORT", Sep 14 - 1515 Ligue 1 Metz vs Angers
+https://vod.starxcdn.xyz/vod/live05-1757862900-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/106.png", group-title="LIVE SPORT", Sep 14 - 1515 Ligue 1 Stade Brestois 29 vs Paris FC
+https://vod.starxcdn.xyz/vod/live04-1757862900-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/95.png", group-title="LIVE SPORT", Sep 14 - 1515 Ligue 1 Strasbourg vs LE Havre
+https://vod.starxcdn.xyz/vod/live03-1757862900-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/85.png", group-title="LIVE SPORT", Sep 14 - 1515 Ligue 1 Paris Saint Germain vs Lens
+https://vod.starxcdn.xyz/vod/pt_sporttv3-1757862900-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/539.png", group-title="LIVE SPORT", Sep 14 - 1415 La Liga Levante vs Real Betis
+https://vod.starxcdn.xyz/vod/espn3-1757859300-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/186.png", group-title="LIVE SPORT", Sep 14 - 1330 Bundesliga FC St. Pauli vs FC Augsburg
+https://vod.starxcdn.xyz/vod/espn0-1757856600-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/801.png", group-title="LIVE SPORT", Sep 14 - 1300 Serie A Pisa vs Udinese
+https://vod.starxcdn.xyz/vod/paramount3-1757854800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/499.png", group-title="LIVE SPORT", Sep 14 - 1300 Serie A Atalanta vs Lecce
+https://vod.starxcdn.xyz/vod/paramount2-1757854800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/79.png", group-title="LIVE SPORT", Sep 14 - 1300 Ligue 1 Lille vs Toulouse
+https://vod.starxcdn.xyz/vod/pt_sporttv3-1757854800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/44.png", group-title="LIVE SPORT", Sep 14 - 1300 Premier League Burnley vs Liverpool
+https://vod.starxcdn.xyz/vod/uk_ssepl-1757854800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/538.png", group-title="LIVE SPORT", Sep 14 - 1200 La Liga Celta Vigo vs Girona
+https://vod.starxcdn.xyz/vod/espn2-1757851200-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/497.png", group-title="LIVE SPORT", Sep 14 - 1030 Serie A AS Roma vs Torino
+https://vod.starxcdn.xyz/vod/paramount1-1757845800-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.azencode.com/teams/108.png", group-title="LIVE SPORT", Sep 13 - 1905 Ligue 1 Auxerre vs Monaco
 https://vod.starxcdn.xyz/vod/pt_sporttv3-1757790300-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.azencode.com/teams/530.png", group-title="LIVE SPORT", Sep 13 - 1900 La Liga Atletico Madrid vs Villarreal
