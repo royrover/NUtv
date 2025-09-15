@@ -2,8 +2,28 @@
     "name": "DOOKEELA Rerun",
     "image": "https://www.dropbox.com/scl/fi/0wslhpbbirva0wx4rlbzn/DKL.png?rlkey=37e1vu25obzmo5kikjkax30t7&st=7ey1fj5e&raw=1",
     "url": "",
-    "author": "update 15-09-2025 07:49:39",
+    "author": "update 15-09-2025 19:19:02",
     "stations": [
+        {
+            "name": "Barcelona vs Valencia | La Liga (15-09-2025)",
+            "image": "https://images.dookeela2.live/1ea51f4905fd47abb43f7ba22c817198:dkl-images-storage/rerun/1757921543.jpg",
+            "url": "https://ks7jcc.cdn.akamaiz.com/rerun/บาร์เซโลนา พบ บาเลนเซีย ลาลิกา 2025-26 (15 ก.ย.).mp4/playlist.m3u8"
+        },
+        {
+            "name": "Paris Saint Germain vs Lens | Ligue 1 (15-09-2025)",
+            "image": "https://images.dookeela2.live/1ea51f4905fd47abb43f7ba22c817198:dkl-images-storage/rerun/1757921184.jpg",
+            "url": "https://ks7jcc.cdn.akamaiz.com/rerun/ลีกเอิง ฝรั่งเศส 2025_26 - ปารีส แซงต์-แชร์กแมง v ล็องส์ [14-09-2025 22_15].mp4/playlist.m3u8"
+        },
+        {
+            "name": "Manchester City vs Manchester United | Premier League (15-09-2025)",
+            "image": "https://images.dookeela2.live/1ea51f4905fd47abb43f7ba22c817198:dkl-images-storage/rerun/1757920927.jpg",
+            "url": "https://ks7jcc.cdn.akamaiz.com/rerun/พรีเมียร์ลีก อังกฤษ 2025_2026 - แมนเชสเตอร์ ซิตี้ v แมนเชสเตอร์ ยูไนเต็ด [14-09-2025 22_30].mp4/playlist.m3u8"
+        },
+        {
+            "name": "Burnley vs Liverpool | Premier League (15-09-2025)",
+            "image": "https://images.dookeela2.live/1ea51f4905fd47abb43f7ba22c817198:dkl-images-storage/rerun/1757920716.jpg",
+            "url": "https://ks7jcc.cdn.akamaiz.com/rerun/พรีเมียร์ลีก อังกฤษ 2025_2026 - เบิร์นลีย์ v ลิเวอร์พูล [14-09-2025 20_00].mp4/playlist.m3u8"
+        },
         {
             "name": "Brentford vs Chelsea | Premier League (14-09-2025)",
             "image": "https://images.dookeela2.live/1ea51f4905fd47abb43f7ba22c817198:dkl-images-storage/rerun/1757850621.jpg",

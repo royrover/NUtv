@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://images.dookeela2.live/1ea51f4905fd47abb43f7ba22c817198:dkl-images-storage/rerun/1757921543.jpg", group-title="LIVE SPORT", Barcelona vs Valencia | La Liga (15-09-2025)
+https://ks7jcc.cdn.akamaiz.com/rerun/บาร์เซโลนา พบ บาเลนเซีย ลาลิกา 2025-26 (15 ก.ย.).mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.dookeela2.live/1ea51f4905fd47abb43f7ba22c817198:dkl-images-storage/rerun/1757921184.jpg", group-title="LIVE SPORT", Paris Saint Germain vs Lens | Ligue 1 (15-09-2025)
+https://ks7jcc.cdn.akamaiz.com/rerun/ลีกเอิง ฝรั่งเศส 2025_26 - ปารีส แซงต์-แชร์กแมง v ล็องส์ [14-09-2025 22_15].mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.dookeela2.live/1ea51f4905fd47abb43f7ba22c817198:dkl-images-storage/rerun/1757920927.jpg", group-title="LIVE SPORT", Manchester City vs Manchester United | Premier League (15-09-2025)
+https://ks7jcc.cdn.akamaiz.com/rerun/พรีเมียร์ลีก อังกฤษ 2025_2026 - แมนเชสเตอร์ ซิตี้ v แมนเชสเตอร์ ยูไนเต็ด [14-09-2025 22_30].mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.dookeela2.live/1ea51f4905fd47abb43f7ba22c817198:dkl-images-storage/rerun/1757920716.jpg", group-title="LIVE SPORT", Burnley vs Liverpool | Premier League (15-09-2025)
+https://ks7jcc.cdn.akamaiz.com/rerun/พรีเมียร์ลีก อังกฤษ 2025_2026 - เบิร์นลีย์ v ลิเวอร์พูล [14-09-2025 20_00].mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.dookeela2.live/1ea51f4905fd47abb43f7ba22c817198:dkl-images-storage/rerun/1757850621.jpg", group-title="LIVE SPORT", Brentford vs Chelsea | Premier League (14-09-2025)
 https://ks7jcc.cdn.akamaiz.com/rerun/พรีเมียร์ลีก อังกฤษ 2025_2026 - เบรนท์ฟอร์ด v เชลซี [14-09-2025 02_00].mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.dookeela2.live/1ea51f4905fd47abb43f7ba22c817198:dkl-images-storage/rerun/1757822363.jpg", group-title="LIVE SPORT", Arsenal vs Nottingham Forest | Premier League (14-09-2025)
