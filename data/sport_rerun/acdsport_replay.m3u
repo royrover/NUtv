@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/540.png", group-title="LIVE SPORT", Sep 15 - 1900 La Liga Espanyol vs Mallorca
+https://vod.starxcdn.xyz/vod/espn0-1757962800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/895.png", group-title="LIVE SPORT", Sep 15 - 1845 Serie A Como vs Genoa
+https://vod.starxcdn.xyz/vod/paramount2-1757961900-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/504.png", group-title="LIVE SPORT", Sep 15 - 1630 Serie A Verona vs Cremonese
+https://vod.starxcdn.xyz/vod/paramount1-1757953800-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.azencode.com/teams/529.png", group-title="LIVE SPORT", Sep 14 - 1900 La Liga Barcelona vs Valencia
 https://vod.starxcdn.xyz/vod/uk_premiersports1-1757876400-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.azencode.com/teams/489.png", group-title="LIVE SPORT", Sep 14 - 1845 Serie A AC Milan vs Bologna

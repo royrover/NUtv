@@ -2,8 +2,29 @@
     "name": "acdsport replay",
     "image": "https://acdsport.com/acd/social.jpg",
     "url": "https://dl.dropbox.com/scl/fi/2lk9rp530f3mh8sn095pu/acdsport_replay.json?rlkey=ikxvfvv3nljrwb9xervk3r9mp&st=6nqt04sc&dl=0",
-    "author": "update 15-09-2025 19:18:59",
+    "author": "update 16-09-2025 07:43:37",
     "stations": [
+        {
+            "name": "Sep 15 - 19:00 La Liga Espanyol vs Mallorca",
+            "image": "https://image.azencode.com/teams/540.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn0-1757962800-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Sep 15 - 18:45 Serie A Como vs Genoa",
+            "image": "https://image.azencode.com/teams/895.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount2-1757961900-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Sep 15 - 16:30 Serie A Verona vs Cremonese",
+            "image": "https://image.azencode.com/teams/504.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount1-1757953800-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
         {
             "name": "Sep 14 - 19:00 La Liga Barcelona vs Valencia",
             "image": "https://image.azencode.com/teams/529.png",
