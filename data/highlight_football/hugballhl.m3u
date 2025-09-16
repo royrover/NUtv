@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://image.hugball.net/Pic/Video/m55314_1.jpg", group-title="LIVE SPORT", ⚽ ไฮไลท์ เอสปันญ่อล 3-2 เรอัล มายอร์ก้า
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.hugball.net/
+https://hugball2.b-cdn.net/hilight/09-2025/espanyol.mp4
+#EXTINF:-1 tvg-logo="https://image.hugball.net/Pic/Video/m55313_1.jpg", group-title="LIVE SPORT", ⚽ ไฮไลท์ โคโม 1-1 เจนัว
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.hugball.net/
+https://hugball2.b-cdn.net/hilight/09-2025/comoG.mp4
+#EXTINF:-1 tvg-logo="https://image.hugball.net/Pic/Video/m55312_1.jpg", group-title="LIVE SPORT", ⚽ ไฮไลท์ เอลลาส เวโรน่า 0-0 เครโมเนเซ่
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.hugball.net/
+https://hugball2.b-cdn.net/hilight/09-2025/HellasVeronaCremonetion.mp4
 #EXTINF:-1 tvg-logo="https://image.hugball.net/Pic/Video/m55311_1.png", group-title="LIVE SPORT", ⚽ ไฮไลท์ ดีพี กาญจนบุรี 0-0 นครราชสีมา เอฟซี
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.hugball.net/
