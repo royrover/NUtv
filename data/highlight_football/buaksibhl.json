@@ -2,8 +2,32 @@
     "name": "highlights football buaksib",
     "image": "https://www.buaksib.com/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Flogo-summer.5abd78a6.png&w=256&q=75",
     "url": "",
-    "author": "update 16-09-2025 19:56:37",
+    "author": "update 17-09-2025 08:57:43",
     "stations": [
+        {
+            "name": "⚽ เรอัล มาดริด พบ มาร์กเซย 16.09.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/09/Madrid_Vs_Marseille_16_09_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Madrid_Vs_Marseille_16_09_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ สเปอร์ส พบ บียาร์เรอัล 16.09.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/09/Spurs_Vs_Villarreal_16_09_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Spurs_Vs_Villarreal_16_09_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ แอธเลติก บิลเบา พบ อาร์เซน่อล 16.09.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/09/Bilbao_Vs_Arsenal_16_09_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Bilbao_Vs_Arsenal_16_09_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ บุรีรัมย์ ยูไนเต็ด พบ ยะโฮร์ ดารุล ทักซิม 16.09.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/09/Buriram_Vs_Johor_16_09_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Buriram_Vs_Johor_16_09_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
         {
             "name": "⚽ แมนเชสเตอร์ ซิตี้ พบ แมนเชสเตอร์ ยูไนเต็ด 14.09.2025 ไฮไลท์ฟุตบอล",
             "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/09/ManCity_Vs_Manc_U_14_09_25.jpg",
