@@ -2,8 +2,44 @@
     "name": "Hugball Highlights",
     "image": "https://www.hugball.net/images/logo.png",
     "url": "",
-    "author": "update 17-09-2025 19:56:46",
+    "author": "update 18-09-2025 08:57:59",
     "stations": [
+        {
+            "name": "⚽ ไฮไลท์ โอลิมเปียกอส ไพรีอัส 0-0 เออีพี ปาฟอส",
+            "image": "https://image.hugball.net/Pic/Video/m55329_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/09-2025/OlympiacosPafos.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ อาแจกซ์ อัมสเตอร์ดัม 0-2 อินเตอร์ มิลาน",
+            "image": "https://image.hugball.net/Pic/Video/m55328_1.png",
+            "url": "https://hugball2.b-cdn.net/hilight/09-2025/intajx.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ สลาเวีย ปราก 2-2 โบโด กลิมท์",
+            "image": "https://image.hugball.net/Pic/Video/m55327_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/09-2025/bodoprag.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ ปารีส แซงต์ แชร์กแมง 4-0 อตาลันต้า",
+            "image": "https://image.hugball.net/Pic/Video/m55326_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/09-2025/psgatala.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ ลิเวอร์พูล 3-2 แอตเลติโก มาดริด",
+            "image": "https://image.hugball.net/Pic/Video/m55325_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/09-2025/livatltc.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ บาเยิร์น มิวนิค 3-1 เชลซี",
+            "image": "https://image.hugball.net/Pic/Video/m55324_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/09-2025/baychels.mp4",
+            "referer": "https://www.hugball.net/"
+        },
         {
             "name": "⚽ ไฮไลท์ เชฟฟิลด์ เว้นส์เดย์ 0-1 กริมสบี้ ทาวน์",
             "image": "https://image.hugball.net/Pic/Video/m55323_1.jpg",
