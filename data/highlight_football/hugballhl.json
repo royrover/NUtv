@@ -2,8 +2,44 @@
     "name": "Hugball Highlights",
     "image": "https://www.hugball.net/images/logo.png",
     "url": "",
-    "author": "update 18-09-2025 19:55:55",
+    "author": "update 19-09-2025 09:03:13",
     "stations": [
+        {
+            "name": "⚽ ไฮไลท์ ไอน์ทรัค แฟร้งค์เฟิร์ต 5-1 กาลาตาซาราย",
+            "image": "https://image.hugball.net/Pic/Video/m55335_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/09-2025/EintrachtFrankfurt51Galatasaray.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ สปอร์ติ้ง ลิสบอน 4-1 ไครัต อัลมาตี้",
+            "image": "https://image.hugball.net/Pic/Video/m55334_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/09-2025/SportingCP41Kairat.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ คลับ บรูช 4-1 โมนาโก",
+            "image": "https://image.hugball.net/Pic/Video/m55333_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/09-2025/ClubBrugge41ASMonaco.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ นิวคาสเซิล ยูไนเต็ด 1-2 บาร์เซโลน่า",
+            "image": "https://image.hugball.net/Pic/Video/m55332_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/09-2025/NewcastleUnited12Barcelona.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ แมนเชสเตอร์ ซิตี้ 2-0 นาโปลี",
+            "image": "https://image.hugball.net/Pic/Video/m55331_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/09-2025/ManCity20Napoli.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ เอฟซี โคเปนเฮเก้น 2-2 เลเวอร์คูเซ่น",
+            "image": "https://image.hugball.net/Pic/Video/m55330_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/09-2025/FCCopenhagen22BayerLeverkusen.mp4",
+            "referer": "https://www.hugball.net/"
+        },
         {
             "name": "⚽ ไฮไลท์ โอลิมเปียกอส ไพรีอัส 0-0 เออีพี ปาฟอส",
             "image": "https://image.hugball.net/Pic/Video/m55329_1.jpg",
