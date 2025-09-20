@@ -2,8 +2,14 @@
     "name": "Hugball Highlights",
     "image": "https://www.hugball.net/images/logo.png",
     "url": "",
-    "author": "update 20-09-2025 08:55:53",
+    "author": "update 20-09-2025 19:55:08",
     "stations": [
+        {
+            "name": "⚽ ไฮไลท์ การท่าเรือ เอฟซี 3-0 ชลบุรี เอฟซี",
+            "image": "https://image.hugball.net/Pic/Video/m55340_1.png",
+            "url": "https://hugball2.b-cdn.net/hilight/20092568/1PORT3-0CBR.mp4",
+            "referer": "https://www.hugball.net/"
+        },
         {
             "name": "⚽ ไฮไลท์ เลชเช่ 1-2 กายารี่",
             "image": "https://image.hugball.net/Pic/Video/m55339_1.jpg",
