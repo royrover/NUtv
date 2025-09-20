@@ -2,8 +2,32 @@
     "name": "Hugball Highlights",
     "image": "https://www.hugball.net/images/logo.png",
     "url": "",
-    "author": "update 19-09-2025 19:55:46",
+    "author": "update 20-09-2025 08:55:53",
     "stations": [
+        {
+            "name": "⚽ ไฮไลท์ เลชเช่ 1-2 กายารี่",
+            "image": "https://image.hugball.net/Pic/Video/m55339_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/09-2025/Lecce12Cagliari.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ โอลิมปิก ลียง 1-0 อองเช่ร์",
+            "image": "https://image.hugball.net/Pic/Video/m55338_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/09-2025/Lyon10Angers.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ สตุ๊ตการ์ต 2-0 ซังต์ เพาลี",
+            "image": "https://image.hugball.net/Pic/Video/m55337_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/09-2025/Stuttgart20StPauli.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ เรอัล เบติส 3-1 เรอัล โซเซียดาด",
+            "image": "https://image.hugball.net/Pic/Video/m55336_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/09-2025/RealBetis31RealSociedad.mp4",
+            "referer": "https://www.hugball.net/"
+        },
         {
             "name": "⚽ ไฮไลท์ ไอน์ทรัค แฟร้งค์เฟิร์ต 5-1 กาลาตาซาราย",
             "image": "https://image.hugball.net/Pic/Video/m55335_1.jpg",
