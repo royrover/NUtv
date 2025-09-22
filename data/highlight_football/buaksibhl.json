@@ -2,8 +2,20 @@
     "name": "highlights football buaksib",
     "image": "https://www.buaksib.com/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Flogo-summer.5abd78a6.png&w=256&q=75",
     "url": "",
-    "author": "update 21-09-2025 19:50:43",
+    "author": "update 22-09-2025 09:13:54",
     "stations": [
+        {
+            "name": "⚽ อาร์เซน่อล พบ แมนเชสเตอร์ ซิตี้ 21.09.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/09/Arsenal_Vs_Man_City_21_09_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Arsenal_Vs_Man_City_21_09_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ สิงห์ เชียงราย ยูไนเต็ด พบ บีจี ปทุม ยูไนเต็ด 21.09.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/09/Chiang_Rai_Vs_BG_Pathum_21_09_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Chiang_Rai_Vs_BG_Pathum_21_09_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
         {
             "name": "⚽ พีที ประจวบ เอฟซี พบ พลังกาญจน์ เอฟซี 20.09.2025 ไฮไลท์ฟุตบอล",
             "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/09/Prachuap_Vs_Kanchanaburi_20_09_25.jpg",
