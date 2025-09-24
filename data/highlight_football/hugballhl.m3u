@@ -1,4 +1,60 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://image.hugball.net/Pic/Video/m55403_1.jpg", group-title="LIVE SPORT", ⚽ ไฮไลท์ วูล์ฟแฮมป์ตัน 2-0 เอฟเวอร์ตัน
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.hugball.net/
+https://hugball2.b-cdn.net/hilight/09-2025/Wolverhampton20Everton.mp4
+#EXTINF:-1 tvg-logo="https://image.hugball.net/Pic/Video/m55402_1.jpg", group-title="LIVE SPORT", ⚽ ไฮไลท์ วีแกน แอธเลติก 0-2 วีคอมบ์ วันเดอเรอส์
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.hugball.net/
+https://hugball2.b-cdn.net/hilight/09-2025/WiganAthletic02WycombeWanderers.mp4
+#EXTINF:-1 tvg-logo="https://image.hugball.net/Pic/Video/m55401_1.jpg", group-title="LIVE SPORT", ⚽ ไฮไลท์ เบิร์นลี่ย์ 1-2 คาร์ดิฟฟ์ ซิตี้
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.hugball.net/
+https://hugball2.b-cdn.net/hilight/09-2025/Burnley12CardiffCity.mp4
+#EXTINF:-1 tvg-logo="https://image.hugball.net/Pic/Video/m55400_1.jpg", group-title="LIVE SPORT", ⚽ ไฮไลท์ ฟูแล่ม 1-0 เคมบริดจ์ ยูไนเต็ด
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.hugball.net/
+https://hugball2.b-cdn.net/hilight/09-2025/Fulham10CambridgeUnited.mp4
+#EXTINF:-1 tvg-logo="https://image.hugball.net/Pic/Video/m55399_1.jpg", group-title="LIVE SPORT", ⚽ ไฮไลท์ แอธเลติก บิลเบา 1-1 คิโรน่า
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.hugball.net/
+https://hugball2.b-cdn.net/hilight/09-2025/AthleticBilbao11Girona.mp4
+#EXTINF:-1 tvg-logo="https://image.hugball.net/Pic/Video/m55398_1.jpg", group-title="LIVE SPORT", ⚽ ไฮไลท์ เซบีย่า 1-2 บียาร์เรอัล
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.hugball.net/
+https://hugball2.b-cdn.net/hilight/09-2025/Sevilla12Villarreal.mp4
+#EXTINF:-1 tvg-logo="https://image.hugball.net/Pic/Video/m55397_1.jpg", group-title="LIVE SPORT", ⚽ ไฮไลท์ เอสปันญ่อล 2-2 บาเลนเซีย
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.hugball.net/
+https://hugball2.b-cdn.net/hilight/09-2025/Espanyol22Valencia.mp4
+#EXTINF:-1 tvg-logo="https://image.hugball.net/Pic/Video/m55396_1.jpg", group-title="LIVE SPORT", ⚽ ไฮไลท์ กายารี่ 4-1 โฟรซิโนเน่
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.hugball.net/
+https://hugball2.b-cdn.net/hilight/09-2025/Cagliari41Frosinone.mp4
+#EXTINF:-1 tvg-logo="https://image.hugball.net/Pic/Video/m55395_1.jpg", group-title="LIVE SPORT", ⚽ ไฮไลท์ อูดิเนเซ่ 2-1 ปาแลร์โม่
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.hugball.net/
+https://hugball2.b-cdn.net/hilight/09-2025/Udinese21Palermo.mp4
+#EXTINF:-1 tvg-logo="https://image.hugball.net/Pic/Video/m55394_1.jpg", group-title="LIVE SPORT", ⚽ ไฮไลท์ เอซี มิลาน 3-0 เลชเช่
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.hugball.net/
+https://hugball2.b-cdn.net/hilight/09-2025/ACMilan30Lecce.mp4
+#EXTINF:-1 tvg-logo="https://image.hugball.net/Pic/Video/m55393_1.jpg", group-title="LIVE SPORT", ⚽ ไฮไลท์ เลบานเต้ 1-4 เรอัล มาดริด
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.hugball.net/
+https://hugball2.b-cdn.net/hilight/09-2025/Levante14RealMadrid.mp4
+#EXTINF:-1 tvg-logo="https://image.hugball.net/Pic/Video/m55392_1.jpg", group-title="LIVE SPORT", ⚽ ไฮไลท์ บาร์นสลีย์ 0-6 ไบรท์ตัน
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.hugball.net/
+https://hugball2.b-cdn.net/hilight/09-2025/Barnsley06Brighton.mp4
+#EXTINF:-1 tvg-logo="https://image.hugball.net/Pic/Video/m55391_1.jpg", group-title="LIVE SPORT", ⚽ ไฮไลท์ ลินคอล์น ซิตี้ 1-2 เชลซี
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.hugball.net/
+https://hugball2.b-cdn.net/hilight/09-2025/LincolnCity12ChelseaFC.mp4
+#EXTINF:-1 tvg-logo="https://image.hugball.net/Pic/Video/m55390_1.jpg", group-title="LIVE SPORT", ⚽ ไฮไลท์ ลิเวอร์พูล 2-1 เซาแธมป์ตัน
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.hugball.net/
+https://hugball2.b-cdn.net/hilight/09-2025/Liverpool21Southampton.mp4
 #EXTINF:-1 tvg-logo="https://image.hugball.net/Pic/Video/m55389_1.jpg", group-title="LIVE SPORT", ⚽ ไฮไลท์ โอลิมปิก มาร์กเซย 1-0 ปารีส แซงต์ แชร์กแมง
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.hugball.net/
