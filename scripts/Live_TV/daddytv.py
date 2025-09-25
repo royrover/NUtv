@@ -5,9 +5,14 @@ import json, re, os, platform
 from datetime import datetime
 
 SYSTEM = platform.system()
-SAVE_DIR = os.path.dirname(os.path.abspath(__file__)) if SYSTEM=="Windows" else "/storage/emulated/0/htdocs/PYTHON/live_sport/livetv/Livetv"
-os.makedirs(SAVE_DIR, exist_ok=True)
 
+if SYSTEM == "Windows":
+    SAVE_DIR = os.path.dirname(os.path.abspath(__file__))
+else:  # Linux / GitHub Actions
+    SAVE_DIR = os.path.join(os.getcwd(), "data/live_tv")
+
+
+os.makedirs(SAVE_DIR, exist_ok=True)
 json_file = os.path.join(SAVE_DIR, "daddytv.json")
 m3u_file = os.path.join(SAVE_DIR, "daddytv.m3u")
 
