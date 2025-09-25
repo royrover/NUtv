@@ -2,8 +2,86 @@
     "name": "Hugball Highlights",
     "image": "https://www.hugball.net/images/logo.png",
     "url": "",
-    "author": "update 24-09-2025 19:56:53",
+    "author": "update 25-09-2025 09:01:54",
     "stations": [
+        {
+            "name": "⚽ ไฮไลท์ ปาร์ม่า 3-2 สเปเซีย",
+            "image": "https://image.hugball.net/Pic/Video/m55416_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/09-2025/ParmaSpezia.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ โคโม 3-0 ซัสเซาโล่",
+            "image": "https://image.hugball.net/Pic/Video/m55415_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/09-2025/ComoSassuolo.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ เคตาเฟ่ 1-1 อลาเบส",
+            "image": "https://image.hugball.net/Pic/Video/m55414_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/09-2025/GetafeAlav.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ เรอัล โซเซียดาด 1-0 เรอัล มายอร์ก้า",
+            "image": "https://image.hugball.net/Pic/Video/m55413_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/09-2025/RealSociedadMallorca.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ แอตเลติโก มาดริด 3-2 ราโย บาเยกาโน่",
+            "image": "https://image.hugball.net/Pic/Video/m55412_1.png",
+            "url": "https://hugball2.b-cdn.net/hilight/09-2025/AtleticoMadridRayoVallecano.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ ไฟร์บวร์ก 2-1 บาเซิล",
+            "image": "https://image.hugball.net/Pic/Video/m55411_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/09-2025/FreiburgBasel.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ เซอร์เวน่า ซเวซด้า 1-1 กลาสโกว์ เซลติก",
+            "image": "https://image.hugball.net/Pic/Video/m55410_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/09-2025/CrvenaZvezdaCeltic.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ นีซ 1-2 โรม่า",
+            "image": "https://image.hugball.net/Pic/Video/m55409_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/09-2025/NiceRoma.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ เรอัล เบติส 2-2 น็อตติ้งแฮม ฟอเรสต์",
+            "image": "https://image.hugball.net/Pic/Video/m55408_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/09-2025/RealBetisNottingh.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ สเปอร์ส 3-0 ดอนคาสเตอร์ โรเวอร์ส",
+            "image": "https://image.hugball.net/Pic/Video/m55407_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/09-2025/tottenhamDoncaster.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ นิวคาสเซิล ยูไนเต็ด 4-1 แบรดฟอร์ด ซิตี้",
+            "image": "https://image.hugball.net/Pic/Video/m55406_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/09-2025/NewcastleUnitedBradford.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ ฮัดเดอร์ฟิลด์ ทาวน์ 0-3 แมนเชสเตอร์ ซิตี้",
+            "image": "https://image.hugball.net/Pic/Video/m55405_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/09-2025/HuddersfieldManCity.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ พอร์ท เวล 0-2 อาร์เซนอล",
+            "image": "https://image.hugball.net/Pic/Video/m55404_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/09-2025/PortValeArsenal.mp4",
+            "referer": "https://www.hugball.net/"
+        },
         {
             "name": "⚽ ไฮไลท์ วูล์ฟแฮมป์ตัน 2-0 เอฟเวอร์ตัน",
             "image": "https://image.hugball.net/Pic/Video/m55403_1.jpg",

@@ -2,8 +2,38 @@
     "name": "highlights football buaksib",
     "image": "https://www.buaksib.com/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Flogo-summer.5abd78a6.png&w=256&q=75",
     "url": "",
-    "author": "update 24-09-2025 19:56:46",
+    "author": "update 25-09-2025 09:01:02",
     "stations": [
+        {
+            "name": "⚽ พอร์ทเวล พบ อาร์เซน่อล 24.09.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/09/Port_Vale_Vs_Arsenal_24_09_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Port_Vale_Vs_Arsenal_24_09_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ สเปอร์ส พบ ดอนคาสเตอร์ โรเวอร์ส 24.09.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/09/Spur_Vs_Doncaster_24_09_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Spur_Vs_Doncaster_24_09_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ นิวคาสเซิ่ล ยูไนเต็ด พบ แบรดฟอร์ด ซิตี้ 24.09.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/09/Newcastle_Vs_Bradford_24_09_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Newcastle_Vs_Bradford_24_09_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ ฮัดเดอส์ฟีลด์ ทาวน์ พบ แมนเชสเตอร์ ซิตี้ 24.09.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/09/Huddersfield_Vs_Man_City_24_09_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Huddersfield_Vs_Man_City_24_09_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ บีจี ปทุม ยูไนเต็ด พบ บุรีรัมย์ ยูไนเต็ด 24.09.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/09/BG_Vs_Buriram_24_09_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/BG_Vs_Buriram_24_09_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
         {
             "name": "⚽ เลบานเต้ พบ เรอัล มาดริด 23.09.2025 ไฮไลท์ฟุตบอล",
             "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/09/Levante_Vs_Madrid_23_09_25.jpg",
