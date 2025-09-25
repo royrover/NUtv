@@ -1,5 +1,6 @@
 import aiohttp
 import asyncio
+import requests
 from bs4 import BeautifulSoup
 import json, re, os, platform
 from datetime import datetime
@@ -128,7 +129,7 @@ async def main():
                         "image":data["image"],
                         "url":m3u8_url,
                         "referer":base_host+"/",
-                        "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0",
+                        "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
                         "playInNatPlayer":"true"
                     })
 
