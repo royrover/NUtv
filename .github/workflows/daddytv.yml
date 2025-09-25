@@ -1,13 +1,14 @@
-name: Scrape DaddyLive
+name: Update DaddyTV Playlist
 
 on:
   schedule:
-    - cron: '0 4 * * *'  # ทุกวัน 04:00 น. (UTC)
-  workflow_dispatch:     # สามารถรัน manual ได้
+    - cron: '0 6 * * *'  # รันทุกวันเวลา 06:00 UTC (13:00 ตามเวลาไทย)
+  workflow_dispatch:  # สามารถรันด้วยตนเองได้จากหน้า GitHub
 
 jobs:
-  scrape:
+  update_playlist:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
@@ -20,16 +21,15 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install aiohttp beautifulsoup4 lxml
+          pip install aiohttp beautifulsoup4
 
-      - name: Run scraper
-        run: |
-          python scraper.py
+      - name: Run daddytv.py
+        run: python scripts/Live_TV/daddytv.py
 
-      - name: Commit & Push results
+      - name: Commit and push updated files
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add daddytv.json daddytv.m3u
-          git commit -m "Update DaddyLive {{ github.run_number }}" || echo "No changes"
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add .
+          git commit -m "Update DaddyTV playlist"
           git push
