@@ -2,34 +2,48 @@ name: DaddyTV Scraper & Deploy
 
 on:
   schedule:
-    - cron: '0 22 * * *'  # รันทุกวัน 22:00 UTC = ตี 5 ไทย
+    - cron: '0 23 * * *'  # ทุกวัน 22:00 UTC = ตี 6 ไทย
   workflow_dispatch:
 
 jobs:
-  scrape-and-deploy:
+  scrape-and-notify:
     runs-on: ubuntu-latest
 
     steps:
+      # 1️⃣ Checkout repository
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      # 2️⃣ Setup Python
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.11'
 
+      # 3️⃣ Install dependencies
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install aiohttp beautifulsoup4 lxml
 
-      - name: Run daddytv.py
+      # 4️⃣ Run daddytv.py
+      - name: Run DaddyTV scraper
         run: python scripts/Live_TV/daddytv.py
 
+      # 5️⃣ Commit & Push updated files
       - name: Commit & Push updates
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          git add .
+          git add data/live_tv/*
           git commit -m "Update DaddyTV playlist"
           git push
+
+      # 6️⃣ Send Telegram Notification
+      - name: Send Telegram Notification
+        if: ${{ (github.event_name == 'schedule' || github.event_name == 'workflow_dispatch') && github.actor != 'github-actions[bot]' }}
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          python scripts/notify_telegram.py data/live_tv
