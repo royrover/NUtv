@@ -2,8 +2,86 @@
     "name": "Hugball Highlights",
     "image": "https://www.hugball.net/images/logo.png",
     "url": "",
-    "author": "update 25-09-2025 19:58:16",
+    "author": "update 26-09-2025 09:01:31",
     "stations": [
+        {
+            "name": "⚽ ไฮไลท์ โตริโน่ 1-0 ปิซ่า",
+            "image": "https://image.hugball.net/Pic/Video/m55429_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/09-2025/Torino10Pisa.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ เจนัว 3-1 เอ็มโปลี",
+            "image": "https://image.hugball.net/Pic/Video/m55428_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/09-2025/Genoa31Empoli.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ โอซาซูน่า 1-1 เอลเช่",
+            "image": "https://image.hugball.net/Pic/Video/m55427_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/09-2025/Elche11Osasuna.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ โก อเฮด อีเกิ้ลส์ 0-1 สเตอัว บูคาเรสต์",
+            "image": "https://image.hugball.net/Pic/Video/m55426_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/09-2025/GoAheadEagles01FCFCSB.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ เฟเรนซ์วารอซี่ ทีซี 1-1 วิคตอเรีย พัลเซ่น",
+            "image": "https://image.hugball.net/Pic/Video/m55425_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/09-2025/Ferencvaros11Plzen.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ ยัง บอยส์ 1-4 พานาธิไนกอส",
+            "image": "https://image.hugball.net/Pic/Video/m55424_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/09-2025/YoungBoys14Panathinaikos.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ ลีลล์ 2-1 เอสเค บรานน์",
+            "image": "https://image.hugball.net/Pic/Video/m55423_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/09-2025/LOSCLille21Brann.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ เรอัล โอเบียโด 1-3 บาร์เซโลน่า",
+            "image": "https://image.hugball.net/Pic/Video/m55422_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/09-2025/RealOviedo13Barcelona.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ สตุ๊ตการ์ต 2-1 เซลต้า บีโก้",
+            "image": "https://image.hugball.net/Pic/Video/m55421_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/09-2025/Stuttgart21CeltaVigo.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ เร้ดบูลล์ ซัลซ์บวร์ก 0-1 เอฟซี ปอร์โต้",
+            "image": "https://image.hugball.net/Pic/Video/m55420_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/09-2025/Salzburg01FCPorto.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ กลาสโกว์ เรนเจอร์ส 0-1 เกงค์",
+            "image": "https://image.hugball.net/Pic/Video/m55419_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/09-2025/GlascowRangers01Genk.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ อูเทร็คท์ 0-1 โอลิมปิก ลียง",
+            "image": "https://image.hugball.net/Pic/Video/m55418_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/09-2025/FCUtrecht01OlympiqueLyonnais.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ แอสตัน วิลล่า 1-0 โบโลญญ่า",
+            "image": "https://image.hugball.net/Pic/Video/m55417_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/09-2025/AstonVilla10Bologna.mp4",
+            "referer": "https://www.hugball.net/"
+        },
         {
             "name": "⚽ ไฮไลท์ ปาร์ม่า 3-2 สเปเซีย",
             "image": "https://image.hugball.net/Pic/Video/m55416_1.jpg",
