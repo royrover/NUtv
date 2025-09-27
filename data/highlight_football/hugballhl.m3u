@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://image.hugball.net/Pic/Video/m55435_1.png", group-title="LIVE SPORT", ⚽ ไฮไลท์ สุโขทัย เอฟซี 1-1 เชียงราย ยูไนเต็ด
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.hugball.net/
+https://hugball2.b-cdn.net/hilight/27092568/SKT1-1CR.mp4
 #EXTINF:-1 tvg-logo="https://image.hugball.net/Pic/Video/m55433_1.jpg", group-title="LIVE SPORT", ⚽ ไฮไลท์ เวสต์บรอมวิช 1-1 เลสเตอร์ ซิตี้
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.hugball.net/

@@ -2,8 +2,14 @@
     "name": "Hugball Highlights",
     "image": "https://www.hugball.net/images/logo.png",
     "url": "",
-    "author": "update 27-09-2025 08:57:30",
+    "author": "update 27-09-2025 19:49:57",
     "stations": [
+        {
+            "name": "⚽ ไฮไลท์ สุโขทัย เอฟซี 1-1 เชียงราย ยูไนเต็ด",
+            "image": "https://image.hugball.net/Pic/Video/m55435_1.png",
+            "url": "https://hugball2.b-cdn.net/hilight/27092568/SKT1-1CR.mp4",
+            "referer": "https://www.hugball.net/"
+        },
         {
             "name": "⚽ ไฮไลท์ เวสต์บรอมวิช 1-1 เลสเตอร์ ซิตี้",
             "image": "https://image.hugball.net/Pic/Video/m55433_1.jpg",
