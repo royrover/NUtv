@@ -2,8 +2,32 @@
     "name": "Hugball Highlights",
     "image": "https://www.hugball.net/images/logo.png",
     "url": "",
-    "author": "update 26-09-2025 19:56:26",
+    "author": "update 27-09-2025 08:57:30",
     "stations": [
+        {
+            "name": "⚽ ไฮไลท์ เวสต์บรอมวิช 1-1 เลสเตอร์ ซิตี้",
+            "image": "https://image.hugball.net/Pic/Video/m55433_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/09-2025/West11leicester.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ สตารส์บูร์ก 1-2 โอลิมปิก มาร์กเซย",
+            "image": "https://image.hugball.net/Pic/Video/m55432_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/09-2025/Stra12Marse.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ คิโรน่า 0-0 เอสปันญ่อล",
+            "image": "https://image.hugball.net/Pic/Video/m55431_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/09-2025/giro00espanyol.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ บาเยิร์น มิวนิค 4-0 แวร์เดอร์ เบรเมน",
+            "image": "https://image.hugball.net/Pic/Video/m55430_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/09-2025/bayern40werder.mp4",
+            "referer": "https://www.hugball.net/"
+        },
         {
             "name": "⚽ ไฮไลท์ โตริโน่ 1-0 ปิซ่า",
             "image": "https://image.hugball.net/Pic/Video/m55429_1.jpg",
