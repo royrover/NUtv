@@ -2,8 +2,44 @@
     "name": "highlights football buaksib",
     "image": "https://www.buaksib.com/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Flogo-summer.5abd78a6.png&w=256&q=75",
     "url": "",
-    "author": "update 28-09-2025 19:50:49",
+    "author": "update 29-09-2025 09:03:26",
     "stations": [
+        {
+            "name": "⚽ บาร์เซโลน่า พบ เรอัล โซเซียดาด 28.09.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/09/Barcelona_Vs_Sociedad_28_09_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Barcelona_Vs_Sociedad_28_09_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ แอสตัน วิลล่า พบ ฟูแล่ม 28.09.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/09/Villa_Vs_Fulham_28_09_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Villa_Vs_Fulham_28_09_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ นิวคาสเซิ่ล ยูไนเต็ด พบ อาร์เซน่อล 28.09.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/09/Newcastle_Vs_Arsenal_28_09_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Newcastle_Vs_Arsenal_28_09_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ ราชบุรี เอฟซี พบ ทรู แบงค็อก ยูไนเต็ด 28.09.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/09/Ratchaburi_Vs_True_Bangkok_28_09_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Ratchaburi_Vs_True_Bangkok_28_09_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ บีจี ปทุม ยูไนเต็ด พบ การท่าเรือ เอฟซี 28.09.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/09/BG_Vs_Port_28_09_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/BG_Vs_Port_28_09_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ นครราชสีมา มาสด้า เอฟซี พบ เมืองทอง ยูไนเต็ด 28.09.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/09/Nakhonratchasima_FC_Vs_Muangthong_United_28_09_2025.jpg",
+            "url": "https://bdphap.com/ssd1/th/Nakhonratchasima_FC_Vs_Muangthong_United_28_09_2025.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
         {
             "name": "⚽ เชลซี พบ ไบรท์ตัน 27.09.2025 ไฮไลท์ฟุตบอล",
             "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/09/Chelsea_Vs_Brighton_27_09_25.jpg",

@@ -1,4 +1,28 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://newbackend.buaksib.com/wp-content/uploads/2025/09/Barcelona_Vs_Sociedad_28_09_25.jpg", group-title="LIVE SPORT", ⚽ บาร์เซโลน่า พบ เรอัล โซเซียดาด 28.09.2025 ไฮไลท์ฟุตบอล
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.buaksib.com/
+https://bdphap.com/ssd1/th/Barcelona_Vs_Sociedad_28_09_25.mp4
+#EXTINF:-1 tvg-logo="https://newbackend.buaksib.com/wp-content/uploads/2025/09/Villa_Vs_Fulham_28_09_25.jpg", group-title="LIVE SPORT", ⚽ แอสตัน วิลล่า พบ ฟูแล่ม 28.09.2025 ไฮไลท์ฟุตบอล
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.buaksib.com/
+https://bdphap.com/ssd1/th/Villa_Vs_Fulham_28_09_25.mp4
+#EXTINF:-1 tvg-logo="https://newbackend.buaksib.com/wp-content/uploads/2025/09/Newcastle_Vs_Arsenal_28_09_25.jpg", group-title="LIVE SPORT", ⚽ นิวคาสเซิ่ล ยูไนเต็ด พบ อาร์เซน่อล 28.09.2025 ไฮไลท์ฟุตบอล
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.buaksib.com/
+https://bdphap.com/ssd1/th/Newcastle_Vs_Arsenal_28_09_25.mp4
+#EXTINF:-1 tvg-logo="https://newbackend.buaksib.com/wp-content/uploads/2025/09/Ratchaburi_Vs_True_Bangkok_28_09_25.jpg", group-title="LIVE SPORT", ⚽ ราชบุรี เอฟซี พบ ทรู แบงค็อก ยูไนเต็ด 28.09.2025 ไฮไลท์ฟุตบอล
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.buaksib.com/
+https://bdphap.com/ssd1/th/Ratchaburi_Vs_True_Bangkok_28_09_25.mp4
+#EXTINF:-1 tvg-logo="https://newbackend.buaksib.com/wp-content/uploads/2025/09/BG_Vs_Port_28_09_25.jpg", group-title="LIVE SPORT", ⚽ บีจี ปทุม ยูไนเต็ด พบ การท่าเรือ เอฟซี 28.09.2025 ไฮไลท์ฟุตบอล
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.buaksib.com/
+https://bdphap.com/ssd1/th/BG_Vs_Port_28_09_25.mp4
+#EXTINF:-1 tvg-logo="https://newbackend.buaksib.com/wp-content/uploads/2025/09/Nakhonratchasima_FC_Vs_Muangthong_United_28_09_2025.jpg", group-title="LIVE SPORT", ⚽ นครราชสีมา มาสด้า เอฟซี พบ เมืองทอง ยูไนเต็ด 28.09.2025 ไฮไลท์ฟุตบอล
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.buaksib.com/
+https://bdphap.com/ssd1/th/Nakhonratchasima_FC_Vs_Muangthong_United_28_09_2025.mp4
 #EXTINF:-1 tvg-logo="https://newbackend.buaksib.com/wp-content/uploads/2025/09/Chelsea_Vs_Brighton_27_09_25.jpg", group-title="LIVE SPORT", ⚽ เชลซี พบ ไบรท์ตัน 27.09.2025 ไฮไลท์ฟุตบอล
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.buaksib.com/
