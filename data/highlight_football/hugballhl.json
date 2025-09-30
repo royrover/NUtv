@@ -2,8 +2,26 @@
     "name": "Hugball Highlights",
     "image": "https://www.hugball.net/images/logo.png",
     "url": "",
-    "author": "update 29-09-2025 19:58:54",
+    "author": "update 30-09-2025 08:59:16",
     "stations": [
+        {
+            "name": "⚽ ไฮไลท์ เจนัว 0-3 ลาซิโอ",
+            "image": "https://image.hugball.net/Pic/Video/m55477_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/09-2025/GenoaLazio.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ ปาร์ม่า 2-1 โตริโน่",
+            "image": "https://image.hugball.net/Pic/Video/m55476_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/09-2025/ParmaTorino.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ เอฟเวอร์ตัน vs เวสต์แฮม ยูไนเต็ด",
+            "image": "https://image.hugball.net/Pic/Video/m55475_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/09-2025/EvertonWestam.mp4",
+            "referer": "https://www.hugball.net/"
+        },
         {
             "name": "⚽ ไฮไลท์ นครราชสีมา เอฟซี 1-1 เมืองทอง ยูไนเต็ด",
             "image": "https://image.hugball.net/Pic/Video/m55474_1.png",
