@@ -2,8 +2,68 @@
     "name": "Hugball Highlights",
     "image": "https://www.hugball.net/images/logo.png",
     "url": "",
-    "author": "update 30-09-2025 19:58:55",
+    "author": "update 01-10-2025 09:18:45",
     "stations": [
+        {
+            "name": "⚽ ไฮไลท์ บาเลนเซีย 2-1 เรอัล โอเบียโด",
+            "image": "https://image.hugball.net/Pic/Video/m55487_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/09-2025/Valencia21RealOviedo.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ เออีพี ปาฟอส 1-5 บาเยิร์น มิวนิค",
+            "image": "https://image.hugball.net/Pic/Video/m55486_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/09-2025/Pafos15BayernMunich.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ โอลิมปิก มาร์กเซย 4-0 อาแจกซ์ อัมสเตอร์ดัม",
+            "image": "https://image.hugball.net/Pic/Video/m55485_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/09-2025/OlympiqueMarseille40Ajax.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ ไครัต อัลมาตี้ 0-5 เรอัล มาดริด",
+            "image": "https://image.hugball.net/Pic/Video/m55484_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/09-2025/Kairat05RealMadrid.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ อินเตอร์ มิลาน 3-0 สลาเวีย ปราก",
+            "image": "https://image.hugball.net/Pic/Video/m55483_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/09-2025/InterMilan30SlaviaPrague.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ กาลาตาซาราย 1-0 ลิเวอร์พูล",
+            "image": "https://image.hugball.net/Pic/Video/m55482_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/09-2025/Galatasaray10Liverpool.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ เชลซี 1-0 เบนฟิก้า",
+            "image": "https://image.hugball.net/Pic/Video/m55481_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/09-2025/ChelseaFC10Benfica.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ โบโด กลิมท์ 2-2 สเปอร์ส",
+            "image": "https://image.hugball.net/Pic/Video/m55480_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/09-2025/BodoGlimt22TottenhamHotspur.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ แอตเลติโก มาดริด 5-1 ไอน์ทรัค แฟร้งค์เฟิร์ต",
+            "image": "https://image.hugball.net/Pic/Video/m55479_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/09-2025/AtleticoMadrid51intrachtFrankfurt.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ อตาลันต้า 2-1 คลับ บรูช",
+            "image": "https://image.hugball.net/Pic/Video/m55478_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/09-2025/Atalanta21ClubBrugge.mp4",
+            "referer": "https://www.hugball.net/"
+        },
         {
             "name": "⚽ ไฮไลท์ เจนัว 0-3 ลาซิโอ",
             "image": "https://image.hugball.net/Pic/Video/m55477_1.jpg",

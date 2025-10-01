@@ -2,8 +2,56 @@
     "name": "highlights football buaksib",
     "image": "https://www.buaksib.com/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Flogo-summer.5abd78a6.png&w=256&q=75",
     "url": "",
-    "author": "update 30-09-2025 19:58:48",
+    "author": "update 01-10-2025 09:16:36",
     "stations": [
+        {
+            "name": "⚽ อินเตอร์ มิลาน พบ สลาเวีย ปราก 30.09.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/09/Inter_Vs_Slavia_30_09_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Inter_Vs_Slavia_30_09_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ แอตเลติโก มาดริด พบ แฟร้งค์เฟิร์ต 30.09.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/09/Atletico_Vs_Frankfurt_30_09_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Atletico_Vs_Frankfurt_30_09_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ ปาฟอส พบ บาเยิร์น มิวนิค 30.09.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/09/Pafos_Vs_Bayern_30_09_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Pafos_Vs_Bayern_30_09_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ กาลาตาซาราย พบ ลิเวอร์พูล 30.09.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/09/Galatasaray_Vs_Liverpool_30_09_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Galatasaray_Vs_Liverpool_30_09_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ เชลซี พบ เบนฟิก้า 30.09.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/10/Chelsea_Vs_Benfica_30_09_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Chelsea_Vs_Benfica_30_09_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ โบโด กลิมท์ พบ สเปอร์ส 30.09.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/10/Bodo_Glimt_Vs_Spur_30_09_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Bodo_Glimt_Vs_Spur_30_09_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ ไครัต อัลมาตี้ พบ เรอัล มาดริด 30.09.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/10/Kairat_Vs_Madrid_30_09_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Kairat_Vs_Madrid_30_09_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ เอฟซี โซล พบ บุรีรัมย์ ยูไนเต็ด 30.09.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/09/Seoul_Vs_Buriram_30_09_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Seoul_Vs_Buriram_30_09_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
         {
             "name": "⚽ บาร์เซโลน่า พบ เรอัล โซเซียดาด 28.09.2025 ไฮไลท์ฟุตบอล",
             "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/09/Barcelona_Vs_Sociedad_28_09_25.jpg",
