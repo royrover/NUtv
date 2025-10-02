@@ -1,4 +1,24 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://newbackend.buaksib.com/wp-content/uploads/2025/10/Monaco_Vs_Man_City_01_10_25.jpg", group-title="LIVE SPORT", ⚽ โมนาโก พบ แมนเชสเตอร์ ซิตี้ 01.10.2025 ไฮไลท์ฟุตบอล
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.buaksib.com/
+https://bdphap.com/ssd1/th/Monaco_Vs_Man_City_01_10_25.mp4
+#EXTINF:-1 tvg-logo="https://newbackend.buaksib.com/wp-content/uploads/2025/10/Barcelona_Vs_PSG_01_10_25.jpg", group-title="LIVE SPORT", ⚽ บาร์เซโลน่า พบ ปารีส แซงต์ แชร์กแมง 01.10.2025 ไฮไลท์ฟุตบอล
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.buaksib.com/
+https://bdphap.com/ssd1/th/Barcelona_Vs_PSG_01_10_25.mp4
+#EXTINF:-1 tvg-logo="https://newbackend.buaksib.com/wp-content/uploads/2025/10/Arsenal_Vs_Olympiacos_01_10_25.jpg", group-title="LIVE SPORT", ⚽ อาร์เซน่อล พบ โอลิมเปียกอส 01.10.2025 ไฮไลท์ฟุตบอล
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.buaksib.com/
+https://bdphap.com/ssd1/th/Arsenal_Vs_Olympiacos_01_10_25.mp4
+#EXTINF:-1 tvg-logo="https://newbackend.buaksib.com/wp-content/uploads/2025/10/Saint_Gilloise_Vs_Newcastle_01_10_25.jpg", group-title="LIVE SPORT", ⚽ ยูนิยง แซงต์ กิลลุส พบ นิวคาสเซิ่ล ยูไนเต็ด 01.10.2025 ไฮไลท์ฟุตบอล
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.buaksib.com/
+https://bdphap.com/ssd1/th/Saint_Gilloise_Vs_Newcastle_01_10_25.mp4
+#EXTINF:-1 tvg-logo="https://newbackend.buaksib.com/wp-content/uploads/2025/10/True_Bangkok_Vs_Bandung_01_10_25.jpg", group-title="LIVE SPORT", ⚽ ทรู แบงค็อก ยูไนเต็ด พบ เปอร์ซิบ บันดุง 01.10.2025 ไฮไลท์ฟุตบอล
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.buaksib.com/
+https://bdphap.com/ssd1/th/True_Bangkok_Vs_Bandung_01_10_25.mp4
 #EXTINF:-1 tvg-logo="https://newbackend.buaksib.com/wp-content/uploads/2025/09/Inter_Vs_Slavia_30_09_25.jpg", group-title="LIVE SPORT", ⚽ อินเตอร์ มิลาน พบ สลาเวีย ปราก 30.09.2025 ไฮไลท์ฟุตบอล
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.buaksib.com/
