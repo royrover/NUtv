@@ -2,8 +2,26 @@
     "name": "highlights football buaksib",
     "image": "https://www.buaksib.com/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Flogo-summer.5abd78a6.png&w=256&q=75",
     "url": "",
-    "author": "update 02-10-2025 19:54:30",
+    "author": "update 03-10-2025 08:57:55",
     "stations": [
+        {
+            "name": "⚽ เฟเยนูร์ด พบ แอสตัน วิลล่า 02.10.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/10/Feyenoord_Vs_Villa_02_10_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Feyenoord_Vs_Villa_02_10_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ ฟอเรสต์ พบ มิดทิลแลนด์ 02.10.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/10/Forest_Vs_Midtjylland_02_10_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Forest_Vs_Midtjylland_02_10_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ ราชบุรี เอฟซี พบ กัมบะ โอซาก้า 02.10.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/10/Ratchaburi_Vs_Gamba_02_10_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Ratchaburi_Vs_Gamba_02_10_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
         {
             "name": "⚽ แทมปิเนส โรเวอร์ส พบ บีจี ปทุม ยูไนเต็ด 02.10.2025 ไฮไลท์ฟุตบอล",
             "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/10/Tampines_Rovers_Vs_BG_Pathum_United_02_10_2025.jpg",
