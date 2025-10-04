@@ -2,8 +2,32 @@
     "name": "Hugball Highlights",
     "image": "https://www.hugball.net/images/logo.png",
     "url": "",
-    "author": "update 03-10-2025 19:54:19",
+    "author": "update 04-10-2025 08:54:29",
     "stations": [
+        {
+            "name": "⚽ ไฮไลท์ เอลลาส เวโรน่า 0-1 ซัสเซาโล่",
+            "image": "https://image.hugball.net/Pic/Video/m55518_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/10-2025/HellasVeronaSassuo.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ ฮอฟเฟ่นไฮม์ 0- 1 โคโลญจน์",
+            "image": "https://image.hugball.net/Pic/Video/m55517_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/10-2025/HoffenheiFCKlnon.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ โอซาซูน่า 2-1 เคตาเฟ่",
+            "image": "https://image.hugball.net/Pic/Video/m55516_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/10-2025/OSASUGETAFE.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ บอร์นมัธ vs ฟูแล่ม",
+            "image": "https://image.hugball.net/Pic/Video/m55515_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/10-2025/BournemouthFulham.mp4",
+            "referer": "https://www.hugball.net/"
+        },
         {
             "name": "⚽ ไฮไลท์ ฟิออเรนติน่า 2-0 ซิกม่า โอโลมุช",
             "image": "https://image.hugball.net/Pic/Video/m55514_1.jpg",
