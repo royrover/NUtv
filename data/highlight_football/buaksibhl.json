@@ -2,8 +2,56 @@
     "name": "highlights football buaksib",
     "image": "https://www.buaksib.com/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Flogo-summer.5abd78a6.png&w=256&q=75",
     "url": "",
-    "author": "update 04-10-2025 19:49:52",
+    "author": "update 05-10-2025 09:14:28",
     "stations": [
+        {
+            "name": "⚽ เชลซี พบ ลิเวอร์พูล 04.10.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/10/Chelsea_Vs_Liverpool_04_10_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Chelsea_Vs_Liverpool_04_10_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ อาร์เซน่อล พบ เวสต์แฮม ยูไนเต็ด 04.10.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/10/Arsenal_Vs_West_Ham_04_10_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Arsenal_Vs_West_Ham_04_10_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ ลีดส์ ยูไนเต็ด พบ สเปอร์ส 04.10.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/10/Leeds_Vs_Spur_04_10_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Leeds_Vs_Spur_04_10_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ แมนเชสเตอร์ ยูไนเต็ด พบ ซันเดอร์แลนด์ 04.10.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/10/Man_United_Vs_Sunderland_04_10_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Man_United_Vs_Sunderland_04_10_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ การท่าเรือ เอฟซี พบ พลังกาญจน์ เอฟซี 04.10.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/10/port.jpg",
+            "url": "https://bdphap.com/ssd1/th/Port_Vs_Kanchanaburi_04_10_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ สิงห์ เชียงราย ยูไนเต็ด พบ ระยอง เอฟซี 04.10.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/10/Sr.jpg",
+            "url": "https://bdphap.com/ssd1/th/Chiangrai_Vs_Rayong_04_10_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ อยุธยา ยูไนเต็ด พบ สุโขทัย เอฟซี 04.10.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/10/Ayutthaya_Vs_Sukhothai_04_10_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Ayutthaya_Vs_Sukhothai_04_10_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ อุทัยธานี เอฟซี พบ ชลบุรี เอฟซี 04.10.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/10/Uthai_Thani_FC_Vs_Chonburi_FC_04_10_2025.jpg",
+            "url": "https://bdphap.com/ssd1/th/Uthai_Thani_FC_Vs_Chonburi_FC_04_10_2025.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
         {
             "name": "⚽ เฟเยนูร์ด พบ แอสตัน วิลล่า 02.10.2025 ไฮไลท์ฟุตบอล",
             "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/10/Feyenoord_Vs_Villa_02_10_25.jpg",
