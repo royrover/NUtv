@@ -2,8 +2,32 @@
     "name": "highlights football buaksib",
     "image": "https://www.buaksib.com/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Flogo-summer.5abd78a6.png&w=256&q=75",
     "url": "",
-    "author": "update 06-10-2025 09:01:31",
+    "author": "update 06-10-2025 19:58:02",
     "stations": [
+        {
+            "name": "⚽ วูล์ฟแฮมป์ตัน พบ ไบรท์ตัน 05.10.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/10/Wolver_Vs_Brighton_05_10_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Wolver_Vs_Brighton_05_10_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ เอฟเวอร์ตัน พบ คริสตัล พาเลซ 05.10.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/10/Everton_Vs_Palace_05_10_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Everton_Vs_Palace_05_10_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ แอสตัน วิลล่า พบ เบิร์นลี่ย์ 05.10.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/10/Villa_Vs_Burnley_05_10_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Villa_Vs_Burnley_05_10_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ บุรีรัมย์ ยูไนเต็ด พบ บีจี ปทุม ยูไนเต็ด 05.10.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/10/burirum.jpg",
+            "url": "https://bdphap.com/ssd1/th/Buriram_Vs_BG_05_10_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
         {
             "name": "⚽ เบรนท์ฟอร์ด พบ แมนเชสเตอร์ ซิตี้ 05.10.2025 ไฮไลท์ฟุตบอล",
             "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/10/Brentford_Vs_ManCity_05_10_25.jpg",

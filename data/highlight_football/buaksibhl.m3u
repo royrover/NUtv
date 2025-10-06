@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://newbackend.buaksib.com/wp-content/uploads/2025/10/Wolver_Vs_Brighton_05_10_25.jpg", group-title="LIVE SPORT", ⚽ วูล์ฟแฮมป์ตัน พบ ไบรท์ตัน 05.10.2025 ไฮไลท์ฟุตบอล
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.buaksib.com/
+https://bdphap.com/ssd1/th/Wolver_Vs_Brighton_05_10_25.mp4
+#EXTINF:-1 tvg-logo="https://newbackend.buaksib.com/wp-content/uploads/2025/10/Everton_Vs_Palace_05_10_25.jpg", group-title="LIVE SPORT", ⚽ เอฟเวอร์ตัน พบ คริสตัล พาเลซ 05.10.2025 ไฮไลท์ฟุตบอล
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.buaksib.com/
+https://bdphap.com/ssd1/th/Everton_Vs_Palace_05_10_25.mp4
+#EXTINF:-1 tvg-logo="https://newbackend.buaksib.com/wp-content/uploads/2025/10/Villa_Vs_Burnley_05_10_25.jpg", group-title="LIVE SPORT", ⚽ แอสตัน วิลล่า พบ เบิร์นลี่ย์ 05.10.2025 ไฮไลท์ฟุตบอล
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.buaksib.com/
+https://bdphap.com/ssd1/th/Villa_Vs_Burnley_05_10_25.mp4
+#EXTINF:-1 tvg-logo="https://newbackend.buaksib.com/wp-content/uploads/2025/10/burirum.jpg", group-title="LIVE SPORT", ⚽ บุรีรัมย์ ยูไนเต็ด พบ บีจี ปทุม ยูไนเต็ด 05.10.2025 ไฮไลท์ฟุตบอล
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.buaksib.com/
+https://bdphap.com/ssd1/th/Buriram_Vs_BG_05_10_25.mp4
 #EXTINF:-1 tvg-logo="https://newbackend.buaksib.com/wp-content/uploads/2025/10/Brentford_Vs_ManCity_05_10_25.jpg", group-title="LIVE SPORT", ⚽ เบรนท์ฟอร์ด พบ แมนเชสเตอร์ ซิตี้ 05.10.2025 ไฮไลท์ฟุตบอล
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.buaksib.com/
