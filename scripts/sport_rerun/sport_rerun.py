@@ -36,12 +36,6 @@ data = {
             "import": False,
         },
         {
-            "name": "acdsport",
-            "image": "https://i1.sndcdn.com/avatars-sen5MqKQrKyo43a7-2M6hlg-t1080x1080.jpg",
-            "url": "https://raw.githubusercontent.com/royrover/NUtv/refs/heads/main/data/sport_rerun/acdsport_replay.json?token=GHSAT0AAAAAADK2IVYYUHTE6EA6RBEZ5QPK2GBN5ZQ",
-            "import": False
-        },
-        {
             "name": "dookeela",
             "image": "https://i1.sndcdn.com/avatars-sen5MqKQrKyo43a7-2M6hlg-t1080x1080.jpg",
             "url": "https://raw.githubusercontent.com/royrover/NUtv/refs/heads/main/data/sport_rerun/dookeela_rerun.json?token=GHSAT0AAAAAADK2IVYYYIL4Y6BHLQ6LEVRG2GBN7JA",
