@@ -32,7 +32,6 @@ jobs:
       - name: Run Sport Rerun Scripts
         run: |
           python scripts/sport_rerun/sport_rerun.py
-          python scripts/sport_rerun/acdsport_replay.py
           python scripts/sport_rerun/dookeela_rerun.py
           python scripts/sport_rerun/goaldaddyth.py
 
