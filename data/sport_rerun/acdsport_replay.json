@@ -2,8 +2,218 @@
     "name": "acdsport replay",
     "image": "https://acdsport.com/acd/social.jpg",
     "url": "https://dl.dropbox.com/scl/fi/2lk9rp530f3mh8sn095pu/acdsport_replay.json?rlkey=ikxvfvv3nljrwb9xervk3r9mp&st=6nqt04sc&dl=0",
-    "author": "update 16-09-2025 07:43:37",
+    "author": "update 08-10-2025 21:21:47",
     "stations": [
+        {
+            "name": "Oct 05 - 19:00 La Liga Celta Vigo vs Atletico Madrid",
+            "image": "https://image.azencode.com/teams/538.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn7-1759690800-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Oct 05 - 18:45 Serie A Juventus vs AC Milan",
+            "image": "https://image.azencode.com/teams/496.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts1-1759689900-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Oct 05 - 18:45 Ligue 1 Lille vs Paris Saint Germain",
+            "image": "https://image.azencode.com/teams/79.png",
+            "url": "https://vod.starxcdn.xyz/vod/live01-1759689900-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Oct 05 - 17:30 Bundesliga Borussia Monchengladbach vs SC Freiburg",
+            "image": "https://image.azencode.com/teams/163.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn2-1759685400-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Oct 05 - 16:30 La Liga Real Sociedad vs Rayo Vallecano",
+            "image": "https://image.azencode.com/teams/548.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn6-1759681800-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Oct 05 - 16:30 La Liga Espanyol vs Real Betis",
+            "image": "https://image.azencode.com/teams/540.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn5-1759681800-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Oct 05 - 16:00 Serie A Napoli vs Genoa",
+            "image": "https://image.azencode.com/teams/492.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount4-1759680000-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Oct 05 - 15:30 Premier League Brentford vs Manchester City",
+            "image": "https://image.azencode.com/teams/55.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_ssepl-1759678200-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Oct 05 - 15:30 Bundesliga Hamburger SV vs FSV Mainz 05",
+            "image": "https://image.azencode.com/teams/175.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn1-1759678200-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Oct 05 - 15:15 Ligue 1 Monaco vs Nice",
+            "image": "https://image.azencode.com/teams/91.png",
+            "url": "https://vod.starxcdn.xyz/vod/pt_sporttv3-1759677300-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Oct 05 - 14:15 La Liga Sevilla vs Barcelona",
+            "image": "https://image.azencode.com/teams/536.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn4-1759673700-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Oct 05 - 13:30 Bundesliga VfB Stuttgart vs FC Heidenheim",
+            "image": "https://image.azencode.com/upload/Football/VfB Stuttgart.jpg",
+            "url": "https://vod.starxcdn.xyz/vod/espn0-1759671000-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Oct 05 - 13:00 Serie A Fiorentina vs AS Roma",
+            "image": "https://image.azencode.com/teams/502.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts3-1759669200-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Oct 05 - 13:00 Serie A Bologna vs Pisa",
+            "image": "https://image.azencode.com/teams/500.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount3-1759669200-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Oct 05 - 13:00 Ligue 1 Lyon vs Toulouse",
+            "image": "https://image.azencode.com/upload/Football/Lyon.png",
+            "url": "https://vod.starxcdn.xyz/vod/pt_sporttv3-1759669200-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Oct 05 - 13:00 Premier League Aston Villa vs Burnley",
+            "image": "https://image.azencode.com/teams/66.png",
+            "url": "https://vod.starxcdn.xyz/vod/epl_avl-1759669200-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Oct 05 - 13:00 Premier League Everton vs Crystal Palace",
+            "image": "https://image.azencode.com/teams/45.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_ssepl-1759669200-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Oct 05 - 13:00 Premier League Wolves vs Brighton",
+            "image": "https://image.azencode.com/teams/39.png",
+            "url": "https://vod.starxcdn.xyz/vod/epl_wol-1759669200-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Oct 05 - 13:00 Premier League Newcastle vs Nottingham Forest",
+            "image": "https://image.azencode.com/teams/34.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_ssmain-1759669200-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Oct 05 - 12:00 La Liga Alaves vs Elche",
+            "image": "https://image.azencode.com/upload/Football/Alaves1.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn3-1759665600-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Oct 05 - 10:30 Serie A Udinese vs Cagliari",
+            "image": "https://image.azencode.com/teams/494.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount1-1759660200-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Oct 04 - 19:05 Ligue 1 Auxerre vs Lens",
+            "image": "https://image.azencode.com/teams/108.png",
+            "url": "https://vod.starxcdn.xyz/vod/pt_sporttv3-1759604700-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Oct 04 - 19:00 La Liga Real Madrid vs Villarreal",
+            "image": "https://image.azencode.com/teams/541.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn8-1759604400-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Oct 04 - 18:45 Serie A Atalanta vs Como",
+            "image": "https://image.azencode.com/teams/499.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount4-1759603500-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Oct 04 - 17:00 Ligue 1 Stade Brestois 29 vs Nantes",
+            "image": "https://image.azencode.com/teams/106.png",
+            "url": "https://vod.starxcdn.xyz/vod/pt_sporttv3-1759597200-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Oct 04 - 16:30 La Liga Athletic Club vs Mallorca",
+            "image": "https://image.azencode.com/teams/531.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn7-1759595400-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Oct 04 - 16:30 Premier League Chelsea vs Liverpool",
+            "image": "https://image.azencode.com/teams/49.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_ssepl-1759595400-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Oct 04 - 16:30 Bundesliga Eintracht Frankfurt vs Bayern Munich",
+            "image": "https://image.azencode.com/teams/169.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn4-1759595400-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Oct 04 - 16:00 Serie A Inter vs Cremonese",
+            "image": "https://image.azencode.com/teams/505.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount3-1759593600-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Oct 04 - 15:00 Ligue 1 Metz vs Marseille",
+            "image": "https://image.azencode.com/upload/Football/Metz.png",
+            "url": "https://vod.starxcdn.xyz/vod/pt_sporttv3-1759590000-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
         {
             "name": "Sep 15 - 19:00 La Liga Espanyol vs Mallorca",
             "image": "https://image.azencode.com/teams/540.png",
