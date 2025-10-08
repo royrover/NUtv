@@ -1,4 +1,28 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://dooball.id/images/5ayAjj5coQ1l7g7lPqg1K6B6D6TeDRRmaxresdefault_(7).jpg", group-title="LIVE SPORT", ⚽  ฮาโรเกต ทาวน์ 1 - 2 ครูว์ อเล็กซานดร้า - ลีกทู อังกฤษ 2025/7.10.68
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dooball.id/
+https://worker.direct-stream.com:443/highlight/Harrogate Town 1-2 Crewe Alexandra.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dooball.id/images/wzH6UK7lJc4IL9AZ8hBKRdNSi71IOCGmaxresdefault.jpg", group-title="LIVE SPORT", ⚽  เดปอร์ติโว ริเอสตร้า 2 - 2 เบเลซ ซาร์สฟิลด์ - อาร์เจนติน่า พรีเมียร์ ดิวิชั่น 2025/7.10.68
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dooball.id/
+https://worker.direct-stream.com:443/highlight/DEPORTIVO RIESTRA 2-2 VÉLEZ.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dooball.id/images/EGIRETxNznUUmhqLSWG87M1LiS1nOTDmaxresdefault_(1).jpg", group-title="LIVE SPORT", ⚽  ราซิ่ง คลับ 0 - 0 อินดิเพนเดนเต้ ลิวาดาเวีย - อาร์เจนติน่า พรีเมียร์ ดิวิชั่น 2025/7.10.68
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dooball.id/
+https://worker.direct-stream.com:443/highlight/RACING 0-0 INDEPENDIENTE RIVADAVIA.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dooball.id/images/n8KjFqV7t9EPoQXAv1z2j061wyhXWIzmaxresdefault_(2).jpg", group-title="LIVE SPORT", ⚽  ลา อีคูดัด 0 - 1 อ็องเซ่ กัลดาส - โคลัมเบีย พรีเมร่าเอ 2025/7.10.68
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dooball.id/
+https://worker.direct-stream.com:443/highlight/La Equidad 0-1 Once Caldas.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dooball.id/images/zyHF6Fb3lJXXCOCj0mgp0iqjkBR7AS3maxresdefault_(6).jpg", group-title="LIVE SPORT", ⚽  วิเทสส์ อาร์เน่ม 1 - 2 เดน บอสช์ - จูปิแลร์ลีก ฮอลแลนด์ 2025/7.10.68
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dooball.id/
+https://worker.direct-stream.com:443/highlight/Vitesse 1-2 FC Den Bosch.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dooball.id/images/e3Bi74B8bZNiDh9DjYAd6Q9swnGInnimaxresdefault_(5).jpg", group-title="LIVE SPORT", ⚽  คูลทูรัล เลโอเนซ่า 0 - 0 อัลบาเซเต้ - อเดลันเต้ สเปน 2025/7.10.68
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dooball.id/
+https://worker.direct-stream.com:443/highlight/CULTURAL Y DEPORTIVA LEONESA 0-0 ALBACETE BP.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dooball.id/images/Eb32TK2h3H0BVqNKKiaB8azzjrpl2PSmaxresdefault_(18).jpg", group-title="LIVE SPORT", ⚽  เอสปันญ่อล 1 - 2 เรอัล เบติส - ลาลีก้า สเปน 2025/6.10.68
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dooball.id/
