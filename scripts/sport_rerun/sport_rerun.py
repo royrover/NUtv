@@ -38,7 +38,7 @@ data = {
         {
             "name": "acdsport",
             "image": "https://i1.sndcdn.com/avatars-sen5MqKQrKyo43a7-2M6hlg-t1080x1080.jpg",
-            "url": "https://raw.githubusercontent.com/royrover/NUtv/refs/heads/main/data/sport_rerun/goaldaddyth.json?token=GHSAT0AAAAAADK2IVYYNDL5AVTNDS7SAYK62GBN76A",
+            "url": "https://raw.githubusercontent.com/royrover/NUtv/refs/heads/main/data/sport_rerun/acdsport_replay.json?token=GHSAT0AAAAAADMP4PYRKOAPV6BR7P64JITY2HGOKQA",
             "import": False
         },
         {
