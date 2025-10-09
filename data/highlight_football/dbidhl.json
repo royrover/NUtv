@@ -2,8 +2,48 @@
     "name": "highlights - dooball_id",
     "image": "https://dooball.id/images/logo/rBdVFRtw3Qf9WtZz9P6yfNaZXEUywKGlogo_2.png",
     "url": "",
-    "author": "update 08-10-2025 19:57:52",
+    "author": "update 09-10-2025 08:59:56",
     "stations": [
+        {
+            "name": "⚽  โกยาส 1 - 2 ซีอาร์บี แม็คซิโอ้ - บราซิล ซีรี่ย์บี 2025/8.10.68",
+            "image": "https://dooball.id/images/u6BcKcA4ZWqDkRf1j3BT7QLdeUAxoEWmaxresdefault_(2).jpg",
+            "url": "https://worker.direct-stream.com:443/highlight/GOIAS 1-2 CRB.mp4/playlist.m3u8",
+            "referer": "https://dooball.id/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "⚽  โบตาโฟโก้ เอสพี 1 - 0 เปซานดู - บราซิล ซีรี่ย์บี 2025/8.10.68",
+            "image": "https://dooball.id/images/PkeVvebgwFQyK6wZx8rPSsoTIxXdTI3maxresdefault_(3).jpg",
+            "url": "https://worker.direct-stream.com:443/highlight/BOTAFOGO SP 1-0 PAYSANDU.mp4/playlist.m3u8",
+            "referer": "https://dooball.id/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "⚽  อามาโซนัช 2 - 1 คริคูม่า - บราซิล ซีรี่ย์บี 2025/8.10.68",
+            "image": "https://dooball.id/images/nzGf0UsJTUI57ZKPN2RcIW51Qj6muZXmaxresdefault_(1).jpg",
+            "url": "https://worker.direct-stream.com:443/highlight/AMAZONAS 2-1 CRICIUMA.mp4/playlist.m3u8",
+            "referer": "https://dooball.id/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "⚽  เอ็นบิกาโด้ 2 - 1 เดปอร์ติโว เปไรร่า - โคลัมเบีย คัพ 2025/8.10.68",
+            "image": "https://dooball.id/images/vmVBIzAy5BzAcJHXTimxN6xgeJDr7qxmaxresdefault.jpg",
+            "url": "https://worker.direct-stream.com:443/highlight/Envigado 2-1 Pereira.mp4/playlist.m3u8",
+            "referer": "https://dooball.id/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "⚽  มิลเลียนนาริออส 2 - 1 อเมริกา เด กาลี - โคลัมเบีย พรีเมร่าเอ 2025/8.10.68",
+            "image": "https://dooball.id/images/pUEIs1VHORs6PpY9y7B0WnRflKbKwi3maxresdefault_(4).jpg",
+            "url": "https://worker.direct-stream.com:443/highlight/Millonarios 2-1 América.mp4/playlist.m3u8",
+            "referer": "https://dooball.id/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
         {
             "name": "⚽  ฮาโรเกต ทาวน์ 1 - 2 ครูว์ อเล็กซานดร้า - ลีกทู อังกฤษ 2025/7.10.68",
             "image": "https://dooball.id/images/5ayAjj5coQ1l7g7lPqg1K6B6D6TeDRRmaxresdefault_(7).jpg",
