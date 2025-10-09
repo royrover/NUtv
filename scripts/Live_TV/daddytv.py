@@ -31,11 +31,11 @@ def load_old_data(path):
 def save_new_data(path, data, m3u_path=None):
     with open(path, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=4)
-    print("📁 เขียนไฟล์เรียบร้อย:", path)
+    print("📁 เขียนไฟล์ JSON เรียบร้อย:", path)
 
-    if m3u_path and data.get("stations"):
+    if m3u_path:  # เขียน M3U แม้ stations ว่าง
         m3u = "#EXTM3U\n"
-        for s in data["stations"]:
+        for s in data.get("stations", []):
             m3u += (
                 f'#EXTINF:-1 tvg-logo="{s["image"]}" group-title="Live TV",{s["name"]}\n'
                 f'#EXTVLCOPT:http-referrer={s["referer"]}\n'
@@ -44,7 +44,7 @@ def save_new_data(path, data, m3u_path=None):
             )
         with open(m3u_path, "w", encoding="utf-8") as f:
             f.write(m3u)
-        print("✅ M3U update done")
+        print("✅ M3U update done, จำนวนช่อง:", len(data.get("stations", [])))
 
 # =============== NETWORK HELPERS ===============
 async def fetch_with_retry(session, url, retries=3, delay=5):
@@ -98,14 +98,17 @@ async def scrape_channel(session, ch, idx, total, headers_ref, base_host, data, 
         name = ch.text.strip()
         href = ch.get("href", "")
         if not href or "18+" in name:
+            print(f"❌ ข้ามช่อง {name}")
             return
 
         if any(s["name"] == name for s in data["stations"]):
+            print(f"⚠️ ข้ามช่องซ้ำ {name}")
             return  # skip duplicate
 
         try:
             channel_id = re.search(r"stream-(\d+)\.php", href).group(1)
         except:
+            print(f"❌ ไม่พบ ID ช่อง {name}")
             return
 
         print(f"{idx}/{total} 📺 {name} (ID:{channel_id})")
@@ -113,38 +116,46 @@ async def scrape_channel(session, ch, idx, total, headers_ref, base_host, data, 
         embed_url = f"https://dlhd.dad/embed/stream-{channel_id}.php"
         html_embed = await fetch_with_retry(session, embed_url)
         if not html_embed:
+            print(f"⚠️ ไม่สามารถดึง embed {name}")
             return
         match = re.search(r"https.*?daddyhd\.php\?id=\d+", html_embed)
         if not match:
+            print(f"⚠️ ไม่พบ URL daddyhd.php {name}")
             return
         request_url = match.group(0)
 
         try:
             async with session.get(request_url, headers=headers_ref) as resp:
                 if resp.status != 200:
+                    print(f"⚠️ HTTP {resp.status} {name}")
                     return
                 html_content = await resp.text()
                 match_key = re.search(r'const CHANNEL_KEY="([^"]+)";', html_content)
                 if not match_key:
+                    print(f"⚠️ ไม่พบ CHANNEL_KEY {name}")
                     return
                 channelKey = match_key.group(1)
-        except:
+        except Exception as e:
+            print(f"⚠️ Error fetch key {name}: {e}")
             return
 
         lookup_url = f"{base_host}/server_lookup.php?channel_id={channelKey}"
         try:
             async with session.get(lookup_url, headers=headers_ref) as lresp:
                 if lresp.status != 200:
+                    print(f"⚠️ HTTP lookup {lresp.status} {name}")
                     return
                 js = await lresp.json()
                 sk = js.get("server_key", "")
                 if not sk:
+                    print(f"⚠️ server_key ว่าง {name}")
                     return
                 if sk == "top1/cdn":
                     m3u8_url = f"https://top1.newkso.ru/top1/cdn/{channelKey}/mono.m3u8"
                 else:
                     m3u8_url = f"https://{sk}new.newkso.ru/{sk}/{channelKey}/mono.m3u8"
-        except:
+        except Exception as e:
+            print(f"⚠️ Error lookup {name}: {e}")
             return
 
         data["stations"].append({
@@ -157,6 +168,7 @@ async def scrape_channel(session, ch, idx, total, headers_ref, base_host, data, 
                          "Version/13.0.3 Mobile/15E148 Safari/604.1",
             "playInNatPlayer": "true",
         })
+        print("✅ เพิ่มช่อง:", name)
 
 # =============== MAIN ===============
 async def main():
@@ -201,6 +213,7 @@ async def main():
         ]
         await asyncio.gather(*tasks)
 
+        print(f"จำนวนช่องที่ดึงได้ทั้งหมด: {len(data['stations'])}")
         if not data["stations"]:
             print("⚠️ ไม่มีช่องใดดึงได้ — ยกเลิกการเขียนไฟล์")
             return
