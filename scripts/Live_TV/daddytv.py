@@ -33,7 +33,7 @@ def save_new_data(path, data, m3u_path=None):
         json.dump(data, f, ensure_ascii=False, indent=4)
     print("📁 เขียนไฟล์ JSON เรียบร้อย:", path)
 
-    if m3u_path:  # เขียน M3U แม้ stations ว่าง
+    if m3u_path:
         m3u = "#EXTM3U\n"
         for s in data.get("stations", []):
             m3u += (
@@ -42,9 +42,16 @@ def save_new_data(path, data, m3u_path=None):
                 f'#EXTVLCOPT:http-user-agent={s["userAgent"]}\n'
                 f'{s["url"]}\n'
             )
-        with open(m3u_path, "w", encoding="utf-8") as f:
-            f.write(m3u)
-        print("✅ M3U update done, จำนวนช่อง:", len(data.get("stations", [])))
+        try:
+            with open(m3u_path, "w", encoding="utf-8") as f:
+                f.write(m3u)
+            print("✅ M3U update done, จำนวนช่อง:", len(data.get("stations", [])))
+        except Exception as e:
+            print(f"❌ เขียน M3U ไม่ได้: {e}")
+
+        if not data.get("stations"):
+            print("⚠️ stations ว่าง — M3U จะมีแต่ header")
+
 
 # =============== NETWORK HELPERS ===============
 async def fetch_with_retry(session, url, retries=3, delay=5):
