@@ -190,12 +190,12 @@ async def main():
             return
 
         # ตรวจ referer เดิม
-        if old_data and old_data.get("stations"):
-            if old_data["stations"][0].get("referer", "") == base_host + "/":
-                print("✅ referer ยังเหมือนเดิม → ใช้ไฟล์เก่า + update author")
-                old_data["author"] = f"update {today}"
-                save_new_data(json_file, old_data, m3u_file)
-                return
+        #if old_data and old_data.get("stations"):
+            #if old_data["stations"][0].get("referer", "") == base_host + "/":
+                #print("✅ referer ยังเหมือนเดิม → ใช้ไฟล์เก่า + update author")
+                #old_data["author"] = f"update {today}"
+                #save_new_data(json_file, old_data, m3u_file)
+                #return
 
         print("🔁 เริ่ม scrape ใหม่ทั้งหมด...")
         soup = BeautifulSoup(html, "html.parser")
