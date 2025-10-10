@@ -169,6 +169,7 @@ async def scrape_channel(session, ch, idx, total, headers_ref, base_host, data, 
             "name": name,
             "image": data["image"],
             "url": m3u8_url,
+            "id": channel_id,
             "referer": base_host + "/",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) "
                          "AppleWebKit/605.1.15 (KHTML, like Gecko) "
