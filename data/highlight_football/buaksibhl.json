@@ -2,8 +2,32 @@
     "name": "highlights football buaksib",
     "image": "https://www.buaksib.com/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Flogo-summer.5abd78a6.png&w=256&q=75",
     "url": "",
-    "author": "update 09-10-2025 19:58:15",
+    "author": "update 10-10-2025 09:00:30",
     "stations": [
+        {
+            "name": "⚽ อังกฤษ พบ เวลส์ 09.10.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/10/England_Vs_Wales_09_10_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/England_Vs_Wales_09_10_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ เช็ก พบ โครเอเซีย 09.10.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/10/Czech_Vs_Croatia_09_10_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Czech_Vs_Croatia_09_10_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ มอลตา พบ เนเธอร์แลนด์ 09.10.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/10/Malta_Vs_Nederland_09_10_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Malta_Vs_Nederland_09_10_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ ทีมชาติไทย พบ ไชนีส ไทเป 09.10.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/10/Thai_Vs_Taipei_09_10_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Thai_Vs_Taipei_09_10_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
         {
             "name": "⚽ วูล์ฟแฮมป์ตัน พบ ไบรท์ตัน 05.10.2025 ไฮไลท์ฟุตบอล",
             "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/10/Wolver_Vs_Brighton_05_10_25.jpg",

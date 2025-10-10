@@ -2,8 +2,96 @@
     "name": "highlights - dooball_id",
     "image": "https://dooball.id/images/logo/rBdVFRtw3Qf9WtZz9P6yfNaZXEUywKGlogo_2.png",
     "url": "",
-    "author": "update 09-10-2025 19:58:19",
+    "author": "update 10-10-2025 09:00:37",
     "stations": [
+        {
+            "name": "⚽  อากีลาส โดราดาส 2 - 1 อินดิเพนเดนเต้ เมเดลลิน - โคลัมเบีย พรีเมร่าเอ 2025/9.10.68",
+            "image": "https://dooball.id/images/5ULCiAfLUnOS01DnX6C9zEsvokEtFMqmaxresdefault_(2).jpg",
+            "url": "https://worker.direct-stream.com:443/highlight/Águilas Doradas 2-1 Medellín.mp4/playlist.m3u8",
+            "referer": "https://dooball.id/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "⚽  อินโดนีเซีย 2 - 3 ซาอุดีอาระเบีย - ฟุตบอลโลก รอบคัดเลือก โซนเอเชีย 2025/9.10.68",
+            "image": "https://dooball.id/images/NS8nbWMoSaGNobefa8imKJRecjY6a5Fmaxresdefault_(1).jpg",
+            "url": "https://worker.direct-stream.com:443/highlight/Indonesia 2-3 Saudi Arabia.mp4/playlist.m3u8",
+            "referer": "https://dooball.id/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "⚽  โอมาน 0 - 0 กาตาร์ - ฟุตบอลโลก รอบคัดเลือก โซนเอเชีย 2025/9.10.68",
+            "image": "https://dooball.id/images/xW8OTdlCoptbYZtUH3Ueass2mBjUqz6maxresdefault.jpg",
+            "url": "https://worker.direct-stream.com:443/highlight/Oman 0-0 Qatar.mp4/playlist.m3u8",
+            "referer": "https://dooball.id/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "⚽  โยโกฮาม่า เอฟซี 0 - 2 ซานเฟรซเซ่ ฮิโรชิม่า - เจแปน ลีก คัพ 2025/9.10.68",
+            "image": "https://dooball.id/images/NuxUmn1RBRTIm33QjWzIKXpH2Ophf0Nmaxresdefault_(3).jpg",
+            "url": "https://worker.direct-stream.com:443/highlight/Yokohama fc 0-2 Sanfrecce hiroshima.mp4/playlist.m3u8",
+            "referer": "https://dooball.id/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "⚽  ลอสแอนเจลิส เอฟซี 2 - 0 โตรอนโต้ เอฟซี - ยูเอสเอ เมเจอร์ลีก ซอคเกอร์ 2025/9.10.68",
+            "image": "https://dooball.id/images/YiUXZA752mw1acz45u14YBg8iLlvTPUmaxresdefault.jpg",
+            "url": "https://worker.direct-stream.com:443/highlight/Los Angeles Football Club 2-0 Toronto FC.mp4/playlist.m3u8",
+            "referer": "https://dooball.id/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "⚽  มิราสโซล 2 - 1 ฟลูมิเนนเซ่ - บราซิล ซีรี่ย์เอ 2025/9.10.68",
+            "image": "https://dooball.id/images/RSbBKeZEQaOCpfGcqrkLvyZhX1iZbN1maxresdefault_(8).jpg",
+            "url": "https://worker.direct-stream.com:443/highlight/Mirassol 2-1 Fluminense.mp4/playlist.m3u8",
+            "referer": "https://dooball.id/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "⚽  อัตเลติโก มิไนโร่ 3 - 1 สปอร์ต คลับ เรซิเฟ่ - บราซิล ซีรี่ย์เอ 2025/9.10.68",
+            "image": "https://dooball.id/images/qEcTBqsMNTjSR2G8r2ddslYNtMBLbm1maxresdefault_(4).jpg",
+            "url": "https://worker.direct-stream.com:443/highlight/Atletico Mineiro 3-1 Sport Recife.mp4/playlist.m3u8",
+            "referer": "https://dooball.id/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "⚽  อเมริกา มิไนโร่ 1 - 1 วิลา โนวา - บราซิล ซีรี่ย์บี 2025/9.10.68",
+            "image": "https://dooball.id/images/gbE4jJBKE6irvgAEdQgrPscquhLSLNamaxresdefault_(9).jpg",
+            "url": "https://worker.direct-stream.com:443/highlight/AMERICA MG 1-1 VILA NOVA.mp4/playlist.m3u8",
+            "referer": "https://dooball.id/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "⚽  อาไว เอฟซี 3 - 0 โวลต้า เรดอนด้า - บราซิล ซีรี่ย์บี 2025/9.10.68",
+            "image": "https://dooball.id/images/1BAbdLCKH1UhbMpIHaVDYbJd2tF5K4Amaxresdefault_(7).jpg",
+            "url": "https://worker.direct-stream.com:443/highlight/AVAI 3-0 VOLTA REDONDA.mp4/playlist.m3u8",
+            "referer": "https://dooball.id/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "⚽  คุยอาบา 0 - 1 เกรมิโอ โนโวริซอนติโน่ - บราซิล ซีรี่ย์บี 2025/9.10.68",
+            "image": "https://dooball.id/images/o9Y6BBS2u8B6yeRBHk54IU9mLAnSYwpmaxresdefault_(6).jpg",
+            "url": "https://worker.direct-stream.com:443/highlight/CUIABA 0-1 NOVORIZONTINO.mp4/playlist.m3u8",
+            "referer": "https://dooball.id/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "⚽  โอเปราริโอ แฟร์โรวิอาริโอ 1 - 4 แอธเลติก คลับ - บราซิล ซีรี่ย์บี 2025/9.10.68",
+            "image": "https://dooball.id/images/cvkhiTxm5rN2cuHjrPtmaboqdIZ5lGNmaxresdefault_(5).jpg",
+            "url": "https://worker.direct-stream.com:443/highlight/OPERARIO 1-4 ATHLETIC.mp4/playlist.m3u8",
+            "referer": "https://dooball.id/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
         {
             "name": "⚽  โกยาส 1 - 2 ซีอาร์บี แม็คซิโอ้ - บราซิล ซีรี่ย์บี 2025/8.10.68",
             "image": "https://dooball.id/images/u6BcKcA4ZWqDkRf1j3BT7QLdeUAxoEWmaxresdefault_(2).jpg",
