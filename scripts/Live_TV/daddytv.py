@@ -37,9 +37,7 @@ def save_new_data(path, data, m3u_path=None):
         m3u = "#EXTM3U\n"
         for s in data.get("stations", []):
             m3u += (
-                f'#EXTINF:-1 tvg-logo="{s["image"]}" group-title="Live TV",{s["name"]}\n'
-                f'#EXTVLCOPT:http-referrer={s["referer"]}\n'
-                f'#EXTVLCOPT:http-user-agent={s["userAgent"]}\n'
+                f'#EXTINF:-1 group-title="Live TV" tvg-id="" tvg-logo="{s["image"]}",{s["name"]}\n\n'
                 f'{s["url"]}\n'
             )
         try:
