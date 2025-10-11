@@ -4,8 +4,7 @@ import re
 import json
 import os
 
-SAVE_DIR = os.path.join(os.getcwd(), "data/live_tv")
-os.makedirs(SAVE_DIR, exist_ok=True)
+SAVE_DIR = os.path.dirname(os.path.abspath(__file__))
 json_file = os.path.join(SAVE_DIR, "channel_images.json")
 
 M3U_URL = "https://raw.githubusercontent.com/Metroid2023/DaddyLiveHD/refs/heads/main/playlist.m3u8"
