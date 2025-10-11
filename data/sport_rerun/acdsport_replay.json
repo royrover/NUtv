@@ -2,8 +2,22 @@
     "name": "acdsport replay",
     "image": "https://acdsport.com/acd/social.jpg",
     "url": "https://dl.dropbox.com/scl/fi/2lk9rp530f3mh8sn095pu/acdsport_replay.json?rlkey=ikxvfvv3nljrwb9xervk3r9mp&st=6nqt04sc&dl=0",
-    "author": "update 10-10-2025 19:19:33",
+    "author": "update 11-10-2025 07:42:45",
     "stations": [
+        {
+            "name": "Oct 10 - 18:45 World Cup - Qualification Europe Germany vs Luxembourg",
+            "image": "https://image.azencode.com/teams/25.png",
+            "url": "https://vod.starxcdn.xyz/vod/us_foxsplus-1760121900-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Oct 10 - 18:45 World Cup - Qualification Europe France vs Azerbaijan",
+            "image": "https://image.azencode.com/teams/2.png",
+            "url": "https://vod.starxcdn.xyz/vod/us_fs2-1760121900-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
         {
             "name": "Oct 05 - 19:00 La Liga Celta Vigo vs Atletico Madrid",
             "image": "https://image.azencode.com/teams/538.png",
