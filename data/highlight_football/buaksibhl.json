@@ -2,8 +2,32 @@
     "name": "highlights football buaksib",
     "image": "https://www.buaksib.com/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Flogo-summer.5abd78a6.png&w=256&q=75",
     "url": "",
-    "author": "update 11-10-2025 08:55:30",
+    "author": "update 11-10-2025 19:50:16",
     "stations": [
+        {
+            "name": "⚽ เบลเยียม พบ มาซิโดเนียเหนือ 10.10.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/10/Belgium_Vs_Macedonia_10_10_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Belgium_Vs_Macedonia_10_10_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ ฝรั่งเศส พบ อาเซอร์ไบจัน 10.10.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/10/France_Vs_Azerbaidjan_10_10_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/France_Vs_Azerbaidjan_10_10_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ เยอรมนี พบ ลักเซมเบิร์ก 10.10.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/10/Germany_Vs_Luxembourg_10_10_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Germany_Vs_Luxembourg_10_10_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ อาร์เจนตินา พบ เวเนซูเอลา 11.10.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/10/Argentina_Vs_Venezuela_11_10_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Argentina_Vs_Venezuela_11_10_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
         {
             "name": "⚽ เกาหลีใต้ พบ บราซิล 10.10.2025 ไฮไลท์ฟุตบอล",
             "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/10/Korea_Vs_Brazil_10_10_25.jpg",
