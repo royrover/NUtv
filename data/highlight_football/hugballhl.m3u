@@ -1,4 +1,40 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://image.hugball.net/Pic/Video/m55589_1.jpg", group-title="LIVE SPORT", ⚽ ไฮไลท์ สเปน 2-0 จอร์เจีย
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.hugball.net/
+https://hugball2.b-cdn.net/hilight/10-2025/Spain20Georgia.mp4
+#EXTINF:-1 tvg-logo="https://image.hugball.net/Pic/Video/m55588_1.jpg", group-title="LIVE SPORT", ⚽ ไฮไลท์ เซอร์เบีย 0-1 แอลเบเนีย
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.hugball.net/
+https://hugball2.b-cdn.net/hilight/10-2025/Serbia01Albania.mp4
+#EXTINF:-1 tvg-logo="https://image.hugball.net/Pic/Video/m55587_1.jpg", group-title="LIVE SPORT", ⚽ ไฮไลท์ โปรตุเกส 1-0 ไอร์แลนด์
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.hugball.net/
+https://hugball2.b-cdn.net/hilight/10-2025/Portugal10Ireland.mp4
+#EXTINF:-1 tvg-logo="https://image.hugball.net/Pic/Video/m55586_1.jpg", group-title="LIVE SPORT", ⚽ ไฮไลท์ นอร์เวย์ 5-0 อิสราเอล
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.hugball.net/
+https://hugball2.b-cdn.net/hilight/10-2025/Norway50Israel.mp4
+#EXTINF:-1 tvg-logo="https://image.hugball.net/Pic/Video/m55585_1.jpg", group-title="LIVE SPORT", ⚽ ไฮไลท์ ฮังการี 2-0 อาร์เมเนีย
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.hugball.net/
+https://hugball2.b-cdn.net/hilight/10-2025/Hungary20Armenia.mp4
+#EXTINF:-1 tvg-logo="https://image.hugball.net/Pic/Video/m55584_1.jpg", group-title="LIVE SPORT", ⚽ ไฮไลท์ เอสโตเนีย 1-3 อิตาลี
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.hugball.net/
+https://hugball2.b-cdn.net/hilight/10-2025/Estonia13Italy.mp4
+#EXTINF:-1 tvg-logo="https://image.hugball.net/Pic/Video/m55583_1.jpg", group-title="LIVE SPORT", ⚽ ไฮไลท์ บัลแกเรีย 1-6 ตุรกี
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.hugball.net/
+https://hugball2.b-cdn.net/hilight/10-2025/Bulgaria16Turkey.mp4
+#EXTINF:-1 tvg-logo="https://image.hugball.net/Pic/Video/m55582_1.jpg", group-title="LIVE SPORT", ⚽ ไฮไลท์ ลัตเวีย 2-2 อันดอร์รา
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.hugball.net/
+https://hugball2.b-cdn.net/hilight/10-2025/LatviaAndorrart.mp4
+#EXTINF:-1 tvg-logo="https://image.hugball.net/Pic/Video/m55581_1.jpg", group-title="LIVE SPORT", ⚽ ไฮไลท์ อาร์เจนตินา 1-0 เวเนซุเอลา
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.hugball.net/
+https://hugball2.b-cdn.net/hilight/10-2025/ArgentinaVenezuela.mp4
 #EXTINF:-1 tvg-logo="https://image.hugball.net/Pic/Video/m55580_1.jpg", group-title="LIVE SPORT", ⚽ ไฮไลท์ โคโซโว 0-0 สโลวีเนีย
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.hugball.net/
