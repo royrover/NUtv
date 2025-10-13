@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://newbackend.buaksib.com/wp-content/uploads/2025/10/Croatia_Vs_Gibraltar_12_10_25.jpg", group-title="LIVE SPORT", ⚽ โครเอเชีย พบ ยิบรอลตาร์ 12.10.2025 ไฮไลท์ฟุตบอล
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.buaksib.com/
+https://bdphap.com/ssd1/th/Croatia_Vs_Gibraltar_12_10_25.mp4
+#EXTINF:-1 tvg-logo="https://newbackend.buaksib.com/wp-content/uploads/2025/10/Denmark_Vs_Greece_12_10_25.jpg", group-title="LIVE SPORT", ⚽ เดนมาร์ก พบ กรีซ 12.10.2025 ไฮไลท์ฟุตบอล
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.buaksib.com/
+https://bdphap.com/ssd1/th/Denmark_Vs_Greece_12_10_25.mp4
 #EXTINF:-1 tvg-logo="https://newbackend.buaksib.com/wp-content/uploads/2025/10/Portugal_Vs_Ireland_11_10_25.jpg", group-title="LIVE SPORT", ⚽ โปรตุเกส พบ ไอร์แลนด์ 11.10.2025 ไฮไลท์ฟุตบอล
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.buaksib.com/

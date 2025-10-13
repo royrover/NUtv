@@ -2,8 +2,20 @@
     "name": "highlights football buaksib",
     "image": "https://www.buaksib.com/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Flogo-summer.5abd78a6.png&w=256&q=75",
     "url": "",
-    "author": "update 13-10-2025 09:09:46",
+    "author": "update 13-10-2025 19:58:05",
     "stations": [
+        {
+            "name": "⚽ โครเอเชีย พบ ยิบรอลตาร์ 12.10.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/10/Croatia_Vs_Gibraltar_12_10_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Croatia_Vs_Gibraltar_12_10_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ เดนมาร์ก พบ กรีซ 12.10.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/10/Denmark_Vs_Greece_12_10_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Denmark_Vs_Greece_12_10_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
         {
             "name": "⚽ โปรตุเกส พบ ไอร์แลนด์ 11.10.2025 ไฮไลท์ฟุตบอล",
             "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/10/Portugal_Vs_Ireland_11_10_25.jpg",
