@@ -2,8 +2,50 @@
     "name": "Hugball Highlights",
     "image": "https://www.hugball.net/images/logo.png",
     "url": "",
-    "author": "update 12-10-2025 19:50:44",
+    "author": "update 13-10-2025 09:10:32",
     "stations": [
+        {
+            "name": "⚽ ไฮไลท์ เดนมาร์ก 3-1 กรีซ",
+            "image": "https://image.hugball.net/Pic/Video/m55596_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/10-2025/denmrgreec.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ หมู่เกาะแฟโร 2-1 สาธารณรัฐเช็ก",
+            "image": "https://image.hugball.net/Pic/Video/m55595_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/10-2025/FaroeslandsCzechhts.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ สกอตแลนด์ 2-1 เบลารุส",
+            "image": "https://image.hugball.net/Pic/Video/m55594_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/10-2025/ScotlandBelarus.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ โครเอเชีย 3-0 ยิบรอลตาร์",
+            "image": "https://image.hugball.net/Pic/Video/m55593_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/10-2025/CROA.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ ลิทัวเนีย 0-2 โปแลนด์",
+            "image": "https://image.hugball.net/Pic/Video/m55592_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/10-2025/POLACOEN.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ เนเธอร์แลนด์ 4-0 ฟินแลนด์",
+            "image": "https://image.hugball.net/Pic/Video/m55591_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/10-2025/NetherlandsFinland.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ ซานมารีโน 0-4 ไซปรัส",
+            "image": "https://image.hugball.net/Pic/Video/m55590_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/10-2025/SanMarino04Cyprus.mp4",
+            "referer": "https://www.hugball.net/"
+        },
         {
             "name": "⚽ ไฮไลท์ สเปน 2-0 จอร์เจีย",
             "image": "https://image.hugball.net/Pic/Video/m55589_1.jpg",
