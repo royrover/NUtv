@@ -2,8 +2,20 @@
     "name": "Hugball Highlights",
     "image": "https://www.hugball.net/images/logo.png",
     "url": "",
-    "author": "update 13-10-2025 19:58:11",
+    "author": "update 14-10-2025 09:01:37",
     "stations": [
+        {
+            "name": "⚽ ไฮไลท์ สโลวาเกีย 2-0 ลักเซมเบิร์ก",
+            "image": "https://image.hugball.net/Pic/Video/m55603_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/10-2025/slolveniaswit.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ ยูเครน 2-1 อาเซอร์ไบจาน",
+            "image": "https://image.hugball.net/Pic/Video/m55602_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/10-2025/UcraniaAzerbaiy.mp4",
+            "referer": "https://www.hugball.net/"
+        },
         {
             "name": "⚽ ไฮไลท์ เดนมาร์ก 3-1 กรีซ",
             "image": "https://image.hugball.net/Pic/Video/m55596_1.jpg",
