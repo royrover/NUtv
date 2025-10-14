@@ -2,8 +2,29 @@
     "name": "acdsport replay",
     "image": "https://acdsport.com/acd/social.jpg",
     "url": "https://dl.dropbox.com/scl/fi/2lk9rp530f3mh8sn095pu/acdsport_replay.json?rlkey=ikxvfvv3nljrwb9xervk3r9mp&st=6nqt04sc&dl=0",
-    "author": "update 13-10-2025 19:19:25",
+    "author": "update 14-10-2025 07:45:08",
     "stations": [
+        {
+            "name": "Oct 13 - 18:45 World Cup - Qualification Europe Northern Ireland vs Germany",
+            "image": "https://image.azencode.com/upload/Football/Northern Ireland.png",
+            "url": "https://vod.starxcdn.xyz/vod/us_fs2-1760381100-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Oct 13 - 18:45 World Cup - Qualification Europe Wales vs Belgium",
+            "image": "https://image.azencode.com/teams/767.png",
+            "url": "https://vod.starxcdn.xyz/vod/live03-1760381100-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Oct 13 - 18:45 World Cup - Qualification Europe Iceland vs France",
+            "image": "https://image.azencode.com/upload/Football/Iceland.png",
+            "url": "https://vod.starxcdn.xyz/vod/live02-1760381100-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
         {
             "name": "Oct 11 - 18:45 World Cup - Qualification Europe Estonia vs Italy",
             "image": "https://image.azencode.com/upload/Football/Estonia.png",
