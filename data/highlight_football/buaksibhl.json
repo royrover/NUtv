@@ -2,8 +2,32 @@
     "name": "highlights football buaksib",
     "image": "https://www.buaksib.com/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Flogo-summer.5abd78a6.png&w=256&q=75",
     "url": "",
-    "author": "update 14-10-2025 09:00:52",
+    "author": "update 14-10-2025 19:59:57",
     "stations": [
+        {
+            "name": "⚽ ทีมชาติจีน พบ ทีมชาติไทย 14.10.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/10/Thai_Vs_China_14_10_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Thai_Vs_China_14_10_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ เวลส์ พบ เบลเยียม 13.10.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/10/Wales_Vs_Belgium_13_10_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Wales_Vs_Belgium_13_10_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ ไอซ์แลนด์ พบ ฝรั่งเศส 13.10.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/10/Ireland_Vs_France_13_10_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Ireland_Vs_France_13_10_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ ไอร์แลนด์เหนือ พบ เยอรมนี 13.10.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/10/Ireland_Vs_Germany_13_10_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Ireland_Vs_Germany_13_10_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
         {
             "name": "⚽ โครเอเชีย พบ ยิบรอลตาร์ 12.10.2025 ไฮไลท์ฟุตบอล",
             "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/10/Croatia_Vs_Gibraltar_12_10_25.jpg",
