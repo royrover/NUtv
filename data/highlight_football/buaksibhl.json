@@ -2,8 +2,14 @@
     "name": "highlights football buaksib",
     "image": "https://www.buaksib.com/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Flogo-summer.5abd78a6.png&w=256&q=75",
     "url": "",
-    "author": "update 15-10-2025 09:03:58",
+    "author": "update 15-10-2025 19:59:55",
     "stations": [
+        {
+            "name": "⚽ เปอร์โต รีโก พบ อาร์เจนตินา 15.10.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/10/Puerto_Vs_Argentina_15_10_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Puerto_Vs_Argentina_15_10_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
         {
             "name": "⚽ สเปน พบ บัลแกเรีย 14.10.2025 ไฮไลท์ฟุตบอล",
             "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/10/Spain_Vs_Bulgaria_14_10_25.jpg",
