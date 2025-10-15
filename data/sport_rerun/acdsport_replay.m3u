@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://image.azencode.com/upload/Football/Latvia.png", group-title="LIVE SPORT", Oct 14 - 1845 World Cup - Qualification Europe Latvia vs England
+https://vod.starxcdn.xyz/vod/us_fs2-1760467500-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/upload/Football/Italy.png", group-title="LIVE SPORT", Oct 14 - 1845 World Cup - Qualification Europe Italy vs Israel
+https://vod.starxcdn.xyz/vod/live03-1760467500-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/27.png", group-title="LIVE SPORT", Oct 14 - 1845 World Cup - Qualification Europe Portugal vs Hungary
+https://vod.starxcdn.xyz/vod/live02-1760467500-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/9.png", group-title="LIVE SPORT", Oct 14 - 1845 World Cup - Qualification Europe Spain vs Bulgaria
+https://vod.starxcdn.xyz/vod/us_foxsplus-1760467500-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.azencode.com/upload/Football/Northern Ireland.png", group-title="LIVE SPORT", Oct 13 - 1845 World Cup - Qualification Europe Northern Ireland vs Germany
 https://vod.starxcdn.xyz/vod/us_fs2-1760381100-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.azencode.com/teams/767.png", group-title="LIVE SPORT", Oct 13 - 1845 World Cup - Qualification Europe Wales vs Belgium
