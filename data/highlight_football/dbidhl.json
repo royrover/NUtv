@@ -2,8 +2,96 @@
     "name": "highlights - dooball_id",
     "image": "https://dooball.id/images/logo/rBdVFRtw3Qf9WtZz9P6yfNaZXEUywKGlogo_2.png",
     "url": "",
-    "author": "update 14-10-2025 20:00:03",
+    "author": "update 15-10-2025 09:04:05",
     "stations": [
+        {
+            "name": "⚽  อ็องเซ่ กัลดาส 1 - 5 อินดิเพนเดนเต้ เมเดลลิน - โคลัมเบีย พรีเมร่าเอ 2025/14.10.68",
+            "image": "https://dooball.id/images/AotEccfe785v5v2JcnhkzXuAPBIxqytmaxresdefault_(6).jpg",
+            "url": "https://worker.direct-stream.com:443/highlight/Once Caldas 1-5 Medellin.mp4/playlist.m3u8",
+            "referer": "https://dooball.id/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "⚽  ฟอร์ตาเลซ่า เอฟซี 1 - 0 โบญาก้า ซิโค - โคลัมเบีย พรีเมร่าเอ 2025/14.10.68",
+            "image": "https://dooball.id/images/5W1tdVO5Ai1K8mZH4yU2H4ev1G7qq7Bmaxresdefault_(7).jpg",
+            "url": "https://worker.direct-stream.com:443/highlight/Fortaleza 1-0 Boyaca Chico.mp4/playlist.m3u8",
+            "referer": "https://dooball.id/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "⚽  ซีเอ พลาเทนเซ่ 1 - 1 เดปอร์ติโว ริเอสตร้า - อาร์เจนติน่า พรีเมียร์ ดิวิชั่น 2025/14.10.68",
+            "image": "https://dooball.id/images/mk7PPHOvDs2wYc4UPf67I6Jhr8o9AGbmaxresdefault_(4).jpg",
+            "url": "https://worker.direct-stream.com:443/highlight/PLATENSE 1-1 DEPORTIVO RIESTRA.mp4/playlist.m3u8",
+            "referer": "https://dooball.id/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "⚽  ยูนิเวอร์ซิดัด เดอ ชิลี 2 - 1 ปาเลสติโน่ - ชิลี พรีเมร่า ดิวิชั่น 2025/14.10.68",
+            "image": "https://dooball.id/images/6v0023sSAh0TibmfpwS3js3UiqAC917maxresdefault_(5).jpg",
+            "url": "https://worker.direct-stream.com:443/highlight/De Chile 2-1Palestino.mp4/playlist.m3u8",
+            "referer": "https://dooball.id/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "⚽  เวลส์ 2 - 4 เบลเยี่ยม - ฟุตบอลโลก รอบคัดเลือก โซนยุโรป 2025/14.10.68",
+            "image": "https://dooball.id/images/cvTZdYhTMFEpHLq1sh3wZR7YoMssBQ0hqdefault.jpg",
+            "url": "https://worker.direct-stream.com:443/highlight/Wales 2-4 Belgium.mp4/playlist.m3u8",
+            "referer": "https://dooball.id/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "⚽  ไอร์แลนด์เหนือ 0 - 1 เยอรมัน - ฟุตบอลโลก รอบคัดเลือก โซนยุโรป 2025/14.10.68",
+            "image": "https://dooball.id/images/0scZ52efgJyENVaAA8b3Wny6VBJKa8Fmaxresdefault.jpg",
+            "url": "https://worker.direct-stream.com:443/highlight/Northern Ireland 0-1 Germany.mp4/playlist.m3u8",
+            "referer": "https://dooball.id/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "⚽  ไอซ์แลนด์ 2 - 2 ฝรั่งเศส - ฟุตบอลโลก รอบคัดเลือก โซนยุโรป 2025/14.10.68",
+            "image": "https://dooball.id/images/6XjGwAjJQ8X04pyki2YLMEBM41Ub0Cwmaxresdefault_(1).jpg",
+            "url": "https://worker.direct-stream.com:443/highlight/Iceland 2-2 France.mp4/playlist.m3u8",
+            "referer": "https://dooball.id/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "⚽  คอร์ก ซิตี้ 1 - 2 เชลบอร์น - ไอร์แลนด์ พรีเมียร์ลีก 2025/14.10.68",
+            "image": "https://dooball.id/images/Mai0ubt03pVyHkoBMR7EeIWyP8ojvpwmaxresdefault_(2).jpg",
+            "url": "https://worker.direct-stream.com:443/highlight/Cork City 1-2 Shelbourne.mp4/playlist.m3u8",
+            "referer": "https://dooball.id/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "⚽  ฟินน์ ฮาร์ป 1 - 1 เคอรี่ เอฟซี - ไอร์แลนด์ ดิวิชั่น1 2025/14.10.68",
+            "image": "https://dooball.id/images/iPSSU3UTNrz5Xccm9qLcZHfrfAxatvJmaxresdefault_(3).jpg",
+            "url": "https://worker.direct-stream.com:443/highlight/Finn Harps 1-1 Kerry.mp4/playlist.m3u8",
+            "referer": "https://dooball.id/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "⚽  คอสตาริก้า 4 - 1 นิการากัว - ฟุตบอลโลก รอบคัดเลือก โซนอเมริกาเหนือ 2025/14.10.68",
+            "image": "https://dooball.id/images/AlFX7FdS0w44KOZMt2B66YUZ3BtJnXSmaxresdefault_(9).jpg",
+            "url": "https://worker.direct-stream.com:443/highlight/Costa Rica 4-1 Nicaragua.mp4/playlist.m3u8",
+            "referer": "https://dooball.id/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "⚽  ฮอนดูรัส 3 - 0 เฮติ - ฟุตบอลโลก รอบคัดเลือก โซนอเมริกาเหนือ 2025/14.10.68",
+            "image": "https://dooball.id/images/GXoV3WwatrnbAtbRXj7cTlGNlTOpH7Mmaxresdefault_(8).jpg",
+            "url": "https://worker.direct-stream.com:443/highlight/Honduras 3-0 Haiti.mp4/playlist.m3u8",
+            "referer": "https://dooball.id/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
         {
             "name": "⚽  ซานเฟรซเซ่ ฮิโรชิม่า 2 - 1 โยโกฮาม่า เอฟซี - เจแปน ลีก คัพ (รอบรองชนะเลิศ)นัดสอง 2025/13.10.68",
             "image": "https://dooball.id/images/DIW5BPjCNtTatodQgnpz1opiIqrUFoYmaxresdefault_(14).jpg",

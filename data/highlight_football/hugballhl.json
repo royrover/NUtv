@@ -2,8 +2,68 @@
     "name": "Hugball Highlights",
     "image": "https://www.hugball.net/images/logo.png",
     "url": "",
-    "author": "update 14-10-2025 20:00:08",
+    "author": "update 15-10-2025 09:04:35",
     "stations": [
+        {
+            "name": "⚽ ไฮไลท์ นอร์เวย์ 1-1 นิวซีแลนด์",
+            "image": "https://image.hugball.net/Pic/Video/m55613_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/10-2025/Norway11NewZealand.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ ญี่ปุ่น 3-2 บราซิล",
+            "image": "https://image.hugball.net/Pic/Video/m55612_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/10-2025/Japan32Brazil.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ ตุรกี 4-1 จอร์เจีย",
+            "image": "https://image.hugball.net/Pic/Video/m55611_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/10-2025/Turkey41Georgia.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ สเปน 4-0 บัลแกเรีย",
+            "image": "https://image.hugball.net/Pic/Video/m55610_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/10-2025/Spain40Bulgaria.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ โปรตุเกส 2-2 ฮังการี",
+            "image": "https://image.hugball.net/Pic/Video/m55609_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/10-2025/Portugal22Hungary.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ ลัตเวีย 0-5 อังกฤษ",
+            "image": "https://image.hugball.net/Pic/Video/m55608_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/10-2025/Latvia05England.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ อิตาลี 3-0 อิสราเอล",
+            "image": "https://image.hugball.net/Pic/Video/m55607_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/10-2025/Italy30Israel.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ ไอร์แลนด์ 1-0 อาร์เมเนีย",
+            "image": "https://image.hugball.net/Pic/Video/m55606_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/10-2025/Ireland10Armenia.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ เอสโตเนีย 1-1 มอลโดวา",
+            "image": "https://image.hugball.net/Pic/Video/m55605_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/10-2025/Estonia11Moldova.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ อันดอร์รา 1-3 เซอร์เบีย",
+            "image": "https://image.hugball.net/Pic/Video/m55604_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/10-2025/Andorra13Serbia.mp4",
+            "referer": "https://www.hugball.net/"
+        },
         {
             "name": "⚽ ไฮไลท์ สโลวาเกีย 2-0 ลักเซมเบิร์ก",
             "image": "https://image.hugball.net/Pic/Video/m55603_1.jpg",

@@ -2,8 +2,44 @@
     "name": "highlights football buaksib",
     "image": "https://www.buaksib.com/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Flogo-summer.5abd78a6.png&w=256&q=75",
     "url": "",
-    "author": "update 14-10-2025 19:59:57",
+    "author": "update 15-10-2025 09:03:58",
     "stations": [
+        {
+            "name": "⚽ สเปน พบ บัลแกเรีย 14.10.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/10/Spain_Vs_Bulgaria_14_10_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Spain_Vs_Bulgaria_14_10_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ โปรตุเกส พบ ฮังการี 14.10.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/10/Portugal_Vs_Hungary_14_10_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Portugal_Vs_Hungary_14_10_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ อิตาลี พบ อิสราเอล 14.10.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/10/Italy_Vs_Israel_14_10_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Italy_Vs_Israel_14_10_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ ลัตเวีย พบ อังกฤษ 14.10.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/10/Latvia_Vs_England_14_10_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Latvia_Vs_England_14_10_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ ญี่ปุ่น พบ บราซิล 14.10.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/10/Japan_Vs_Brazil_14_10_2025-1.jpg",
+            "url": "https://bdphap.com/ssd1/th/Japan_Vs_Brazil_14_10_2025.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ ไชนีส ไทเป พบ ทีมชาติไทย 14.10.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/10/Chinese_Taipei_Vs_Thailand_14_10_2025-2.jpg",
+            "url": "https://bdphap.com/ssd1/th/Chinese_Taipei_Vs_Thailand_14_10_2025.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
         {
             "name": "⚽ ทีมชาติจีน พบ ทีมชาติไทย 14.10.2025 ไฮไลท์ฟุตบอล",
             "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/10/Thai_Vs_China_14_10_25.jpg",
