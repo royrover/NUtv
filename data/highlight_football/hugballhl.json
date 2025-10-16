@@ -2,8 +2,14 @@
     "name": "Hugball Highlights",
     "image": "https://www.hugball.net/images/logo.png",
     "url": "",
-    "author": "update 15-10-2025 20:00:02",
+    "author": "update 16-10-2025 09:03:11",
     "stations": [
+        {
+            "name": "⚽ ไฮไลท์ เปอร์โตริโก 0-6 อาร์เจนตินา",
+            "image": "https://image.hugball.net/Pic/Video/m55614_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/10-2025/PuertoRicoArgentina.mp4",
+            "referer": "https://www.hugball.net/"
+        },
         {
             "name": "⚽ ไฮไลท์ นอร์เวย์ 1-1 นิวซีแลนด์",
             "image": "https://image.hugball.net/Pic/Video/m55613_1.jpg",

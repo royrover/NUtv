@@ -2,8 +2,112 @@
     "name": "highlights - dooball_id",
     "image": "https://dooball.id/images/logo/rBdVFRtw3Qf9WtZz9P6yfNaZXEUywKGlogo_2.png",
     "url": "",
-    "author": "update 15-10-2025 19:59:57",
+    "author": "update 16-10-2025 09:02:38",
     "stations": [
+        {
+            "name": "⚽  ญี่ปุ่น 3 - 2 บราซิล - กระชับมิตร ทีมชาติ 2025/15.10.68",
+            "image": "https://dooball.id/images/dJAGeK2LHVZhiMTCIZ7FXtnFeCdzJM4maxresdefault_(7).jpg",
+            "url": "https://worker.direct-stream.com:443/highlight/Japan 3-2 Brazil.mp4/playlist.m3u8",
+            "referer": "https://dooball.id/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "⚽  จาเมก้า 4 - 0 เบอร์มิวด้า - ฟุตบอลโลก รอบคัดเลือก โซนอเมริกาเหนือ 2025/15.10.68",
+            "image": "https://dooball.id/images/P2R2a1TGl4pnyYF554L6fTXkC79jrFImaxresdefault_(9).jpg",
+            "url": "https://worker.direct-stream.com:443/highlight/Jamaica 4-0 Bermuda.mp4/playlist.m3u8",
+            "referer": "https://dooball.id/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "⚽  คูราเซา 1 - 1 ตรินิแดดและโตเบโก - ฟุตบอลโลก รอบคัดเลือก โซนอเมริกาเหนือ 2025/15.10.68",
+            "image": "https://dooball.id/images/atYTnYIpVKCQdqztWjZIJFQCzexxasYmaxresdefault_(8).jpg",
+            "url": "https://worker.direct-stream.com:443/highlight/Curaçao 1-1 Trinidad and Tobago.mp4/playlist.m3u8",
+            "referer": "https://dooball.id/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "⚽  อัตเลติโก นาซิอองนาล 2 - 1 เดปอร์ติโว กาลี - โคลัมเบีย พรีเมร่าเอ 2025/15.10.68",
+            "image": "https://dooball.id/images/DolkZEHIcZV6axJusKlVBTaGm21gBQqmaxresdefault_(11).jpg",
+            "url": "https://worker.direct-stream.com:443/highlight/Nacional 2-1 Cali.mp4/playlist.m3u8",
+            "referer": "https://dooball.id/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "⚽  กาตาร์ 2 - 1 สหรัฐอาหรับเอมิเรตส์ - ฟุตบอลโลก รอบคัดเลือก โซนเอเชีย 2025/15.10.68",
+            "image": "https://dooball.id/images/hu2Q1E80nMDwxKXlOxuYpJ50p06zcDfmaxresdefault_(2).jpg",
+            "url": "https://worker.direct-stream.com:443/highlight/Qatar 2-1 United Arab Emirates.mp4/playlist.m3u8",
+            "referer": "https://dooball.id/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "⚽  ซาอุดีอาระเบีย 0 - 0 อิรัก - ฟุตบอลโลก รอบคัดเลือก โซนเอเชีย 2025/15.10.68",
+            "image": "https://dooball.id/images/GX9BNUN3ELWNgacpwfQNCNY9g01n2nhmaxresdefault_(3).jpg",
+            "url": "https://worker.direct-stream.com:443/highlight/Saudi Arabia 0-0 Iraq.mp4/playlist.m3u8",
+            "referer": "https://dooball.id/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "⚽  ไต้หวัน 1 - 6 ไทย - เอเชียน คัพ รอบคัดเลือก 2025/15.10.68",
+            "image": "https://dooball.id/images/axzlcq812xBiFeoRnw6xEXFK6ppUpWhmaxresdefault_(6).jpg",
+            "url": "https://worker.direct-stream.com:443/highlight/ทีมชาติไชนีส ไทเป 1-6 ทีมชาติไทย.mp4/playlist.m3u8",
+            "referer": "https://dooball.id/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "⚽  ลัตเวีย 0 - 5 อังกฤษ - ฟุตบอลโลก รอบคัดเลือก โซนยุโรป 2025/15.10.68",
+            "image": "https://dooball.id/images/2llzNvj3RlcjsRqAVoDIubTT0gtwMTohqdefault.jpg",
+            "url": "https://worker.direct-stream.com:443/highlight/Latvia 0-5 England.mp4/playlist.m3u8",
+            "referer": "https://dooball.id/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "⚽  โปรตุเกส 2 - 2 ฮังการี่ - ฟุตบอลโลก รอบคัดเลือก โซนยุโรป 2025/15.10.68",
+            "image": "https://dooball.id/images/pXc97o4MCBl97LlZttaakGiQqkG9NX8maxresdefault_(1).jpg",
+            "url": "https://worker.direct-stream.com:443/highlight/Portugal 2-2 Hungary.mp4/playlist.m3u8",
+            "referer": "https://dooball.id/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "⚽  อิตาลี่ 3 - 0 อิสราเอล - ฟุตบอลโลก รอบคัดเลือก โซนยุโรป 2025/15.10.68",
+            "image": "https://dooball.id/images/mDkJjTFL9ZZHW4FRXkBrrjruDTjpElImaxresdefault.jpg",
+            "url": "https://worker.direct-stream.com:443/highlight/Italy 3-0 Israel.mp4/playlist.m3u8",
+            "referer": "https://dooball.id/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "⚽  โคลัมเบีย 0 - 0 แคนาดา - กระชับมิตร ทีมชาติ 2025/15.10.68",
+            "image": "https://dooball.id/images/C4n09IKi1N4HxF2tAPLlt9YluXt01lbmaxresdefault_(12).jpg",
+            "url": "https://worker.direct-stream.com:443/highlight/Colombia 0-0 Canada.mp4/playlist.m3u8",
+            "referer": "https://dooball.id/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "⚽  เอลซัลวาดอร์ 0 - 1 กัวเตมาลา - ฟุตบอลโลก รอบคัดเลือก โซนอเมริกาเหนือ 2025/15.10.68",
+            "image": "https://dooball.id/images/6nDnGefsZpjpCDeQiDxy4sApg6nC7aOmaxresdefault_(13).jpg",
+            "url": "https://worker.direct-stream.com:443/highlight/El Salvador 0-1 Guatemala.mp4/playlist.m3u8",
+            "referer": "https://dooball.id/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "⚽  ปานามา 1 - 1 ซูรินาเม่ - ฟุตบอลโลก รอบคัดเลือก โซนอเมริกาเหนือ 2025/15.10.68",
+            "image": "https://dooball.id/images/JoNzy5tJufgreuCSdiTxglKcOrBpaGWmaxresdefault_(10).jpg",
+            "url": "https://worker.direct-stream.com:443/highlight/Panama 1-1 Surinam.mp4/playlist.m3u8",
+            "referer": "https://dooball.id/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
         {
             "name": "⚽  อ็องเซ่ กัลดาส 1 - 5 อินดิเพนเดนเต้ เมเดลลิน - โคลัมเบีย พรีเมร่าเอ 2025/14.10.68",
             "image": "https://dooball.id/images/AotEccfe785v5v2JcnhkzXuAPBIxqytmaxresdefault_(6).jpg",
