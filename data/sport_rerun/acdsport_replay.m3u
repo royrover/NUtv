@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/718.png", group-title="LIVE SPORT", Oct 17 - 1900 La Liga Oviedo vs Espanyol
+https://vod.starxcdn.xyz/vod/pt_elevensport2-1760727600-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/85.png", group-title="LIVE SPORT", Oct 17 - 1845 Ligue 1 Paris Saint Germain vs Strasbourg
+https://vod.starxcdn.xyz/vod/live01-1760726700-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.azencode.com/upload/Football/Latvia.png", group-title="LIVE SPORT", Oct 14 - 1845 World Cup - Qualification Europe Latvia vs England
 https://vod.starxcdn.xyz/vod/us_fs2-1760467500-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.azencode.com/upload/Football/Italy.png", group-title="LIVE SPORT", Oct 14 - 1845 World Cup - Qualification Europe Italy vs Israel

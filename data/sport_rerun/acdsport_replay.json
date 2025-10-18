@@ -2,8 +2,22 @@
     "name": "acdsport replay",
     "image": "https://acdsport.com/acd/social.jpg",
     "url": "https://dl.dropbox.com/scl/fi/2lk9rp530f3mh8sn095pu/acdsport_replay.json?rlkey=ikxvfvv3nljrwb9xervk3r9mp&st=6nqt04sc&dl=0",
-    "author": "update 17-10-2025 19:19:05",
+    "author": "update 18-10-2025 07:42:52",
     "stations": [
+        {
+            "name": "Oct 17 - 19:00 La Liga Oviedo vs Espanyol",
+            "image": "https://image.azencode.com/teams/718.png",
+            "url": "https://vod.starxcdn.xyz/vod/pt_elevensport2-1760727600-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Oct 17 - 18:45 Ligue 1 Paris Saint Germain vs Strasbourg",
+            "image": "https://image.azencode.com/teams/85.png",
+            "url": "https://vod.starxcdn.xyz/vod/live01-1760726700-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
         {
             "name": "Oct 14 - 18:45 World Cup - Qualification Europe Latvia vs England",
             "image": "https://image.azencode.com/upload/Football/Latvia.png",
