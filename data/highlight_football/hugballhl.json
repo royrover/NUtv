@@ -2,8 +2,26 @@
     "name": "Hugball Highlights",
     "image": "https://www.hugball.net/images/logo.png",
     "url": "",
-    "author": "update 17-10-2025 19:57:41",
+    "author": "update 18-10-2025 08:56:37",
     "stations": [
+        {
+            "name": "⚽ ไฮไลท์ ยูเนี่ยน เบอร์ลิน 3-1 มึนเช่นกลัดบัค",
+            "image": "https://image.hugball.net/Pic/Video/m55617_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/10-2025/UnionBerlin31Mgladbach.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ เรอัล โอเบียโด 0-2 เอสปันญ่อล",
+            "image": "https://image.hugball.net/Pic/Video/m55616_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/10-2025/RealOviedo02Espanyol.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ ปารีส แซงต์ แชร์กแมง 3-3 สตารส์บูร์ก",
+            "image": "https://image.hugball.net/Pic/Video/m55615_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/10-2025/ParisSaintGermain33Strasbourg.mp4",
+            "referer": "https://www.hugball.net/"
+        },
         {
             "name": "⚽ ไฮไลท์ เปอร์โตริโก 0-6 อาร์เจนตินา",
             "image": "https://image.hugball.net/Pic/Video/m55614_1.jpg",

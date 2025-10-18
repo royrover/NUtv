@@ -2,8 +2,56 @@
     "name": "highlights - dooball_id",
     "image": "https://dooball.id/images/logo/rBdVFRtw3Qf9WtZz9P6yfNaZXEUywKGlogo_2.png",
     "url": "",
-    "author": "update 17-10-2025 19:57:38",
+    "author": "update 18-10-2025 08:56:29",
     "stations": [
+        {
+            "name": "⚽  เดวา ยูไนเต็ด 0 - 2 มาดูร่า ยูไนเต็ด - อินโดนีเซีย ซูเปอร์ลีก้า 2025/17.10.68",
+            "image": "https://dooball.id/images/a2PPPwk4JC4Tge5Xo2rgywKXK4tOOmamaxresdefault_(5).jpg",
+            "url": "https://worker.direct-stream.com:443/highlight/Dewa United 0-2 Madura United FC.mp4/playlist.m3u8",
+            "referer": "https://dooball.id/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "⚽  อิลเวส 1 - 1 คูพีเอส - ฟินแลนด์ ไวค์เคาส์ลีก้า 2025/17.10.68",
+            "image": "https://dooball.id/images/G2Gv3O5w7wCajYfe0fSKgWU9rF8VYHCmaxresdefault_(3).jpg",
+            "url": "https://worker.direct-stream.com:443/highlight/Ilves 1-1 KuPS.mp4/playlist.m3u8",
+            "referer": "https://dooball.id/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "⚽  เกรมิโอ ปอร์โต้ 2 - 0 เซาเปาโล - บราซิล ซีรี่ย์เอ 2025/17.10.68",
+            "image": "https://dooball.id/images/mcTsCFxBfkLMxwpFGQ1LBvr4uQNU1oFmaxresdefault_(1).jpg",
+            "url": "https://worker.direct-stream.com:443/highlight/Gremio 2-0 Sao Paulo.mp4/playlist.m3u8",
+            "referer": "https://dooball.id/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "⚽  วิตอเรีย บีเอ 2 - 1 บาเฮีย บีเอ - บราซิล ซีรี่ย์เอ 2025/17.10.68",
+            "image": "https://dooball.id/images/4wjg5nOe4qviK3cl5g3CsmcxTnE9Xcqmaxresdefault_(4).jpg",
+            "url": "https://worker.direct-stream.com:443/highlight/Vitoria 2-1 Bahia.mp4/playlist.m3u8",
+            "referer": "https://dooball.id/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "⚽  ฟลูมิเนนเซ่ 1 - 0 ยูเวนตูเด้ - บราซิล ซีรี่ย์เอ 2025/17.10.68",
+            "image": "https://dooball.id/images/mKD2aYxfmWjfe8IzSE9xMGN6uA7jM2bmaxresdefault.jpg",
+            "url": "https://worker.direct-stream.com:443/highlight/Fluminense 1-0 Juventude.mp4/playlist.m3u8",
+            "referer": "https://dooball.id/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "⚽  ฮัดเดอร์ฟิลด์ ทาวน์ 1 - 2 โบลตัน วันเดอร์เรอร์ส - ลีกวัน อังกฤษ 2025/17.10.68",
+            "image": "https://dooball.id/images/gRYK4Ga8wFYThaYDCVsi5TBRrZj64VGmaxresdefault_(2).jpg",
+            "url": "https://worker.direct-stream.com:443/highlight/Huddersfield Town 1-2 Bolton Wanderers.mp4/playlist.m3u8",
+            "referer": "https://dooball.id/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
         {
             "name": "⚽  อัตเลติโก มิไนโร่ 1 - 1 ครูไซโร่ - บราซิล ซีรี่ย์เอ 2025/16.10.68",
             "image": "https://dooball.id/images/OrVeY3baIpCOinNhxwIEyzlYOLJfDb8maxresdefault_(7).jpg",
