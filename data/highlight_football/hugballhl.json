@@ -2,8 +2,158 @@
     "name": "Hugball Highlights",
     "image": "https://www.hugball.net/images/logo.png",
     "url": "",
-    "author": "update 18-10-2025 19:51:42",
+    "author": "update 19-10-2025 09:20:47",
     "stations": [
+        {
+            "name": "⚽ ไฮไลท์ เลสเตอร์ ซิตี้ 1-1 พอร์ตสมัธ",
+            "image": "https://image.hugball.net/Pic/Video/m55642_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/10-2025/Leiceste11Portsmouth.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ โอลิมปิก มาร์กเซย 6-2 เลอ อาฟร์",
+            "image": "https://image.hugball.net/Pic/Video/m55641_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/10-2025/Marsei62Havre.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ แอตเลติโก มาดริด 1-0 โอซาซูน่า",
+            "image": "https://image.hugball.net/Pic/Video/m55640_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/10-2025/Atleti10Osasuna.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ บียาร์เรอัล 2-2 เรอัล เบติส",
+            "image": "https://image.hugball.net/Pic/Video/m55639_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/10-2025/Villarreal.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ อองเช่ร์ 1-1 โมนาโก",
+            "image": "https://image.hugball.net/Pic/Video/m55638_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/10-2025/AngersASMonac.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ นีซ 3-2 โอลิมปิก ลียง",
+            "image": "https://image.hugball.net/Pic/Video/m55637_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/10-2025/NiceLyon.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ เลชเช่ 0-0 ซัสเซาโล่",
+            "image": "https://image.hugball.net/Pic/Video/m55636_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/10-2025/LecceSassuolo.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ ปิซ่า 0-0 เอลลาส เวโรน่า",
+            "image": "https://image.hugball.net/Pic/Video/m55635_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/10-2025/PisaHellasVeroon.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ โตริโน่ 1-0 นาโปลี",
+            "image": "https://image.hugball.net/Pic/Video/m55634_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/10-2025/TorinoNapoli.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ โรม่า 0-1 อินเตอร์ มิลาน",
+            "image": "https://image.hugball.net/Pic/Video/m55633_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/10-2025/Romainternazionaln.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ โคโลญจน์ 1-1 เอาก์สบวร์ก",
+            "image": "https://image.hugball.net/Pic/Video/m55632_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/10-2025/FCKolnFCAugsburg.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ โวล์ฟสบวร์ก 0-3 สตุ๊ตการ์ต",
+            "image": "https://image.hugball.net/Pic/Video/m55631_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/10-2025/wollfburg.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ ไฮน์เดนเฮลม์ 2-2 แวร์เดอร์ เบรเมน",
+            "image": "https://image.hugball.net/Pic/Video/m55630_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/10-2025/HeidenheimWerderBremen.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ RB ไลป์ซิก 2-1 ฮัมบูร์ก",
+            "image": "https://image.hugball.net/Pic/Video/m55629_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/10-2025/RBLeipzigHamburger.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ ไมนซ์ 05 3-4 เลเวอร์คูเซ่น",
+            "image": "https://image.hugball.net/Pic/Video/m55628_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/10-2025/MainzBayerLeverkusen.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ บาเยิร์น มิวนิค 2-1 ดอร์ทมุนด์",
+            "image": "https://image.hugball.net/Pic/Video/m55627_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/10-2025/BayernMunichBorussia.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ เซบีย่า 1-3 เรอัล มายอร์ก้า",
+            "image": "https://image.hugball.net/Pic/Video/m55626_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/10-2025/SevillaMallorca.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ บาร์เซโลน่า 2-1 คิโรน่า",
+            "image": "https://image.hugball.net/Pic/Video/m55625_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/10-2025/GironaBarcelona.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ คริสตัล พาเลซ vs บอร์นมัธ",
+            "image": "https://image.hugball.net/Pic/Video/m55624_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/10-2025/CrystalPalaceBournemouth.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ เบิร์นลี่ย์ vs ลีดส์ ยูไนเต็ด",
+            "image": "https://image.hugball.net/Pic/Video/m55623_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/10-2025/BurnleyLeedsUnited.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ ซันเดอร์แลนด์ vs วูล์ฟแฮมป์ตัน",
+            "image": "https://image.hugball.net/Pic/Video/m55622_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/10-2025/SunderlandWolves.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ ไบรท์ตัน vs นิวคาสเซิล ยูไนเต็ด",
+            "image": "https://image.hugball.net/Pic/Video/m55621_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/10-2025/BrightonNewcastle.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ ฟูแล่ม vs อาร์เซนอล",
+            "image": "https://image.hugball.net/Pic/Video/m55620_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/10-2025/FulhamArsenal.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ แมนเชสเตอร์ ซิตี้ vs เอฟเวอร์ตัน",
+            "image": "https://image.hugball.net/Pic/Video/m55619_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/10-2025/ManchesterCityEverton.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ น็อตติ้งแฮม ฟอเรสต์ vs เชลซี",
+            "image": "https://image.hugball.net/Pic/Video/m55618_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/10-2025/chenf.mp4",
+            "referer": "https://www.hugball.net/"
+        },
         {
             "name": "⚽ ไฮไลท์ ยูเนี่ยน เบอร์ลิน 3-1 มึนเช่นกลัดบัค",
             "image": "https://image.hugball.net/Pic/Video/m55617_1.jpg",
