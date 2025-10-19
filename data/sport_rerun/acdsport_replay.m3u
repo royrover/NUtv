@@ -1,4 +1,52 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/81.png", group-title="LIVE SPORT", Oct 18 - 1905 Ligue 1 Marseille vs LE Havre
+https://vod.starxcdn.xyz/vod/pt_sporttv3-1760814300-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/530.png", group-title="LIVE SPORT", Oct 18 - 1900 La Liga Atletico Madrid vs Osasuna
+https://vod.starxcdn.xyz/vod/espn9-1760814000-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/497.png", group-title="LIVE SPORT", Oct 18 - 1845 Serie A AS Roma vs Inter
+https://vod.starxcdn.xyz/vod/uk_bts1-1760813100-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/77.png", group-title="LIVE SPORT", Oct 18 - 1700 Ligue 1 Angers vs Monaco
+https://vod.starxcdn.xyz/vod/pt_sporttv3-1760806800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/533.png", group-title="LIVE SPORT", Oct 18 - 1630 La Liga Villarreal vs Real Betis
+https://vod.starxcdn.xyz/vod/espn8-1760805000-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/36.png", group-title="LIVE SPORT", Oct 18 - 1630 Premier League Fulham vs Arsenal
+https://vod.starxcdn.xyz/vod/uk_ssepl-1760805000-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/157.png", group-title="LIVE SPORT", Oct 18 - 1630 Bundesliga Bayern Munich vs Borussia Dortmund
+https://vod.starxcdn.xyz/vod/uk_ssfb-1760805000-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/503.png", group-title="LIVE SPORT", Oct 18 - 1600 Serie A Torino vs Napoli
+https://vod.starxcdn.xyz/vod/us_foxdeport-1760803200-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/upload/Football/OGC Nice.png", group-title="LIVE SPORT", Oct 18 - 1500 Ligue 1 Nice vs Lyon
+https://vod.starxcdn.xyz/vod/pt_sporttv3-1760799600-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/529.png", group-title="LIVE SPORT", Oct 18 - 1415 La Liga Barcelona vs Girona
+https://vod.starxcdn.xyz/vod/espn7-1760796900-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/746.png", group-title="LIVE SPORT", Oct 18 - 1400 Premier League Sunderland vs Wolves
+https://vod.starxcdn.xyz/vod/epl_sun-1760796000-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/52.png", group-title="LIVE SPORT", Oct 18 - 1400 Premier League Crystal Palace vs Bournemouth
+https://vod.starxcdn.xyz/vod/epl_cry-1760796000-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/51.png", group-title="LIVE SPORT", Oct 18 - 1400 Premier League Brighton vs Newcastle
+https://vod.starxcdn.xyz/vod/epl_bra-1760796000-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/50.png", group-title="LIVE SPORT", Oct 18 - 1400 Premier League Manchester City vs Everton
+https://vod.starxcdn.xyz/vod/uk_premiersports1-1760796000-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/44.png", group-title="LIVE SPORT", Oct 18 - 1400 Premier League Burnley vs Leeds
+https://vod.starxcdn.xyz/vod/epl_bly-1760796000-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/192.png", group-title="LIVE SPORT", Oct 18 - 1330 Bundesliga FC Koln vs FC Augsburg
+https://vod.starxcdn.xyz/vod/espn4-1760794200-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/upload/Football/Heidenheim.png", group-title="LIVE SPORT", Oct 18 - 1330 Bundesliga FC Heidenheim vs Werder Bremen
+https://vod.starxcdn.xyz/vod/espn3-1760794200-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/173.png", group-title="LIVE SPORT", Oct 18 - 1330 Bundesliga RB Leipzig vs Hamburger SV
+https://vod.starxcdn.xyz/vod/espn2-1760794200-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/164.png", group-title="LIVE SPORT", Oct 18 - 1330 Bundesliga FSV Mainz 05 vs Bayer Leverkusen
+https://vod.starxcdn.xyz/vod/espn1-1760794200-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/161.png", group-title="LIVE SPORT", Oct 18 - 1330 Bundesliga VfL Wolfsburg vs VfB Stuttgart
+https://vod.starxcdn.xyz/vod/espn0-1760794200-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/867.png", group-title="LIVE SPORT", Oct 18 - 1300 Serie A Lecce vs Sassuolo
+https://vod.starxcdn.xyz/vod/paramount2-1760792400-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/801.png", group-title="LIVE SPORT", Oct 18 - 1300 Serie A Pisa vs Verona
+https://vod.starxcdn.xyz/vod/paramount1-1760792400-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/536.png", group-title="LIVE SPORT", Oct 18 - 1200 La Liga Sevilla vs Mallorca
+https://vod.starxcdn.xyz/vod/pt_elevensport2-1760788800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/65.png", group-title="LIVE SPORT", Oct 18 - 1130 Premier League Nottingham Forest vs Chelsea
+https://vod.starxcdn.xyz/vod/uk_bts1-1760787000-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.azencode.com/teams/718.png", group-title="LIVE SPORT", Oct 17 - 1900 La Liga Oviedo vs Espanyol
 https://vod.starxcdn.xyz/vod/pt_elevensport2-1760727600-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.azencode.com/teams/85.png", group-title="LIVE SPORT", Oct 17 - 1845 Ligue 1 Paris Saint Germain vs Strasbourg
