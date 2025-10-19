@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://image.hugball.net/Pic/Video/m55646_1.png", group-title="LIVE SPORT", ⚽ ไฮไลท์ บีจี ปทุม ยูไนเต็ด 1-0 อยุธยายูไนเต็ด
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.hugball.net/
+https://hugball2.b-cdn.net/hilight/19102568/BG1-0AYTY.mp4
+#EXTINF:-1 tvg-logo="https://image.hugball.net/Pic/Video/m55645_1.png", group-title="LIVE SPORT", ⚽ ไฮไลท์ เมืองทอง ยูไนเต็ด 0-0 แบงค็อก ยูไนเต็ด
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.hugball.net/
+https://hugball2.b-cdn.net/hilight/19102568/MT0-0BKK.mp4
+#EXTINF:-1 tvg-logo="https://image.hugball.net/Pic/Video/m55644_1.png", group-title="LIVE SPORT", ⚽ ไฮไลท์ ราชบุรี มิตรผล เอฟซี 5-0 ลำพูน วอร์ริเออร์
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.hugball.net/
+https://hugball2.b-cdn.net/hilight/19102568/NK0-2PORT.mp4
+#EXTINF:-1 tvg-logo="https://image.hugball.net/Pic/Video/m55643_1.png", group-title="LIVE SPORT", ⚽ ไฮไลท์ ราชบุรี มิตรผล เอฟซี 5-0 ลำพูน วอร์ริเออร์
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.hugball.net/
+https://hugball2.b-cdn.net/hilight/19102568/RCBR5-0LP.mp4
 #EXTINF:-1 tvg-logo="https://image.hugball.net/Pic/Video/m55642_1.jpg", group-title="LIVE SPORT", ⚽ ไฮไลท์ เลสเตอร์ ซิตี้ 1-1 พอร์ตสมัธ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.hugball.net/

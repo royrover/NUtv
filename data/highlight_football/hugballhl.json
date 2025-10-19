@@ -2,8 +2,32 @@
     "name": "Hugball Highlights",
     "image": "https://www.hugball.net/images/logo.png",
     "url": "",
-    "author": "update 19-10-2025 09:20:47",
+    "author": "update 19-10-2025 19:52:04",
     "stations": [
+        {
+            "name": "⚽ ไฮไลท์ บีจี ปทุม ยูไนเต็ด 1-0 อยุธยายูไนเต็ด",
+            "image": "https://image.hugball.net/Pic/Video/m55646_1.png",
+            "url": "https://hugball2.b-cdn.net/hilight/19102568/BG1-0AYTY.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ เมืองทอง ยูไนเต็ด 0-0 แบงค็อก ยูไนเต็ด",
+            "image": "https://image.hugball.net/Pic/Video/m55645_1.png",
+            "url": "https://hugball2.b-cdn.net/hilight/19102568/MT0-0BKK.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ ราชบุรี มิตรผล เอฟซี 5-0 ลำพูน วอร์ริเออร์",
+            "image": "https://image.hugball.net/Pic/Video/m55644_1.png",
+            "url": "https://hugball2.b-cdn.net/hilight/19102568/NK0-2PORT.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ ราชบุรี มิตรผล เอฟซี 5-0 ลำพูน วอร์ริเออร์",
+            "image": "https://image.hugball.net/Pic/Video/m55643_1.png",
+            "url": "https://hugball2.b-cdn.net/hilight/19102568/RCBR5-0LP.mp4",
+            "referer": "https://www.hugball.net/"
+        },
         {
             "name": "⚽ ไฮไลท์ เลสเตอร์ ซิตี้ 1-1 พอร์ตสมัธ",
             "image": "https://image.hugball.net/Pic/Video/m55642_1.jpg",
