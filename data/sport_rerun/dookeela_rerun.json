@@ -2,8 +2,18 @@
     "name": "DOOKEELA Rerun",
     "image": "https://www.dropbox.com/scl/fi/0wslhpbbirva0wx4rlbzn/DKL.png?rlkey=37e1vu25obzmo5kikjkax30t7&st=7ey1fj5e&raw=1",
     "url": "",
-    "author": "update 19-10-2025 19:16:53",
+    "author": "update 20-10-2025 07:51:18",
     "stations": [
+        {
+            "name": "Liverpool vs Manchester United | Premier League (19-10-2025)",
+            "image": "https://images.dookeela2.live/1ea51f4905fd47abb43f7ba22c817198:dkl-images-storage/rerun/1760908097.jpg",
+            "url": "https://ks7jcc.cdn.akamaiz.com/rerun/พรีเมียร์ลีก อังกฤษ 2025_2026 - ลิเวอร์พูล v แมนเชสเตอร์ ยูไนเต็ด [19-10-2025 22_30].mp4/playlist.m3u8"
+        },
+        {
+            "name": "Manchester City vs Everton | Premier League (19-10-2025)",
+            "image": "https://images.dookeela2.live/1ea51f4905fd47abb43f7ba22c817198:dkl-images-storage/rerun/1760881259.jpg",
+            "url": "https://ks7jcc.cdn.akamaiz.com/rerun/พรีเมียร์ลีก อังกฤษ 2025_2026 - แมนเชสเตอร์ ซิตี้ v เอฟเวอร์ตัน [18-10-2025 21_00].mp4/playlist.m3u8"
+        },
         {
             "name": "Fulham vs Arsenal | Premier League (19-10-2025)",
             "image": "https://images.dookeela2.live/1ea51f4905fd47abb43f7ba22c817198:dkl-images-storage/rerun/1760859297.jpg",

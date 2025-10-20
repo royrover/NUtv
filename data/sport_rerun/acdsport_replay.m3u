@@ -1,4 +1,40 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/546.png", group-title="LIVE SPORT", Oct 19 - 1900 La Liga Getafe vs Real Madrid
+https://vod.starxcdn.xyz/vod/uk_premiersports1-1760900400-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/489.png", group-title="LIVE SPORT", Oct 19 - 1845 Serie A AC Milan vs Fiorentina
+https://vod.starxcdn.xyz/vod/uk_bts1-1760899500-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/83.png", group-title="LIVE SPORT", Oct 19 - 1845 Ligue 1 Nantes vs Lille
+https://vod.starxcdn.xyz/vod/pt_sporttv2-1760899500-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/539.png", group-title="LIVE SPORT", Oct 19 - 1630 La Liga Levante vs Rayo Vallecano
+https://vod.starxcdn.xyz/vod/espn4-1760891400-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/499.png", group-title="LIVE SPORT", Oct 19 - 1600 Serie A Atalanta vs Lazio
+https://vod.starxcdn.xyz/vod/paramount2-1760889600-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/40.png", group-title="LIVE SPORT", Oct 19 - 1530 Premier League Liverpool vs Manchester United
+https://vod.starxcdn.xyz/vod/uk_ssepl-1760887800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/186.png", group-title="LIVE SPORT", Oct 19 - 1530 Bundesliga FC St. Pauli vs 1899 Hoffenheim
+https://vod.starxcdn.xyz/vod/espn1-1760887800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/97.png", group-title="LIVE SPORT", Oct 19 - 1515 Ligue 1 Lorient vs Stade Brestois 29
+https://vod.starxcdn.xyz/vod/live02-1760886900-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/96.png", group-title="LIVE SPORT", Oct 19 - 1515 Ligue 1 Toulouse vs Metz
+https://vod.starxcdn.xyz/vod/pt_sporttv2-1760886900-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/94.png", group-title="LIVE SPORT", Oct 19 - 1515 Ligue 1 Rennes vs Auxerre
+https://vod.starxcdn.xyz/vod/live01-1760886900-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/538.png", group-title="LIVE SPORT", Oct 19 - 1415 La Liga Celta Vigo vs Real Sociedad
+https://vod.starxcdn.xyz/vod/espn3-1760883300-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/160.png", group-title="LIVE SPORT", Oct 19 - 1330 Bundesliga SC Freiburg vs Eintracht Frankfurt
+https://vod.starxcdn.xyz/vod/espn0-1760880600-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/495.png", group-title="LIVE SPORT", Oct 19 - 1300 Serie A Genoa vs Parma
+https://vod.starxcdn.xyz/vod/us_foxdeport-1760878800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/490.png", group-title="LIVE SPORT", Oct 19 - 1300 Serie A Cagliari vs Bologna
+https://vod.starxcdn.xyz/vod/paramount1-1760878800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/116.png", group-title="LIVE SPORT", Oct 19 - 1300 Ligue 1 Lens vs Paris FC
+https://vod.starxcdn.xyz/vod/pt_sporttv2-1760878800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/47.png", group-title="LIVE SPORT", Oct 19 - 1300 Premier League Tottenham vs Aston Villa
+https://vod.starxcdn.xyz/vod/uk_ssepl-1760878800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/797.png", group-title="LIVE SPORT", Oct 19 - 1200 La Liga Elche vs Athletic Club
+https://vod.starxcdn.xyz/vod/espn2-1760875200-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/895.png", group-title="LIVE SPORT", Oct 19 - 1030 Serie A Como vs Juventus
+https://vod.starxcdn.xyz/vod/us_foxdeport-1760869800-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.azencode.com/teams/81.png", group-title="LIVE SPORT", Oct 18 - 1905 Ligue 1 Marseille vs LE Havre
 https://vod.starxcdn.xyz/vod/pt_sporttv3-1760814300-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.azencode.com/teams/530.png", group-title="LIVE SPORT", Oct 18 - 1900 La Liga Atletico Madrid vs Osasuna
