@@ -2,8 +2,26 @@
     "name": "Hugball Highlights",
     "image": "https://www.hugball.net/images/logo.png",
     "url": "",
-    "author": "update 20-10-2025 19:58:58",
+    "author": "update 21-10-2025 09:05:39",
     "stations": [
+        {
+            "name": "⚽ ไฮไลท์ อลาเบส 0-0 บาเลนเซีย",
+            "image": "https://image.hugball.net/Pic/Video/m55669_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/10-2025/AlavValenon.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ เครโมเนเซ่ 1-1 อูดิเนเซ่",
+            "image": "https://image.hugball.net/Pic/Video/m55668_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/10-2025/CremoneseUdinese.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ เวสต์แฮม ยูไนเต็ด vs เบรนท์ฟอร์ด",
+            "image": "https://image.hugball.net/Pic/Video/m55667_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/10-2025/WestHamUnitedBrentford.mp4",
+            "referer": "https://www.hugball.net/"
+        },
         {
             "name": "⚽ ไฮไลท์ เฟเนร์บาห์เช่ 2-1 คารากูมรัค",
             "image": "https://image.hugball.net/Pic/Video/m55666_1.jpg",

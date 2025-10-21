@@ -1,4 +1,76 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://dooball.id/images/5F1DJdbdDUp4G7pwwEss74worn1THsumaxresdefault_(16).jpg", group-title="LIVE SPORT", ⚽  อตาลันต้า 0 - 0 ลาซิโอ้ - กัลโช่ เซเรียอา อิตาลี 2025/20.10.68
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dooball.id/
+https://worker.direct-stream.com:443/highlight/ATALANTA 0-0 LAZIO.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dooball.id/images/DhzCvCN9FigZnwWdgpIE5DTKmsokSFDmaxresdefault_(15).jpg", group-title="LIVE SPORT", ⚽  เจนัว 0 - 0 ปาร์ม่า - กัลโช่ เซเรียอา อิตาลี 2025/20.10.68
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dooball.id/
+https://worker.direct-stream.com:443/highlight/GENOA 0-0 PARMA.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dooball.id/images/qZnqoMm18Tuo7mrUTVz3OJmUZreH8kBmaxresdefault_(7).jpg", group-title="LIVE SPORT", ⚽  ไฟร์บวร์ก 2 - 2 ไอน์ทรัค แฟร้งค์เฟิร์ต - บุนเดสลีก้า เยอรมัน 2025/20.10.68
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dooball.id/
+https://worker.direct-stream.com:443/highlight/SC Freiburg 2-2 Eintracht Frankfurt.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dooball.id/images/gA7040gNhvDcNJFk8O9nM3y4NMr1ATsmaxresdefault_(8).jpg", group-title="LIVE SPORT", ⚽  ซังค์ เพาลี 0 - 3 ฮอฟเฟ่นไฮม์ - บุนเดสลีก้า เยอรมัน 2025/20.10.68
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dooball.id/
+https://worker.direct-stream.com:443/highlight/FC St. Pauli 0-3 Hoffenheim.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dooball.id/images/UB6KcEDqNEUsMwbZLYkgYxd7NbieyxDmaxresdefault_(1).jpg", group-title="LIVE SPORT", ⚽  ลิเวอร์พูล 1 - 2 แมนเชสเตอร์ ยูไนเต็ด - พรีเมียร์ลีก อังกฤษ 2025/20.10.68
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dooball.id/
+https://worker.direct-stream.com:443/highlight/ลิเวอร์พูล 1-2 แมนเชสเตอร์ ยูไนเต็ด.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dooball.id/images/JToY0zfErCu9zDbtKLwGtyZPhf933rbmaxresdefault.jpg", group-title="LIVE SPORT", ⚽  ท็อตแน่ม ฮ็อตสเปอร์ส 1 - 2 แอสตัน วิลล่า - พรีเมียร์ลีก อังกฤษ 2025/20.10.68
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dooball.id/
+https://worker.direct-stream.com:443/highlight/สเปอร์ส 1-2 แอสตัน วิลล่า.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dooball.id/images/jn1zV8jemoaWTzeTWODMZd7J2JrW11Pmaxresdefault_(6).jpg", group-title="LIVE SPORT", ⚽  ล็องส์ 2 - 1 ปารีส เอฟซี - ลีกเอิง ฝรั่งเศส 2025/20.10.68
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dooball.id/
+https://worker.direct-stream.com:443/highlight/ล็องส์ 2-1 ปารีส เอฟซี.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dooball.id/images/UnvIMAvSmcP2UElMpuwgatNuCM9xOFlmaxresdefault_(10).jpg", group-title="LIVE SPORT", ⚽  เซลต้า บีโก้ 1 - 1 เรอัล โซเซียดาด - ลาลีก้า สเปน 2025/20.10.68
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dooball.id/
+https://worker.direct-stream.com:443/highlight/CELTA 1-1 REAL SOCIEDAD.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dooball.id/images/eWISn8uqWAAbAQB25d3dlByEm6Hx2B4maxresdefault_(11).jpg", group-title="LIVE SPORT", ⚽  เลบานเต้ 0 - 3 ราโย่ บาเยกาโน่ - ลาลีก้า สเปน 2025/20.10.68
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dooball.id/
+https://worker.direct-stream.com:443/highlight/LEVANTE UD 0-3 RAYO VALLECANO.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dooball.id/images/1DwP8xG5ajvl8H6Z5oxyj2n2NQDAMG2maxresdefault_(12).jpg", group-title="LIVE SPORT", ⚽  เกตาเฟ่ 0 - 1 เรอัล มาดริด - ลาลีก้า สเปน 2025/20.10.68
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dooball.id/
+https://worker.direct-stream.com:443/highlight/GETAFE CF 0-1 REAL MADRID.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dooball.id/images/JOagfmALe2JT3WyXS5RSkMUtflUzm6gmaxresdefault_(9).jpg", group-title="LIVE SPORT", ⚽  เอลเช่ 0 - 0 แอธเลติก บิลเบา - ลาลีก้า สเปน 2025/20.10.68
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dooball.id/
+https://worker.direct-stream.com:443/highlight/ELCHE CF 0-0 ATHLETIC CLUB.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dooball.id/images/rbgK3KpxVyG022fOaD4ndigegovG0E9maxresdefault_(17).jpg", group-title="LIVE SPORT", ⚽  เอซี มิลาน 2 - 1 ฟิออเรนติน่า - กัลโช่ เซเรียอา อิตาลี 2025/20.10.68
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dooball.id/
+https://worker.direct-stream.com:443/highlight/MILAN 2-1 FIORENTINA.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dooball.id/images/V60KWfZIUtEL7bdbq2CVs4spKdHirDamaxresdefault_(13).jpg", group-title="LIVE SPORT", ⚽  โคโม่ 2 - 0 ยูเวนตุส - กัลโช่ เซเรียอา อิตาลี 2025/20.10.68
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dooball.id/
+https://worker.direct-stream.com:443/highlight/COMO 2-0 JUVENTUS.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dooball.id/images/NqHvOEOCplEvvsmBlVJPLLVV6XS1ngWmaxresdefault_(14).jpg", group-title="LIVE SPORT", ⚽  กายารี่ 0 - 2 โบโลญญ่า - กัลโช่ เซเรียอา อิตาลี 2025/20.10.68
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dooball.id/
+https://worker.direct-stream.com:443/highlight/CAGLIARI 0-2 BOLOGNA.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dooball.id/images/ztSehsvfOqBzfeU60TTZQdMop6PgXKwmaxresdefault_(2).jpg", group-title="LIVE SPORT", ⚽  น็องต์ 0 - 2 ลีลล์ - ลีกเอิง ฝรั่งเศส 2025/20.10.68
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dooball.id/
+https://worker.direct-stream.com:443/highlight/น็องต์ 0-2 ลีลล์.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dooball.id/images/UGyQNu8zt2GklmxnyOBzHO0XpnjRGzvmaxresdefault_(3).jpg", group-title="LIVE SPORT", ⚽  ตูลูส 4 - 0 เม็ตซ์ - ลีกเอิง ฝรั่งเศส 2025/20.10.68
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dooball.id/
+https://worker.direct-stream.com:443/highlight/ตูลูส 4-0 เม็ตซ์.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dooball.id/images/u8H1ne8SM9yDOy8BLgO0VN8h4ZCPlBNmaxresdefault_(5).jpg", group-title="LIVE SPORT", ⚽  ลอริยองต์ 3 - 3 แบรสต์ - ลีกเอิง ฝรั่งเศส 2025/20.10.68
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dooball.id/
+https://worker.direct-stream.com:443/highlight/ลอริยองต์ 3-3 แบรสต์.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dooball.id/images/fzxZJ6DfFmpgvEGtr2yZfyvwM28qAZemaxresdefault_(4).jpg", group-title="LIVE SPORT", ⚽  แรนส์ 2 - 2 โอแซร์ - ลีกเอิง ฝรั่งเศส 2025/20.10.68
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dooball.id/
+https://worker.direct-stream.com:443/highlight/แรนส์ 2-2 โอแซร์.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dooball.id/images/A08TYGty8jQTeZRV4iW4Hp7nY6Z1y4vmaxresdefault_(19).jpg", group-title="LIVE SPORT", ⚽  บียาร์เรอัล 2 - 2 เรอัล เบติส - ลาลีก้า สเปน 2025/19.10.68
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dooball.id/
