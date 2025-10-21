@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://image.azencode.com/upload/Football/Alaves1.png", group-title="LIVE SPORT", Oct 20 - 1900 La Liga Alaves vs Valencia
+https://vod.starxcdn.xyz/vod/espn0-1760986800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/48.png", group-title="LIVE SPORT", Oct 20 - 1900 Premier League West Ham vs Brentford
+https://vod.starxcdn.xyz/vod/uk_ssepl-1760986800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/520.png", group-title="LIVE SPORT", Oct 20 - 1845 Serie A Cremonese vs Udinese
+https://vod.starxcdn.xyz/vod/paramount1-1760985900-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.azencode.com/teams/546.png", group-title="LIVE SPORT", Oct 19 - 1900 La Liga Getafe vs Real Madrid
 https://vod.starxcdn.xyz/vod/uk_premiersports1-1760900400-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.azencode.com/teams/489.png", group-title="LIVE SPORT", Oct 19 - 1845 Serie A AC Milan vs Fiorentina

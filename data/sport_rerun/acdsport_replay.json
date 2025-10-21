@@ -2,8 +2,29 @@
     "name": "acdsport replay",
     "image": "https://acdsport.com/acd/social.jpg",
     "url": "https://dl.dropbox.com/scl/fi/2lk9rp530f3mh8sn095pu/acdsport_replay.json?rlkey=ikxvfvv3nljrwb9xervk3r9mp&st=6nqt04sc&dl=0",
-    "author": "update 20-10-2025 19:19:49",
+    "author": "update 21-10-2025 07:47:03",
     "stations": [
+        {
+            "name": "Oct 20 - 19:00 La Liga Alaves vs Valencia",
+            "image": "https://image.azencode.com/upload/Football/Alaves1.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn0-1760986800-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Oct 20 - 19:00 Premier League West Ham vs Brentford",
+            "image": "https://image.azencode.com/teams/48.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_ssepl-1760986800-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Oct 20 - 18:45 Serie A Cremonese vs Udinese",
+            "image": "https://image.azencode.com/teams/520.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount1-1760985900-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
         {
             "name": "Oct 19 - 19:00 La Liga Getafe vs Real Madrid",
             "image": "https://image.azencode.com/teams/546.png",
