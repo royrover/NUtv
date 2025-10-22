@@ -2,8 +2,26 @@
     "name": "highlights football buaksib",
     "image": "https://www.buaksib.com/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Flogo-summer.5abd78a6.png&w=256&q=75",
     "url": "",
-    "author": "update 22-10-2025 09:08:38",
+    "author": "update 22-10-2025 20:01:47",
     "stations": [
+        {
+            "name": "⚽ อาร์เซน่อล พบ แอตเลติโก มาดริด 21.10.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/10/Arsenal_Vs_Atletico_21_10_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Arsenal_Vs_Atletico_21_10_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ เลเวอร์คูเซน พบ ปารีส แซงต์ แชแมง 21.10.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/10/Leverkusen_Vs_Paris_21_10_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Leverkusen_Vs_Paris_21_10_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ บียาร์เรอัล พบ แมนเชสเตอร์ ซิตี้ 21.10.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/10/Villarreal_Vs_Man_City_21_10_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Villarreal_Vs_Man_City_21_10_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
         {
             "name": "⚽ เมลเบิร์น ซิตี้ พบ บุรีรัมย์ ยูไนเต็ด 21.10.2025 ไฮไลท์ฟุตบอล",
             "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/10/Melbourne_Vs_Buriram_21_10_25.jpg",
