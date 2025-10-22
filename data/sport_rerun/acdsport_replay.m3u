@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/1393.png", group-title="LIVE SPORT", Oct 21 - 1900 UEFA Champions League Union St. Gilloise vs Inter
+https://vod.starxcdn.xyz/vod/uk_bts8-1761073200-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/533.png", group-title="LIVE SPORT", Oct 21 - 1900 UEFA Champions League Villarreal vs Manchester City
+https://vod.starxcdn.xyz/vod/uk_bts1-1761073200-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/400.png", group-title="LIVE SPORT", Oct 21 - 1900 UEFA Champions League FC Copenhagen vs Borussia Dortmund
+https://vod.starxcdn.xyz/vod/uk_bts7-1761073200-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/197.png", group-title="LIVE SPORT", Oct 21 - 1900 UEFA Champions League PSV Eindhoven vs Napoli
+https://vod.starxcdn.xyz/vod/uk_bts6-1761073200-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/168.png", group-title="LIVE SPORT", Oct 21 - 1900 UEFA Champions League Bayer Leverkusen vs Paris Saint Germain
+https://vod.starxcdn.xyz/vod/uk_bts5-1761073200-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/42.png", group-title="LIVE SPORT", Oct 21 - 1900 UEFA Champions League Arsenal vs Atletico Madrid
+https://vod.starxcdn.xyz/vod/uk_premiersports1-1761073200-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/34.png", group-title="LIVE SPORT", Oct 21 - 1900 UEFA Champions League Newcastle vs Benfica
+https://vod.starxcdn.xyz/vod/uk_bts2-1761073200-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/664.png", group-title="LIVE SPORT", Oct 21 - 1645 UEFA Champions League Kairat Almaty vs Pafos
+https://vod.starxcdn.xyz/vod/uk_bts3-1761065100-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/529.png", group-title="LIVE SPORT", Oct 21 - 1645 UEFA Champions League Barcelona vs Olympiakos Piraeus
+https://vod.starxcdn.xyz/vod/uk_bts1-1761065100-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.azencode.com/upload/Football/Alaves1.png", group-title="LIVE SPORT", Oct 20 - 1900 La Liga Alaves vs Valencia
 https://vod.starxcdn.xyz/vod/espn0-1760986800-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.azencode.com/teams/48.png", group-title="LIVE SPORT", Oct 20 - 1900 Premier League West Ham vs Brentford

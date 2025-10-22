@@ -2,8 +2,71 @@
     "name": "acdsport replay",
     "image": "https://acdsport.com/acd/social.jpg",
     "url": "https://dl.dropbox.com/scl/fi/2lk9rp530f3mh8sn095pu/acdsport_replay.json?rlkey=ikxvfvv3nljrwb9xervk3r9mp&st=6nqt04sc&dl=0",
-    "author": "update 21-10-2025 19:20:14",
+    "author": "update 22-10-2025 07:48:25",
     "stations": [
+        {
+            "name": "Oct 21 - 19:00 UEFA Champions League Union St. Gilloise vs Inter",
+            "image": "https://image.azencode.com/teams/1393.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts8-1761073200-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Oct 21 - 19:00 UEFA Champions League Villarreal vs Manchester City",
+            "image": "https://image.azencode.com/teams/533.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts1-1761073200-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Oct 21 - 19:00 UEFA Champions League FC Copenhagen vs Borussia Dortmund",
+            "image": "https://image.azencode.com/teams/400.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts7-1761073200-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Oct 21 - 19:00 UEFA Champions League PSV Eindhoven vs Napoli",
+            "image": "https://image.azencode.com/teams/197.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts6-1761073200-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Oct 21 - 19:00 UEFA Champions League Bayer Leverkusen vs Paris Saint Germain",
+            "image": "https://image.azencode.com/teams/168.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts5-1761073200-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Oct 21 - 19:00 UEFA Champions League Arsenal vs Atletico Madrid",
+            "image": "https://image.azencode.com/teams/42.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_premiersports1-1761073200-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Oct 21 - 19:00 UEFA Champions League Newcastle vs Benfica",
+            "image": "https://image.azencode.com/teams/34.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts2-1761073200-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Oct 21 - 16:45 UEFA Champions League Kairat Almaty vs Pafos",
+            "image": "https://image.azencode.com/teams/664.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts3-1761065100-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Oct 21 - 16:45 UEFA Champions League Barcelona vs Olympiakos Piraeus",
+            "image": "https://image.azencode.com/teams/529.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts1-1761065100-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
         {
             "name": "Oct 20 - 19:00 La Liga Alaves vs Valencia",
             "image": "https://image.azencode.com/upload/Football/Alaves1.png",
