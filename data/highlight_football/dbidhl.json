@@ -2,8 +2,96 @@
     "name": "highlights - dooball_id",
     "image": "https://dooball.id/images/logo/rBdVFRtw3Qf9WtZz9P6yfNaZXEUywKGlogo_2.png",
     "url": "",
-    "author": "update 22-10-2025 20:01:52",
+    "author": "update 23-10-2025 09:03:36",
     "stations": [
+        {
+            "name": "⚽  บาร์เซโลน่า 6 - 1 โอลิมเปียกอส - ยูฟ่า แชมเปี้ยนส์ ลีก 2025/22.10.68",
+            "image": "https://dooball.id/images/jjU0ziP8XEKsTYuFOSR7SWMaQHFucFqmaxresdefault.jpg",
+            "url": "https://worker.direct-stream.com:443/highlight/Barcelona 6-1 Olympiakos.mp4/playlist.m3u8",
+            "referer": "https://dooball.id/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "⚽  พีเอสวี ไอนด์โฮเฟ่น 6 - 2 นาโปลี - ยูฟ่า แชมเปี้ยนส์ ลีก 2025/22.10.68",
+            "image": "https://dooball.id/images/E7gNg4aREQxkMBdkktzIc0kN7Dzmqebmaxresdefault_(4).jpg",
+            "url": "https://worker.direct-stream.com:443/highlight/PSV 6-2 Napoli.mp4/playlist.m3u8",
+            "referer": "https://dooball.id/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "⚽  นิวคาสเซิ่ล ยูไนเต็ด 3 - 0 เบนฟิก้า - ยูฟ่า แชมเปี้ยนส์ ลีก 2025/22.10.68",
+            "image": "https://dooball.id/images/aDk5ya0abQxdxcqFJR2Fb6dWT0aLJbVmaxresdefault_(8).jpg",
+            "url": "https://worker.direct-stream.com:443/highlight/Newcastle United 3-0 Benfica.mp4/playlist.m3u8",
+            "referer": "https://dooball.id/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "⚽  ยูนิยง แซงต์ กิลลุส 0 - 4 อินเตอร์ มิลาน - ยูฟ่า แชมเปี้ยนส์ ลีก 2025/22.10.68",
+            "image": "https://dooball.id/images/Wvm2caxhm10CVJOqGA77EQrfjbD5bxdmaxresdefault_(5).jpg",
+            "url": "https://worker.direct-stream.com:443/highlight/Union Saint-Gilloise 0-4 Inter Milan.mp4/playlist.m3u8",
+            "referer": "https://dooball.id/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "⚽  ไครัต อัลมาตี้ 0 - 0 ปาฟอส เอฟซี - ยูฟ่า แชมเปี้ยนส์ ลีก 2025/22.10.68",
+            "image": "https://dooball.id/images/lSHM362jTZMWiVuHo77z7nOwpmIaro8maxresdefault_(3).jpg",
+            "url": "https://worker.direct-stream.com:443/highlight/Kairat 0-0 Pafos.mp4/playlist.m3u8",
+            "referer": "https://dooball.id/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "⚽  ซีเอสเคเอ มอสโก 3 - 2 แอคร่อน โตเกลียทติ - รัสเซีย คัพ 2025/22.10.68",
+            "image": "https://dooball.id/images/LcWdVzuOQjZndygbEfMcHjTYEQiqJIxmaxresdefault_(2).jpg",
+            "url": "https://worker.direct-stream.com:443/highlight/ซีเอสเคเอ มอสโก 3-2 แอคร่อน โตเกลียทติ.mp4/playlist.m3u8",
+            "referer": "https://dooball.id/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "⚽  เอฟเค มาฮัชกาล่า 1 - 3 สปาร์ตัก มอสโก - รัสเซีย คัพ 2025/22.10.68",
+            "image": "https://dooball.id/images/Bpcam6GxTz2VL4jwegBEWQm6bY0uVclmaxresdefault_(1).jpg",
+            "url": "https://worker.direct-stream.com:443/highlight/เอฟเค มาฮัชกาล่า 1-3 สปาร์ตัก มอสโก.mp4/playlist.m3u8",
+            "referer": "https://dooball.id/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "⚽  เลเวอร์คูเซ่น 2 - 7 ปารีส แซงต์ แชร์กแมง - ยูฟ่า แชมเปี้ยนส์ ลีก 2025/22.10.68",
+            "image": "https://dooball.id/images/ITWYMzBByBMIiEeHSeDNq9pF8kWkcSpmaxresdefault_(7).jpg",
+            "url": "https://worker.direct-stream.com:443/highlight/Bayer Leverkusen 2-7 PSG.mp4/playlist.m3u8",
+            "referer": "https://dooball.id/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "⚽  เอฟซี โคเปนเฮเก้น 2 - 4 โบรุสเซีย ดอร์ทมุนด์ - ยูฟ่า แชมเปี้ยนส์ ลีก 2025/22.10.68",
+            "image": "https://dooball.id/images/J05hB8dmGDNy2ZxVETJ1kq8jj0CbywVmaxresdefault_(6).jpg",
+            "url": "https://worker.direct-stream.com:443/highlight/FC Kobenhavn 2-4 Borussia Dortmund.mp4/playlist.m3u8",
+            "referer": "https://dooball.id/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "⚽  บียาร์เรอัล 0 - 2 แมนเชสเตอร์ ซิตี้ - ยูฟ่า แชมเปี้ยนส์ ลีก 2025/22.10.68",
+            "image": "https://dooball.id/images/TDi4qFQ1ePm7BX2Lv8QS9mSvE9NPNEfmaxresdefault_(9).jpg",
+            "url": "https://worker.direct-stream.com:443/highlight/Villarreal 0-2 Manchester City.mp4/playlist.m3u8",
+            "referer": "https://dooball.id/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "⚽  อาร์เซน่อล 4 - 0 แอตเลติโก้ มาดริด - ยูฟ่า แชมเปี้ยนส์ ลีก 2025/22.10.68",
+            "image": "https://dooball.id/images/hU6scOsZEL5x10OPRBpuEcUUmcdS9Ifmaxresdefault_(10).jpg",
+            "url": "https://worker.direct-stream.com:443/highlight/Arsenal 4-0 Atletico Madrid.mp4/playlist.m3u8",
+            "referer": "https://dooball.id/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
         {
             "name": "⚽  เครโมเนเซ่ 1 - 1 อูดิเนเซ่ - กัลโช่ เซเรียอา อิตาลี 2025/21.10.68",
             "image": "https://dooball.id/images/C6UhTulgExtHBGOcEvaFMLBiraTf9Dkmaxresdefault_(1).jpg",

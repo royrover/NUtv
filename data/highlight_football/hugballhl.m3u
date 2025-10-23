@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://image.hugball.net/Pic/Video/m55687_1.jpg", group-title="LIVE SPORT", ⚽ ไฮไลท์ แอธเลติก บิลเบา 3-1 คาราบัค
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.hugball.net/
+https://hugball2.b-cdn.net/hilight/10-2025/athleticclub.mp4
+#EXTINF:-1 tvg-logo="https://image.hugball.net/Pic/Video/m55686_1.jpg", group-title="LIVE SPORT", ⚽ ไฮไลท์ กาลาตาซาราย 3-1 โบโด กลิมท์
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.hugball.net/
+https://hugball2.b-cdn.net/hilight/10-2025/galatbodoex.mp4
 #EXTINF:-1 tvg-logo="https://image.hugball.net/Pic/Video/m55678_1.jpg", group-title="LIVE SPORT", ⚽ ไฮไลท์ บียาร์เรอัล 0-2 แมนเชสเตอร์ ซิตี้
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.hugball.net/

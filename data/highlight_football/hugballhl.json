@@ -2,8 +2,20 @@
     "name": "Hugball Highlights",
     "image": "https://www.hugball.net/images/logo.png",
     "url": "",
-    "author": "update 22-10-2025 20:01:57",
+    "author": "update 23-10-2025 09:04:09",
     "stations": [
+        {
+            "name": "⚽ ไฮไลท์ แอธเลติก บิลเบา 3-1 คาราบัค",
+            "image": "https://image.hugball.net/Pic/Video/m55687_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/10-2025/athleticclub.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ กาลาตาซาราย 3-1 โบโด กลิมท์",
+            "image": "https://image.hugball.net/Pic/Video/m55686_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/10-2025/galatbodoex.mp4",
+            "referer": "https://www.hugball.net/"
+        },
         {
             "name": "⚽ ไฮไลท์ บียาร์เรอัล 0-2 แมนเชสเตอร์ ซิตี้",
             "image": "https://image.hugball.net/Pic/Video/m55678_1.jpg",
