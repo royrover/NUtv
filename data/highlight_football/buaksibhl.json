@@ -2,8 +2,32 @@
     "name": "highlights football buaksib",
     "image": "https://www.buaksib.com/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Flogo-summer.5abd78a6.png&w=256&q=75",
     "url": "",
-    "author": "update 23-10-2025 09:03:29",
+    "author": "update 23-10-2025 20:00:22",
     "stations": [
+        {
+            "name": "⚽ คาย่า เอฟซี พบ บีจี ปทุม ยูไนเต็ด 23.10.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/10/Kaya_Vs_BG_23_10_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Kaya_Vs_BG_23_10_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ เชลซี พบ อาแจ็กซ์ 22.10.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/10/Chelsea_Vs_Ajax_22_10_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Chelsea_Vs_Ajax_22_10_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ โมนาโก พบ สเปอร์ส 22.10.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/10/Monaco_Vs_spur_22_10_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Monaco_Vs_spur_22_10_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ บาร์เยิร์น มิวนิค พบ คลับ บรูกก์ 22.10.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/10/Bayern_Vs_Club_Brugge_22_10_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Bayern_Vs_Club_Brugge_22_10_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
         {
             "name": "⚽ แฟรงค์เฟิร์ต พบ ลิเวอร์พูล 22.10.2025 ไฮไลท์ฟุตบอล",
             "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/10/Frankfurt_Vs_Liverpool_22_10_25.jpg",
