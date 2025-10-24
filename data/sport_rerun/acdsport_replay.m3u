@@ -1,4 +1,60 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/160.png", group-title="LIVE SPORT", Oct 23 - 1900 UEFA Europa League SC Freiburg vs Utrecht
+https://vod.starxcdn.xyz/vod/uk_bts9-1761246000-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/652.png", group-title="LIVE SPORT", Oct 23 - 1900 UEFA Europa Conference League Shamrock Rovers vs Celje
+https://vod.starxcdn.xyz/vod/uk_bts5-1761246000-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/632.png", group-title="LIVE SPORT", Oct 23 - 1900 UEFA Europa Conference League Universitatea Craiova vs Artsakh
+https://vod.starxcdn.xyz/vod/paramount10-1761246000-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/164.png", group-title="LIVE SPORT", Oct 23 - 1900 UEFA Europa Conference League FSV Mainz 05 vs Zrinjski
+https://vod.starxcdn.xyz/vod/paramount8-1761246000-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/52.png", group-title="LIVE SPORT", Oct 23 - 1900 UEFA Europa Conference League Crystal Palace vs AEK Larnaca
+https://vod.starxcdn.xyz/vod/uk_bts3-1761246000-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/604.png", group-title="LIVE SPORT", Oct 23 - 1900 UEFA Europa League Maccabi Tel Aviv vs FC Midtjylland
+https://vod.starxcdn.xyz/vod/paramount7-1761246000-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/565.png", group-title="LIVE SPORT", Oct 23 - 1900 UEFA Europa League BSC Young Boys vs Ludogorets
+https://vod.starxcdn.xyz/vod/paramount6-1761246000-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/538.png", group-title="LIVE SPORT", Oct 23 - 1900 UEFA Europa League Celta Vigo vs Nice
+https://vod.starxcdn.xyz/vod/paramount5-1761246000-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/497.png", group-title="LIVE SPORT", Oct 23 - 1900 UEFA Europa League AS Roma vs Plzen
+https://vod.starxcdn.xyz/vod/uk_bts6-1761246000-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/375.png", group-title="LIVE SPORT", Oct 23 - 1900 UEFA Europa League Malmo FF vs Dinamo Zagreb
+https://vod.starxcdn.xyz/vod/paramount3-1761246000-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/247.png", group-title="LIVE SPORT", Oct 23 - 1900 UEFA Europa League Celtic vs Sturm Graz
+https://vod.starxcdn.xyz/vod/uk_bts2-1761246000-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/79.png", group-title="LIVE SPORT", Oct 23 - 1900 UEFA Europa League Lille vs PAOK
+https://vod.starxcdn.xyz/vod/paramount2-1761246000-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/65.png", group-title="LIVE SPORT", Oct 23 - 1900 UEFA Europa League Nottingham Forest vs FC Porto
+https://vod.starxcdn.xyz/vod/uk_bts1-1761246000-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/209.png", group-title="LIVE SPORT", Oct 23 - 1900 UEFA Europa League Feyenoord vs Panathinaikos
+https://vod.starxcdn.xyz/vod/paramount9-1761246000-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/575.png", group-title="LIVE SPORT", Oct 23 - 1645 UEFA Europa Conference League AEK Athens FC vs Aberdeen
+https://vod.starxcdn.xyz/vod/uk_bts3-1761237900-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/201.png", group-title="LIVE SPORT", Oct 23 - 1645 UEFA Europa Conference League AZ Alkmaar vs Slovan Bratislava
+https://vod.starxcdn.xyz/vod/paramount2-1761237900-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/781.png", group-title="LIVE SPORT", Oct 23 - 1645 UEFA Europa Conference League Rapid Vienna vs Fiorentina
+https://vod.starxcdn.xyz/vod/uk_bts10-1761237900-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/609.png", group-title="LIVE SPORT", Oct 23 - 1645 UEFA Europa Conference League Shkendija vs Shelbourne
+https://vod.starxcdn.xyz/vod/uk_bts5-1761237900-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/upload/Football/BK Hacken.png", group-title="LIVE SPORT", Oct 23 - 1645 UEFA Europa Conference League BK Hacken vs Rayo Vallecano
+https://vod.starxcdn.xyz/vod/paramount9-1761237900-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/95.png", group-title="LIVE SPORT", Oct 23 - 1645 UEFA Europa Conference League Strasbourg vs Jagiellonia
+https://vod.starxcdn.xyz/vod/paramount8-1761237900-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/upload/Football/Genk.png", group-title="LIVE SPORT", Oct 23 - 1645 UEFA Europa League Genk vs Real Betis
+https://vod.starxcdn.xyz/vod/uk_bts6-1761237900-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/611.png", group-title="LIVE SPORT", Oct 23 - 1645 UEFA Europa League Fenerbahce vs VfB Stuttgart
+https://vod.starxcdn.xyz/vod/uk_bts7-1761237900-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/571.png", group-title="LIVE SPORT", Oct 23 - 1645 UEFA Europa League Red Bull Salzburg vs Ferencvarosi TC
+https://vod.starxcdn.xyz/vod/paramount6-1761237900-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/559.png", group-title="LIVE SPORT", Oct 23 - 1645 UEFA Europa League FCSB vs Bologna
+https://vod.starxcdn.xyz/vod/uk_bts9-1761237900-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/410.png", group-title="LIVE SPORT", Oct 23 - 1645 UEFA Europa League GO Ahead Eagles vs Aston Villa
+https://vod.starxcdn.xyz/vod/uk_bts1-1761237900-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/319.png", group-title="LIVE SPORT", Oct 23 - 1645 UEFA Europa League Brann vs Rangers
+https://vod.starxcdn.xyz/vod/uk_bts2-1761237900-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/217.png", group-title="LIVE SPORT", Oct 23 - 1645 UEFA Europa League SC Braga vs FK Crvena Zvezda
+https://vod.starxcdn.xyz/vod/paramount3-1761237900-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/upload/Football/Lyon.png", group-title="LIVE SPORT", Oct 23 - 1645 UEFA Europa League Lyon vs FC Basel 1893
+https://vod.starxcdn.xyz/vod/uk_bts8-1761237900-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.azencode.com/teams/541.png", group-title="LIVE SPORT", Oct 22 - 1900 UEFA Champions League Real Madrid vs Juventus
 https://vod.starxcdn.xyz/vod/uk_bts5-1761159600-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.azencode.com/teams/499.png", group-title="LIVE SPORT", Oct 22 - 1900 UEFA Champions League Atalanta vs Slavia Praha

@@ -2,8 +2,204 @@
     "name": "acdsport replay",
     "image": "https://acdsport.com/acd/social.jpg",
     "url": "https://dl.dropbox.com/scl/fi/2lk9rp530f3mh8sn095pu/acdsport_replay.json?rlkey=ikxvfvv3nljrwb9xervk3r9mp&st=6nqt04sc&dl=0",
-    "author": "update 23-10-2025 19:19:59",
+    "author": "update 24-10-2025 07:43:09",
     "stations": [
+        {
+            "name": "Oct 23 - 19:00 UEFA Europa League SC Freiburg vs Utrecht",
+            "image": "https://image.azencode.com/teams/160.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts9-1761246000-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Oct 23 - 19:00 UEFA Europa Conference League Shamrock Rovers vs Celje",
+            "image": "https://image.azencode.com/teams/652.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts5-1761246000-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Oct 23 - 19:00 UEFA Europa Conference League Universitatea Craiova vs Artsakh",
+            "image": "https://image.azencode.com/teams/632.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount10-1761246000-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Oct 23 - 19:00 UEFA Europa Conference League FSV Mainz 05 vs Zrinjski",
+            "image": "https://image.azencode.com/teams/164.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount8-1761246000-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Oct 23 - 19:00 UEFA Europa Conference League Crystal Palace vs AEK Larnaca",
+            "image": "https://image.azencode.com/teams/52.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts3-1761246000-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Oct 23 - 19:00 UEFA Europa League Maccabi Tel Aviv vs FC Midtjylland",
+            "image": "https://image.azencode.com/teams/604.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount7-1761246000-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Oct 23 - 19:00 UEFA Europa League BSC Young Boys vs Ludogorets",
+            "image": "https://image.azencode.com/teams/565.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount6-1761246000-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Oct 23 - 19:00 UEFA Europa League Celta Vigo vs Nice",
+            "image": "https://image.azencode.com/teams/538.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount5-1761246000-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Oct 23 - 19:00 UEFA Europa League AS Roma vs Plzen",
+            "image": "https://image.azencode.com/teams/497.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts6-1761246000-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Oct 23 - 19:00 UEFA Europa League Malmo FF vs Dinamo Zagreb",
+            "image": "https://image.azencode.com/teams/375.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount3-1761246000-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Oct 23 - 19:00 UEFA Europa League Celtic vs Sturm Graz",
+            "image": "https://image.azencode.com/teams/247.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts2-1761246000-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Oct 23 - 19:00 UEFA Europa League Lille vs PAOK",
+            "image": "https://image.azencode.com/teams/79.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount2-1761246000-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Oct 23 - 19:00 UEFA Europa League Nottingham Forest vs FC Porto",
+            "image": "https://image.azencode.com/teams/65.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts1-1761246000-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Oct 23 - 19:00 UEFA Europa League Feyenoord vs Panathinaikos",
+            "image": "https://image.azencode.com/teams/209.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount9-1761246000-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Oct 23 - 16:45 UEFA Europa Conference League AEK Athens FC vs Aberdeen",
+            "image": "https://image.azencode.com/teams/575.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts3-1761237900-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Oct 23 - 16:45 UEFA Europa Conference League AZ Alkmaar vs Slovan Bratislava",
+            "image": "https://image.azencode.com/teams/201.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount2-1761237900-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Oct 23 - 16:45 UEFA Europa Conference League Rapid Vienna vs Fiorentina",
+            "image": "https://image.azencode.com/teams/781.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts10-1761237900-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Oct 23 - 16:45 UEFA Europa Conference League Shkendija vs Shelbourne",
+            "image": "https://image.azencode.com/teams/609.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts5-1761237900-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Oct 23 - 16:45 UEFA Europa Conference League BK Hacken vs Rayo Vallecano",
+            "image": "https://image.azencode.com/upload/Football/BK Hacken.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount9-1761237900-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Oct 23 - 16:45 UEFA Europa Conference League Strasbourg vs Jagiellonia",
+            "image": "https://image.azencode.com/teams/95.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount8-1761237900-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Oct 23 - 16:45 UEFA Europa League Genk vs Real Betis",
+            "image": "https://image.azencode.com/upload/Football/Genk.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts6-1761237900-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Oct 23 - 16:45 UEFA Europa League Fenerbahce vs VfB Stuttgart",
+            "image": "https://image.azencode.com/teams/611.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts7-1761237900-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Oct 23 - 16:45 UEFA Europa League Red Bull Salzburg vs Ferencvarosi TC",
+            "image": "https://image.azencode.com/teams/571.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount6-1761237900-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Oct 23 - 16:45 UEFA Europa League FCSB vs Bologna",
+            "image": "https://image.azencode.com/teams/559.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts9-1761237900-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Oct 23 - 16:45 UEFA Europa League GO Ahead Eagles vs Aston Villa",
+            "image": "https://image.azencode.com/teams/410.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts1-1761237900-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Oct 23 - 16:45 UEFA Europa League Brann vs Rangers",
+            "image": "https://image.azencode.com/teams/319.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts2-1761237900-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Oct 23 - 16:45 UEFA Europa League SC Braga vs FK Crvena Zvezda",
+            "image": "https://image.azencode.com/teams/217.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount3-1761237900-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Oct 23 - 16:45 UEFA Europa League Lyon vs FC Basel 1893",
+            "image": "https://image.azencode.com/upload/Football/Lyon.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts8-1761237900-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
         {
             "name": "Oct 22 - 19:00 UEFA Champions League Real Madrid vs Juventus",
             "image": "https://image.azencode.com/teams/541.png",
