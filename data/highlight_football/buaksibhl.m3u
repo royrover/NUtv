@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://newbackend.buaksib.com/wp-content/uploads/2025/10/True_Bangkok_Vs_Lion_City_23_10_25.jpg", group-title="LIVE SPORT", ⚽ ทรู แบงค็อก ยูไนเต็ด พบ ไลออน ซิตี้ เซเลอร์ส 23.10.2025 ไฮไลท์ฟุตบอล
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.buaksib.com/
+https://bdphap.com/ssd1/th/True_Bangkok_Vs_Lion_City_23_10_25.mp4
 #EXTINF:-1 tvg-logo="https://newbackend.buaksib.com/wp-content/uploads/2025/10/Kaya_Vs_BG_23_10_25.jpg", group-title="LIVE SPORT", ⚽ คาย่า เอฟซี พบ บีจี ปทุม ยูไนเต็ด 23.10.2025 ไฮไลท์ฟุตบอล
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.buaksib.com/

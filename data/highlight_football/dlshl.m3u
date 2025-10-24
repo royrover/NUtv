@@ -1,4 +1,44 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://dooball.id/images/1o3mn1Pewr6ir5ntKqcUJOBXqBMkUl7maxresdefault.jpg", group-title="LIVE SPORT", ⚽  ไอน์ทรัค แฟร้งค์เฟิร์ต 1 - 5 ลิเวอร์พูล - ยูฟ่า แชมเปี้ยนส์ ลีก 2025/23.10.68
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dooball.id/
+https://worker.direct-stream.com:443/highlight/Eintracht Frankfurt 1-5 Liverpool.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dooball.id/images/J7FOEiYgePWpGxXjjNhl3MrjOR7DZBimaxresdefault_(4).jpg", group-title="LIVE SPORT", ⚽  เชลซี 5 - 1 อาแจ็กซ์ อัมสเตอร์ดัม - ยูฟ่า แชมเปี้ยนส์ ลีก 2025/23.10.68
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dooball.id/
+https://worker.direct-stream.com:443/highlight/Chelsea 5-1 Ajax.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dooball.id/images/laMduW5XHPvBZEcpLdbOlFu8bcxVYdqmaxresdefault_(1).jpg", group-title="LIVE SPORT", ⚽  บาเยิร์น มิวนิค 4 - 0 คลับบรูซ - ยูฟ่า แชมเปี้ยนส์ ลีก 2025/23.10.68
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dooball.id/
+https://worker.direct-stream.com:443/highlight/Bayern Munich 4-0 Club Brugge.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dooball.id/images/zdMhl5K9966RTpUtcL5Qa7CcAzwl5R0maxresdefault_(2).jpg", group-title="LIVE SPORT", ⚽  โมนาโก 0 - 0 ท็อตแน่ม ฮ็อตสเปอร์ส - ยูฟ่า แชมเปี้ยนส์ ลีก 2025/23.10.68
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dooball.id/
+https://worker.direct-stream.com:443/highlight/Monaco 0-0 Tottenham Hotspur.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dooball.id/images/8IlL9IgSaSDss2ElrSKUOu8fSJrDKSHmaxresdefault_(7).jpg", group-title="LIVE SPORT", ⚽  เชฟฟิลด์ เว้นส์เดย์ 0 - 1 มิดเดิ้ลสโบรห์ - เดอะแชมเปี้ยนส์ชิพ อังกฤษ 2025/23.10.68
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dooball.id/
+https://worker.direct-stream.com:443/highlight/Sheffield Wednesday 0-1 Middlesbrough.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dooball.id/images/SQaQQYuVZXdvytHfZtZPVqS4r1Xt88xmaxresdefault_(6).jpg", group-title="LIVE SPORT", ⚽  ริเซสปอร์ 0 - 0 อิสตันบูล บูยูคเซ็ค - ตุรกี ซุปเปอร์ลีก 2025/23.10.68
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dooball.id/
+https://worker.direct-stream.com:443/highlight/Rizespor 0 0 Basaksehir.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dooball.id/images/JiEjLimiE8jJJD6HVmV8sYgxTcl7sBMmaxresdefault_(5).jpg", group-title="LIVE SPORT", ⚽  คอนยาสปอร์ 0 - 2 เบซิคตัส - ตุรกี ซุปเปอร์ลีก 2025/23.10.68
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dooball.id/
+https://worker.direct-stream.com:443/highlight/Konyaspor 0 2 Besiktas.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dooball.id/images/2J2voKHzYLHjNW50lZjuQQN4K71yzaomaxresdefault.jpg", group-title="LIVE SPORT", ⚽  พอร์ทแลนด์ ทิมเบอร์ส 3 - 1 รีล ซอลต์ เลค - ยูเอสเอ เมเจอร์ลีก ซอคเกอร์ 2025/23.10.68
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dooball.id/
+https://worker.direct-stream.com:443/highlight/Portland Timbers 3-1 Real Salt Lake.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dooball.id/images/Je2h70Xkup0zrWujIrlbXhuKYupRZQFmaxresdefault_(9).jpg", group-title="LIVE SPORT", ⚽  ชิคาโก้ ไฟร์ 3 - 1 ออร์แลนโด้ ซิตี้ - ยูเอสเอ เมเจอร์ลีก ซอคเกอร์ 2025/23.10.68
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dooball.id/
+https://worker.direct-stream.com:443/highlight/Chicago Fire 3-1 Orlando City.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dooball.id/images/t12OnpL2XCp2bn563VL7GitJGxbe0jUmaxresdefault_(3).jpg", group-title="LIVE SPORT", ⚽  เรอัล มาดริด 1 - 0 ยูเวนตุส - ยูฟ่า แชมเปี้ยนส์ ลีก 2025/23.10.68
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dooball.id/
+https://worker.direct-stream.com:443/highlight/Real Madrid 1-0 Juventus.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dooball.id/images/jjU0ziP8XEKsTYuFOSR7SWMaQHFucFqmaxresdefault.jpg", group-title="LIVE SPORT", ⚽  บาร์เซโลน่า 6 - 1 โอลิมเปียกอส - ยูฟ่า แชมเปี้ยนส์ ลีก 2025/22.10.68
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dooball.id/
