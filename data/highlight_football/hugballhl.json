@@ -2,8 +2,32 @@
     "name": "Hugball Highlights",
     "image": "https://www.hugball.net/images/logo.png",
     "url": "",
-    "author": "update 24-10-2025 19:59:47",
+    "author": "update 25-10-2025 09:02:17",
     "stations": [
+        {
+            "name": "⚽ ไฮไลท์ แวร์เดอร์ เบรเมน 1-0 ยูเนี่ยน เบอร์ลิน",
+            "image": "https://image.hugball.net/Pic/Video/m55707_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/10-2025/WerderBremen10UnionBerlin.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ เรอัล โซเซียดาด 2-1 เซบีย่า",
+            "image": "https://image.hugball.net/Pic/Video/m55706_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/10-2025/RealSociedad21Sevilla.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ เอซี มิลาน 2-2 ปิซ่า",
+            "image": "https://image.hugball.net/Pic/Video/m55705_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/10-2025/ACMilan22Pisa.mp4",
+            "referer": "https://www.hugball.net/"
+        },
+        {
+            "name": "⚽ ไฮไลท์ ลีดส์ ยูไนเต็ด vs เวสต์แฮม ยูไนเต็ด",
+            "image": "https://image.hugball.net/Pic/Video/m55704_1.jpg",
+            "url": "https://hugball2.b-cdn.net/hilight/10-2025/Leeds21WestHam.mp4",
+            "referer": "https://www.hugball.net/"
+        },
         {
             "name": "⚽ ไฮไลท์ คริสตัล พาเลซ 0-1 เออีเค ลาร์นาคา",
             "image": "https://image.hugball.net/Pic/Video/m55703_1.jpg",

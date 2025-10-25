@@ -2,8 +2,128 @@
     "name": "highlights - dooball_id",
     "image": "https://dooball.id/images/logo/rBdVFRtw3Qf9WtZz9P6yfNaZXEUywKGlogo_2.png",
     "url": "",
-    "author": "update 24-10-2025 19:59:45",
+    "author": "update 25-10-2025 09:01:43",
     "stations": [
+        {
+            "name": "⚽  โก อเฮด อีเกิ้ลส์ 2 - 1 แอสตัน วิลล่า - ยูฟ่า ยูโรป้า ลีก 2025/24.10.68",
+            "image": "https://dooball.id/images/eJeDjrchFiytpTRFVMVsMpA5m2Jbowkmaxresdefault_(5).jpg",
+            "url": "https://worker.direct-stream.com:443/highlight/โก อเฮด อีเกิ้ลส์ 2-1 แอสตัน วิลล่า.mp4/playlist.m3u8",
+            "referer": "https://dooball.id/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "⚽  ราซิ่ง เกงค์ 0 - 0 เรอัล เบติส - ยูฟ่า ยูโรป้า ลีก 2025/24.10.68",
+            "image": "https://dooball.id/images/ZVXLsyfPpCIht2tY9CKiAHFntQ1KrEpmaxresdefault_(4).jpg",
+            "url": "https://worker.direct-stream.com:443/highlight/เกงค์ 0-0 เรอัล เบติส.mp4/playlist.m3u8",
+            "referer": "https://dooball.id/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "⚽  เอ็กเซเตอร์ ซิตี้ 2 - 0 พลีมัธ อาร์ไกล์ - ลีกวัน อังกฤษ 2025/24.10.68",
+            "image": "https://dooball.id/images/ajrkMslTfwqhHvnYQqAjaWtmXa1J9Yemaxresdefault_(21).jpg",
+            "url": "https://worker.direct-stream.com:443/highlight/Exeter City 2-0 Plymouth Argyle.mp4/playlist.m3u8",
+            "referer": "https://dooball.id/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "⚽  อัล ริยาด 1 - 0 อัล คูลูด - ซาอุดีอาระเบีย โปรเฟสชั่นแนล ลีก 2025/24.10.68",
+            "image": "https://dooball.id/images/wl6VsCv7a7aSci8lhj0hRwwWwI2Frn6maxresdefault_(16).jpg",
+            "url": "https://worker.direct-stream.com:443/highlight/อัล ริยาด 1-0 อัล คูลูด.mp4/playlist.m3u8",
+            "referer": "https://dooball.id/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "⚽  อัล นาจม่า 0 - 1 อัล อาห์ลี - ซาอุดีอาระเบีย โปรเฟสชั่นแนล ลีก 2025/24.10.68",
+            "image": "https://dooball.id/images/PQsJNDlph6I8rhSDUsQfzQ3wbY4oxHemaxresdefault_(18).jpg",
+            "url": "https://worker.direct-stream.com:443/highlight/อัล นาจม่า 0-1 อัล อาห์ลี.mp4/playlist.m3u8",
+            "referer": "https://dooball.id/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "⚽  อัล ไฟฮา 1 - 2 อัล ทาวอน - ซาอุดีอาระเบีย โปรเฟสชั่นแนล ลีก 2025/24.10.68",
+            "image": "https://dooball.id/images/GR0RToBu5hjzJMffpeuZoHoy1RffhT9maxresdefault_(17).jpg",
+            "url": "https://worker.direct-stream.com:443/highlight/อัล ไฟฮา 1-2 อัล ทาวอน.mp4/playlist.m3u8",
+            "referer": "https://dooball.id/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "⚽  เฟเนร์บาห์เช่ 1 - 0 สตุ๊ตการ์ต - ยูฟ่า ยูโรป้า ลีก 2025/24.10.68",
+            "image": "https://dooball.id/images/PDZPxjwtg4aaUya98MApuG7OMrQ3cOKmaxresdefault_(1).jpg",
+            "url": "https://worker.direct-stream.com:443/highlight/เฟเนร์บาห์เช่ 1-0 สตุ๊ตการ์ท.mp4/playlist.m3u8",
+            "referer": "https://dooball.id/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "⚽  เอสเค บรานน์ 3 - 0 กลาสโกว์ เรนเจอร์ส - ยูฟ่า ยูโรป้า ลีก 2025/24.10.68",
+            "image": "https://dooball.id/images/t7NWGbQMVAtMRumcNq7PdARcrWN1Oq2maxresdefault_(13).jpg",
+            "url": "https://worker.direct-stream.com:443/highlight/บรานน์ 3-0 เรนเจอร์ส.mp4/playlist.m3u8",
+            "referer": "https://dooball.id/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "⚽  โอลิมปิก ลียง 2 - 0 บาเซิ่ล - ยูฟ่า ยูโรป้า ลีก 2025/24.10.68",
+            "image": "https://dooball.id/images/I6gv77qGPEwWtjq540B7ACjCf6VgZ9Xmaxresdefault_(6).jpg",
+            "url": "https://worker.direct-stream.com:443/highlight/ลียง 2-0 บาเซิ่ล.mp4/playlist.m3u8",
+            "referer": "https://dooball.id/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "⚽  สปอร์ติ้ง บราก้า 2 - 0 เซอร์เวน่า ซเวซด้า - ยูฟ่า ยูโรป้า ลีก 2025/24.10.68",
+            "image": "https://dooball.id/images/IMgt263cwmxDtKoZJpWcVwjrZFPlpGKmaxresdefault_(7).jpg",
+            "url": "https://worker.direct-stream.com:443/highlight/สปอร์ติ้ง บราก้า 2-0 เรด สตาร์ เบลเกรด.mp4/playlist.m3u8",
+            "referer": "https://dooball.id/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "⚽  น็อตติ้งแฮม ฟอเรสต์ 2 - 0 เอฟซี ปอร์โต้ - ยูฟ่า ยูโรป้า ลีก 2025/24.10.68",
+            "image": "https://dooball.id/images/Lg7mRzMZ1t4Fpct0K4urFeWaq49YRNtmaxresdefault.jpg",
+            "url": "https://worker.direct-stream.com:443/highlight/น็อตติ้งแฮม ฟอเรสต์ 2-0 ปอร์โต้.mp4/playlist.m3u8",
+            "referer": "https://dooball.id/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "⚽  เบลกราโน่ 1 - 2 อาร์เจนติโนส จูเนียร์ส - โคปา อาร์เจนติน่า คัพ 2025/24.10.68",
+            "image": "https://dooball.id/images/4OrB7byfU4tTlkj1fxTsTLA2HykMzM8maxresdefault.jpg",
+            "url": "https://worker.direct-stream.com:443/highlight/Belgrano 1-2 Argentinos Juniors.mp4/playlist.m3u8",
+            "referer": "https://dooball.id/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "⚽  แอลดียู ควิโต 3 - 0 พัลไมรัส - โคปา ลิเบอร์ตาดอเรส 2025/24.10.68",
+            "image": "https://dooball.id/images/aMWCjy2ZUFSB7aB3DKaUNUAvYjW2z0Tmaxresdefault_(1).jpg",
+            "url": "https://worker.direct-stream.com:443/highlight/LDU QUITO 3-0 PALMEIRAS.mp4/playlist.m3u8",
+            "referer": "https://dooball.id/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "⚽  บัลติก้า 1 - 2 โลโคโมทีฟ มอสโก - รัสเซีย คัพ 2025/24.10.68",
+            "image": "https://dooball.id/images/VwR0lTBi4egGThElFPZEOrUnO2ADZeTmaxresdefault_(20).jpg",
+            "url": "https://worker.direct-stream.com:443/highlight/บัลติก้า 1 - 2 โลโคโมทีฟ มอสโก.mp4/playlist.m3u8",
+            "referer": "https://dooball.id/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "⚽  คราซ์โนดาร์ 3 - 0 พีเอฟซี โซชิ - รัสเซีย คัพ 2025/24.10.68",
+            "image": "https://dooball.id/images/ksXJ9jfaNo0puqMwRenO68V6sBlGVoQmaxresdefault_(19).jpg",
+            "url": "https://worker.direct-stream.com:443/highlight/คราซ์โนดาร์ 3 - 0 พีเอฟซี โซชิ.mp4/playlist.m3u8",
+            "referer": "https://dooball.id/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+            "playInNatPlayer": "true"
+        },
         {
             "name": "⚽  ไอน์ทรัค แฟร้งค์เฟิร์ต 1 - 5 ลิเวอร์พูล - ยูฟ่า แชมเปี้ยนส์ ลีก 2025/23.10.68",
             "image": "https://dooball.id/images/1o3mn1Pewr6ir5ntKqcUJOBXqBMkUl7maxresdefault.jpg",
