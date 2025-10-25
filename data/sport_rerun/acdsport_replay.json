@@ -2,8 +2,43 @@
     "name": "acdsport replay",
     "image": "https://acdsport.com/acd/social.jpg",
     "url": "https://dl.dropbox.com/scl/fi/2lk9rp530f3mh8sn095pu/acdsport_replay.json?rlkey=ikxvfvv3nljrwb9xervk3r9mp&st=6nqt04sc&dl=0",
-    "author": "update 24-10-2025 19:19:54",
+    "author": "update 25-10-2025 07:44:59",
     "stations": [
+        {
+            "name": "Oct 24 - 19:00 La Liga Real Sociedad vs Sevilla",
+            "image": "https://image.azencode.com/teams/548.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn1-1761332400-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Oct 24 - 19:00 Premier League Leeds vs West Ham",
+            "image": "https://image.azencode.com/teams/63.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_ssepl-1761332400-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Oct 24 - 18:45 Serie A AC Milan vs Pisa",
+            "image": "https://image.azencode.com/teams/489.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount1-1761331500-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Oct 24 - 18:45 Ligue 1 Paris FC vs Nantes",
+            "image": "https://image.azencode.com/teams/114.png",
+            "url": "https://vod.starxcdn.xyz/vod/live01-1761331500-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Oct 24 - 18:30 Bundesliga Werder Bremen vs Union Berlin",
+            "image": "https://image.azencode.com/teams/162.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn0-1761330600-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
         {
             "name": "Oct 23 - 19:00 UEFA Europa League SC Freiburg vs Utrecht",
             "image": "https://image.azencode.com/teams/160.png",

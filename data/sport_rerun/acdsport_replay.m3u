@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/548.png", group-title="LIVE SPORT", Oct 24 - 1900 La Liga Real Sociedad vs Sevilla
+https://vod.starxcdn.xyz/vod/espn1-1761332400-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/63.png", group-title="LIVE SPORT", Oct 24 - 1900 Premier League Leeds vs West Ham
+https://vod.starxcdn.xyz/vod/uk_ssepl-1761332400-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/489.png", group-title="LIVE SPORT", Oct 24 - 1845 Serie A AC Milan vs Pisa
+https://vod.starxcdn.xyz/vod/paramount1-1761331500-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/114.png", group-title="LIVE SPORT", Oct 24 - 1845 Ligue 1 Paris FC vs Nantes
+https://vod.starxcdn.xyz/vod/live01-1761331500-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/162.png", group-title="LIVE SPORT", Oct 24 - 1830 Bundesliga Werder Bremen vs Union Berlin
+https://vod.starxcdn.xyz/vod/espn0-1761330600-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.azencode.com/teams/160.png", group-title="LIVE SPORT", Oct 23 - 1900 UEFA Europa League SC Freiburg vs Utrecht
 https://vod.starxcdn.xyz/vod/uk_bts9-1761246000-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.azencode.com/teams/652.png", group-title="LIVE SPORT", Oct 23 - 1900 UEFA Europa Conference League Shamrock Rovers vs Celje
