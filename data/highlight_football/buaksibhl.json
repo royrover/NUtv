@@ -2,8 +2,44 @@
     "name": "highlights football buaksib",
     "image": "https://www.buaksib.com/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Flogo-summer.5abd78a6.png&w=256&q=75",
     "url": "",
-    "author": "update 26-10-2025 19:52:47",
+    "author": "update 27-10-2025 09:20:29",
     "stations": [
+        {
+            "name": "⚽ สุโขทัย เอฟซี พบ บีจี ปทุม ยูไนเต็ด 26.10.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/10/Sukhothai_FC_Vs_BG_Pathum_United_26_10_2025.jpg",
+            "url": "https://bdphap.com/ssd1/th/Sukhothai_FC_Vs_BG_Pathum_26_10_2025.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ อาร์เซน่อล พบ คริสตัล พาเลซ 26.10.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/10/Arsenal_Vs_Palace_26_10_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Arsenal_Vs_Palace_26_10_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ ทรู แบงค็อก ยูไนเต็ด พบ ลําพูน วอริเออร์ 26.10.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/10/True_Bangkok_Vs_Lamphun_26_10_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/True_Bangkok_Vs_Lamphun_26_10_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ อุทัยธานี เอฟซี พบ ราชบุรี เอฟซี 26.10.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/10/Uthai_Vs_Ratchaburi_26_10_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Uthai_Vs_Ratchaburi_26_10_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ แอสตัน วิลล่า พบ แมนเชสเตอร์ ซิตี้ 26.10.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/10/Villa_Vs_Man_City_26_10_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Villa_Vs_Man_City_26_10_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ บุรีรัมย์ ยูไนเต็ด พบ ระยอง เอฟซี 26.10.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/10/Buriram_United_Vs_Rayong_FC_26_10_2025.jpg",
+            "url": "https://bdphap.com/ssd1/th/Buriram_United_Vs_Rayong_FC_26_10_2025.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
         {
             "name": "⚽ เบรนท์ฟอร์ด พบ ลิเวอร์พูล 25.10.2025 ไฮไลท์ฟุตบอล",
             "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/10/Brentford_Vs_Liverpool_25_10_25.jpg",
