@@ -1,4 +1,52 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://image.hugball.net/Pic/Video/m55761_1.jpg", group-title="LIVE SPORT", ⚽ ไฮไลท์ โวล์ฟสบวร์ก 0-1 โฮลสไตน์ คีล
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.hugball.net/
+https://hugball2.b-cdn.net/hilight/10-2025/Wolfsburg01HolsteinKiel.mp4
+#EXTINF:-1 tvg-logo="https://image.hugball.net/Pic/Video/m55760_1.jpg", group-title="LIVE SPORT", ⚽ ไฮไลท์ มึนเช่นกลัดบัค 3-1 คาร์ลสรูห์
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.hugball.net/
+https://hugball2.b-cdn.net/hilight/10-2025/Mgladbach31KarlsruherSC.mp4
+#EXTINF:-1 tvg-logo="https://image.hugball.net/Pic/Video/m55759_1.jpg", group-title="LIVE SPORT", ⚽ ไฮไลท์ แฮร์ธ่า เบอร์ลิน 3-0 เอลเวอร์เบริ์ก
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.hugball.net/
+https://hugball2.b-cdn.net/hilight/10-2025/HerthaBerlin30Elversberg.mp4
+#EXTINF:-1 tvg-logo="https://image.hugball.net/Pic/Video/m55758_1.jpg", group-title="LIVE SPORT", ⚽ ไฮไลท์ ไฮน์เดนเฮลม์ 0-1 ฮัมบูร์ก
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.hugball.net/
+https://hugball2.b-cdn.net/hilight/10-2025/Heidenheim01HamburgerSV.mp4
+#EXTINF:-1 tvg-logo="https://image.hugball.net/Pic/Video/m55757_1.jpg", group-title="LIVE SPORT", ⚽ ไฮไลท์ เอเนอร์กี้ ค็อตบุส 1-4 RB ไลป์ซิก
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.hugball.net/
+https://hugball2.b-cdn.net/hilight/10-2025/EnergieCottbus14RBLeipzig.mp4
+#EXTINF:-1 tvg-logo="https://image.hugball.net/Pic/Video/m55756_1.jpg", group-title="LIVE SPORT", ⚽ ไฮไลท์ เอาก์สบวร์ก 0-1 โบคุ่ม
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.hugball.net/
+https://hugball2.b-cdn.net/hilight/10-2025/Augsburg01VfLBochum.mp4
+#EXTINF:-1 tvg-logo="https://image.hugball.net/Pic/Video/m55755_1.jpg", group-title="LIVE SPORT", ⚽ ไฮไลท์ ไอน์ทรัค แฟร้งค์เฟิร์ต 1-1 ดอร์ทมุนด์
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.hugball.net/
+https://hugball2.b-cdn.net/hilight/10-2025/EintrachtFrankfurt11Dortmund.mp4
+#EXTINF:-1 tvg-logo="https://image.hugball.net/Pic/Video/m55754_1.jpg", group-title="LIVE SPORT", ⚽ ไฮไลท์ วีคอมบ์ วันเดอเรอส์ 1-1 ฟูแล่ม
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.hugball.net/
+https://hugball2.b-cdn.net/hilight/10-2025/WycombeWanderers11Fulham.mp4
+#EXTINF:-1 tvg-logo="https://image.hugball.net/Pic/Video/m55753_1.jpg", group-title="LIVE SPORT", ⚽ ไฮไลท์ เร็กซ์แฮม 1-2 คาร์ดิฟฟ์ ซิตี้
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.hugball.net/
+https://hugball2.b-cdn.net/hilight/10-2025/Wrexham12CardiffCity.mp4
+#EXTINF:-1 tvg-logo="https://image.hugball.net/Pic/Video/m55752_1.jpg", group-title="LIVE SPORT", ⚽ ไฮไลท์ กริมสบี้ ทาวน์ 0-5 เบรนท์ฟอร์ด
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.hugball.net/
+https://hugball2.b-cdn.net/hilight/10-2025/Grimsby05Brentford.mp4
+#EXTINF:-1 tvg-logo="https://image.hugball.net/Pic/Video/m55751_1.jpg", group-title="LIVE SPORT", ⚽ ไฮไลท์ อตาลันต้า 1-1 เอซี มิลาน
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.hugball.net/
+https://hugball2.b-cdn.net/hilight/10-2025/Atalanta11ACMilan.mp4
+#EXTINF:-1 tvg-logo="https://image.hugball.net/Pic/Video/m55750_1.jpg", group-title="LIVE SPORT", ⚽ ไฮไลท์ เลชเช่ 0-1 นาโปลี
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.hugball.net/
+https://hugball2.b-cdn.net/hilight/10-2025/Lecce01Napoli.mp4
 #EXTINF:-1 tvg-logo="https://image.hugball.net/Pic/Video/m55749_1.jpg", group-title="LIVE SPORT", ⚽ ไฮไลท์ กาเซียนเท็ป บี.บี. 0-4 เฟเนร์บาห์เช่
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.hugball.net/
