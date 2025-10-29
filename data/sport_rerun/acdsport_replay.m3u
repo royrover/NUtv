@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/499.png", group-title="LIVE SPORT", Oct 28 - 1945 Serie A Atalanta vs AC Milan
+https://vod.starxcdn.xyz/vod/uk_bts1-1761680700-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/867.png", group-title="LIVE SPORT", Oct 28 - 1730 Serie A Lecce vs Napoli
+https://vod.starxcdn.xyz/vod/uk_bts1-1761672600-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.azencode.com/teams/543.png", group-title="LIVE SPORT", Oct 27 - 2000 La Liga Real Betis vs Atletico Madrid
 https://vod.starxcdn.xyz/vod/uk_premiersports1-1761595200-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.azencode.com/teams/728.png", group-title="LIVE SPORT", Oct 26 - 2000 La Liga Rayo Vallecano vs Alaves

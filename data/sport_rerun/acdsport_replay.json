@@ -2,8 +2,22 @@
     "name": "acdsport replay",
     "image": "https://acdsport.com/acd/social.jpg",
     "url": "https://dl.dropbox.com/scl/fi/2lk9rp530f3mh8sn095pu/acdsport_replay.json?rlkey=ikxvfvv3nljrwb9xervk3r9mp&st=6nqt04sc&dl=0",
-    "author": "update 28-10-2025 19:19:26",
+    "author": "update 29-10-2025 07:50:02",
     "stations": [
+        {
+            "name": "Oct 28 - 19:45 Serie A Atalanta vs AC Milan",
+            "image": "https://image.azencode.com/teams/499.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts1-1761680700-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Oct 28 - 17:30 Serie A Lecce vs Napoli",
+            "image": "https://image.azencode.com/teams/867.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts1-1761672600-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
         {
             "name": "Oct 27 - 20:00 La Liga Real Betis vs Atletico Madrid",
             "image": "https://image.azencode.com/teams/543.png",
