@@ -1,4 +1,32 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/114.png", group-title="LIVE SPORT", Oct 29 - 2005 Ligue 1 Paris FC vs Lyon
+https://vod.starxcdn.xyz/vod/pt_sporttv4-1761768300-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/96.png", group-title="LIVE SPORT", Oct 29 - 2005 Ligue 1 Toulouse vs Rennes
+https://vod.starxcdn.xyz/vod/live07-1761768300-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/95.png", group-title="LIVE SPORT", Oct 29 - 2005 Ligue 1 Strasbourg vs Auxerre
+https://vod.starxcdn.xyz/vod/live06-1761768300-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/81.png", group-title="LIVE SPORT", Oct 29 - 2005 Ligue 1 Marseille vs Angers
+https://vod.starxcdn.xyz/vod/live05-1761768300-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/505.png", group-title="LIVE SPORT", Oct 29 - 1945 Serie A Inter vs Fiorentina
+https://vod.starxcdn.xyz/vod/paramount6-1761767100-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/500.png", group-title="LIVE SPORT", Oct 29 - 1945 Serie A Bologna vs Torino
+https://vod.starxcdn.xyz/vod/paramount5-1761767100-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/495.png", group-title="LIVE SPORT", Oct 29 - 1945 Serie A Genoa vs Cremonese
+https://vod.starxcdn.xyz/vod/paramount4-1761767100-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/upload/Football/Metz.png", group-title="LIVE SPORT", Oct 29 - 1800 Ligue 1 Metz vs Lens
+https://vod.starxcdn.xyz/vod/live04-1761760800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/upload/Football/LE Havre.png", group-title="LIVE SPORT", Oct 29 - 1800 Ligue 1 LE Havre vs Stade Brestois 29
+https://vod.starxcdn.xyz/vod/live03-1761760800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/97.png", group-title="LIVE SPORT", Oct 29 - 1800 Ligue 1 Lorient vs Paris Saint Germain
+https://vod.starxcdn.xyz/vod/live02-1761760800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/upload/Football/OGC Nice.png", group-title="LIVE SPORT", Oct 29 - 1800 Ligue 1 Nice vs Lille
+https://vod.starxcdn.xyz/vod/live01-1761760800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/895.png", group-title="LIVE SPORT", Oct 29 - 1730 Serie A Como vs Verona
+https://vod.starxcdn.xyz/vod/paramount3-1761759000-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/497.png", group-title="LIVE SPORT", Oct 29 - 1730 Serie A AS Roma vs Parma
+https://vod.starxcdn.xyz/vod/paramount2-1761759000-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/496.png", group-title="LIVE SPORT", Oct 29 - 1730 Serie A Juventus vs Udinese
+https://vod.starxcdn.xyz/vod/paramount1-1761759000-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.azencode.com/teams/499.png", group-title="LIVE SPORT", Oct 28 - 1945 Serie A Atalanta vs AC Milan
 https://vod.starxcdn.xyz/vod/uk_bts1-1761680700-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.azencode.com/teams/867.png", group-title="LIVE SPORT", Oct 28 - 1730 Serie A Lecce vs Napoli
