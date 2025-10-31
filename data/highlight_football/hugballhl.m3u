@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://image.hugball.net/Pic/Video/m55782_1.jpg", group-title="LIVE SPORT", ⚽ ไฮไลท์ ปิซ่า 0-0 ลาซิโอ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.hugball.net/
+https://hugball2.b-cdn.net/hilight/10-2025/PisaLazio.mp4
+#EXTINF:-1 tvg-logo="https://image.hugball.net/Pic/Video/m55781_1.jpg", group-title="LIVE SPORT", ⚽ ไฮไลท์ กายารี่ 1-2 ซัสเซาโล่
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.hugball.net/
+https://hugball2.b-cdn.net/hilight/10-2025/CagliariSassuolo.mp4
 #EXTINF:-1 tvg-logo="https://image.hugball.net/Pic/Video/m55780_1.jpg", group-title="LIVE SPORT", ⚽ ไฮไลท์ ลอริยองต์ 1-1 ปารีส แซงต์ แชร์กแมง
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.hugball.net/
