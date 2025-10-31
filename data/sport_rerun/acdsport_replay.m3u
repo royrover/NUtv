@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/801.png", group-title="LIVE SPORT", Oct 30 - 1945 Serie A Pisa vs Lazio
+https://vod.starxcdn.xyz/vod/paramount2-1761853500-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/490.png", group-title="LIVE SPORT", Oct 30 - 1730 Serie A Cagliari vs Sassuolo
+https://vod.starxcdn.xyz/vod/paramount1-1761845400-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.azencode.com/teams/114.png", group-title="LIVE SPORT", Oct 29 - 2005 Ligue 1 Paris FC vs Lyon
 https://vod.starxcdn.xyz/vod/pt_sporttv4-1761768300-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.azencode.com/teams/96.png", group-title="LIVE SPORT", Oct 29 - 2005 Ligue 1 Toulouse vs Rennes
