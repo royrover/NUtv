@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/546.png", group-title="LIVE SPORT", Oct 31 - 2000 La Liga Getafe vs Girona
+https://vod.starxcdn.xyz/vod/espn1-1761940800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/1359.png", group-title="LIVE SPORT", Oct 31 - 1930 FA Cup Luton vs Forest Green
+https://vod.starxcdn.xyz/vod/uk_bts1-1761939000-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/170.png", group-title="LIVE SPORT", Oct 31 - 1930 Bundesliga FC Augsburg vs Borussia Dortmund
+https://vod.starxcdn.xyz/vod/espn0-1761939000-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.azencode.com/teams/801.png", group-title="LIVE SPORT", Oct 30 - 1945 Serie A Pisa vs Lazio
 https://vod.starxcdn.xyz/vod/paramount2-1761853500-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.azencode.com/teams/490.png", group-title="LIVE SPORT", Oct 30 - 1730 Serie A Cagliari vs Sassuolo

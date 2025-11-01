@@ -2,8 +2,29 @@
     "name": "acdsport replay",
     "image": "https://acdsport.com/acd/social.jpg",
     "url": "https://dl.dropbox.com/scl/fi/2lk9rp530f3mh8sn095pu/acdsport_replay.json?rlkey=ikxvfvv3nljrwb9xervk3r9mp&st=6nqt04sc&dl=0",
-    "author": "update 31-10-2025 19:20:16",
+    "author": "update 01-11-2025 07:51:41",
     "stations": [
+        {
+            "name": "Oct 31 - 20:00 La Liga Getafe vs Girona",
+            "image": "https://image.azencode.com/teams/546.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn1-1761940800-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Oct 31 - 19:30 FA Cup Luton vs Forest Green",
+            "image": "https://image.azencode.com/teams/1359.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts1-1761939000-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Oct 31 - 19:30 Bundesliga FC Augsburg vs Borussia Dortmund",
+            "image": "https://image.azencode.com/teams/170.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn0-1761939000-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
         {
             "name": "Oct 30 - 19:45 Serie A Pisa vs Lazio",
             "image": "https://image.azencode.com/teams/801.png",
