@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://image.hugball.net/Pic/Video/m55784_1.jpg", group-title="LIVE SPORT", ⚽ ไฮไลท์ เคตาเฟ่ 2-1 คิโรน่า
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.hugball.net/
+https://hugball2.b-cdn.net/hilight/10-2025/Getafe21Girona.mp4
+#EXTINF:-1 tvg-logo="https://image.hugball.net/Pic/Video/m55783_1.jpg", group-title="LIVE SPORT", ⚽ ไฮไลท์ เอาก์สบวร์ก 0-1 ดอร์ทมุนด์
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.hugball.net/
+https://hugball2.b-cdn.net/hilight/10-2025/Augsburg01BorussiaDortmund.mp4
 #EXTINF:-1 tvg-logo="https://image.hugball.net/Pic/Video/m55782_1.jpg", group-title="LIVE SPORT", ⚽ ไฮไลท์ ปิซ่า 0-0 ลาซิโอ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.hugball.net/
