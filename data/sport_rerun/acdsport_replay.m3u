@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/718.png", group-title="LIVE SPORT", Nov 03 - 2000 La Liga Oviedo vs Osasuna
+https://vod.starxcdn.xyz/vod/espn0-1762200000-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/746.png", group-title="LIVE SPORT", Nov 03 - 2000 Premier League Sunderland vs Everton
+https://vod.starxcdn.xyz/vod/uk_ssepl-1762200000-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/487.png", group-title="LIVE SPORT", Nov 03 - 1945 Serie A Lazio vs Cagliari
+https://vod.starxcdn.xyz/vod/paramount2-1762199100-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/7752.png", group-title="LIVE SPORT", Nov 03 - 1930 FA Cup Tamworth vs Leyton Orient
+https://vod.starxcdn.xyz/vod/uk_bts1-1762198200-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/488.png", group-title="LIVE SPORT", Nov 03 - 1730 Serie A Sassuolo vs Genoa
+https://vod.starxcdn.xyz/vod/paramount1-1762191000-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.azencode.com/teams/543.png", group-title="LIVE SPORT", Nov 02 - 2000 La Liga Real Betis vs Mallorca
 https://vod.starxcdn.xyz/vod/espn5-1762113600-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.azencode.com/teams/489.png", group-title="LIVE SPORT", Nov 02 - 1945 Serie A AC Milan vs AS Roma
