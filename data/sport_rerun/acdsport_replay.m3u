@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/553.png", group-title="LIVE SPORT", Nov 04 - 2000 UEFA Champions League Olympiakos Piraeus vs PSV Eindhoven
+https://vod.starxcdn.xyz/vod/uk_bts6-1762286400-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/530.png", group-title="LIVE SPORT", Nov 04 - 2000 UEFA Champions League Atletico Madrid vs Union St. Gilloise
+https://vod.starxcdn.xyz/vod/uk_bts5-1762286400-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/496.png", group-title="LIVE SPORT", Nov 04 - 2000 UEFA Champions League Juventus vs Sporting CP
+https://vod.starxcdn.xyz/vod/uk_bts4-1762286400-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/327.png", group-title="LIVE SPORT", Nov 04 - 2000 UEFA Champions League Bodo/Glimt vs Monaco
+https://vod.starxcdn.xyz/vod/uk_bts7-1762286400-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/85.png", group-title="LIVE SPORT", Nov 04 - 2000 UEFA Champions League Paris Saint Germain vs Bayern Munich
+https://vod.starxcdn.xyz/vod/uk_bts2-1762286400-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/47.png", group-title="LIVE SPORT", Nov 04 - 2000 UEFA Champions League Tottenham vs FC Copenhagen
+https://vod.starxcdn.xyz/vod/uk_bts1-1762286400-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/40.png", group-title="LIVE SPORT", Nov 04 - 2000 UEFA Champions League Liverpool vs Real Madrid
+https://vod.starxcdn.xyz/vod/uk_premiersports1-1762286400-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/560.png", group-title="LIVE SPORT", Nov 04 - 1745 UEFA Champions League Slavia Praha vs Arsenal
+https://vod.starxcdn.xyz/vod/uk_bts1-1762278300-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/492.png", group-title="LIVE SPORT", Nov 04 - 1745 UEFA Champions League Napoli vs Eintracht Frankfurt
+https://vod.starxcdn.xyz/vod/uk_bts2-1762278300-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.azencode.com/teams/718.png", group-title="LIVE SPORT", Nov 03 - 2000 La Liga Oviedo vs Osasuna
 https://vod.starxcdn.xyz/vod/espn0-1762200000-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.azencode.com/teams/746.png", group-title="LIVE SPORT", Nov 03 - 2000 Premier League Sunderland vs Everton

@@ -2,8 +2,71 @@
     "name": "acdsport replay",
     "image": "https://acdsport.com/acd/social.jpg",
     "url": "https://dl.dropbox.com/scl/fi/2lk9rp530f3mh8sn095pu/acdsport_replay.json?rlkey=ikxvfvv3nljrwb9xervk3r9mp&st=6nqt04sc&dl=0",
-    "author": "update 04-11-2025 19:21:21",
+    "author": "update 05-11-2025 07:50:21",
     "stations": [
+        {
+            "name": "Nov 04 - 20:00 UEFA Champions League Olympiakos Piraeus vs PSV Eindhoven",
+            "image": "https://image.azencode.com/teams/553.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts6-1762286400-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 04 - 20:00 UEFA Champions League Atletico Madrid vs Union St. Gilloise",
+            "image": "https://image.azencode.com/teams/530.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts5-1762286400-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 04 - 20:00 UEFA Champions League Juventus vs Sporting CP",
+            "image": "https://image.azencode.com/teams/496.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts4-1762286400-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 04 - 20:00 UEFA Champions League Bodo/Glimt vs Monaco",
+            "image": "https://image.azencode.com/teams/327.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts7-1762286400-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 04 - 20:00 UEFA Champions League Paris Saint Germain vs Bayern Munich",
+            "image": "https://image.azencode.com/teams/85.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts2-1762286400-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 04 - 20:00 UEFA Champions League Tottenham vs FC Copenhagen",
+            "image": "https://image.azencode.com/teams/47.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts1-1762286400-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 04 - 20:00 UEFA Champions League Liverpool vs Real Madrid",
+            "image": "https://image.azencode.com/teams/40.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_premiersports1-1762286400-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 04 - 17:45 UEFA Champions League Slavia Praha vs Arsenal",
+            "image": "https://image.azencode.com/teams/560.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts1-1762278300-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 04 - 17:45 UEFA Champions League Napoli vs Eintracht Frankfurt",
+            "image": "https://image.azencode.com/teams/492.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts2-1762278300-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
         {
             "name": "Nov 03 - 20:00 La Liga Oviedo vs Osasuna",
             "image": "https://image.azencode.com/teams/718.png",
