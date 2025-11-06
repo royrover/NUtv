@@ -2,8 +2,71 @@
     "name": "acdsport replay",
     "image": "https://acdsport.com/acd/social.jpg",
     "url": "https://dl.dropbox.com/scl/fi/2lk9rp530f3mh8sn095pu/acdsport_replay.json?rlkey=ikxvfvv3nljrwb9xervk3r9mp&st=6nqt04sc&dl=0",
-    "author": "update 05-11-2025 19:20:10",
+    "author": "update 06-11-2025 07:48:43",
     "stations": [
+        {
+            "name": "Nov 05 - 20:00 UEFA Champions League Club Brugge KV vs Barcelona",
+            "image": "https://image.azencode.com/teams/569.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts4-1762372800-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 05 - 20:00 UEFA Champions League Inter vs Kairat Almaty",
+            "image": "https://image.azencode.com/teams/505.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount4-1762372800-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 05 - 20:00 UEFA Champions League Benfica vs Bayer Leverkusen",
+            "image": "https://image.azencode.com/teams/211.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount7-1762372800-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 05 - 20:00 UEFA Champions League Ajax vs Galatasaray",
+            "image": "https://image.azencode.com/teams/194.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount3-1762372800-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 05 - 20:00 UEFA Champions League Marseille vs Atalanta",
+            "image": "https://image.azencode.com/teams/81.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts5-1762372800-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 05 - 20:00 UEFA Champions League Manchester City vs Borussia Dortmund",
+            "image": "https://image.azencode.com/teams/50.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts1-1762372800-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 05 - 20:00 UEFA Champions League Newcastle vs Athletic Club",
+            "image": "https://image.azencode.com/teams/34.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts2-1762372800-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 05 - 17:45 UEFA Champions League Pafos vs Villarreal",
+            "image": "https://image.azencode.com/teams/3403.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts3-1762364700-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 05 - 17:45 UEFA Champions League Qarabag vs Chelsea",
+            "image": "https://image.azencode.com/teams/556.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts2-1762364700-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
         {
             "name": "Nov 04 - 20:00 UEFA Champions League Olympiakos Piraeus vs PSV Eindhoven",
             "image": "https://image.azencode.com/teams/553.png",

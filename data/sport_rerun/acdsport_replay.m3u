@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/569.png", group-title="LIVE SPORT", Nov 05 - 2000 UEFA Champions League Club Brugge KV vs Barcelona
+https://vod.starxcdn.xyz/vod/uk_bts4-1762372800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/505.png", group-title="LIVE SPORT", Nov 05 - 2000 UEFA Champions League Inter vs Kairat Almaty
+https://vod.starxcdn.xyz/vod/paramount4-1762372800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/211.png", group-title="LIVE SPORT", Nov 05 - 2000 UEFA Champions League Benfica vs Bayer Leverkusen
+https://vod.starxcdn.xyz/vod/paramount7-1762372800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/194.png", group-title="LIVE SPORT", Nov 05 - 2000 UEFA Champions League Ajax vs Galatasaray
+https://vod.starxcdn.xyz/vod/paramount3-1762372800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/81.png", group-title="LIVE SPORT", Nov 05 - 2000 UEFA Champions League Marseille vs Atalanta
+https://vod.starxcdn.xyz/vod/uk_bts5-1762372800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/50.png", group-title="LIVE SPORT", Nov 05 - 2000 UEFA Champions League Manchester City vs Borussia Dortmund
+https://vod.starxcdn.xyz/vod/uk_bts1-1762372800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/34.png", group-title="LIVE SPORT", Nov 05 - 2000 UEFA Champions League Newcastle vs Athletic Club
+https://vod.starxcdn.xyz/vod/uk_bts2-1762372800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/3403.png", group-title="LIVE SPORT", Nov 05 - 1745 UEFA Champions League Pafos vs Villarreal
+https://vod.starxcdn.xyz/vod/uk_bts3-1762364700-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/556.png", group-title="LIVE SPORT", Nov 05 - 1745 UEFA Champions League Qarabag vs Chelsea
+https://vod.starxcdn.xyz/vod/uk_bts2-1762364700-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.azencode.com/teams/553.png", group-title="LIVE SPORT", Nov 04 - 2000 UEFA Champions League Olympiakos Piraeus vs PSV Eindhoven
 https://vod.starxcdn.xyz/vod/uk_bts6-1762286400-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.azencode.com/teams/530.png", group-title="LIVE SPORT", Nov 04 - 2000 UEFA Champions League Atletico Madrid vs Union St. Gilloise
