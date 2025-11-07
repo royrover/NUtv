@@ -2,8 +2,190 @@
     "name": "acdsport replay",
     "image": "https://acdsport.com/acd/social.jpg",
     "url": "https://dl.dropbox.com/scl/fi/2lk9rp530f3mh8sn095pu/acdsport_replay.json?rlkey=ikxvfvv3nljrwb9xervk3r9mp&st=6nqt04sc&dl=0",
-    "author": "update 06-11-2025 19:20:02",
+    "author": "update 07-11-2025 07:48:48",
     "stations": [
+        {
+            "name": "Nov 06 - 20:00 UEFA Europa Conference League Shelbourne vs Drita",
+            "image": "https://image.azencode.com/teams/3854.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts4-1762459200-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 06 - 20:00 UEFA Europa Conference League Rayo Vallecano vs Lech Poznan",
+            "image": "https://image.azencode.com/teams/728.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount9-1762459200-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 06 - 20:00 UEFA Europa Conference League Dynamo Kyiv vs Zrinjski",
+            "image": "https://image.azencode.com/teams/572.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount8-1762459200-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 06 - 20:00 UEFA Europa Conference League BK Hacken vs Strasbourg",
+            "image": "https://image.azencode.com/upload/Football/BK Hacken.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount7-1762459200-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 06 - 20:00 UEFA Europa Conference League Crystal Palace vs AZ Alkmaar",
+            "image": "https://image.azencode.com/teams/52.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts1-1762459200-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 06 - 20:00 UEFA Europa League Ferencvarosi TC vs Ludogorets",
+            "image": "https://image.azencode.com/teams/651.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount6-1762459200-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 06 - 20:00 UEFA Europa League PAOK vs BSC Young Boys",
+            "image": "https://image.azencode.com/teams/619.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount5-1762459200-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 06 - 20:00 UEFA Europa League Plzen vs Fenerbahce",
+            "image": "https://image.azencode.com/teams/567.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount4-1762459200-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 06 - 20:00 UEFA Europa League Real Betis vs Lyon",
+            "image": "https://image.azencode.com/teams/543.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts5-1762459200-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 06 - 20:00 UEFA Europa League Bologna vs Brann",
+            "image": "https://image.azencode.com/teams/500.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount3-1762459200-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 06 - 20:00 UEFA Europa League Rangers vs AS Roma",
+            "image": "https://image.azencode.com/teams/257.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts3-1762459200-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 06 - 20:00 UEFA Europa League SC Braga vs Genk",
+            "image": "https://image.azencode.com/teams/217.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount2-1762459200-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 06 - 20:00 UEFA Europa League VfB Stuttgart vs Feyenoord",
+            "image": "https://image.azencode.com/upload/Football/VfB Stuttgart.jpg",
+            "url": "https://vod.starxcdn.xyz/vod/paramount1-1762459200-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 06 - 20:00 UEFA Europa League Aston Villa vs Maccabi Tel Aviv",
+            "image": "https://image.azencode.com/teams/66.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts2-1762459200-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 06 - 17:45 UEFA Europa Conference League AEK Larnaca vs Aberdeen",
+            "image": "https://image.azencode.com/teams/614.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts3-1762451100-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 06 - 17:45 UEFA Europa Conference League AEK Athens FC vs Shamrock Rovers",
+            "image": "https://image.azencode.com/teams/575.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts4-1762451100-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 06 - 17:45 UEFA Europa Conference League FSV Mainz 05 vs Fiorentina",
+            "image": "https://image.azencode.com/teams/164.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount7-1762451100-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 06 - 17:45 UEFA Europa League Sturm Graz vs Nottingham Forest",
+            "image": "https://image.azencode.com/teams/637.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts1-1762451100-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 06 - 17:45 UEFA Europa League Dinamo Zagreb vs Celta Vigo",
+            "image": "https://image.azencode.com/teams/620.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount6-1762451100-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 06 - 17:45 UEFA Europa League FK Crvena Zvezda vs Lille",
+            "image": "https://image.azencode.com/teams/598.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount5-1762451100-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 06 - 17:45 UEFA Europa League Red Bull Salzburg vs GO Ahead Eagles",
+            "image": "https://image.azencode.com/teams/571.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount4-1762451100-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 06 - 17:45 UEFA Europa League FC Basel 1893 vs FCSB",
+            "image": "https://image.azencode.com/teams/551.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount3-1762451100-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 06 - 17:45 UEFA Europa League FC Midtjylland vs Celtic",
+            "image": "https://image.azencode.com/teams/397.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts2-1762451100-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 06 - 17:45 UEFA Europa League Malmo FF vs Panathinaikos",
+            "image": "https://image.azencode.com/teams/375.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount2-1762451100-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 06 - 17:45 UEFA Europa League Utrecht vs FC Porto",
+            "image": "https://image.azencode.com/teams/207.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount1-1762451100-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 06 - 17:45 UEFA Europa League Nice vs SC Freiburg",
+            "image": "https://image.azencode.com/upload/Football/OGC Nice.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts5-1762451100-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
         {
             "name": "Nov 05 - 20:00 UEFA Champions League Club Brugge KV vs Barcelona",
             "image": "https://image.azencode.com/teams/569.png",
