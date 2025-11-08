@@ -2,8 +2,36 @@
     "name": "acdsport replay",
     "image": "https://acdsport.com/acd/social.jpg",
     "url": "https://dl.dropbox.com/scl/fi/2lk9rp530f3mh8sn095pu/acdsport_replay.json?rlkey=ikxvfvv3nljrwb9xervk3r9mp&st=6nqt04sc&dl=0",
-    "author": "update 07-11-2025 19:19:22",
+    "author": "update 08-11-2025 07:45:00",
     "stations": [
+        {
+            "name": "Nov 07 - 20:00 La Liga Elche vs Real Sociedad",
+            "image": "https://image.azencode.com/teams/797.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn1-1762545600-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 07 - 19:45 Ligue 1 Paris FC vs Rennes",
+            "image": "https://image.azencode.com/teams/114.png",
+            "url": "https://vod.starxcdn.xyz/vod/pt_sporttv3-1762544700-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 07 - 19:45 Serie A Pisa vs Cremonese",
+            "image": "https://image.azencode.com/teams/801.png",
+            "url": "https://vod.starxcdn.xyz/vod/us_foxdeport-1762544700-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 07 - 19:30 Bundesliga Werder Bremen vs VfL Wolfsburg",
+            "image": "https://image.azencode.com/teams/162.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn0-1762543800-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
         {
             "name": "Nov 06 - 20:00 UEFA Europa Conference League Shelbourne vs Drita",
             "image": "https://image.azencode.com/teams/3854.png",

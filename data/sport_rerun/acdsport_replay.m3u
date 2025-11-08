@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/797.png", group-title="LIVE SPORT", Nov 07 - 2000 La Liga Elche vs Real Sociedad
+https://vod.starxcdn.xyz/vod/espn1-1762545600-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/114.png", group-title="LIVE SPORT", Nov 07 - 1945 Ligue 1 Paris FC vs Rennes
+https://vod.starxcdn.xyz/vod/pt_sporttv3-1762544700-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/801.png", group-title="LIVE SPORT", Nov 07 - 1945 Serie A Pisa vs Cremonese
+https://vod.starxcdn.xyz/vod/us_foxdeport-1762544700-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/162.png", group-title="LIVE SPORT", Nov 07 - 1930 Bundesliga Werder Bremen vs VfL Wolfsburg
+https://vod.starxcdn.xyz/vod/espn0-1762543800-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.azencode.com/teams/3854.png", group-title="LIVE SPORT", Nov 06 - 2000 UEFA Europa Conference League Shelbourne vs Drita
 https://vod.starxcdn.xyz/vod/uk_bts4-1762459200-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.azencode.com/teams/728.png", group-title="LIVE SPORT", Nov 06 - 2000 UEFA Europa Conference League Rayo Vallecano vs Lech Poznan
