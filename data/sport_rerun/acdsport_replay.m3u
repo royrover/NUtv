@@ -1,4 +1,46 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/91.png", group-title="LIVE SPORT", Nov 08 - 2005 Ligue 1 Monaco vs Lens
+https://vod.starxcdn.xyz/vod/pt_sporttv3-1762632300-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/540.png", group-title="LIVE SPORT", Nov 08 - 2000 La Liga Espanyol vs Villarreal
+https://vod.starxcdn.xyz/vod/espn8-1762632000-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/49.png", group-title="LIVE SPORT", Nov 08 - 2000 Premier League Chelsea vs Wolves
+https://vod.starxcdn.xyz/vod/uk_ssepl-1762632000-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/523.png", group-title="LIVE SPORT", Nov 08 - 1945 Serie A Parma vs AC Milan
+https://vod.starxcdn.xyz/vod/uk_bts2-1762631100-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/upload/Football/LE Havre.png", group-title="LIVE SPORT", Nov 08 - 1800 Ligue 1 LE Havre vs Nantes
+https://vod.starxcdn.xyz/vod/pt_sporttv3-1762624800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/530.png", group-title="LIVE SPORT", Nov 08 - 1730 La Liga Atletico Madrid vs Levante
+https://vod.starxcdn.xyz/vod/espn7-1762623000-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/746.png", group-title="LIVE SPORT", Nov 08 - 1730 Premier League Sunderland vs Arsenal
+https://vod.starxcdn.xyz/vod/uk_ssepl-1762623000-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/163.png", group-title="LIVE SPORT", Nov 08 - 1730 Bundesliga Borussia Monchengladbach vs FC Koln
+https://vod.starxcdn.xyz/vod/espn4-1762623000-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/496.png", group-title="LIVE SPORT", Nov 08 - 1700 Serie A Juventus vs Torino
+https://vod.starxcdn.xyz/vod/paramount3-1762621200-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/81.png", group-title="LIVE SPORT", Nov 08 - 1600 Ligue 1 Marseille vs Stade Brestois 29
+https://vod.starxcdn.xyz/vod/pt_sporttv3-1762617600-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/536.png", group-title="LIVE SPORT", Nov 08 - 1515 La Liga Sevilla vs Osasuna
+https://vod.starxcdn.xyz/vod/espn6-1762614900-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/48.png", group-title="LIVE SPORT", Nov 08 - 1500 Premier League West Ham vs Burnley
+https://vod.starxcdn.xyz/vod/epl_whu-1762614000-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/45.png", group-title="LIVE SPORT", Nov 08 - 1500 Premier League Everton vs Fulham
+https://vod.starxcdn.xyz/vod/epl_eve-1762614000-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/182.png", group-title="LIVE SPORT", Nov 08 - 1430 Bundesliga Union Berlin vs Bayern Munich
+https://vod.starxcdn.xyz/vod/espn3-1762612200-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/175.png", group-title="LIVE SPORT", Nov 08 - 1430 Bundesliga Hamburger SV vs Borussia Dortmund
+https://vod.starxcdn.xyz/vod/espn2-1762612200-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/168.png", group-title="LIVE SPORT", Nov 08 - 1430 Bundesliga Bayer Leverkusen vs FC Heidenheim
+https://vod.starxcdn.xyz/vod/espn1-1762612200-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/167.png", group-title="LIVE SPORT", Nov 08 - 1430 Bundesliga 1899 Hoffenheim vs RB Leipzig
+https://vod.starxcdn.xyz/vod/espn0-1762612200-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/895.png", group-title="LIVE SPORT", Nov 08 - 1400 Serie A Como vs Cagliari
+https://vod.starxcdn.xyz/vod/paramount2-1762610400-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/867.png", group-title="LIVE SPORT", Nov 08 - 1400 Serie A Lecce vs Verona
+https://vod.starxcdn.xyz/vod/paramount1-1762610400-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/547.png", group-title="LIVE SPORT", Nov 08 - 1300 La Liga Girona vs Alaves
+https://vod.starxcdn.xyz/vod/espn5-1762606800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/47.png", group-title="LIVE SPORT", Nov 08 - 1230 Premier League Tottenham vs Manchester United
+https://vod.starxcdn.xyz/vod/uk_bts1-1762605000-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.azencode.com/teams/797.png", group-title="LIVE SPORT", Nov 07 - 2000 La Liga Elche vs Real Sociedad
 https://vod.starxcdn.xyz/vod/espn1-1762545600-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.azencode.com/teams/114.png", group-title="LIVE SPORT", Nov 07 - 1945 Ligue 1 Paris FC vs Rennes
