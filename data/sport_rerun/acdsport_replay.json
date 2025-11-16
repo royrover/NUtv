@@ -2,8 +2,71 @@
     "name": "acdsport replay",
     "image": "https://acdsport.com/acd/social.jpg",
     "url": "https://dl.dropbox.com/scl/fi/2lk9rp530f3mh8sn095pu/acdsport_replay.json?rlkey=ikxvfvv3nljrwb9xervk3r9mp&st=6nqt04sc&dl=0",
-    "author": "update 15-11-2025 07:47:41",
+    "author": "update 16-11-2025 19:16:51",
     "stations": [
+        {
+            "name": "Nov 09 - 20:00 La Liga Celta Vigo vs Barcelona",
+            "image": "https://allsp.org/assets/images/team/67ca915d9580f1741328733.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_premiersports2-1762718400-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 09 - 17:30 La Liga Valencia vs Real Betis",
+            "image": "https://allsp.org/assets/images/team/67ca915d0c7731741328733.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_premiersports2-1762709400-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 09 - 16:30 Premier League Manchester City vs Liverpool",
+            "image": "https://allsp.org/assets/images/team/67ca90e603f1e1741328614.png",
+            "url": "https://vod.starxcdn.xyz/vod/channel3-1762705800-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 09 - 15:15 La Liga Rayo Vallecano vs Real Madrid",
+            "image": "https://allsp.org/assets/images/team/67ca915e5362f1741328734.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_premiersports2-1762701300-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 08 - 17:30 La Liga Atletico Madrid vs Levante",
+            "image": "https://allsp.org/assets/images/team/67ca90e96070e1741328617.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_premiersports2-1762623000-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 08 - 16:00 Ligue 1 Marseille vs Stade Brestois 29",
+            "image": "https://allsp.org/assets/images/team/67ca9151691e91741328721.png",
+            "url": "https://vod.starxcdn.xyz/vod/fr_beinsports1-1762617600-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 08 - 13:00 La Liga Girona vs Alaves",
+            "image": "https://allsp.org/assets/images/team/67ca90e98fd451741328617.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_premiersports2-1762606800-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 07 - 20:00 La Liga Elche vs Real Sociedad",
+            "image": "https://allsp.org/assets/images/team/67ca916d8e9261741328749.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_premiersports1-1762545600-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 07 - 19:45 Serie A Pisa vs Cremonese",
+            "image": "https://allsp.org/assets/images/team/67ca91651afee1741328741.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount1-1762544700-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
         {
             "name": "Nov 14 - 19:45 World Cup - Qualification Europe Luxembourg vs Germany",
             "image": "https://image.azencode.com/upload/Football/Luxembourg.png",
