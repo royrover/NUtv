@@ -2,8 +2,13 @@
     "name": "DOOKEELA Rerun",
     "image": "https://www.dropbox.com/scl/fi/0wslhpbbirva0wx4rlbzn/DKL.png?rlkey=37e1vu25obzmo5kikjkax30t7&st=7ey1fj5e&raw=1",
     "url": "",
-    "author": "update 16-11-2025 19:16:50",
+    "author": "update 17-11-2025 07:51:21",
     "stations": [
+        {
+            "name": "MotoGP 2025 - Motul Grand Prix of the Valencian Community - 16-11-2025",
+            "image": "https://images.dookeela2.live/1ea51f4905fd47abb43f7ba22c817198:dkl-images-storage/rerun/1763316590.jpg",
+            "url": "https://ks7jcc.cdn.akamaiz.com/rerun/MotoGP 2025 - Motul Grand Prix of the Valencian Community.mp4/playlist.m3u8"
+        },
         {
             "name": "Manchester City vs Liverpool | Premier League (11-11-2025)",
             "image": "https://images.dookeela2.live/1ea51f4905fd47abb43f7ba22c817198:dkl-images-storage/rerun/1762870467.jpg",
