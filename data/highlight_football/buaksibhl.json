@@ -2,8 +2,20 @@
     "name": "highlights football buaksib",
     "image": "https://www.buaksib.com/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Flogo-summer.5abd78a6.png&w=256&q=75",
     "url": "",
-    "author": "update 19-11-2025 09:13:40",
+    "author": "update 19-11-2025 20:00:28",
     "stations": [
+        {
+            "name": "⚽ สเปน พบ ตุรกี 18.11.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/11/Spain_Vs_Turkiye_18_11_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Spain_Vs_Turkiye_18_11_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ สวีเดน พบ สโลวีเนีย 18.11.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/11/Sweden_Vs_Slovenia_18_11_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Sweden_Vs_Slovenia_18_11_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
         {
             "name": "⚽ ทีมชาติศรีลังกา พบ ทีมชาติไทย 18.11.2025 ไฮไลท์ฟุตบอล",
             "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/11/SriLanka_Vs_Thai_18_11_25.jpg",
