@@ -2,8 +2,200 @@
     "name": "highlights football buaksib",
     "image": "https://www.buaksib.com/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Flogo-summer.5abd78a6.png&w=256&q=75",
     "url": "",
-    "author": "update 05-11-2025 09:15:25",
+    "author": "update 19-11-2025 09:13:40",
     "stations": [
+        {
+            "name": "⚽ ทีมชาติศรีลังกา พบ ทีมชาติไทย 18.11.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/11/SriLanka_Vs_Thai_18_11_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/SriLanka_Vs_Thai_18_11_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ เนเธอร์แลนด์ พบ ลิทัวเนีย 18.11.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/11/Nederland_Vs_Lithuania_18_11_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Nederland_Vs_Lithuania_18_11_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ เยอรมนี พบ สโลวาเกีย 18.11.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/11/Germany_Vs_Slovakia_18_11_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Germany_Vs_Slovakia_18_11_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ แอลเบเนีย พบ อังกฤษ 16.11.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/11/Albania_Vs_England_16_11_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Albania_Vs_England_16_11_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ อาเซอร์ไบจัน พบ ฝรั่งเศส 16.11.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/11/Azerbaijan_Vs_France_16_11_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Azerbaijan_Vs_France_16_11_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ โปรตุเกส พบ อาร์เมเนีย 16.11.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/11/Portugal_Vs_Armenia_16_11_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Portugal_Vs_Armenia_16_11_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ จอร์เจีย พบ สเปน 15.11.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/11/Georgia_Vs_Spain_15_11_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Georgia_Vs_Spain_15_11_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ คาซัคสถาน พบ เบลเยียม 15.11.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/11/Kazakhstan_Vs_Belgium_15_11_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Kazakhstan_Vs_Belgium_15_11_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ ทีมชาติไทย U23 พบ ทีมชาติอินเดีย U23 15.11.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/11/Thai_Vs_India_14_11_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Thai_Vs_India_14_11_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ โปแลนด์ พบ เนเธอร์แลนด์ 14.11.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/11/Poland_Vs_Netherlands_14_11_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Poland_Vs_Netherlands_14_11_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ โครเอเชีย พบ หมู่เกาะแฟโร 14.11.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/11/cr.jpg",
+            "url": "https://bdphap.com/ssd1/th/Croatia_Vs_Faroe_Islands_14_11_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ ลักแซมเบิร์ก พบ เยอรมนี 14.11.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/11/gm.jpg",
+            "url": "https://bdphap.com/ssd1/th/Luxembourg_Vs_Germany_14_11_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ ฝรั่งเศส พบ ยูเครน 13.11.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/11/France_Vs_Ukraine_13_11_25v.jpg",
+            "url": "https://bdphap.com/ssd1/th/France_Vs_Ukraine_13_11_25v.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ มอลโดวา พบ อิตาลี 13.11.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/11/Moldova_Vs_Italy_13_11_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Moldova_Vs_Italy_13_11_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ อังกฤษ พบ เซอร์เบีย 13.11.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/11/England_Vs_Serbia_13_11_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/England_Vs_Serbia_13_11_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ ไอร์แลนด์ พบ โปรตุเกส 13.11.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/11/Ireland_Vs_Portugal_13_11_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Ireland_Vs_Portugal_13_11_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ ทีมชาติไทย พบ ทีมชาติสิงคโปร์ 13.11.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/11/Thai_Vs_Singapore_13_11_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Thai_Vs_Singapore_13_11_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ แมนเชสเตอร์ ซิตี้ พบ ลิเวอร์พูล 09.11.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/11/city.jpg",
+            "url": "https://bdphap.com/ssd1/th/Man_City_Vs_Liverpool_09_11_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ เบรนท์ฟอร์ด พบ นิวคาสเซิ่ล ยูไนเต็ด 09.11.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/11/Brentford_Vs_Newcastle_09_11_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Brentford_Vs_Newcastle_09_11_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ การท่าเรือ เอฟซี พบ ทรู แบงค็อก ยูไนเต็ด 09.11.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/11/Port_Vs_True_Bangkok_09_11_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Port_Vs_True_Bangkok_09_11_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ ชลบุรี เอฟซี พบ บุรีรัมย์ ยูไนเต็ด 09.11.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/11/Chonburi_FC_Vs_Buriram_United_09_11_2025.jpg",
+            "url": "https://bdphap.com/ssd1/th/Chonburi_FC_Vs_Buriram_United_09_11_2025.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ บีจี ปทุม ยูไนเต็ด พบ ระยอง เอฟซี 09.11.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/11/BG_Pathum_United_Vs_Rayong_FC_09_11_2025.jpg",
+            "url": "https://bdphap.com/ssd1/th/BG_Pathum_United_Vs_Rayong_FC_09_11_2025.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ อยุธยา ยูไนเต็ด พบ ราชบุรี เอฟซี 09.11.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/11/Ayutthaya_Vs_Ratchaburi_09_11_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Ayutthaya_Vs_Ratchaburi_09_11_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ เชลซี พบ วูล์ฟแฮมป์ตัน 08.11.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/11/Chelsea_Vs_Wolve_08_11_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Chelsea_Vs_Wolve_08_11_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ ซันเดอร์แลนด์ พบ อาร์เซน่อล 08.11.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/11/Sunderland_Vs_Arsenal_08_11_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Sunderland_Vs_Arsenal_08_11_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ สเปอร์ส พบ แมนเชสเตอร์ ยูไนเต็ด 08.11.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/11/Spur_Vs_Man_U_08_11_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Spur_Vs_Man_U_08_11_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ อุทัยธานี เอฟซี พบ เมืองทอง ยูไนเต็ด 08.11.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/11/ut.jpg",
+            "url": "https://bdphap.com/ssd1/th/Uthai_Vs_Muangthong_08_11_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ สุโขทัย เอฟซี พบ พลังกาญจน์ เอฟซี 08.11.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/11/su.jpg",
+            "url": "https://bdphap.com/ssd1/th/Sukhothai_Vs_Kanchanaburi_08_11_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ สิงห์ เชียงราย ยูไนเต็ด พบ นครราชสีมา มาสด้า เอฟซี 08.11.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/11/Chiangrai_Vs_Nakhonratchasima_08_11_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Chiangrai_Vs_Nakhonratchasima_08_11_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ พีที ประจวบ เอฟซี พบ ลำพูน วอริเออร์ 07.11.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/11/Prachuap_Vs_Lamphun_07_11_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Prachuap_Vs_Lamphun_07_11_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ ไลออน ซิตี้ พบ ทรู แบงค็อก ยูไนเต็ด 06.11.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/11/Lion_Vs_True_Bangkok_07_11_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Lion_Vs_True_Bangkok_07_11_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ บีจี ปทุม ยูไนเต็ด พบ คาย่า เอฟซี อิโลอิโล 06.11.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/11/BG_Pathum_United_Vs_Kaya_FC_06_11_2025.jpg",
+            "url": "https://bdphap.com/ssd1/th/BG_Pathum_United_Vs_Kaya_FC_06_11_2025.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
         {
             "name": "⚽ บุรีรัมย์ ยูไนเต็ด พบ เซียงไฮ้ พอร์ท 04.11.2025 ไฮไลท์ฟุตบอล",
             "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/11/Buriram_Vs_Shanghai_04_11_25.jpg",
