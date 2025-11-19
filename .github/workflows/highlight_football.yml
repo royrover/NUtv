@@ -33,8 +33,7 @@ jobs:
         run: |
           python scripts/highlight_football/highlight_football.py
           python scripts/highlight_football/buaksib_update.py
-          python scripts/highlight_football/dlshl_update.py
-          python scripts/highlight_football/hugballhl_update.py
+          python scripts/highlight_football/dlshl_update.py     
 
       # 5️⃣ Commit & Push JSON/M3U กลับไป main
       - name: Commit & Push JSON/M3U
