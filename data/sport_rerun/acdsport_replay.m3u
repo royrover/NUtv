@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca915d0c7731741328733.png", group-title="LIVE SPORT", Nov 21 - 2000 La Liga Valencia vs Levante
+https://vod.starxcdn.xyz/vod/uk_premiersports1-1763755200-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90ee90daf1741328622.png", group-title="LIVE SPORT", Nov 21 - 1945 Ligue 1 Nice vs Marseille
+https://vod.starxcdn.xyz/vod/pt_sporttv2-1763754300-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca9152e5ddb1741328722.png", group-title="LIVE SPORT", Nov 21 - 1930 Bundesliga FSV Mainz 05 vs 1899 Hoffenheim
+https://vod.starxcdn.xyz/vod/espn0-1763753400-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e5dda801741328613.png", group-title="LIVE SPORT", Nov 20 - 0145 Champions League Arsenal vs Liverpool
 https://vod.starxcdn.xyz/vod/uk_bts1-1763603100-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca915d9580f1741328733.png", group-title="LIVE SPORT", Nov 09 - 2000 La Liga Celta Vigo vs Barcelona
