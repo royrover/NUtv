@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://newbackend.buaksib.com/wp-content/uploads/2025/11/Newcastle_Vs_Man_Vs_City_22_11_25.jpg", group-title="LIVE SPORT", ⚽ นิวคาสเซิ่ล ยูไนเต็ด พบ แมนเชสเตอร์ ซิตี้ 22.11.2025 ไฮไลท์ฟุตบอล
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.buaksib.com/
+https://bdphap.com/ssd1/th/Newcastle_Vs_Man_Vs_City_22_11_25.mp4
+#EXTINF:-1 tvg-logo="https://newbackend.buaksib.com/wp-content/uploads/2025/11/Liverpool_Vs_Forest_22_11_25.jpg", group-title="LIVE SPORT", ⚽ ลิเวอร์พูล พบ ฟอเรสต์ 22.11.2025 ไฮไลท์ฟุตบอล
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.buaksib.com/
+https://bdphap.com/ssd1/th/Liverpool_Vs_Forest_22_11_25.mp4
 #EXTINF:-1 tvg-logo="https://newbackend.buaksib.com/wp-content/uploads/2025/11/Muangthong_Vs_Buriram_22_11_25.jpg", group-title="LIVE SPORT", ⚽ เมืองทอง ยูไนเต็ด พบ บุรีรัมย์ ยูไนเต็ด 22.11.2025 ไฮไลท์ฟุตบอล
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.buaksib.com/
