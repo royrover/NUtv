@@ -2,8 +2,155 @@
     "name": "acdsport replay",
     "image": "https://acdsport.com/acd/social.jpg",
     "url": "https://dl.dropbox.com/scl/fi/2lk9rp530f3mh8sn095pu/acdsport_replay.json?rlkey=ikxvfvv3nljrwb9xervk3r9mp&st=6nqt04sc&dl=0",
-    "author": "update 22-11-2025 19:16:39",
+    "author": "update 23-11-2025 07:56:19",
     "stations": [
+        {
+            "name": "Nov 22 - 20:05 Ligue 1 Paris Saint Germain vs LE Havre",
+            "image": "https://allsp.org/assets/images/team/67ca90e6535731741328614.png",
+            "url": "https://vod.starxcdn.xyz/vod/live01-1763841900-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 22 - 20:00 La Liga Villarreal vs Mallorca",
+            "image": "https://allsp.org/assets/images/team/67ca915d2834e1741328733.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn9-1763841600-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 22 - 18:00 Ligue 1 Rennes vs Monaco",
+            "image": "https://allsp.org/assets/images/team/67ca9151c7bb11741328721.png",
+            "url": "https://vod.starxcdn.xyz/vod/pt_sporttv3-1763834400-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 22 - 17:30 La Liga Osasuna vs Real Sociedad",
+            "image": "https://allsp.org/assets/images/team/67ca915e3b1511741328734.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_premiersports1-1763832600-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 22 - 17:30 Bundesliga 1.FC Köln vs Eintracht Frankfurt",
+            "image": "https://allsp.org/assets/images/team/67ca91685e09a1741328744.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn5-1763832600-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 22 - 17:30 Premier League Newcastle vs Manchester City",
+            "image": "https://allsp.org/assets/images/team/67ca90f30f54f1741328627.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_ssepl-1763832600-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 22 - 17:00 Serie A Fiorentina vs Juventus",
+            "image": "https://allsp.org/assets/images/team/67ca91557b0f91741328725.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount3-1763830800-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 22 - 16:00 Ligue 1 Lens vs Strasbourg",
+            "image": "https://allsp.org/assets/images/team/67ca91524f6221741328722.png",
+            "url": "https://vod.starxcdn.xyz/vod/pt_sporttv3-1763827200-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 22 - 15:15 La Liga Barcelona vs Athletic Club",
+            "image": "https://allsp.org/assets/images/team/67ca90e948da41741328617.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn7-1763824500-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 22 - 15:00 Premier League Brighton vs Brentford",
+            "image": "https://allsp.org/assets/images/team/67ca90f41da851741328628.png",
+            "url": "https://vod.starxcdn.xyz/vod/epl_bra-1763823600-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 22 - 15:00 Premier League Liverpool vs Nottingham Forest",
+            "image": "https://allsp.org/assets/images/team/689fc7f968c2a1755301881.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_premiersports1-1763823600-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 22 - 15:00 Premier League Wolves vs Crystal Palace",
+            "image": "https://allsp.org/assets/images/team/67ca90f3647c21741328627.png",
+            "url": "https://vod.starxcdn.xyz/vod/epl_wol-1763823600-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 22 - 15:00 Premier League Bournemouth vs West Ham",
+            "image": "https://allsp.org/assets/images/team/67ca90f32cdf41741328627.png",
+            "url": "https://vod.starxcdn.xyz/vod/epl_bou-1763823600-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 22 - 14:30 Bundesliga 1. FC Heidenheim vs Borussia Mönchengladbach",
+            "image": "https://allsp.org/assets/images/team/67ca91532e5591741328723.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn4-1763821800-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 22 - 14:30 Bundesliga FC Augsburg vs Hamburger SV",
+            "image": "https://allsp.org/assets/images/team/67ca915305cd11741328723.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn3-1763821800-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 22 - 14:30 Bundesliga Borussia Dortmund vs VfB Stuttgart",
+            "image": "https://allsp.org/assets/images/team/67ca90e6bea951741328614.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn2-1763821800-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 22 - 14:30 Bundesliga VfL Wolfsburg vs Bayer Leverkusen",
+            "image": "https://allsp.org/assets/images/team/67ca9152a848d1741328722.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn1-1763821800-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 22 - 14:30 Bundesliga Bayern München vs SC Freiburg",
+            "image": "https://allsp.org/assets/images/team/67ca90e6a2dc81741328614.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn0-1763821800-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 22 - 14:00 Serie A Cagliari vs Genoa",
+            "image": "https://allsp.org/assets/images/team/67ca91550c6551741328725.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount1-1763820000-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 22 - 13:00 La Liga Alaves vs Celta Vigo",
+            "image": "https://allsp.org/assets/images/team/67ca915dc7e401741328733.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_premiersports1-1763816400-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 22 - 12:30 Premier League Burnley vs Chelsea",
+            "image": "https://allsp.org/assets/images/team/67ca90f5466a01741328629.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts1-1763814600-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
         {
             "name": "Nov 21 - 20:00 La Liga Valencia vs Levante",
             "image": "https://allsp.org/assets/images/team/67ca915d0c7731741328733.png",
