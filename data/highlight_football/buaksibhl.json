@@ -2,8 +2,38 @@
     "name": "highlights football buaksib",
     "image": "https://www.buaksib.com/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Flogo-summer.5abd78a6.png&w=256&q=75",
     "url": "",
-    "author": "update 22-11-2025 19:52:04",
+    "author": "update 23-11-2025 09:29:19",
     "stations": [
+        {
+            "name": "⚽ เมืองทอง ยูไนเต็ด พบ บุรีรัมย์ ยูไนเต็ด 22.11.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/11/Muangthong_Vs_Buriram_22_11_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Muangthong_Vs_Buriram_22_11_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ การท่าเรือ เอฟซี พบ สิงห์ เชียงราย ยูไนเต็ด 22.11.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/11/Port_Vs_ChiangRai_22_11_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Port_Vs_ChiangRai_22_11_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ เบิร์นลีย์ พบ เชลซี 22.11.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/11/Burnley_Vs_Chelsea_22_11_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Burnley_Vs_Chelsea_22_11_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ ทรู แบงค็อก ยูไนเต็ด พบ พีที ประจวบ เอฟซี 22.11.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/11/True_Bangkok_Vs_Prachuap_22_11_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/True_Bangkok_Vs_Prachuap_22_11_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ ราชบุรี เอฟซี พบ บีจี ปทุม ยูไนเต็ด 22.11.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/11/Ratchaburi_Vs_BG_Pathum_22_11_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Ratchaburi_Vs_BG_Pathum_22_11_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
         {
             "name": "⚽ สเปน พบ ตุรกี 18.11.2025 ไฮไลท์ฟุตบอล",
             "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/11/Spain_Vs_Turkiye_18_11_25.jpg",

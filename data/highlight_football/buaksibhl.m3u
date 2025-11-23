@@ -1,4 +1,24 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://newbackend.buaksib.com/wp-content/uploads/2025/11/Muangthong_Vs_Buriram_22_11_25.jpg", group-title="LIVE SPORT", ⚽ เมืองทอง ยูไนเต็ด พบ บุรีรัมย์ ยูไนเต็ด 22.11.2025 ไฮไลท์ฟุตบอล
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.buaksib.com/
+https://bdphap.com/ssd1/th/Muangthong_Vs_Buriram_22_11_25.mp4
+#EXTINF:-1 tvg-logo="https://newbackend.buaksib.com/wp-content/uploads/2025/11/Port_Vs_ChiangRai_22_11_25.jpg", group-title="LIVE SPORT", ⚽ การท่าเรือ เอฟซี พบ สิงห์ เชียงราย ยูไนเต็ด 22.11.2025 ไฮไลท์ฟุตบอล
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.buaksib.com/
+https://bdphap.com/ssd1/th/Port_Vs_ChiangRai_22_11_25.mp4
+#EXTINF:-1 tvg-logo="https://newbackend.buaksib.com/wp-content/uploads/2025/11/Burnley_Vs_Chelsea_22_11_25.jpg", group-title="LIVE SPORT", ⚽ เบิร์นลีย์ พบ เชลซี 22.11.2025 ไฮไลท์ฟุตบอล
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.buaksib.com/
+https://bdphap.com/ssd1/th/Burnley_Vs_Chelsea_22_11_25.mp4
+#EXTINF:-1 tvg-logo="https://newbackend.buaksib.com/wp-content/uploads/2025/11/True_Bangkok_Vs_Prachuap_22_11_25.jpg", group-title="LIVE SPORT", ⚽ ทรู แบงค็อก ยูไนเต็ด พบ พีที ประจวบ เอฟซี 22.11.2025 ไฮไลท์ฟุตบอล
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.buaksib.com/
+https://bdphap.com/ssd1/th/True_Bangkok_Vs_Prachuap_22_11_25.mp4
+#EXTINF:-1 tvg-logo="https://newbackend.buaksib.com/wp-content/uploads/2025/11/Ratchaburi_Vs_BG_Pathum_22_11_25.jpg", group-title="LIVE SPORT", ⚽ ราชบุรี เอฟซี พบ บีจี ปทุม ยูไนเต็ด 22.11.2025 ไฮไลท์ฟุตบอล
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.buaksib.com/
+https://bdphap.com/ssd1/th/Ratchaburi_Vs_BG_Pathum_22_11_25.mp4
 #EXTINF:-1 tvg-logo="https://newbackend.buaksib.com/wp-content/uploads/2025/11/Spain_Vs_Turkiye_18_11_25.jpg", group-title="LIVE SPORT", ⚽ สเปน พบ ตุรกี 18.11.2025 ไฮไลท์ฟุตบอล
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.buaksib.com/
