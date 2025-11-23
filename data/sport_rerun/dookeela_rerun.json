@@ -2,8 +2,23 @@
     "name": "DOOKEELA Rerun",
     "image": "https://www.dropbox.com/scl/fi/0wslhpbbirva0wx4rlbzn/DKL.png?rlkey=37e1vu25obzmo5kikjkax30t7&st=7ey1fj5e&raw=1",
     "url": "",
-    "author": "update 23-11-2025 07:56:17",
+    "author": "update 23-11-2025 19:16:29",
     "stations": [
+        {
+            "name": "Newcastle vs Manchester City | Premier League (23-11-2025)",
+            "image": "https://images.dookeela2.live/1ea51f4905fd47abb43f7ba22c817198:dkl-images-storage/rerun/1763898267.jpg",
+            "url": "https://ks7jcc.cdn.akamaiz.com/rerun/พรีเมียร์ลีก อังกฤษ 2025_2026 - นิวคาสเซิ่ล v แมนเชสเตอร์ ซิตี้ [23-11-2025 00_30].mp4/playlist.m3u8"
+        },
+        {
+            "name": "Liverpool vs Nottingham Forest | Premier League (23-11-2025)",
+            "image": "https://images.dookeela2.live/1ea51f4905fd47abb43f7ba22c817198:dkl-images-storage/rerun/1763897929.jpg",
+            "url": "https://ks7jcc.cdn.akamaiz.com/rerun/พรีเมียร์ลีก อังกฤษ 2025_2026 - ลิเวอร์พูล v น็อตติงแฮม ฟอเรสต์ [22-11-2025 22_00].mp4/playlist.m3u8"
+        },
+        {
+            "name": "Formula 1 - Las Vegas Grand Prix 2025 - 23-11-2025",
+            "image": "https://images.dookeela2.live/1ea51f4905fd47abb43f7ba22c817198:dkl-images-storage/rerun/1763897505.jpg",
+            "url": "https://ks7jcc.cdn.akamaiz.com/rerun/Formula 1 - Las Vegas Grand Prix 2025.mp4/playlist.m3u8"
+        },
         {
             "name": "Burnley vs Chelsea | Premier League (22-11-2025)",
             "image": "https://images.dookeela2.live/1ea51f4905fd47abb43f7ba22c817198:dkl-images-storage/rerun/1763841156.jpg",
