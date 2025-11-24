@@ -2,8 +2,113 @@
     "name": "acdsport replay",
     "image": "https://acdsport.com/acd/social.jpg",
     "url": "https://dl.dropbox.com/scl/fi/2lk9rp530f3mh8sn095pu/acdsport_replay.json?rlkey=ikxvfvv3nljrwb9xervk3r9mp&st=6nqt04sc&dl=0",
-    "author": "update 23-11-2025 19:16:31",
+    "author": "update 24-11-2025 07:53:06",
     "stations": [
+        {
+            "name": "Nov 23 - 20:00 La Liga Elche vs Real Madrid",
+            "image": "https://allsp.org/assets/images/team/67ca916d8e9261741328749.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn5-1763928000-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 23 - 19:45 Serie A Inter vs AC Milan",
+            "image": "https://allsp.org/assets/images/team/67ca90e930c021741328617.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts1-1763927100-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 23 - 19:45 Ligue 1 Lille vs Paris FC",
+            "image": "https://allsp.org/assets/images/team/67ca90e63814c1741328614.png",
+            "url": "https://vod.starxcdn.xyz/vod/pt_sporttv3-1763927100-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 23 - 17:00 Serie A Lazio vs Lecce",
+            "image": "https://allsp.org/assets/images/team/67ca90efc4d4f1741328623.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount2-1763917200-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 23 - 16:30 Bundesliga FC St. Pauli vs Union Berlin",
+            "image": "https://allsp.org/assets/images/team/67ca915357cd61741328723.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn1-1763915400-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 23 - 16:30 Premier League Arsenal vs Tottenham",
+            "image": "https://allsp.org/assets/images/team/67ca90e5dda801741328613.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_ssepl-1763915400-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 23 - 16:15 Ligue 1 Stade Brestois 29 vs Metz",
+            "image": "https://allsp.org/assets/images/team/67ca90e6866821741328614.png",
+            "url": "https://vod.starxcdn.xyz/vod/live02-1763914500-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 23 - 16:15 Ligue 1 Toulouse vs Angers",
+            "image": "https://allsp.org/assets/images/team/67ca915201c1e1741328722.png",
+            "url": "https://vod.starxcdn.xyz/vod/live01-1763914500-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 23 - 16:15 Ligue 1 Nantes vs Lorient",
+            "image": "https://allsp.org/assets/images/team/67ca9151990aa1741328721.png",
+            "url": "https://vod.starxcdn.xyz/vod/pt_sporttv3-1763914500-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 23 - 15:15 La Liga Real Betis vs Girona",
+            "image": "https://allsp.org/assets/images/team/67ca915de28b31741328733.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_premiersports1-1763910900-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 23 - 14:30 Bundesliga RB Leipzig vs Werder Bremen",
+            "image": "https://allsp.org/assets/images/team/67ca90e71673f1741328615.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn0-1763908200-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 23 - 14:00 Serie A Cremonese vs AS Roma",
+            "image": "https://allsp.org/assets/images/team/67ca9164adc421741328740.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts2-1763906400-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 23 - 14:00 Premier League Leeds vs Aston Villa",
+            "image": "https://allsp.org/assets/images/team/67ca90f66e1e21741328630.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_ssepl-1763906400-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 23 - 13:00 La Liga Oviedo vs Rayo Vallecano",
+            "image": "https://allsp.org/assets/images/team/67ca916ca21991741328748.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_premiersports1-1763902800-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 23 - 11:30 Serie A Verona vs Parma",
+            "image": "https://allsp.org/assets/images/team/67ca9155ad1bc1741328725.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount1-1763897400-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
         {
             "name": "Nov 22 - 20:05 Ligue 1 Paris Saint Germain vs LE Havre",
             "image": "https://allsp.org/assets/images/team/67ca90e6535731741328614.png",
