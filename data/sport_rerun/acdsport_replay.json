@@ -2,8 +2,36 @@
     "name": "acdsport replay",
     "image": "https://acdsport.com/acd/social.jpg",
     "url": "https://dl.dropbox.com/scl/fi/2lk9rp530f3mh8sn095pu/acdsport_replay.json?rlkey=ikxvfvv3nljrwb9xervk3r9mp&st=6nqt04sc&dl=0",
-    "author": "update 24-11-2025 19:20:32",
+    "author": "update 25-11-2025 07:47:27",
     "stations": [
+        {
+            "name": "Nov 24 - 20:00 Premier League Manchester United vs Everton",
+            "image": "https://allsp.org/assets/images/team/67ca90ee3e84c1741328622.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_ssepl-1764014400-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 24 - 20:00 La Liga Espanyol vs Sevilla",
+            "image": "https://allsp.org/assets/images/team/67ca915dad7611741328733.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_premiersports1-1764014400-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 24 - 19:45 Serie A Sassuolo vs Pisa",
+            "image": "https://allsp.org/assets/images/team/67ca916377dca1741328739.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount2-1764013500-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 24 - 17:30 Serie A Torino vs Como",
+            "image": "https://allsp.org/assets/images/team/67ca9155942131741328725.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount1-1764005400-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
         {
             "name": "Nov 23 - 20:00 La Liga Elche vs Real Madrid",
             "image": "https://allsp.org/assets/images/team/67ca916d8e9261741328749.png",
