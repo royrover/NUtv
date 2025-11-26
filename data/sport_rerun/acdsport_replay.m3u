@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e9f30691741328617.png", group-title="LIVE SPORT", Nov 25 - 2000 Champions League Slavia Praha vs Athletic Club
+https://vod.starxcdn.xyz/vod/uk_bts7-1764100800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca91552c3811741328725.png", group-title="LIVE SPORT", Nov 25 - 2000 Champions League Napoli vs Qarabag
+https://vod.starxcdn.xyz/vod/uk_bts6-1764100800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e801a571741328616.png", group-title="LIVE SPORT", Nov 25 - 2000 Champions League Bodo/Glimt vs Juventus
+https://vod.starxcdn.xyz/vod/uk_bts5-1764100800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e6bea951741328614.png", group-title="LIVE SPORT", Nov 25 - 2000 Champions League Borussia Dortmund vs Villarreal
+https://vod.starxcdn.xyz/vod/uk_bts4-1764100800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca9151691e91741328721.png", group-title="LIVE SPORT", Nov 25 - 2000 Champions League Marseille vs Newcastle
+https://vod.starxcdn.xyz/vod/uk_bts2-1764100800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e603f1e1741328614.png", group-title="LIVE SPORT", Nov 25 - 2000 Champions League Manchester City vs Bayer Leverkusen
+https://vod.starxcdn.xyz/vod/uk_bts1-1764100800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90f4040541741328628.png", group-title="LIVE SPORT", Nov 25 - 2000 Champions League Chelsea vs Barcelona
+https://vod.starxcdn.xyz/vod/uk_premiersports1-1764100800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90eed3adf1741328622.png", group-title="LIVE SPORT", Nov 25 - 1745 Champions League Ajax vs Benfica
+https://vod.starxcdn.xyz/vod/uk_bts3-1764092700-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90ee3e84c1741328622.png", group-title="LIVE SPORT", Nov 24 - 2000 Premier League Manchester United vs Everton
 https://vod.starxcdn.xyz/vod/uk_ssepl-1764014400-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca915dad7611741328733.png", group-title="LIVE SPORT", Nov 24 - 2000 La Liga Espanyol vs Sevilla
