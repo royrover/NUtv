@@ -2,8 +2,20 @@
     "name": "highlights football buaksib",
     "image": "https://www.buaksib.com/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Flogo-summer.5abd78a6.png&w=256&q=75",
     "url": "",
-    "author": "update 26-11-2025 09:16:20",
+    "author": "update 26-11-2025 20:03:14",
     "stations": [
+        {
+            "name": "⚽ นาโปลี พบ คาราบัก 25.11.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/11/Napoli_Vs_Qarabag_25_11_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Napoli_Vs_Qarabag_25_11_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ ดอร์ทมุน พบ บียาร์เรอัล 25.11.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/11/Dortmund_Vs_Villarreal_25_11_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Dortmund_Vs_Villarreal_25_11_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
         {
             "name": "⚽ โอลิมปิก มาร์กเซย พบ นิวคาสเซิ่ล ยูไนเต็ด 25.11.2025 ไฮไลท์ฟุตบอล",
             "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/11/Marseille_Vs_Newcastle_25_11_25.jpg",
