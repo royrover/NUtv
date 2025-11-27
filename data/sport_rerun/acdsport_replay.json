@@ -2,8 +2,71 @@
     "name": "acdsport replay",
     "image": "https://acdsport.com/acd/social.jpg",
     "url": "https://dl.dropbox.com/scl/fi/2lk9rp530f3mh8sn095pu/acdsport_replay.json?rlkey=ikxvfvv3nljrwb9xervk3r9mp&st=6nqt04sc&dl=0",
-    "author": "update 26-11-2025 19:20:45",
+    "author": "update 27-11-2025 07:48:12",
     "stations": [
+        {
+            "name": "Nov 26 - 20:00 Champions League Olympiakos Piraeus vs Real Madrid",
+            "image": "https://allsp.org/assets/images/team/67ca90f0673e31741328624.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts5-1764187200-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 26 - 20:00 Champions League Atletico Madrid vs Inter",
+            "image": "https://allsp.org/assets/images/team/67ca90e96070e1741328617.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts6-1764187200-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 26 - 20:00 Champions League Sporting CP vs Club Brugge KV",
+            "image": "https://allsp.org/assets/images/team/67ca90e780d391741328615.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts9-1764187200-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 26 - 20:00 Champions League Eintracht Frankfurt vs Atalanta",
+            "image": "https://allsp.org/assets/images/team/67ca90eebe2ca1741328622.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts7-1764187200-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 26 - 20:00 Champions League Paris Saint Germain vs Tottenham",
+            "image": "https://allsp.org/assets/images/team/67ca90e6535731741328614.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts3-1764187200-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 26 - 20:00 Champions League Arsenal vs Bayern München",
+            "image": "https://allsp.org/assets/images/team/67ca90e5dda801741328613.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts1-1764187200-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 26 - 20:00 Champions League Liverpool vs PSV Eindhoven",
+            "image": "https://allsp.org/assets/images/team/689fc7f968c2a1755301881.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts2-1764187200-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 26 - 17:45 Champions League Pafos vs Monaco",
+            "image": "https://allsp.org/assets/images/team/67ca90f245b721741328626.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts4-1764179100-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 26 - 17:45 Champions League FC Copenhagen vs Kairat Almaty",
+            "image": "https://allsp.org/assets/images/team/67ca9178d09251741328760.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts8-1764179100-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
         {
             "name": "Nov 25 - 20:00 Champions League Slavia Praha vs Athletic Club",
             "image": "https://allsp.org/assets/images/team/67ca90e9f30691741328617.png",

@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90f0673e31741328624.png", group-title="LIVE SPORT", Nov 26 - 2000 Champions League Olympiakos Piraeus vs Real Madrid
+https://vod.starxcdn.xyz/vod/uk_bts5-1764187200-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e96070e1741328617.png", group-title="LIVE SPORT", Nov 26 - 2000 Champions League Atletico Madrid vs Inter
+https://vod.starxcdn.xyz/vod/uk_bts6-1764187200-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e780d391741328615.png", group-title="LIVE SPORT", Nov 26 - 2000 Champions League Sporting CP vs Club Brugge KV
+https://vod.starxcdn.xyz/vod/uk_bts9-1764187200-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90eebe2ca1741328622.png", group-title="LIVE SPORT", Nov 26 - 2000 Champions League Eintracht Frankfurt vs Atalanta
+https://vod.starxcdn.xyz/vod/uk_bts7-1764187200-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e6535731741328614.png", group-title="LIVE SPORT", Nov 26 - 2000 Champions League Paris Saint Germain vs Tottenham
+https://vod.starxcdn.xyz/vod/uk_bts3-1764187200-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e5dda801741328613.png", group-title="LIVE SPORT", Nov 26 - 2000 Champions League Arsenal vs Bayern München
+https://vod.starxcdn.xyz/vod/uk_bts1-1764187200-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/689fc7f968c2a1755301881.png", group-title="LIVE SPORT", Nov 26 - 2000 Champions League Liverpool vs PSV Eindhoven
+https://vod.starxcdn.xyz/vod/uk_bts2-1764187200-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90f245b721741328626.png", group-title="LIVE SPORT", Nov 26 - 1745 Champions League Pafos vs Monaco
+https://vod.starxcdn.xyz/vod/uk_bts4-1764179100-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca9178d09251741328760.png", group-title="LIVE SPORT", Nov 26 - 1745 Champions League FC Copenhagen vs Kairat Almaty
+https://vod.starxcdn.xyz/vod/uk_bts8-1764179100-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e9f30691741328617.png", group-title="LIVE SPORT", Nov 25 - 2000 Champions League Slavia Praha vs Athletic Club
 https://vod.starxcdn.xyz/vod/uk_bts7-1764100800-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca91552c3811741328725.png", group-title="LIVE SPORT", Nov 25 - 2000 Champions League Napoli vs Qarabag
