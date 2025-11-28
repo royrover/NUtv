@@ -1,4 +1,38 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/68a129933a5081755392403.png", group-title="LIVE SPORT", Nov 27 - 2000 Europa League Genk vs FC Basel 1893
+https://vod.starxcdn.xyz/vod/paramount7-1764273600-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90f0e213f1741328624.png", group-title="LIVE SPORT", Nov 27 - 2000 Europa League Panathinaikos vs Sturm Graz
+https://vod.starxcdn.xyz/vod/paramount6-1764273600-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90eacb3f81741328618.png", group-title="LIVE SPORT", Nov 27 - 2000 Europa League Maccabi Tel Aviv vs Lyon
+https://vod.starxcdn.xyz/vod/uk_bts9-1764273600-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90eab227f1741328618.png", group-title="LIVE SPORT", Nov 27 - 2000 Europa League FK Crvena Zvezda vs FCSB
+https://vod.starxcdn.xyz/vod/paramount4-1764273600-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca915de28b31741328733.png", group-title="LIVE SPORT", Nov 27 - 2000 Europa League Real Betis vs Utrecht
+https://vod.starxcdn.xyz/vod/uk_bts7-1764273600-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e918e141741328617.png", group-title="LIVE SPORT", Nov 27 - 2000 Europa League Bologna vs Red Bull Salzburg
+https://vod.starxcdn.xyz/vod/paramount2-1764273600-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e7c77d31741328615.png", group-title="LIVE SPORT", Nov 27 - 2000 Europa League Rangers vs SC Braga
+https://vod.starxcdn.xyz/vod/uk_bts3-1764273600-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90f497dc91741328628.png", group-title="LIVE SPORT", Nov 27 - 2000 Europa League Nottingham Forest vs Malmo FF
+https://vod.starxcdn.xyz/vod/uk_bts1-1764273600-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90eb1e36b1741328619.png", group-title="LIVE SPORT", Nov 27 - 1745 Europa League PAOK vs Brann
+https://vod.starxcdn.xyz/vod/paramount7-1764265500-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90eb056c51741328619.png", group-title="LIVE SPORT", Nov 27 - 1745 Europa League Fenerbahce vs Ferencvarosi TC
+https://vod.starxcdn.xyz/vod/paramount6-1764265500-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90f0b0af41741328624.png", group-title="LIVE SPORT", Nov 27 - 1745 Europa League Plzen vs SC Freiburg
+https://vod.starxcdn.xyz/vod/uk_bts8-1764265500-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90efdd70f1741328623.png", group-title="LIVE SPORT", Nov 27 - 1745 Europa League AS Roma vs FC Midtjylland
+https://vod.starxcdn.xyz/vod/uk_bts7-1764265500-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90ef106431741328623.png", group-title="LIVE SPORT", Nov 27 - 1745 Europa League FC Porto vs Nice
+https://vod.starxcdn.xyz/vod/uk_bts6-1764265500-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e74ca921741328615.png", group-title="LIVE SPORT", Nov 27 - 1745 Europa League Feyenoord vs Celtic
+https://vod.starxcdn.xyz/vod/uk_bts3-1764265500-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e63814c1741328614.png", group-title="LIVE SPORT", Nov 27 - 1745 Europa League Lille vs Dinamo Zagreb
+https://vod.starxcdn.xyz/vod/paramount2-1764265500-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e61ddc51741328614.png", group-title="LIVE SPORT", Nov 27 - 1745 Europa League Aston Villa vs BSC Young Boys
+https://vod.starxcdn.xyz/vod/uk_bts2-1764265500-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90ea308841741328618.png", group-title="LIVE SPORT", Nov 27 - 1745 Europa League Ludogorets vs Celta Vigo
+https://vod.starxcdn.xyz/vod/paramount1-1764265500-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90f0673e31741328624.png", group-title="LIVE SPORT", Nov 26 - 2000 Champions League Olympiakos Piraeus vs Real Madrid
 https://vod.starxcdn.xyz/vod/uk_bts5-1764187200-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e96070e1741328617.png", group-title="LIVE SPORT", Nov 26 - 2000 Champions League Atletico Madrid vs Inter
