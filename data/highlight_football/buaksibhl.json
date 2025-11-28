@@ -2,8 +2,20 @@
     "name": "highlights football buaksib",
     "image": "https://www.buaksib.com/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Flogo-summer.5abd78a6.png&w=256&q=75",
     "url": "",
-    "author": "update 27-11-2025 20:01:13",
+    "author": "update 28-11-2025 09:07:25",
     "stations": [
+        {
+            "name": "⚽ ราชบุรี เอฟซี พบ นัมดินห์ เอฟซี 27.11.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/11/Ratchaburi_Vs_Nam_Dinh_27_11_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Ratchaburi_Vs_Nam_Dinh_27_11_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ โปฮัง สตีลเลอร์ พบ บีจี ปทุม ยูไนเต็ด 27.11.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/11/Pohang_Vs_BG_Pathum_27_11_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Pohang_Vs_BG_Pathum_27_11_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
         {
             "name": "⚽ ปารีส แซงต์ แชร์กแมง พบ สเปอร์ส 26.11.2025 ไฮไลท์ฟุตบอล",
             "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/11/PSG_Vs_Spur_26_11_25.jpg",

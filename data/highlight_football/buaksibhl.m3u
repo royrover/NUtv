@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://newbackend.buaksib.com/wp-content/uploads/2025/11/Ratchaburi_Vs_Nam_Dinh_27_11_25.jpg", group-title="LIVE SPORT", ⚽ ราชบุรี เอฟซี พบ นัมดินห์ เอฟซี 27.11.2025 ไฮไลท์ฟุตบอล
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.buaksib.com/
+https://bdphap.com/ssd1/th/Ratchaburi_Vs_Nam_Dinh_27_11_25.mp4
+#EXTINF:-1 tvg-logo="https://newbackend.buaksib.com/wp-content/uploads/2025/11/Pohang_Vs_BG_Pathum_27_11_25.jpg", group-title="LIVE SPORT", ⚽ โปฮัง สตีลเลอร์ พบ บีจี ปทุม ยูไนเต็ด 27.11.2025 ไฮไลท์ฟุตบอล
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.buaksib.com/
+https://bdphap.com/ssd1/th/Pohang_Vs_BG_Pathum_27_11_25.mp4
 #EXTINF:-1 tvg-logo="https://newbackend.buaksib.com/wp-content/uploads/2025/11/PSG_Vs_Spur_26_11_25.jpg", group-title="LIVE SPORT", ⚽ ปารีส แซงต์ แชร์กแมง พบ สเปอร์ส 26.11.2025 ไฮไลท์ฟุตบอล
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.buaksib.com/
