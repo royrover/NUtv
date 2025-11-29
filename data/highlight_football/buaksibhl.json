@@ -2,8 +2,14 @@
     "name": "highlights football buaksib",
     "image": "https://www.buaksib.com/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Flogo-summer.5abd78a6.png&w=256&q=75",
     "url": "",
-    "author": "update 28-11-2025 19:59:28",
+    "author": "update 29-11-2025 09:07:15",
     "stations": [
+        {
+            "name": "⚽ พีที ประจวบ เอฟซี พบ การท่าเรือ เอฟซี 28.11.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/11/prachuap_Vs_Port_28_11_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/prachuap_Vs_Port_28_11_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
         {
             "name": "⚽ ราชบุรี เอฟซี พบ นัมดินห์ เอฟซี 27.11.2025 ไฮไลท์ฟุตบอล",
             "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/11/Ratchaburi_Vs_Nam_Dinh_27_11_25.jpg",
