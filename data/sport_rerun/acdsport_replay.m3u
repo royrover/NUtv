@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca915e0814a1741328734.png", group-title="LIVE SPORT", Nov 28 - 2000 La Liga Getafe vs Elche
+https://vod.starxcdn.xyz/vod/espn1-1764360000-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca91563a04b1741328726.png", group-title="LIVE SPORT", Nov 28 - 1945 Serie A Como vs Sassuolo
+https://vod.starxcdn.xyz/vod/paramount1-1764359100-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/6808f2b9b73801745416889.png", group-title="LIVE SPORT", Nov 28 - 1945 Ligue 1 Metz vs Rennes
+https://vod.starxcdn.xyz/vod/pt_sporttv3-1764359100-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca9152d24161741328722.png", group-title="LIVE SPORT", Nov 28 - 1930 Bundesliga Borussia Mönchengladbach vs RB Leipzig
+https://vod.starxcdn.xyz/vod/espn0-1764358200-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/68a129933a5081755392403.png", group-title="LIVE SPORT", Nov 27 - 2000 Europa League Genk vs FC Basel 1893
 https://vod.starxcdn.xyz/vod/paramount7-1764273600-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90f0e213f1741328624.png", group-title="LIVE SPORT", Nov 27 - 2000 Europa League Panathinaikos vs Sturm Graz

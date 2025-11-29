@@ -2,8 +2,36 @@
     "name": "acdsport replay",
     "image": "https://acdsport.com/acd/social.jpg",
     "url": "https://dl.dropbox.com/scl/fi/2lk9rp530f3mh8sn095pu/acdsport_replay.json?rlkey=ikxvfvv3nljrwb9xervk3r9mp&st=6nqt04sc&dl=0",
-    "author": "update 28-11-2025 19:19:43",
+    "author": "update 29-11-2025 07:47:22",
     "stations": [
+        {
+            "name": "Nov 28 - 20:00 La Liga Getafe vs Elche",
+            "image": "https://allsp.org/assets/images/team/67ca915e0814a1741328734.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn1-1764360000-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 28 - 19:45 Serie A Como vs Sassuolo",
+            "image": "https://allsp.org/assets/images/team/67ca91563a04b1741328726.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount1-1764359100-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 28 - 19:45 Ligue 1 Metz vs Rennes",
+            "image": "https://allsp.org/assets/images/team/6808f2b9b73801745416889.png",
+            "url": "https://vod.starxcdn.xyz/vod/pt_sporttv3-1764359100-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Nov 28 - 19:30 Bundesliga Borussia Mönchengladbach vs RB Leipzig",
+            "image": "https://allsp.org/assets/images/team/67ca9152d24161741328722.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn0-1764358200-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
         {
             "name": "Nov 27 - 20:00 Europa League Genk vs FC Basel 1893",
             "image": "https://allsp.org/assets/images/team/68a129933a5081755392403.png",
