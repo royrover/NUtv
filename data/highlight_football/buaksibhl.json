@@ -2,8 +2,38 @@
     "name": "highlights football buaksib",
     "image": "https://www.buaksib.com/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Flogo-summer.5abd78a6.png&w=256&q=75",
     "url": "",
-    "author": "update 29-11-2025 19:55:31",
+    "author": "update 30-11-2025 09:28:14",
     "stations": [
+        {
+            "name": "⚽ แมนเชสเตอร์ ซิตี้ พบ ลีดส์ ยูไนเต็ด 29.11.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/11/Man_City_Vs_Leeds_29_11_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Man_City_Vs_Leeds_29_11_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ สิงห์ เชียงราย ยูไนเต็ด พบ เมืองทอง ยูไนเต็ด 29.11.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/11/Chiangrai_Vs_Muangthong_29_11_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Chiangrai_Vs_Muangthong_29_11_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ อุทัยธานี เอฟซี พบ นครราชสีมา มาสด้า เอฟซี 29.11.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/11/Uthai_Vs_Nakhonratchasima_29_11_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Uthai_Vs_Nakhonratchasima_29_11_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ อยุธยา ยูไนเต็ด พบ ลําพูน วอริเออร์ 29.11.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/11/Ayutthaya_Vs_Lamphun_29_11_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Ayutthaya_Vs_Lamphun_29_11_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ ระยอง เอฟซี พบ ชลบุรี เอฟซี 29.11.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/11/Rayong_Vs_Chonburi_29_11_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Rayong_Vs_Chonburi_29_11_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
         {
             "name": "⚽ พีที ประจวบ เอฟซี พบ การท่าเรือ เอฟซี 28.11.2025 ไฮไลท์ฟุตบอล",
             "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/11/prachuap_Vs_Port_28_11_25.jpg",
