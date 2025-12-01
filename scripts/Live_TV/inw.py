@@ -6,27 +6,22 @@ import platform
 from urllib.parse import urljoin
 
 # ================= CONFIG =================
-DEBUG = True  # True = แสดง HTML เต็มสำหรับ debug
-
 SYSTEM = platform.system()
 if SYSTEM == "Windows":
     SAVE_DIR = os.path.dirname(os.path.abspath(__file__))
-else:  # Linux / Termux / GitHub Actions
+else:  # Linux / Termux / GitHub Action
     SAVE_DIR = os.path.join(os.getcwd(), "data/live_tv")
 
 BASE_URL = "https://inwtv.site/views.php"
 LOGIN_URL = "https://inwtv.site/login.php"
 
-# ================= CONFIG =================
-USERNAME = os.getenv("USER_INW")  # อ่านจาก environment
-PASSWORD = os.getenv("PASS_INW")  # อ่านจาก environment
+# อ่านจาก Environment Variable (GitHub Actions / Termux / Linux)
+USERNAME = os.getenv("USER_INW")
+PASSWORD = os.getenv("PASS_INW")
 
 if not USERNAME or not PASSWORD:
-    raise Exception("❌ ERROR: USER_INW or PASS_INW not set in environment")
-
-SYSTEM = platform.system()
-print(f"▶️ เริ่มสคริปต์บน {SYSTEM}")
-print(f"▶️ USERNAME: {USERNAME[:2]}*** PASSWORD: {'*'*len(PASSWORD)}")
+    print("❌ ERROR: USER_INW or PASS_INW not set in environment")
+    exit(1)
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0",
@@ -53,13 +48,6 @@ def login():
         print(f"❌ ล็อกอินไม่สำเร็จ: {e}")
         return None
 
-    # ตรวจสอบว่า login สำเร็จจริง
-    if "views.php" not in res.text and "viewep.php" not in res.text:
-        print("❌ Login failed: ไม่มีหน้า views.php หลัง login")
-        if DEBUG:
-            print(res.text[:2000])  # แสดง HTML ส่วนแรก
-        return None
-
     print("✅ ล็อกอินสำเร็จ")
     return session
 
@@ -70,11 +58,6 @@ def scrape_channels(session):
     except requests.RequestException as e:
         print(f"❌ ดึง {BASE_URL} ไม่สำเร็จ: {e}")
         return []
-
-    if DEBUG:
-        print("---DEBUG BEGIN HTML---")
-        print(res.text)  # แสดง HTML เต็ม
-        print("---DEBUG END HTML---")
 
     soup = BeautifulSoup(res.text, "html.parser")
     channels = []
@@ -139,6 +122,9 @@ def get_hls_from_check(session, check_id):
 
 # ================= MAIN =================
 if __name__ == "__main__":
+    print(f"▶️ เริ่มสคริปต์บน {SYSTEM}")
+    print(f"▶️ USERNAME: {USERNAME[:2]}*** PASSWORD: {'*'*len(PASSWORD)}")
+
     session = login()
     if not session:
         exit()
@@ -179,7 +165,3 @@ if __name__ == "__main__":
         print(f"✅ สร้างไฟล์ M3U8: {filename}")
 
     print("🎉 สคริปต์จบเรียบร้อย")
-
-
-
-
