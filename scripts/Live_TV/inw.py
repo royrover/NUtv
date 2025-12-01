@@ -7,8 +7,8 @@ from urllib.parse import urljoin
 # ================= CONFIG =================
 BASE_URL = "https://inwtv.site/views.php"
 LOGIN_URL = "https://inwtv.site/login.php"
-USERNAME = "ed0850641230"
-PASSWORD = "0850641230"
+USERNAME = user_inw
+PASSWORD = pass_inw
 HEADERS = {"User-Agent": "Mozilla/5.0"}
 M3U8_FOLDER = "m3u8_files"
 
@@ -143,3 +143,4 @@ if __name__ == "__main__":
             f.write("#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=20000000\n")
             f.write(f"{hls}\n")
         print(f"✅ สร้างไฟล์ M3U8: {filename}")
+
