@@ -2,8 +2,28 @@
     "name": "DOOKEELA Rerun",
     "image": "https://www.dropbox.com/scl/fi/0wslhpbbirva0wx4rlbzn/DKL.png?rlkey=37e1vu25obzmo5kikjkax30t7&st=7ey1fj5e&raw=1",
     "url": "",
-    "author": "update 01-12-2025 08:00:21",
+    "author": "update 01-12-2025 19:21:22",
     "stations": [
+        {
+            "name": "Chelsea vs Arsenal | Premier League (01-12-2025)",
+            "image": "https://images.dookeela2.live/1ea51f4905fd47abb43f7ba22c817198:dkl-images-storage/rerun/1764577593.jpg",
+            "url": "https://ks7jcc.cdn.akamaiz.com/rerun/พรีเมียร์ลีก อังกฤษ 2025_2026 - เชลซี v อาร์เซน่อล [30-11-2025 23_30].mp4/playlist.m3u8"
+        },
+        {
+            "name": "Crystal Palace vs Manchester United | Premier League (01-12-2025)",
+            "image": "https://images.dookeela2.live/1ea51f4905fd47abb43f7ba22c817198:dkl-images-storage/rerun/1764576378.jpg",
+            "url": "https://ks7jcc.cdn.akamaiz.com/rerun/พรีเมียร์ลีก อังกฤษ 2025_2026 - คริสตัลพาเลซ v แมนเชสเตอร์ ยูไนเต็ด [30-11-2025 19_00].mp4/playlist.m3u8"
+        },
+        {
+            "name": "West Ham vs Liverpool | Premier League (01-12-2025)",
+            "image": "https://images.dookeela2.live/1ea51f4905fd47abb43f7ba22c817198:dkl-images-storage/rerun/1764575864.jpg",
+            "url": "https://ks7jcc.cdn.akamaiz.com/rerun/พรีเมียร์ลีก อังกฤษ 2025_2026 - เวสต์แฮม ยูไนเต็ด v ลิเวอร์พูล [30-11-2025 21_05].mp4/playlist.m3u8"
+        },
+        {
+            "name": "Qatar Grand Prix 2025 (Main Race) - 01-12-2025",
+            "image": "https://images.dookeela2.live/1ea51f4905fd47abb43f7ba22c817198:dkl-images-storage/rerun/1764575473.jpg",
+            "url": "https://ks7jcc.cdn.akamaiz.com/rerun/Formula 1 - Qatar Grand Prix 2025.mp4/playlist.m3u8"
+        },
         {
             "name": "Arsenal vs Bayern Munich | UEFA Champions League (27-11-2025)",
             "image": "https://images.dookeela2.live/1ea51f4905fd47abb43f7ba22c817198:dkl-images-storage/rerun/1764270545.jpg",
