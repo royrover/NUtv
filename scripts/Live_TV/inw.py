@@ -17,13 +17,14 @@ else:  # Linux / Termux / GitHub Actions
 BASE_URL = "https://inwtv.site/views.php"
 LOGIN_URL = "https://inwtv.site/login.php"
 
-# อ่านจาก env (GitHub Actions secrets)
-USER_INW = os.getenv("USER_INW") or "ed0850641230"
-PASS_INW = os.getenv("PASS_INW") or "0850641230"
+# ================= CONFIG =================
+USERNAME = os.getenv("USER_INW")  # อ่านจาก environment
+PASSWORD = os.getenv("PASS_INW")  # อ่านจาก environment
 
-if not USER_INW or not PASS_INW:
+if not USERNAME or not PASSWORD:
     raise Exception("❌ ERROR: USER_INW or PASS_INW not set in environment")
 
+SYSTEM = platform.system()
 print(f"▶️ เริ่มสคริปต์บน {SYSTEM}")
 print(f"▶️ USERNAME: {USERNAME[:2]}*** PASSWORD: {'*'*len(PASSWORD)}")
 
@@ -178,6 +179,7 @@ if __name__ == "__main__":
         print(f"✅ สร้างไฟล์ M3U8: {filename}")
 
     print("🎉 สคริปต์จบเรียบร้อย")
+
 
 
 
