@@ -28,7 +28,7 @@ jobs:
           user_inw: ${{ secrets.INW_USER }}
           pass_inw: ${{ secrets.INW_PASS }}
         run: |
-          python python scripts/Live_tv/inw.py
+          python python scripts/Live_TV/inw.py
 
       # ===== Auto commit ผลลัพธ์ =====
       - name: Commit & Push updated files
