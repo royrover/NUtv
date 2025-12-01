@@ -24,9 +24,9 @@ jobs:
 
       # ===== ดึงค่า USERNAME/PASSWORD จาก Secrets =====
       - name: Run scraper
-        env:
-          user_inw: ${{ secrets.INW_USER }}
-          pass_inw: ${{ secrets.INW_PASS }}
+      env:
+        USER_INW: ${{ secrets.INW_USER }}
+        PASS_INW: ${{ secrets.INW_PASS }}
         run: |
           python scripts/Live_TV/inw.py
 
