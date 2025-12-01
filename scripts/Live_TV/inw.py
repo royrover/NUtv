@@ -16,8 +16,8 @@ BASE_URL = "https://inwtv.site/views.php"
 LOGIN_URL = "https://inwtv.site/login.php"
 
 # อ่านจาก GitHub Actions Secrets
-USERNAME = "ed0850641230"
-PASSWORD = "0850641230"
+USERNAME = os.getenv("USER_INW")
+PASSWORD = os.getenv("PASS_INW")
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0",
@@ -166,4 +166,5 @@ if __name__ == "__main__":
         print(f"✅ สร้างไฟล์ M3U8: {filename}")
 
     print("🎉 สคริปต์จบเรียบร้อย")
+
 
