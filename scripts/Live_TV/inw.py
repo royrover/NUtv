@@ -19,21 +19,24 @@ LOGIN_URL = "https://inwtv.site/login.php"
 USERNAME = os.getenv("USER_INW")
 PASSWORD = os.getenv("PASS_INW")
 
-HEADERS = {"User-Agent": "Mozilla/5.0"}
-M3U8_FOLDER = os.path.join(SAVE_DIR, "m3u8_files")
+HEADERS = {
+    "User-Agent": "Mozilla/5.0",
+    "Accept-Language": "en-US,en;q=0.9",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+}
 
+M3U8_FOLDER = os.path.join(SAVE_DIR, "m3u8_files")
 os.makedirs(M3U8_FOLDER, exist_ok=True)
 
 # ================= HELPER =================
 def sanitize_filename(name):
     """ลบอักขระไม่อนุญาตในชื่อไฟล์"""
-    name = name.replace("Play ", "")  # 🔥 เอา Play ออก
+    name = name.replace("Play ", "")
     return re.sub(r'[<>:"/\\|?*]', "_", name).strip()
 
 def login():
     session = requests.Session()
     payload = {"username": USERNAME, "password": PASSWORD, "remember": "1"}
-
     try:
         res = session.post(LOGIN_URL, data=payload, headers=HEADERS, timeout=10)
         res.raise_for_status()
@@ -52,6 +55,11 @@ def scrape_channels(session):
         print(f"❌ ดึง {BASE_URL} ไม่สำเร็จ: {e}")
         return []
 
+    # 🔥 DEBUG: แสดง HTML ต้นฉบับ 1000 ตัวแรก
+    print("---DEBUG BEGIN HTML---")
+    print(res.text[:1000])
+    print("---DEBUG END HTML---")
+
     soup = BeautifulSoup(res.text, "html.parser")
     channels = []
 
@@ -59,7 +67,6 @@ def scrape_channels(session):
         title = card.get("data-title", "").strip()
         onclick = card.get("onclick", "")
         id_match = re.search(r"id=(\d+)", onclick)
-
         if id_match:
             ch_id = id_match.group(1)
             channels.append({
@@ -87,7 +94,6 @@ def scrape_subchannels(session, viewep_url):
         title = h5_tag.get_text(strip=True) if h5_tag else "NoTitle"
         onclick = card.get("onclick", "")
         id_match = re.search(r"ReadID\((\d+)\)", onclick)
-
         if id_match:
             subchannels.append({"title": title, "id": id_match.group(1)})
 
@@ -95,7 +101,6 @@ def scrape_subchannels(session, viewep_url):
 
 def get_hls_from_check(session, check_id):
     check_url = f"https://inwtv.site/check.php?id={check_id}"
-
     try:
         res = session.get(check_url, headers=HEADERS, timeout=10)
         res.raise_for_status()
@@ -118,6 +123,9 @@ def get_hls_from_check(session, check_id):
 
 # ================= MAIN =================
 if __name__ == "__main__":
+    print(f"▶️ เริ่มสคริปต์บน {SYSTEM}")
+    print(f"▶️ USERNAME: {USERNAME[:2]}*** PASSWORD: {'*'*len(PASSWORD) if PASSWORD else ''}")
+
     session = login()
     if not session:
         exit()
@@ -129,7 +137,6 @@ if __name__ == "__main__":
 
     for ch in channels:
         subs = scrape_subchannels(session, ch["url"])
-
         for sub in subs:
             safe_title = sanitize_filename(sub["title"])
             name_counter[safe_title] = name_counter.get(safe_title, 0) + 1
@@ -143,13 +150,12 @@ if __name__ == "__main__":
             continue
 
         safe_title = sanitize_filename(sub["title"])
-
         if name_counter[safe_title] > 1:
             created_counter[safe_title] = created_counter.get(safe_title, 0) + 1
             idx = created_counter[safe_title]
-            filename = f"{M3U8_FOLDER}/{safe_title}_{idx}.m3u8"
+            filename = os.path.join(M3U8_FOLDER, f"{safe_title}_{idx}.m3u8")
         else:
-            filename = f"{M3U8_FOLDER}/{safe_title}.m3u8"
+            filename = os.path.join(M3U8_FOLDER, f"{safe_title}.m3u8")
 
         with open(filename, "w", encoding="utf-8") as f:
             f.write("#EXTM3U\n")
@@ -159,5 +165,4 @@ if __name__ == "__main__":
 
         print(f"✅ สร้างไฟล์ M3U8: {filename}")
 
-
-
+    print("🎉 สคริปต์จบเรียบร้อย")
