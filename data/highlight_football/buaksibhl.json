@@ -2,8 +2,44 @@
     "name": "highlights football buaksib",
     "image": "https://www.buaksib.com/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Flogo-summer.5abd78a6.png&w=256&q=75",
     "url": "",
-    "author": "update 30-11-2025 19:54:56",
+    "author": "update 01-12-2025 09:37:34",
     "stations": [
+        {
+            "name": "⚽ เชลซี พบ อาร์เซน่อล 30.11.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/12/Chelsea_Vs_Arsenal_30_11_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Chelsea_Vs_Arsenal_30_11_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ แอสตัน วิลล่า พบ วูล์ฟแฮมป์ตัน 30.11.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/11/Villa_Vs_Wolver_30_11_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Villa_Vs_Wolver_30_11_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ เวสต์แฮม ยูไนเต็ด พบ ลิเวอร์พูล 30.11.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/11/Westham_Vs_Liverpool_30_11_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Westham_Vs_Liverpool_30_11_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ บุรีรัมย์ ยูไนเต็ด พบ ราชบุรี เอฟซี 30.11.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/11/Buriram_Vs_Ratchaburi_30_11_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Buriram_Vs_Ratchaburi_30_11_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ คริสตัล พาเลซ พบ แมนเชสเตอร์ ยูไนเต็ด 30.11.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/11/Palace_Vs_Man_United_30_11_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Palace_Vs_Man_United_30_11_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ สุโขทัย เอฟซี พบ ทรู แบงค็อก ยูไนเต็ด 30.11.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/11/Sukhothai_Vs_True_Bangkok_30_11_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Sukhothai_Vs_True_Bangkok_30_11_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
         {
             "name": "⚽ สเปอร์ส พบ ฟูแล่ม 29.11.2025 ไฮไลท์ฟุตบอล",
             "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/11/Spur_Vs_Fulham_29_11_25.jpg",
