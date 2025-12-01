@@ -5,12 +5,19 @@ import re
 from urllib.parse import urljoin
 
 # ================= CONFIG =================
+SYSTEM = platform.system()
+if SYSTEM == "Windows":
+    SAVE_DIR = os.path.dirname(os.path.abspath(__file__))
+else:  # Linux / Termux / GitHub
+    SAVE_DIR = os.path.join(os.getcwd(), "data/live_tv")
+
+# ================= CONFIG =================
 BASE_URL = "https://inwtv.site/views.php"
 LOGIN_URL = "https://inwtv.site/login.php"
 USERNAME = user_inw
 PASSWORD = pass_inw
 HEADERS = {"User-Agent": "Mozilla/5.0"}
-M3U8_FOLDER = "m3u8_files"
+M3U8_FOLDER = SAVE_DIR.
 
 os.makedirs(M3U8_FOLDER, exist_ok=True)
 
@@ -143,4 +150,5 @@ if __name__ == "__main__":
             f.write("#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=20000000\n")
             f.write(f"{hls}\n")
         print(f"✅ สร้างไฟล์ M3U8: {filename}")
+
 
