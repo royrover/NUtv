@@ -3,7 +3,7 @@ name: INWTV Scraper
 on:
   schedule:
     - cron: "0 */4 * * *"    # รันทุก 4 ชม. เริ่ม 00:00
-  workflow_dispatch:         # เผื่อกดรันเองได้
+  workflow_dispatch:
 
 jobs:
   run-scraper:
@@ -22,15 +22,13 @@ jobs:
         run: |
           pip install requests beautifulsoup4
 
-      # ===== ดึงค่า USERNAME/PASSWORD จาก Secrets =====
       - name: Run scraper
-      env:
-        USER_INW: ${{ secrets.INW_USER }}
-        PASS_INW: ${{ secrets.INW_PASS }}
+        env:
+          USER_INW: ${{ secrets.INW_USER }}
+          PASS_INW: ${{ secrets.INW_PASS }}
         run: |
           python scripts/Live_TV/inw.py
 
-      # ===== Auto commit ผลลัพธ์ =====
       - name: Commit & Push updated files
         run: |
           git config --global user.name "github-actions"
