@@ -18,8 +18,8 @@ BASE_URL = "https://inwtv.site/views.php"
 LOGIN_URL = "https://inwtv.site/login.php"
 
 # อ่านจาก env (GitHub Actions secrets)
-USERNAME = os.environ.get("USER_INW")
-PASSWORD = os.environ.get("PASS_INW")
+USER_INW = os.getenv("USER_INW") or "ed0850641230"
+PASS_INW = os.getenv("PASS_INW") or "0850641230"
 
 if not USERNAME or not PASSWORD:
     print("❌ ERROR: USER_INW or PASS_INW not set in environment")
@@ -179,4 +179,5 @@ if __name__ == "__main__":
         print(f"✅ สร้างไฟล์ M3U8: {filename}")
 
     print("🎉 สคริปต์จบเรียบร้อย")
+
 
