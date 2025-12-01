@@ -57,7 +57,7 @@ def scrape_channels(session):
 
     # 🔥 DEBUG: แสดง HTML ต้นฉบับ 1000 ตัวแรก
     print("---DEBUG BEGIN HTML---")
-    print(res.text[:1000])
+    print(res.text)
     print("---DEBUG END HTML---")
 
     soup = BeautifulSoup(res.text, "html.parser")
@@ -166,5 +166,6 @@ if __name__ == "__main__":
         print(f"✅ สร้างไฟล์ M3U8: {filename}")
 
     print("🎉 สคริปต์จบเรียบร้อย")
+
 
 
