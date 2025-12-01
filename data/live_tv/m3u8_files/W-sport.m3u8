@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=20000000
+https://lsv2.inwstream.com/transcoder_F1/hitsmovies_inwiptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDI1IDc6NDU6NDMgQU0maGFzaF92YWx1ZT1pSkI4QjRFL0xFczlKbG5JZmp4RklnPT0mdmFsaWRtaW51dGVzPTI=
