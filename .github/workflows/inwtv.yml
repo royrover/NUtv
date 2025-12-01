@@ -1,0 +1,40 @@
+name: INWTV Scraper
+
+on:
+  schedule:
+    - cron: "0 */4 * * *"    # รันทุก 4 ชม. เริ่ม 00:00
+  workflow_dispatch:         # เผื่อกดรันเองได้
+
+jobs:
+  run-scraper:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install requests beautifulsoup4
+
+      # ===== ดึงค่า USERNAME/PASSWORD จาก Secrets =====
+      - name: Run scraper
+        env:
+          user_inw: ${{ secrets.INW_USER }}
+          pass_inw: ${{ secrets.INW_PASS }}
+        run: |
+          python inw.py
+
+      # ===== Auto commit ผลลัพธ์ =====
+      - name: Commit & Push updated files
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add -A
+          git commit -m "Auto update M3U8 files" || echo "No changes to commit."
+          git push
