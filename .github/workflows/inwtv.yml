@@ -36,3 +36,4 @@ jobs:
           git add -A
           git commit -m "Auto update M3U8 files" || echo "No changes to commit."
           git push
+          
