@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca915e5362f1741328734.png", group-title="LIVE SPORT", Dec 01 - 2000 La Liga Rayo Vallecano vs Valencia
+https://vod.starxcdn.xyz/vod/uk_premiersports1-1764619200-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e918e141741328617.png", group-title="LIVE SPORT", Dec 01 - 1945 Serie A Bologna vs Cremonese
+https://vod.starxcdn.xyz/vod/paramount1-1764618300-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e98fd451741328617.png", group-title="LIVE SPORT", Nov 30 - 2000 La Liga Girona vs Real Madrid
 https://vod.starxcdn.xyz/vod/uk_premiersports1-1764532800-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90efdd70f1741328623.png", group-title="LIVE SPORT", Nov 30 - 1945 Serie A AS Roma vs Napoli
