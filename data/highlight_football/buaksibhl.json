@@ -2,8 +2,32 @@
     "name": "highlights football buaksib",
     "image": "https://www.buaksib.com/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Flogo-summer.5abd78a6.png&w=256&q=75",
     "url": "",
-    "author": "update 03-12-2025 09:18:10",
+    "author": "update 03-12-2025 20:04:14",
     "stations": [
+        {
+            "name": "⚽ ฟูแล่ม พบ แมนเชสเตอร์ ซิตี้ 02.12.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/12/Fulham_Vs_Man_City_02_12_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Fulham_Vs_Man_City_02_12_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ บอร์นมัธ พบ เอฟเวอร์ตัน 02.12.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/12/Bournemouth_Vs_Everton_02_12_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Bournemouth_Vs_Everton_02_12_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ บาร์เซโลน่า พบ แอตเลติโก มาดริด 02.12.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/12/Barcelona_Vs_Atletico_02_12_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Barcelona_Vs_Atletico_02_12_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ นิวคาสเซิ่ล ยูไนเต็ด พบ สเปอร์ส 02.12.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/12/Newcastle_Vs_Spurs_02_12_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Newcastle_Vs_Spurs_02_12_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
         {
             "name": "⚽ เชลซี พบ อาร์เซน่อล 30.11.2025 ไฮไลท์ฟุตบอล",
             "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/12/Chelsea_Vs_Arsenal_30_11_25.jpg",
