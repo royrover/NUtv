@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90f30f54f1741328627.png", group-title="LIVE SPORT", Dec 02 - 2015 Premier League Newcastle vs Tottenham
+https://vod.starxcdn.xyz/vod/uk_ssepl-1764706500-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e948da41741328617.png", group-title="LIVE SPORT", Dec 02 - 2000 La Liga Barcelona vs Atletico Madrid
+https://vod.starxcdn.xyz/vod/uk_premiersports1-1764705600-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90f346b741741328627.png", group-title="LIVE SPORT", Dec 02 - 1930 Premier League Fulham vs Manchester City
+https://vod.starxcdn.xyz/vod/epl_ful-1764703800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90f32cdf41741328627.png", group-title="LIVE SPORT", Dec 02 - 1930 Premier League Bournemouth vs Everton
+https://vod.starxcdn.xyz/vod/epl_bou-1764703800-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca915e5362f1741328734.png", group-title="LIVE SPORT", Dec 01 - 2000 La Liga Rayo Vallecano vs Valencia
 https://vod.starxcdn.xyz/vod/uk_premiersports1-1764619200-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e918e141741328617.png", group-title="LIVE SPORT", Dec 01 - 1945 Serie A Bologna vs Cremonese

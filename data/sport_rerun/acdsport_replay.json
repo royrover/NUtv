@@ -2,8 +2,36 @@
     "name": "acdsport replay",
     "image": "https://acdsport.com/acd/social.jpg",
     "url": "https://dl.dropbox.com/scl/fi/2lk9rp530f3mh8sn095pu/acdsport_replay.json?rlkey=ikxvfvv3nljrwb9xervk3r9mp&st=6nqt04sc&dl=0",
-    "author": "update 02-12-2025 19:21:57",
+    "author": "update 03-12-2025 07:50:27",
     "stations": [
+        {
+            "name": "Dec 02 - 20:15 Premier League Newcastle vs Tottenham",
+            "image": "https://allsp.org/assets/images/team/67ca90f30f54f1741328627.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_ssepl-1764706500-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 02 - 20:00 La Liga Barcelona vs Atletico Madrid",
+            "image": "https://allsp.org/assets/images/team/67ca90e948da41741328617.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_premiersports1-1764705600-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 02 - 19:30 Premier League Fulham vs Manchester City",
+            "image": "https://allsp.org/assets/images/team/67ca90f346b741741328627.png",
+            "url": "https://vod.starxcdn.xyz/vod/epl_ful-1764703800-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 02 - 19:30 Premier League Bournemouth vs Everton",
+            "image": "https://allsp.org/assets/images/team/67ca90f32cdf41741328627.png",
+            "url": "https://vod.starxcdn.xyz/vod/epl_bou-1764703800-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
         {
             "name": "Dec 01 - 20:00 La Liga Rayo Vallecano vs Valencia",
             "image": "https://allsp.org/assets/images/team/67ca915e5362f1741328734.png",
