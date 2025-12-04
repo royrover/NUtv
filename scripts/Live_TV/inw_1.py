@@ -1,11 +1,12 @@
 from pathlib import Path
 import re
+import os
 import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
 
 # ===== CONFIG PATH =====
-PROJECT_ROOT = Path(file).resolve().parent.parent.parent  # ../../.. จากไฟล์ inw.py
+PROJECT_ROOT = Path(__file__).resolve().parent.parent.parent  # ../../..
 BASE_DIR = PROJECT_ROOT / "data" / "livetv"
 M3U8_FOLDER = BASE_DIR / "m3u8_file"
 M3U8_FOLDER.mkdir(parents=True, exist_ok=True)
