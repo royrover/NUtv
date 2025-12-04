@@ -1,4 +1,18 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90f66e1e21741328630.png", group-title="LIVE SPORT", Dec 03 - 2015 Premier League Leeds vs Chelsea
+https://vod.starxcdn.xyz/vod/uk_ssepl-1764792900-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/689fc7f968c2a1755301881.png", group-title="LIVE SPORT", Dec 03 - 2015 Premier League Liverpool vs Sunderland
+https://vod.starxcdn.xyz/vod/uk_ssfb-1764792900-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90f41da851741328628.png", group-title="LIVE SPORT", Dec 03 - 1930 Premier League Brighton vs Aston Villa
+https://vod.starxcdn.xyz/vod/epl_bra-1764790200-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90f5466a01741328629.png", group-title="LIVE SPORT", Dec 03 - 1930 Premier League Burnley vs Crystal Palace
+https://vod.starxcdn.xyz/vod/epl_bly-1764790200-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e5dda801741328613.png", group-title="LIVE SPORT", Dec 03 - 1930 Premier League Arsenal vs Brentford
+https://vod.starxcdn.xyz/vod/epl_ars-1764790200-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90f3647c21741328627.png", group-title="LIVE SPORT", Dec 03 - 1930 Premier League Wolves vs Nottingham Forest
+https://vod.starxcdn.xyz/vod/epl_wol-1764790200-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90f001f0f1741328624.png", group-title="LIVE SPORT", Dec 03 - 1800 La Liga Athletic Club vs Real Madrid
+https://vod.starxcdn.xyz/vod/uk_premiersports2-1764784800-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90f30f54f1741328627.png", group-title="LIVE SPORT", Dec 02 - 2015 Premier League Newcastle vs Tottenham
 https://vod.starxcdn.xyz/vod/uk_ssepl-1764706500-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e948da41741328617.png", group-title="LIVE SPORT", Dec 02 - 2000 La Liga Barcelona vs Atletico Madrid

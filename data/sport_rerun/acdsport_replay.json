@@ -2,8 +2,57 @@
     "name": "acdsport replay",
     "image": "https://acdsport.com/acd/social.jpg",
     "url": "https://dl.dropbox.com/scl/fi/2lk9rp530f3mh8sn095pu/acdsport_replay.json?rlkey=ikxvfvv3nljrwb9xervk3r9mp&st=6nqt04sc&dl=0",
-    "author": "update 03-12-2025 19:21:06",
+    "author": "update 04-12-2025 07:50:47",
     "stations": [
+        {
+            "name": "Dec 03 - 20:15 Premier League Leeds vs Chelsea",
+            "image": "https://allsp.org/assets/images/team/67ca90f66e1e21741328630.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_ssepl-1764792900-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 03 - 20:15 Premier League Liverpool vs Sunderland",
+            "image": "https://allsp.org/assets/images/team/689fc7f968c2a1755301881.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_ssfb-1764792900-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 03 - 19:30 Premier League Brighton vs Aston Villa",
+            "image": "https://allsp.org/assets/images/team/67ca90f41da851741328628.png",
+            "url": "https://vod.starxcdn.xyz/vod/epl_bra-1764790200-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 03 - 19:30 Premier League Burnley vs Crystal Palace",
+            "image": "https://allsp.org/assets/images/team/67ca90f5466a01741328629.png",
+            "url": "https://vod.starxcdn.xyz/vod/epl_bly-1764790200-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 03 - 19:30 Premier League Arsenal vs Brentford",
+            "image": "https://allsp.org/assets/images/team/67ca90e5dda801741328613.png",
+            "url": "https://vod.starxcdn.xyz/vod/epl_ars-1764790200-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 03 - 19:30 Premier League Wolves vs Nottingham Forest",
+            "image": "https://allsp.org/assets/images/team/67ca90f3647c21741328627.png",
+            "url": "https://vod.starxcdn.xyz/vod/epl_wol-1764790200-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 03 - 18:00 La Liga Athletic Club vs Real Madrid",
+            "image": "https://allsp.org/assets/images/team/67ca90f001f0f1741328624.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_premiersports2-1764784800-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
         {
             "name": "Dec 02 - 20:15 Premier League Newcastle vs Tottenham",
             "image": "https://allsp.org/assets/images/team/67ca90f30f54f1741328627.png",
