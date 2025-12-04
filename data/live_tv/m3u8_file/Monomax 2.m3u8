@@ -1,3 +1,4 @@
 #EXTM3U
-#EXTINF:-1,Monomax 2
-https://lsv1.inwstream.com/transcoder_F1/aismonomaxsports2_inwiptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDI1IDM6NTE6NTQgQU0maGFzaF92YWx1ZT1paWl3UVFKSXJoTm5rR0lNZTZMYlpRPT0mdmFsaWRtaW51dGVzPTI=
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=20000000
+https://lsv2.inwstream.com/transcoder_F1/aismonomaxsports2_inwiptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDI1IDQ6MDQ6MzEgQU0maGFzaF92YWx1ZT16cXE5aXIyanUwWTFMZ0lLMW1ib3lBPT0mdmFsaWRtaW51dGVzPTI=

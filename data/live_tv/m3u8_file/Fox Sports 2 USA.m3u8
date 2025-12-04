@@ -1,3 +1,4 @@
 #EXTM3U
-#EXTINF:-1,Fox Sports 2 USA
-https://lsv2.inwstream.com/transcoder_F2/foxus2_fwiptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDI1IDM6NTI6NTkgQU0maGFzaF92YWx1ZT16WEk1eVB6U1RNVG5RdHpHZ3IyMzBnPT0mdmFsaWRtaW51dGVzPTI=
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=20000000
+https://lsv1.inwstream.com/transcoder_F2/foxus2_fwiptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDI1IDQ6MDU6MzcgQU0maGFzaF92YWx1ZT14V3RmNzBtdEx5WVhGVTExU0JNVnBnPT0mdmFsaWRtaW51dGVzPTI=

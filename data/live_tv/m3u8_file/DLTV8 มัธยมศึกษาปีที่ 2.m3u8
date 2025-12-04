@@ -1,3 +1,4 @@
 #EXTM3U
-#EXTINF:-1,DLTV8 มัธยมศึกษาปีที่ 2
-https://cdn-live.dltv.ac.th/smil:origin02-dltv-08-adaptive.smil/chunklist_w573609698_b3128000_slth.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDI1IDM6NTI6MjggQU0maGFzaF92YWx1ZT1yWjdyeGJ5dGVLU2hlWmJlQVJ1WjFBPT0mdmFsaWRtaW51dGVzPTI=
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=20000000
+https://cdn-live.dltv.ac.th/smil:origin02-dltv-08-adaptive.smil/chunklist_w573609698_b3128000_slth.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDI1IDQ6MDU6MDUgQU0maGFzaF92YWx1ZT1qUE5ad1VKZWYwZGFaK25BcXJhT3hRPT0mdmFsaWRtaW51dGVzPTI=

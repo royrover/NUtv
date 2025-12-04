@@ -1,3 +1,4 @@
 #EXTM3U
-#EXTINF:-1,Sky Sports +
-https://lsv1.inwstream.com/transcoder_F2/skysportarena_fwiptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDI1IDM6NTI6NTQgQU0maGFzaF92YWx1ZT1Za2NsRWNPQlZ2T0hUcU15NzVOdFBBPT0mdmFsaWRtaW51dGVzPTI=
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=20000000
+https://lsv2.inwstream.com/transcoder_F2/skysportarena_fwiptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDI1IDQ6MDU6MzMgQU0maGFzaF92YWx1ZT1wMEhSZXYyTDRxSWVta3NLOVU3OVZ3PT0mdmFsaWRtaW51dGVzPTI=

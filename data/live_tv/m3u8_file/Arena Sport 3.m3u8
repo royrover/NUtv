@@ -1,3 +1,4 @@
 #EXTM3U
-#EXTINF:-1,Arena Sport 3
-https://lsv2.inwstream.com/transcoder_F2/arena3_fwiptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDI1IDM6NTI6NTEgQU0maGFzaF92YWx1ZT1WemhBQ2ZxL1pGZ3lnZVpaVzB1WHpRPT0mdmFsaWRtaW51dGVzPTI=
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=20000000
+https://lsv2.inwstream.com/transcoder_F2/arena3_fwiptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDI1IDQ6MDU6MjkgQU0maGFzaF92YWx1ZT1iQllwVmxXWFU4NklhVXRQeTUrNXdnPT0mdmFsaWRtaW51dGVzPTI=

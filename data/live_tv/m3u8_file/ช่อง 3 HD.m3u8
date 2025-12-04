@@ -1,3 +1,4 @@
 #EXTM3U
-#EXTINF:-1,ช่อง 3 HD
-https://lsv2.inwstream.com/transcoder_F3/dtv33_ch3hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDI1IDM6NTI6MTEgQU0maGFzaF92YWx1ZT1oYUx1UFBhRVZoNk9FcFI4NHUvVU9nPT0mdmFsaWRtaW51dGVzPTI=
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=20000000
+https://lsv1.inwstream.com/transcoder_F3/dtv33_ch3hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDI1IDQ6MDQ6NDggQU0maGFzaF92YWx1ZT1tTnBKNTlXaDlPekdFUzlIOUdmbExRPT0mdmFsaWRtaW51dGVzPTI=

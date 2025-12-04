@@ -1,3 +1,4 @@
 #EXTM3U
-#EXTINF:-1,beIN SPORTS 4
-https://lsv1.inwstream.com/transcoder_F1/true_bein4_inwiptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDI1IDM6NTE6NTggQU0maGFzaF92YWx1ZT1WODk3TUJyUG45c2FpNE1LdHVqYmJnPT0mdmFsaWRtaW51dGVzPTI=
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=20000000
+https://lsv1.inwstream.com/transcoder_F1/true_bein4_inwiptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDI1IDQ6MDQ6MzQgQU0maGFzaF92YWx1ZT0xTHc0M3BpTjhUUlczWEM4UzRFcWN3PT0mdmFsaWRtaW51dGVzPTI=
