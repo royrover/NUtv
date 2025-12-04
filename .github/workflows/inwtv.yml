@@ -27,7 +27,7 @@ jobs:
           USER_INW: ${{ secrets.USER_INW }}
           PASS_INW: ${{ secrets.PASS_INW }}
         run: |
-          python scripts/Live_TV/inw.py
+          python scripts/Live_TV/inw_1.py
 
       - name: Commit & Push updated files
         run: |
