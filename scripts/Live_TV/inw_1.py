@@ -7,7 +7,7 @@ from urllib.parse import urljoin
 
 # ===== CONFIG PATH =====
 PROJECT_ROOT = Path(__file__).resolve().parent.parent.parent  # ../../..
-BASE_DIR = PROJECT_ROOT / "data" / "livetv"
+BASE_DIR = PROJECT_ROOT / "data" / "live_tv"
 M3U8_FOLDER = BASE_DIR / "m3u8_file"
 M3U8_FOLDER.mkdir(parents=True, exist_ok=True)
 
