@@ -2,8 +2,38 @@
     "name": "highlights football buaksib",
     "image": "https://www.buaksib.com/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Flogo-summer.5abd78a6.png&w=256&q=75",
     "url": "",
-    "author": "update 03-12-2025 20:04:14",
+    "author": "update 04-12-2025 09:18:59",
     "stations": [
+        {
+            "name": "⚽ ลีดส์ ยูไนเต็ด พบ เชลซี 03.12.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/12/Leeds_Vs_Chelsea_03_12_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Leeds_Vs_Chelsea_03_12_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ ลิเวอร์พูล พบ ซันเดอร์แลนด์ 03.12.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/12/Liverpool_Vs_Sunderland_03_12_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Liverpool_Vs_Sunderland_03_12_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ บุรีรัมย์ ยูไนเต็ด พบ กง อัน ฮานอย 03.12.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/12/Buriram_Vs_Cong_An_03_12_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Buriram_Vs_Cong_An_03_12_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ แทมปิเนส โรเวอร์ส พบ บีจี ปทุม ยูไนเต็ด 03.12.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/12/Tampines_Vs_BG_Pathum_03_12_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Tampines_Vs_BG_Pathum_03_12_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ ทีมชาติติมอร์ เลสเต พบ ทีมชาติไทย 03.12.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/12/Thai.jpg",
+            "url": "https://bdphap.com/ssd1/th/Timor_Vs_Thai_03_12_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
         {
             "name": "⚽ ฟูแล่ม พบ แมนเชสเตอร์ ซิตี้ 02.12.2025 ไฮไลท์ฟุตบอล",
             "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/12/Fulham_Vs_Man_City_02_12_25.jpg",
