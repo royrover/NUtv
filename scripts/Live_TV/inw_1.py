@@ -132,40 +132,34 @@ for main_cat, subcats in category_urls.items():
 
 
 # ===== WRITE M3U8 =====
-# STEP 4: CREATE M3U8 FILES
-print("=== สร้างไฟล์ M3U8 ===")
+print("\n=== สร้างไฟล์ M3U8 ===")
 
-count_written = 0
+count = 0
 
-for main_cat, subcats in channels_by_category.items():
-    for sub_name, ch_dict in subcats.items():
-        for ch_name, ch_id in ch_dict.items():
+for main_cat, subcats in channels.items():
+    for sub_name, ch_list in subcats.items():
+        for ch_name, ch_id in ch_list.items():
 
-            safe = sanitize_filename(ch_name)
             hls = get_hls_from_check(session, ch_id)
-
             if not hls:
                 print(f"❌ ไม่มี HLS: {ch_name}")
                 continue
 
-            file_path = M3U8_FOLDER / f"{safe}.m3u8"
-
-            # 🔥 คืนรูปแบบ logic M3U8 ตามที่คุณณุเขียนไว้เดิม
-            content = (
-                "#EXTM3U\n"
-                "#EXT-X-VERSION:3\n"
-                "#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=20000000\n"
-                f"{hls}\n"
-            )
+            fname = sanitize_filename(ch_name) + ".m3u8"
+            fpath = M3U8_FOLDER / fname
 
             try:
-                with open(file_path, "w", encoding="utf-8") as f:
-                    f.write(content)
+                with open(fpath, "w", encoding="utf-8") as f:
+                    f.write("#EXTM3U\n")
+                    f.write("#EXT-X-VERSION:3\n")
+                    f.write("#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=20000000\n")
+                    f.write(f"{hls}\n")
 
-                print(f"✅ เขียนไฟล์: {file_path.name}")
-                count_written += 1
+                print("✅ เขียนไฟล์:", fname)
+                count += 1
 
             except Exception as e:
-                print(f"❌ เขียนไฟล์ไม่สำเร็จ {file_path}: {e}")
+                print(f"❌ เขียนไฟล์ล้มเหลว {fname}: {e}")
 
-print(f"\n🎉 สร้างไฟล์ M3U8 สำเร็จทั้งหมด {count_written} ไฟล์")
+print(f"\n🎉 เขียนไฟล์ M3U8 ทั้งหมด {count} ไฟล์สำเร็จ")
+
