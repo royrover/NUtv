@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=20000000
-https://lsv2.inwstream.com/transcoder_F1/truesports4_inwiptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDI1IDEyOjU1OjM1IEFNJmhhc2hfdmFsdWU9dFYzU0ZhK3dtTVJ5VlZZV1hvcDhMdz09JnZhbGlkbWludXRlcz0y
+https://lsv1.inwstream.com/transcoder_F1/truesports4_inwiptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDI1IDQ6MjE6MjUgQU0maGFzaF92YWx1ZT1iS1NhRG5sTlpWVTl2UnFtTDdpQlR3PT0mdmFsaWRtaW51dGVzPTI=
