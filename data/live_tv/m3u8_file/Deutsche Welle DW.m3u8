@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=20000000
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDI1IDg6MTc6MzMgQU0maGFzaF92YWx1ZT01MmphRHpNM01SSVVTQkJZTFNSR25RPT0mdmFsaWRtaW51dGVzPTI=
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDI1IDEyOjIzOjQ1IFBNJmhhc2hfdmFsdWU9Wmp3QTRsc2toZUt6NG5XRVFHN0VCQT09JnZhbGlkbWludXRlcz0y

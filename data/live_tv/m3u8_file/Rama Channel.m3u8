@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=20000000
-https://ramach.ddns.net/live/ramalive/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDI1IDg6MTc6MjkgQU0maGFzaF92YWx1ZT00aVF1cVBKUEwzdXNwRWlBbVNIaHBRPT0mdmFsaWRtaW51dGVzPTI=
+https://ramach.ddns.net/live/ramalive/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDI1IDEyOjIzOjQyIFBNJmhhc2hfdmFsdWU9S3l3VStKRWRkNmpQMC83RHd4ZVNqUT09JnZhbGlkbWludXRlcz0y
