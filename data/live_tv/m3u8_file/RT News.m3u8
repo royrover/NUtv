@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=20000000
-https://rt-glb.rttv.com/live/rtnews/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDI1IDEyOjIzOjQ3IFBNJmhhc2hfdmFsdWU9SStIRm9VZkt5aC9kcmFZUHovbHc2UT09JnZhbGlkbWludXRlcz0y
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDI1IDQ6MTU6MjIgUE0maGFzaF92YWx1ZT1vS3RBb1FqSW5ONFhidFlPcE9CLzVnPT0mdmFsaWRtaW51dGVzPTI=
