@@ -2,8 +2,36 @@
     "name": "acdsport replay",
     "image": "https://acdsport.com/acd/social.jpg",
     "url": "https://dl.dropbox.com/scl/fi/2lk9rp530f3mh8sn095pu/acdsport_replay.json?rlkey=ikxvfvv3nljrwb9xervk3r9mp&st=6nqt04sc&dl=0",
-    "author": "update 05-12-2025 19:20:56",
+    "author": "update 06-12-2025 07:47:52",
     "stations": [
+        {
+            "name": "Dec 05 - 20:00 La Liga Oviedo vs Mallorca",
+            "image": "https://allsp.org/assets/images/team/67ca916ca21991741328748.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn1-1764964800-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 05 - 20:00 Ligue 1 Lille vs Marseille",
+            "image": "https://allsp.org/assets/images/team/67ca90e63814c1741328614.png",
+            "url": "https://vod.starxcdn.xyz/vod/pt_sporttv2-1764964800-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 05 - 19:30 Bundesliga FSV Mainz 05 vs Borussia Mönchengladbach",
+            "image": "https://allsp.org/assets/images/team/67ca9152e5ddb1741328722.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn0-1764963000-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 05 - 18:00 Ligue 1 Stade Brestois 29 vs Monaco",
+            "image": "https://allsp.org/assets/images/team/67ca90e6866821741328614.png",
+            "url": "https://vod.starxcdn.xyz/vod/pt_sporttv2-1764957600-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
         {
             "name": "Dec 04 - 20:00 Premier League Manchester United vs West Ham",
             "image": "https://allsp.org/assets/images/team/67ca90ee3e84c1741328622.png",

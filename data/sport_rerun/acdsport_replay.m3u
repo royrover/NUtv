@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca916ca21991741328748.png", group-title="LIVE SPORT", Dec 05 - 2000 La Liga Oviedo vs Mallorca
+https://vod.starxcdn.xyz/vod/espn1-1764964800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e63814c1741328614.png", group-title="LIVE SPORT", Dec 05 - 2000 Ligue 1 Lille vs Marseille
+https://vod.starxcdn.xyz/vod/pt_sporttv2-1764964800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca9152e5ddb1741328722.png", group-title="LIVE SPORT", Dec 05 - 1930 Bundesliga FSV Mainz 05 vs Borussia Mönchengladbach
+https://vod.starxcdn.xyz/vod/espn0-1764963000-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e6866821741328614.png", group-title="LIVE SPORT", Dec 05 - 1800 Ligue 1 Stade Brestois 29 vs Monaco
+https://vod.starxcdn.xyz/vod/pt_sporttv2-1764957600-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90ee3e84c1741328622.png", group-title="LIVE SPORT", Dec 04 - 2000 Premier League Manchester United vs West Ham
 https://vod.starxcdn.xyz/vod/uk_ssepl-1764878400-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90f66e1e21741328630.png", group-title="LIVE SPORT", Dec 03 - 2015 Premier League Leeds vs Chelsea
