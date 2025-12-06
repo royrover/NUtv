@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=20000000
-https://lsv1.inwstream.com/transcoder_F3/dtv22_nationtv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDI1IDg6MTM6MjQgUE0maGFzaF92YWx1ZT0zMXplYnJXR2ZNMyszbEVJYjdxY2tnPT0mdmFsaWRtaW51dGVzPTI=
+https://lsv1.inwstream.com/transcoder_F3/dtv22_nationtv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDI1IDEyOjUyOjQyIEFNJmhhc2hfdmFsdWU9Q3RNSWNWZEpSNDRrWmRnZ2hnY2JLdz09JnZhbGlkbWludXRlcz0y
