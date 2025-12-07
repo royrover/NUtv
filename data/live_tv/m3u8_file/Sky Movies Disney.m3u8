@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=20000000
-https://lsv2.inwstream.com/transcoder_F2/skydisney_fwiptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDI1IDEyOjIwOjU3IFBNJmhhc2hfdmFsdWU9WHJ1MHovVXBZcXlaYStiQ0lnL3N5Zz09JnZhbGlkbWludXRlcz0y
+https://lsv1.inwstream.com/transcoder_F2/skydisney_fwiptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDI1IDQ6MTM6NTMgUE0maGFzaF92YWx1ZT1rcEVBSUdLemxmVzkvQlJLdUtRZHlnPT0mdmFsaWRtaW51dGVzPTI=

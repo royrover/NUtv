@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=20000000
-https://lsv1.inwstream.com/transcoder_F1/nhkworld_inwiptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDI1IDEyOjIwOjIyIFBNJmhhc2hfdmFsdWU9Skt5MUJpUEhBL3FKd3BYN0twUG5Xdz09JnZhbGlkbWludXRlcz0y
+https://lsv2.inwstream.com/transcoder_F1/nhkworld_inwiptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDI1IDQ6MTM6MTkgUE0maGFzaF92YWx1ZT1zUElBNWRkalZPWkpLaldJQ0ZJMjV3PT0mdmFsaWRtaW51dGVzPTI=
