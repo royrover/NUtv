@@ -2,8 +2,13 @@
     "name": "DOOKEELA Rerun",
     "image": "https://www.dropbox.com/scl/fi/0wslhpbbirva0wx4rlbzn/DKL.png?rlkey=37e1vu25obzmo5kikjkax30t7&st=7ey1fj5e&raw=1",
     "url": "",
-    "author": "update 08-12-2025 07:51:42",
+    "author": "update 08-12-2025 19:20:55",
     "stations": [
+        {
+            "name": "Abu Dhabi Grand Prix 2025 (Main Race) - 08-12-2025",
+            "image": "https://images.dookeela2.live/1ea51f4905fd47abb43f7ba22c817198:dkl-images-storage/rerun/1765181441.jpg",
+            "url": "https://ks7jcc.cdn.akamaiz.com/rerun/Formula 1 - Abu Dhabi Grand Prix 2025.mp4/playlist.m3u8"
+        },
         {
             "name": "Leeds vs Liverpool | Premier League (07-12-2025)",
             "image": "https://images.dookeela2.live/1ea51f4905fd47abb43f7ba22c817198:dkl-images-storage/rerun/1765102283.jpg",
