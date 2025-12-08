@@ -2,8 +2,113 @@
     "name": "acdsport replay",
     "image": "https://acdsport.com/acd/social.jpg",
     "url": "https://dl.dropbox.com/scl/fi/2lk9rp530f3mh8sn095pu/acdsport_replay.json?rlkey=ikxvfvv3nljrwb9xervk3r9mp&st=6nqt04sc&dl=0",
-    "author": "update 07-12-2025 19:17:51",
+    "author": "update 08-12-2025 07:51:44",
     "stations": [
+        {
+            "name": "Dec 07 - 20:00 La Liga Real Madrid vs Celta Vigo",
+            "image": "https://allsp.org/assets/images/team/67ca90e975ebf1741328617.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_premiersports1-1765137600-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 07 - 19:45 Serie A Napoli vs Juventus",
+            "image": "https://allsp.org/assets/images/team/67ca91552c3811741328725.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount4-1765136700-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 07 - 19:45 Ligue 1 Lorient vs Lyon",
+            "image": "https://allsp.org/assets/images/team/6808f2b8ca27d1745416888.png",
+            "url": "https://vod.starxcdn.xyz/vod/live01-1765136700-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 07 - 17:30 La Liga Espanyol vs Rayo Vallecano",
+            "image": "https://allsp.org/assets/images/team/67ca915dad7611741328733.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn4-1765128600-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 07 - 17:00 Serie A Lazio vs Bologna",
+            "image": "https://allsp.org/assets/images/team/67ca90efc4d4f1741328623.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount3-1765126800-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 07 - 16:30 Bundesliga Borussia Dortmund vs 1899 Hoffenheim",
+            "image": "https://allsp.org/assets/images/team/67ca90e6bea951741328614.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn1-1765125000-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 07 - 16:30 Premier League Fulham vs Crystal Palace",
+            "image": "https://allsp.org/assets/images/team/67ca90f346b741741328627.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_ssepl-1765125000-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 07 - 16:15 Ligue 1 Auxerre vs Metz",
+            "image": "https://allsp.org/assets/images/team/67ca9152207fa1741328722.png",
+            "url": "https://vod.starxcdn.xyz/vod/live01-1765124100-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 07 - 15:15 La Liga Valencia vs Sevilla",
+            "image": "https://allsp.org/assets/images/team/67ca915d0c7731741328733.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn3-1765120500-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 07 - 14:30 Bundesliga Hamburger SV vs Werder Bremen",
+            "image": "https://allsp.org/assets/images/team/67ca9167415fb1741328743.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn0-1765117800-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 07 - 14:00 Serie A Cagliari vs AS Roma",
+            "image": "https://allsp.org/assets/images/team/67ca91550c6551741328725.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount2-1765116000-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 07 - 14:00 Ligue 1 Nice vs Angers",
+            "image": "https://allsp.org/assets/images/team/67ca90ee90daf1741328622.png",
+            "url": "https://vod.starxcdn.xyz/vod/pt_sporttv3-1765116000-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 07 - 14:00 Premier League Brighton vs West Ham",
+            "image": "https://allsp.org/assets/images/team/67ca90f41da851741328628.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_ssepl-1765116000-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 07 - 13:00 La Liga Elche vs Girona",
+            "image": "https://allsp.org/assets/images/team/67ca916d8e9261741328749.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn2-1765112400-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 07 - 11:30 Serie A Cremonese vs Lecce",
+            "image": "https://allsp.org/assets/images/team/67ca9164adc421741328740.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount1-1765107000-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
         {
             "name": "Dec 06 - 20:05 Ligue 1 Paris Saint Germain vs Rennes",
             "image": "https://allsp.org/assets/images/team/67ca90e6535731741328614.png",
