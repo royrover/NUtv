@@ -2,8 +2,38 @@
     "name": "highlights football buaksib",
     "image": "https://www.buaksib.com/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Flogo-summer.5abd78a6.png&w=256&q=75",
     "url": "",
-    "author": "update 07-12-2025 19:54:34",
+    "author": "update 08-12-2025 09:19:58",
     "stations": [
+        {
+            "name": "⚽ การท่าเรือ เอฟซี พบ อุทัยธานี เอฟซี 07.12.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/12/Port_Vs_Uthai_07_12_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Port_Vs_Uthai_07_12_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ นครราชสีมา มาสด้า เอฟซี พบ บีจี ปทุม ยูไนเต็ด 07.12.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/12/Nakhonratchasima_Vs_BG_07_12_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Nakhonratchasima_Vs_BG_07_12_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ ทรู แบงค็อก ยูไนเต็ด พบ สิงห์ เชียงราย ยูไนเต็ด 07.12.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/12/True_Bangkok_Vs_Chiangrai_07_12_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/True_Bangkok_Vs_Chiangrai_07_12_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ เมืองทอง ยูไนเต็ด พบ ชลบุรี เอฟซี 06.12.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/12/Muangthong_Vs_Chonburi_06_12_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Muangthong_Vs_Chonburi_06_12_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ บุรีรัมย์ ยูไนเต็ด พบ พลังกาญจน์ เอฟซี 06.12.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/12/Buriram_Vs_Kanchanaburi_06_12_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Buriram_Vs_Kanchanaburi_06_12_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
         {
             "name": "⚽ ลีดส์ ยูไนเต็ด พบ ลิเวอร์พูล 06.12.2025 ไฮไลท์ฟุตบอล",
             "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/12/Leeds_Vs_Liverpool_06_12_25.jpg",
