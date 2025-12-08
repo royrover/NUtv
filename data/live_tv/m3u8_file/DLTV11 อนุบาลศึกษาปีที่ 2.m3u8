@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=20000000
-https://cdn-live.dltv.ac.th/smil:origin03-dltv-11-adaptive.smil/chunklist_w623361103_b3128000_slth.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvOC8yMDI1IDg6MTk6NDAgQU0maGFzaF92YWx1ZT0xeXdHRU4zeUtwNWF0VlcrUjc5eVJBPT0mdmFsaWRtaW51dGVzPTI=
+https://cdn-live.dltv.ac.th/smil:origin03-dltv-11-adaptive.smil/chunklist_w623361103_b3128000_slth.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvOC8yMDI1IDEyOjIzOjM2IFBNJmhhc2hfdmFsdWU9QXVDMFFUaUNTd2RNVG1ENk92UDNqQT09JnZhbGlkbWludXRlcz0y

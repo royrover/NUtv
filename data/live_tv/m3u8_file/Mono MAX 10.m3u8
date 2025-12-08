@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=20000000
-https://lsv1.inwstream.com/transcoder_F1/monomaxlive10_inwiptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvOC8yMDI1IDg6MTk6MjEgQU0maGFzaF92YWx1ZT1scmUyOFAzZWdnNHdmQmg4M20ySkdBPT0mdmFsaWRtaW51dGVzPTI=
+https://lsv2.inwstream.com/transcoder_F1/monomaxlive10_inwiptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvOC8yMDI1IDEyOjIzOjE2IFBNJmhhc2hfdmFsdWU9QXVsZGx6VmN6cU8yYVQvT3dNdXZZUT09JnZhbGlkbWludXRlcz0y
