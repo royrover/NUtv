@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=20000000
-https://live-hls-web-aje-gcp.thehlive.com/AJE/01.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvOC8yMDI1IDEyOjIzOjUwIFBNJmhhc2hfdmFsdWU9b3BXUGpCQXpuNHZiK0lxaUtVUjU2dz09JnZhbGlkbWludXRlcz0y
+https://live-hls-web-aje-gcp.thehlive.com/AJE/01.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvOC8yMDI1IDQ6MTY6MjAgUE0maGFzaF92YWx1ZT0yb1h1Y1ZQM1NOWmsxNkFhaFZSM0dRPT0mdmFsaWRtaW51dGVzPTI=
