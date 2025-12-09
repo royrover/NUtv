@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://newbackend.buaksib.com/wp-content/uploads/2025/12/Wolver_Vs_Man_United_08_12_25.jpg", group-title="LIVE SPORT", ⚽ วูล์ฟแฮมป์ตัน พบ แมนเชสเตอร์ ยูไนเต็ด 08.12.2025 ไฮไลท์ฟุตบอล
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.buaksib.com/
+https://bdphap.com/ssd1/th/Wolver_Vs_Man_United_08_12_25.mp4
 #EXTINF:-1 tvg-logo="https://newbackend.buaksib.com/wp-content/uploads/2025/12/Brighton_Vs_Westham_07_12_25.jpg", group-title="LIVE SPORT", ⚽ ไบรท์ตัน พบ เวสต์แฮม ยูไนเต็ด 07.12.2025 ไฮไลท์ฟุตบอล
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.buaksib.com/
