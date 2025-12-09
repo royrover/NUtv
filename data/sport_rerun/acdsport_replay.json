@@ -2,8 +2,43 @@
     "name": "acdsport replay",
     "image": "https://acdsport.com/acd/social.jpg",
     "url": "https://dl.dropbox.com/scl/fi/2lk9rp530f3mh8sn095pu/acdsport_replay.json?rlkey=ikxvfvv3nljrwb9xervk3r9mp&st=6nqt04sc&dl=0",
-    "author": "update 08-12-2025 19:20:56",
+    "author": "update 09-12-2025 07:51:02",
     "stations": [
+        {
+            "name": "Dec 08 - 20:00 La Liga Osasuna vs Levante",
+            "image": "https://allsp.org/assets/images/team/67ca915e3b1511741328734.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_premiersports1-1765224000-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 08 - 20:00 Premier League Wolves vs Manchester United",
+            "image": "https://allsp.org/assets/images/team/67ca90f3647c21741328627.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_ssepl-1765224000-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 08 - 19:45 Serie A Torino vs AC Milan",
+            "image": "https://allsp.org/assets/images/team/67ca9155942131741328725.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount3-1765223100-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 08 - 17:00 Serie A Udinese vs Genoa",
+            "image": "https://allsp.org/assets/images/team/67ca91554a3261741328725.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount2-1765213200-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 08 - 14:00 Serie A Pisa vs Parma",
+            "image": "https://allsp.org/assets/images/team/67ca91651afee1741328741.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount1-1765202400-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
         {
             "name": "Dec 07 - 20:00 La Liga Real Madrid vs Celta Vigo",
             "image": "https://allsp.org/assets/images/team/67ca90e975ebf1741328617.png",
