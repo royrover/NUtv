@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=20000000
-https://live.topnews.co.th/hls/topnews_a_480.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvOC8yMDI1IDg6MTQ6MDMgUE0maGFzaF92YWx1ZT04UDhmSld2TDBPZWg1RFB0NTlOaG1BPT0mdmFsaWRtaW51dGVzPTI=
+https://live.topnews.co.th/hls/topnews_a_480.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvOS8yMDI1IDEyOjU1OjI1IEFNJmhhc2hfdmFsdWU9OG5FOXNaaDZsd2p1cmVkdmtQbzJBdz09JnZhbGlkbWludXRlcz0y
