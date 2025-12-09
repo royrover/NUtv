@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=20000000
-https://lsv2.inwstream.com/transcoder_F1/discoveryasia_inwiptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvOS8yMDI1IDEyOjU1OjMwIEFNJmhhc2hfdmFsdWU9UmcrdWc0YU9mZThTc1N3VnJiRXZDdz09JnZhbGlkbWludXRlcz0y
+https://lsv1.inwstream.com/transcoder_F1/discoveryasia_inwiptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvOS8yMDI1IDQ6MjE6MjAgQU0maGFzaF92YWx1ZT0rMkxiMWNNUzBSTDhxd1pKWi9lOXhnPT0mdmFsaWRtaW51dGVzPTI=
