@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=20000000
-https://server1.streamssl.com/stream/news1_hi.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAyNSAxMjo1NzowNCBBTSZoYXNoX3ZhbHVlPTJIM2JzdVlFOXhmU0xzdXgxMncxWHc9PSZ2YWxpZG1pbnV0ZXM9Mg==
+https://server1.streamssl.com/stream/news1_hi.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAyNSA0OjI2OjEzIEFNJmhhc2hfdmFsdWU9WUQ1NU9wamRrUzhEZXdXUHltUUpQdz09JnZhbGlkbWludXRlcz0y
