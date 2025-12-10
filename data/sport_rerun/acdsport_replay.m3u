@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90ecbb3fa1741328620.png", group-title="LIVE SPORT", Dec 09 - 2000 Champions League Union St. Gilloise vs Marseille
+https://vod.starxcdn.xyz/vod/uk_bts7-1765310400-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e948da41741328617.png", group-title="LIVE SPORT", Dec 09 - 2000 Champions League Barcelona vs Eintracht Frankfurt
+https://vod.starxcdn.xyz/vod/uk_bts4-1765310400-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e930c021741328617.png", group-title="LIVE SPORT", Dec 09 - 2000 Champions League Inter vs Liverpool
+https://vod.starxcdn.xyz/vod/uk_premiersports1-1765310400-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e9015a01741328617.png", group-title="LIVE SPORT", Dec 09 - 2000 Champions League Atalanta vs Chelsea
+https://vod.starxcdn.xyz/vod/uk_bts2-1765310400-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e72fdcd1741328615.png", group-title="LIVE SPORT", Dec 09 - 2000 Champions League PSV Eindhoven vs Atletico Madrid
+https://vod.starxcdn.xyz/vod/uk_bts5-1765310400-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e66d1ab1741328614.png", group-title="LIVE SPORT", Dec 09 - 2000 Champions League Monaco vs Galatasaray
+https://vod.starxcdn.xyz/vod/uk_bts6-1765310400-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90ee5fb9f1741328622.png", group-title="LIVE SPORT", Dec 09 - 2000 Champions League Tottenham vs Slavia Praha
+https://vod.starxcdn.xyz/vod/uk_bts1-1765310400-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e6a2dc81741328614.png", group-title="LIVE SPORT", Dec 09 - 1745 Champions League Bayern München vs Sporting CP
+https://vod.starxcdn.xyz/vod/uk_bts3-1765302300-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/685b4a12819c91750813202.png", group-title="LIVE SPORT", Dec 09 - 1530 Champions League Kairat Almaty vs Olympiakos Piraeus
+https://vod.starxcdn.xyz/vod/uk_bts3-1765294200-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca915e3b1511741328734.png", group-title="LIVE SPORT", Dec 08 - 2000 La Liga Osasuna vs Levante
 https://vod.starxcdn.xyz/vod/uk_premiersports1-1765224000-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90f3647c21741328627.png", group-title="LIVE SPORT", Dec 08 - 2000 Premier League Wolves vs Manchester United

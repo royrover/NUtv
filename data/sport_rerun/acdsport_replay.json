@@ -2,8 +2,71 @@
     "name": "acdsport replay",
     "image": "https://acdsport.com/acd/social.jpg",
     "url": "https://dl.dropbox.com/scl/fi/2lk9rp530f3mh8sn095pu/acdsport_replay.json?rlkey=ikxvfvv3nljrwb9xervk3r9mp&st=6nqt04sc&dl=0",
-    "author": "update 09-12-2025 19:21:10",
+    "author": "update 10-12-2025 07:52:25",
     "stations": [
+        {
+            "name": "Dec 09 - 20:00 Champions League Union St. Gilloise vs Marseille",
+            "image": "https://allsp.org/assets/images/team/67ca90ecbb3fa1741328620.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts7-1765310400-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 09 - 20:00 Champions League Barcelona vs Eintracht Frankfurt",
+            "image": "https://allsp.org/assets/images/team/67ca90e948da41741328617.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts4-1765310400-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 09 - 20:00 Champions League Inter vs Liverpool",
+            "image": "https://allsp.org/assets/images/team/67ca90e930c021741328617.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_premiersports1-1765310400-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 09 - 20:00 Champions League Atalanta vs Chelsea",
+            "image": "https://allsp.org/assets/images/team/67ca90e9015a01741328617.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts2-1765310400-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 09 - 20:00 Champions League PSV Eindhoven vs Atletico Madrid",
+            "image": "https://allsp.org/assets/images/team/67ca90e72fdcd1741328615.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts5-1765310400-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 09 - 20:00 Champions League Monaco vs Galatasaray",
+            "image": "https://allsp.org/assets/images/team/67ca90e66d1ab1741328614.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts6-1765310400-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 09 - 20:00 Champions League Tottenham vs Slavia Praha",
+            "image": "https://allsp.org/assets/images/team/67ca90ee5fb9f1741328622.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts1-1765310400-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 09 - 17:45 Champions League Bayern München vs Sporting CP",
+            "image": "https://allsp.org/assets/images/team/67ca90e6a2dc81741328614.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts3-1765302300-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 09 - 15:30 Champions League Kairat Almaty vs Olympiakos Piraeus",
+            "image": "https://allsp.org/assets/images/team/685b4a12819c91750813202.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts3-1765294200-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
         {
             "name": "Dec 08 - 20:00 La Liga Osasuna vs Levante",
             "image": "https://allsp.org/assets/images/team/67ca915e3b1511741328734.png",
