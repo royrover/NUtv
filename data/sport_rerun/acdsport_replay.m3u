@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90ea4be721741328618.png", group-title="LIVE SPORT", Dec 10 - 2000 Champions League Club Brugge KV vs Arsenal
+https://vod.starxcdn.xyz/vod/uk_bts2-1765396800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e975ebf1741328617.png", group-title="LIVE SPORT", Dec 10 - 2000 Champions League Real Madrid vs Manchester City
+https://vod.starxcdn.xyz/vod/uk_bts1-1765396800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90f001f0f1741328624.png", group-title="LIVE SPORT", Dec 10 - 2000 Champions League Athletic Club vs Paris Saint Germain
+https://vod.starxcdn.xyz/vod/uk_bts5-1765396800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e8da5451741328616.png", group-title="LIVE SPORT", Dec 10 - 2000 Champions League Juventus vs Pafos
+https://vod.starxcdn.xyz/vod/uk_bts8-1765396800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e76773d1741328615.png", group-title="LIVE SPORT", Dec 10 - 2000 Champions League Benfica vs Napoli
+https://vod.starxcdn.xyz/vod/uk_bts6-1765396800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e6d4d401741328614.png", group-title="LIVE SPORT", Dec 10 - 2000 Champions League Bayer Leverkusen vs Newcastle
+https://vod.starxcdn.xyz/vod/uk_bts3-1765396800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e6bea951741328614.png", group-title="LIVE SPORT", Dec 10 - 2000 Champions League Borussia Dortmund vs Bodo/Glimt
+https://vod.starxcdn.xyz/vod/uk_bts7-1765396800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e9bfe1a1741328617.png", group-title="LIVE SPORT", Dec 10 - 1745 Champions League Qarabag vs Ajax
+https://vod.starxcdn.xyz/vod/uk_bts9-1765388700-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca915d2834e1741328733.png", group-title="LIVE SPORT", Dec 10 - 1745 Champions League Villarreal vs FC Copenhagen
+https://vod.starxcdn.xyz/vod/uk_bts4-1765388700-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90ecbb3fa1741328620.png", group-title="LIVE SPORT", Dec 09 - 2000 Champions League Union St. Gilloise vs Marseille
 https://vod.starxcdn.xyz/vod/uk_bts7-1765310400-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e948da41741328617.png", group-title="LIVE SPORT", Dec 09 - 2000 Champions League Barcelona vs Eintracht Frankfurt

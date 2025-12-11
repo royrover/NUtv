@@ -2,8 +2,71 @@
     "name": "acdsport replay",
     "image": "https://acdsport.com/acd/social.jpg",
     "url": "https://dl.dropbox.com/scl/fi/2lk9rp530f3mh8sn095pu/acdsport_replay.json?rlkey=ikxvfvv3nljrwb9xervk3r9mp&st=6nqt04sc&dl=0",
-    "author": "update 10-12-2025 19:21:27",
+    "author": "update 11-12-2025 07:52:56",
     "stations": [
+        {
+            "name": "Dec 10 - 20:00 Champions League Club Brugge KV vs Arsenal",
+            "image": "https://allsp.org/assets/images/team/67ca90ea4be721741328618.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts2-1765396800-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 10 - 20:00 Champions League Real Madrid vs Manchester City",
+            "image": "https://allsp.org/assets/images/team/67ca90e975ebf1741328617.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts1-1765396800-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 10 - 20:00 Champions League Athletic Club vs Paris Saint Germain",
+            "image": "https://allsp.org/assets/images/team/67ca90f001f0f1741328624.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts5-1765396800-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 10 - 20:00 Champions League Juventus vs Pafos",
+            "image": "https://allsp.org/assets/images/team/67ca90e8da5451741328616.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts8-1765396800-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 10 - 20:00 Champions League Benfica vs Napoli",
+            "image": "https://allsp.org/assets/images/team/67ca90e76773d1741328615.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts6-1765396800-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 10 - 20:00 Champions League Bayer Leverkusen vs Newcastle",
+            "image": "https://allsp.org/assets/images/team/67ca90e6d4d401741328614.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts3-1765396800-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 10 - 20:00 Champions League Borussia Dortmund vs Bodo/Glimt",
+            "image": "https://allsp.org/assets/images/team/67ca90e6bea951741328614.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts7-1765396800-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 10 - 17:45 Champions League Qarabag vs Ajax",
+            "image": "https://allsp.org/assets/images/team/67ca90e9bfe1a1741328617.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts9-1765388700-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 10 - 17:45 Champions League Villarreal vs FC Copenhagen",
+            "image": "https://allsp.org/assets/images/team/67ca915d2834e1741328733.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts4-1765388700-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
         {
             "name": "Dec 09 - 20:00 Champions League Union St. Gilloise vs Marseille",
             "image": "https://allsp.org/assets/images/team/67ca90ecbb3fa1741328620.png",
