@@ -1,4 +1,40 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90f0e213f1741328624.png", group-title="LIVE SPORT", Dec 11 - 2000 Europa League Panathinaikos vs Plzen
+https://vod.starxcdn.xyz/vod/paramount8-1765483200-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e9d92961741328617.png", group-title="LIVE SPORT", Dec 11 - 2000 Europa League FCSB vs Feyenoord
+https://vod.starxcdn.xyz/vod/paramount7-1765483200-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/689e8692260391755219602.png", group-title="LIVE SPORT", Dec 11 - 2000 Europa League FC Basel 1893 vs Aston Villa
+https://vod.starxcdn.xyz/vod/uk_bts1-1765483200-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca915d9580f1741328733.png", group-title="LIVE SPORT", Dec 11 - 2000 Europa League Celta Vigo vs Bologna
+https://vod.starxcdn.xyz/vod/uk_bts6-1765483200-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca9177a35281741328759.png", group-title="LIVE SPORT", Dec 11 - 2000 Europa League Brann vs Fenerbahce
+https://vod.starxcdn.xyz/vod/paramount4-1765483200-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e7a8cd81741328615.png", group-title="LIVE SPORT", Dec 11 - 2000 Europa League Celtic vs AS Roma
+https://vod.starxcdn.xyz/vod/uk_bts3-1765483200-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90ef106431741328623.png", group-title="LIVE SPORT", Dec 11 - 2000 Europa League FC Porto vs Malmo FF
+https://vod.starxcdn.xyz/vod/uk_bts5-1765483200-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca9152913e71741328722.png", group-title="LIVE SPORT", Dec 11 - 2000 Europa League SC Freiburg vs Red Bull Salzburg
+https://vod.starxcdn.xyz/vod/uk_bts7-1765483200-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90ee7affb1741328622.png", group-title="LIVE SPORT", Dec 11 - 2000 Europa League Lyon vs GO Ahead Eagles
+https://vod.starxcdn.xyz/vod/uk_bts8-1765483200-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90eba722d1741328619.png", group-title="LIVE SPORT", Dec 11 - 1745 Europa League Ferencvarosi TC vs Rangers
+https://vod.starxcdn.xyz/vod/paramount8-1765475100-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90eb68b691741328619.png", group-title="LIVE SPORT", Dec 11 - 1745 Europa League Sturm Graz vs FK Crvena Zvezda
+https://vod.starxcdn.xyz/vod/paramount7-1765475100-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90eb3a13a1741328619.png", group-title="LIVE SPORT", Dec 11 - 1745 Europa League Dinamo Zagreb vs Real Betis
+https://vod.starxcdn.xyz/vod/uk_bts6-1765475100-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90ea308841741328618.png", group-title="LIVE SPORT", Dec 11 - 1745 Europa League Ludogorets vs PAOK
+https://vod.starxcdn.xyz/vod/paramount5-1765475100-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90ea183be1741328618.png", group-title="LIVE SPORT", Dec 11 - 1745 Europa League BSC Young Boys vs Lille
+https://vod.starxcdn.xyz/vod/uk_bts7-1765475100-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e88c1fd1741328616.png", group-title="LIVE SPORT", Dec 11 - 1745 Europa League FC Midtjylland vs Genk
+https://vod.starxcdn.xyz/vod/paramount3-1765475100-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/687c3f940aa611752973204.png", group-title="LIVE SPORT", Dec 11 - 1745 Europa League Utrecht vs Nottingham Forest
+https://vod.starxcdn.xyz/vod/uk_bts1-1765475100-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e6efd741741328614.png", group-title="LIVE SPORT", Dec 11 - 1745 Europa League VfB Stuttgart vs Maccabi Tel Aviv
+https://vod.starxcdn.xyz/vod/uk_bts9-1765475100-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90ee90daf1741328622.png", group-title="LIVE SPORT", Dec 11 - 1745 Europa League Nice vs SC Braga
+https://vod.starxcdn.xyz/vod/uk_bts8-1765475100-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90ea4be721741328618.png", group-title="LIVE SPORT", Dec 10 - 2000 Champions League Club Brugge KV vs Arsenal
 https://vod.starxcdn.xyz/vod/uk_bts2-1765396800-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e975ebf1741328617.png", group-title="LIVE SPORT", Dec 10 - 2000 Champions League Real Madrid vs Manchester City
