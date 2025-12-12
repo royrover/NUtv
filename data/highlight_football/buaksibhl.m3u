@@ -1,4 +1,24 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://newbackend.buaksib.com/wp-content/uploads/2025/12/Gamba_Vs_Ratchaburi_11_12_25.jpg", group-title="LIVE SPORT", ⚽ กัมบะ โอซาก้า พบ ราชบุรี เอฟซี 11.12.2025 ไฮไลท์ฟุตบอล
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.buaksib.com/
+https://bdphap.com/ssd1/th/Gamba_Vs_Ratchaburi_11_12_25.mp4
+#EXTINF:-1 tvg-logo="https://newbackend.buaksib.com/wp-content/uploads/2025/12/Thai_Vs_Singapore_11_12_25.jpg", group-title="LIVE SPORT", ⚽ ทีมชาติไทย พบ ทีมชาติสิงคโปร์ 11.12.2025 ไฮไลท์ฟุตบอล
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.buaksib.com/
+https://bdphap.com/ssd1/th/Thai_Vs_Singapore_11_12_25.mp4
+#EXTINF:-1 tvg-logo="https://newbackend.buaksib.com/wp-content/uploads/2025/12/BG_Vs_Tampines_11_12_25.jpg", group-title="LIVE SPORT", ⚽ บีจี ปทุม ยูไนเต็ด พบ แทมปิเนส โรเวอร์ส 11.12.2025 ไฮไลท์ฟุตบอล
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.buaksib.com/
+https://bdphap.com/ssd1/th/BG_Vs_Tampines_11_12_25.mp4
+#EXTINF:-1 tvg-logo="https://newbackend.buaksib.com/wp-content/uploads/2025/12/Madrid_Vs_Man_City_10_12_25.jpg", group-title="LIVE SPORT", ⚽ เรอัล มาดริด พบ แมนเชสเตอร์ ซิตี้ 10.12.2025 ไฮไลท์ฟุตบอล
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.buaksib.com/
+https://bdphap.com/ssd1/th/Madrid_Vs_Man_City_10_12_25.mp4
+#EXTINF:-1 tvg-logo="https://newbackend.buaksib.com/wp-content/uploads/2025/12/Leverkusen_Vs_Newcastle_10_12_25.jpg", group-title="LIVE SPORT", ⚽ เลเวอร์คูเซ่น พบ นิวคาสเซิ่ล ยูไนเต็ด 10.12.2025 ไฮไลท์ฟุตบอล
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.buaksib.com/
+https://bdphap.com/ssd1/th/Leverkusen_Vs_Newcastle_10_12_25.mp
 #EXTINF:-1 tvg-logo="https://newbackend.buaksib.com/wp-content/uploads/2025/12/Bilbao_Vs_Paris_10_12_25.jpg", group-title="LIVE SPORT", ⚽ แอธเลติก บิลเบา พบ ปารีส แซงต์ แชร์กแมง 10.12.2025 ไฮไลท์ฟุตบอล
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.buaksib.com/
