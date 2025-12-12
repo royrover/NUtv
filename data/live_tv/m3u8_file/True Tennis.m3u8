@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=20000000
-https://lsv2.inwstream.com/transcoder_F1/tennis_inwiptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNSA4OjE3OjMzIEFNJmhhc2hfdmFsdWU9RC9CcXFGVjJXekp1TGRJOEc2NXg0UT09JnZhbGlkbWludXRlcz0y
+https://lsv1.inwstream.com/transcoder_F1/tennis_inwiptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNSAxMjoyMzowNCBQTSZoYXNoX3ZhbHVlPU5RZXlKQlY3cHY4UklSbDZ0TjFNY3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
