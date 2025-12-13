@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90f01baf31741328624.png", group-title="LIVE SPORT", Dec 12 - 2000 La Liga Real Sociedad vs Girona
+https://vod.starxcdn.xyz/vod/uk_premiersports2-1765569600-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca9156219501741328726.png", group-title="LIVE SPORT", Dec 12 - 1945 Serie A Lecce vs Pisa
+https://vod.starxcdn.xyz/vod/paramount1-1765568700-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca9151549ff1741328721.png", group-title="LIVE SPORT", Dec 12 - 1945 Ligue 1 Angers vs Nantes
+https://vod.starxcdn.xyz/vod/pt_sporttv3-1765568700-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca9153427721741328723.png", group-title="LIVE SPORT", Dec 12 - 1930 Bundesliga Union Berlin vs RB Leipzig
+https://vod.starxcdn.xyz/vod/espn0-1765567800-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90f0e213f1741328624.png", group-title="LIVE SPORT", Dec 11 - 2000 Europa League Panathinaikos vs Plzen
 https://vod.starxcdn.xyz/vod/paramount8-1765483200-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e9d92961741328617.png", group-title="LIVE SPORT", Dec 11 - 2000 Europa League FCSB vs Feyenoord
