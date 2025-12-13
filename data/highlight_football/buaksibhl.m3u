@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://newbackend.buaksib.com/wp-content/uploads/2025/12/Chonburi_Vs_Kanchanaburi_12_12_25.jpg", group-title="LIVE SPORT", ⚽ ชลบุรี เอฟซี พบ พลังกาญจน์ เอฟซี 12.12.2025 ไฮไลท์ฟุตบอล
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.buaksib.com/
+https://bdphap.com/ssd1/th/Chonburi_Vs_Kanchanaburi_12_12_25.mp4
 #EXTINF:-1 tvg-logo="https://newbackend.buaksib.com/wp-content/uploads/2025/12/Gamba_Vs_Ratchaburi_11_12_25.jpg", group-title="LIVE SPORT", ⚽ กัมบะ โอซาก้า พบ ราชบุรี เอฟซี 11.12.2025 ไฮไลท์ฟุตบอล
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.buaksib.com/
