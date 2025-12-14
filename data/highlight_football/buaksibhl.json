@@ -2,8 +2,20 @@
     "name": "highlights football buaksib",
     "image": "https://www.buaksib.com/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Flogo-summer.5abd78a6.png&w=256&q=75",
     "url": "",
-    "author": "update 14-12-2025 09:29:24",
+    "author": "update 14-12-2025 19:56:45",
     "stations": [
+        {
+            "name": "⚽ ลิเวอร์พูล พบ ไบรท์ตัน 13.12.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/12/Liverpool_Vs_Brighton_13_12_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Liverpool_Vs_Brighton_13_12_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ เชลซี พบ เอฟเวอร์ตัน 13.12.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/12/Chelsea_Vs_Everton_13_12_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Chelsea_Vs_Everton_13_12_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
         {
             "name": "⚽ อาร์เซน่อล พบ วูล์ฟแฮมป์ตัน 13.12.2025 ไฮไลท์ฟุตบอล",
             "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/12/Arsenal_Vs_Wolver_13_12_25.jpg",
