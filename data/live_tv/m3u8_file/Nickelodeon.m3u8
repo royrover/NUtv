@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=20000000
-https://lsv2.inwstream.com/transcoder_F1/nickelodeon_inwiptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAyNSA0OjEzOjI1IFBNJmhhc2hfdmFsdWU9TEVWMTBOdzJlUmoxbTVHT0l0LzlJQT09JnZhbGlkbWludXRlcz0y
+https://lsv1.inwstream.com/transcoder_F1/nickelodeon_inwiptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAyNSA4OjEyOjM2IFBNJmhhc2hfdmFsdWU9YjB1TTBSTVV1OVpHWE9UUHhwK05vUT09JnZhbGlkbWludXRlcz0y
