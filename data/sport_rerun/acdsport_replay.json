@@ -2,8 +2,141 @@
     "name": "acdsport replay",
     "image": "https://acdsport.com/acd/social.jpg",
     "url": "https://dl.dropbox.com/scl/fi/2lk9rp530f3mh8sn095pu/acdsport_replay.json?rlkey=ikxvfvv3nljrwb9xervk3r9mp&st=6nqt04sc&dl=0",
-    "author": "update 13-12-2025 19:18:22",
+    "author": "update 14-12-2025 07:56:49",
     "stations": [
+        {
+            "name": "Dec 13 - 20:05 Ligue 1 Paris FC vs Toulouse",
+            "image": "https://allsp.org/assets/images/team/6808f2b9ed2041745416889.png",
+            "url": "https://vod.starxcdn.xyz/vod/pt_sporttv2-1765656300-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 13 - 20:00 La Liga Getafe vs Espanyol",
+            "image": "https://allsp.org/assets/images/team/67ca915e0814a1741328734.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn8-1765656000-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 13 - 20:00 Premier League Arsenal vs Wolves",
+            "image": "https://allsp.org/assets/images/team/67ca90e5dda801741328613.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts1-1765656000-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 13 - 19:45 Serie A Atalanta vs Cagliari",
+            "image": "https://allsp.org/assets/images/team/67ca90e9015a01741328617.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount4-1765655100-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 13 - 18:00 Ligue 1 Metz vs Paris Saint Germain",
+            "image": "https://allsp.org/assets/images/team/6808f2b9b73801745416889.png",
+            "url": "https://vod.starxcdn.xyz/vod/pt_sporttv2-1765648800-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 13 - 17:30 La Liga Barcelona vs Osasuna",
+            "image": "https://allsp.org/assets/images/team/67ca90e948da41741328617.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn7-1765647000-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 13 - 17:30 Bundesliga Bayer Leverkusen vs 1.FC Köln",
+            "image": "https://allsp.org/assets/images/team/67ca90e6d4d401741328614.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn4-1765647000-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 13 - 17:30 Premier League Burnley vs Fulham",
+            "image": "https://allsp.org/assets/images/team/67ca90f5466a01741328629.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_ssepl-1765647000-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 13 - 17:00 Serie A Parma vs Lazio",
+            "image": "https://allsp.org/assets/images/team/67ca91560d6651741328726.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount3-1765645200-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 13 - 16:00 Ligue 1 Rennes vs Stade Brestois 29",
+            "image": "https://allsp.org/assets/images/team/67ca9151c7bb11741328721.png",
+            "url": "https://vod.starxcdn.xyz/vod/pt_sporttv5-1765641600-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 13 - 15:15 La Liga Mallorca vs Elche",
+            "image": "https://allsp.org/assets/images/team/67ca915e6c9ae1741328734.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn6-1765638900-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 13 - 15:00 Premier League Chelsea vs Everton",
+            "image": "https://allsp.org/assets/images/team/67ca90f4040541741328628.png",
+            "url": "https://vod.starxcdn.xyz/vod/epl_che-1765638000-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 13 - 15:00 Premier League Liverpool vs Brighton",
+            "image": "https://allsp.org/assets/images/team/689fc7f968c2a1755301881.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_premiersports1-1765638000-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 13 - 14:30 Bundesliga FC St. Pauli vs 1. FC Heidenheim",
+            "image": "https://allsp.org/assets/images/team/67ca915357cd61741328723.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn3-1765636200-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 13 - 14:30 Bundesliga Eintracht Frankfurt vs FC Augsburg",
+            "image": "https://allsp.org/assets/images/team/67ca90eebe2ca1741328622.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn2-1765636200-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 13 - 14:30 Bundesliga 1899 Hoffenheim vs Hamburger SV",
+            "image": "https://allsp.org/assets/images/team/67ca90eea6d401741328622.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn1-1765636200-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 13 - 14:30 Bundesliga Borussia Mönchengladbach vs VfL Wolfsburg",
+            "image": "https://allsp.org/assets/images/team/67ca9152d24161741328722.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn0-1765636200-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 13 - 14:00 Serie A Torino vs Cremonese",
+            "image": "https://allsp.org/assets/images/team/67ca9155942131741328725.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount2-1765634400-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 13 - 13:00 La Liga Atletico Madrid vs Valencia",
+            "image": "https://allsp.org/assets/images/team/67ca90e96070e1741328617.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn5-1765630800-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
         {
             "name": "Dec 12 - 20:00 La Liga Real Sociedad vs Girona",
             "image": "https://allsp.org/assets/images/team/67ca90f01baf31741328624.png",
