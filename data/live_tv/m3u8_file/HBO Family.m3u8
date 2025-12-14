@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=20000000
-https://lsv1.inwstream.com/transcoder_F1/hbofamily_inwiptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAyNSA0OjI5OjM5IEFNJmhhc2hfdmFsdWU9WFMveHZtWGRNQkJ4MjRZWDE5d2FHZz09JnZhbGlkbWludXRlcz0y
+https://lsv2.inwstream.com/transcoder_F1/hbofamily_inwiptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAyNSA4OjE1OjI1IEFNJmhhc2hfdmFsdWU9aHZ1bXVESTlhL3plckhERWh5QzJUUT09JnZhbGlkbWludXRlcz0y
