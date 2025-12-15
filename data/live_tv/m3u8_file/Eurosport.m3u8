@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=20000000
-https://lsv2.inwstream.com/transcoder_F1/eurosportasia_inwiptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAyNSA4OjEyOjI3IFBNJmhhc2hfdmFsdWU9TXdpQjduOFE1cFhGc3JOTjlOU2lFZz09JnZhbGlkbWludXRlcz0y
+https://lsv1.inwstream.com/transcoder_F1/eurosportasia_inwiptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTUvMjAyNSAxMjo1ODo0OCBBTSZoYXNoX3ZhbHVlPXZadUdqdmc1SjMzN3YwR2Y5ZGNHdVE9PSZ2YWxpZG1pbnV0ZXM9Mg==
