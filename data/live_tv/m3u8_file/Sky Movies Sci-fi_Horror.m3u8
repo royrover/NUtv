@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=20000000
-https://lsv2.inwstream.com/transcoder_F2/skyscifi_fwiptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTYvMjAyNSA0OjE3OjMyIFBNJmhhc2hfdmFsdWU9ODhBV0xCdGtzM3ZHZFcrQ0grNDBTdz09JnZhbGlkbWludXRlcz0y
+https://lsv1.inwstream.com/transcoder_F2/skyscifi_fwiptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTYvMjAyNSA4OjE1OjAyIFBNJmhhc2hfdmFsdWU9bnV4MXJFbEtkUFlBUG1Ta1RRWHIrdz09JnZhbGlkbWludXRlcz0y
