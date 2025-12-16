@@ -2,8 +2,29 @@
     "name": "acdsport replay",
     "image": "https://acdsport.com/acd/social.jpg",
     "url": "https://dl.dropbox.com/scl/fi/2lk9rp530f3mh8sn095pu/acdsport_replay.json?rlkey=ikxvfvv3nljrwb9xervk3r9mp&st=6nqt04sc&dl=0",
-    "author": "update 15-12-2025 19:22:34",
+    "author": "update 16-12-2025 07:53:08",
     "stations": [
+        {
+            "name": "Dec 15 - 20:00 La Liga Rayo Vallecano vs Real Betis",
+            "image": "https://allsp.org/assets/images/team/67ca915e5362f1741328734.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_premiersports1-1765828800-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 15 - 20:00 Premier League Manchester United vs Bournemouth",
+            "image": "https://allsp.org/assets/images/team/67ca90ee3e84c1741328622.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_ssepl-1765828800-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 15 - 19:45 Serie A AS Roma vs Como",
+            "image": "https://allsp.org/assets/images/team/67ca90efdd70f1741328623.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount1-1765827900-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
         {
             "name": "Dec 14 - 20:00 La Liga Alaves vs Real Madrid",
             "image": "https://allsp.org/assets/images/team/67ca915dc7e401741328733.png",

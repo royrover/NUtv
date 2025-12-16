@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca915e5362f1741328734.png", group-title="LIVE SPORT", Dec 15 - 2000 La Liga Rayo Vallecano vs Real Betis
+https://vod.starxcdn.xyz/vod/uk_premiersports1-1765828800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90ee3e84c1741328622.png", group-title="LIVE SPORT", Dec 15 - 2000 Premier League Manchester United vs Bournemouth
+https://vod.starxcdn.xyz/vod/uk_ssepl-1765828800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90efdd70f1741328623.png", group-title="LIVE SPORT", Dec 15 - 1945 Serie A AS Roma vs Como
+https://vod.starxcdn.xyz/vod/paramount1-1765827900-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca915dc7e401741328733.png", group-title="LIVE SPORT", Dec 14 - 2000 La Liga Alaves vs Real Madrid
 https://vod.starxcdn.xyz/vod/uk_premiersports1-1765742400-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca9151691e91741328721.png", group-title="LIVE SPORT", Dec 14 - 1945 Ligue 1 Marseille vs Monaco
