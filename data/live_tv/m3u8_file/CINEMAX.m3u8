@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=20000000
-https://lsv2.inwstream.com/transcoder_F1/cinemax_inwiptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTYvMjAyNSAxMjoyNDo1NiBQTSZoYXNoX3ZhbHVlPUhOTUR0QWw4SWZ1cVlBODhWZGdpMEE9PSZ2YWxpZG1pbnV0ZXM9Mg==
+https://lsv1.inwstream.com/transcoder_F1/cinemax_inwiptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTYvMjAyNSA0OjE3OjAyIFBNJmhhc2hfdmFsdWU9Mno3Y0pmcUNrM3RhcExteHN5NWV5UT09JnZhbGlkbWludXRlcz0y
