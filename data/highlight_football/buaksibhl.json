@@ -2,8 +2,14 @@
     "name": "highlights football buaksib",
     "image": "https://www.buaksib.com/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Flogo-summer.5abd78a6.png&w=256&q=75",
     "url": "",
-    "author": "update 16-12-2025 20:05:44",
+    "author": "update 17-12-2025 09:18:41",
     "stations": [
+        {
+            "name": "⚽ ระยอง เอฟซี พบ ราชบุรี เอฟซี 16.12.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/12/Rayong_Vs_Ratchaburi_16_12_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Rayong_Vs_Ratchaburi_16_12_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
         {
             "name": "⚽ แมนเชสเตอร์ ยูไนเต็ด พบ บอร์นมัธ 15.12.2025 ไฮไลท์ฟุตบอล",
             "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/12/Man_U_Vs_Bournemouth_15_12_25.jpg",
