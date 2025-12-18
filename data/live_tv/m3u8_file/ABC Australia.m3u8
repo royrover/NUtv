@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=20000000
-https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_5.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTgvMjAyNSAxMjo1NDowNCBBTSZoYXNoX3ZhbHVlPW9MZGlkRHJKdWhpNVdkSHBWRXZaNFE9PSZ2YWxpZG1pbnV0ZXM9Mg==
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_5.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTgvMjAyNSA0OjI2OjMyIEFNJmhhc2hfdmFsdWU9OXNrc2dON0YvdmNqWFlqd3NMVktwZz09JnZhbGlkbWludXRlcz0y
