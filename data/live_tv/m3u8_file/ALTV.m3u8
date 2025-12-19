@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=20000000
-https://lsv1.inwstream.com/transcoder_F3/dtv04_altv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTkvMjAyNSA0OjI3OjEzIEFNJmhhc2hfdmFsdWU9ektuVTVxQkFGUTB5RDZBZnZtSVhoUT09JnZhbGlkbWludXRlcz0y
+https://lsv2.inwstream.com/transcoder_F3/dtv04_altv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTkvMjAyNSA4OjE3OjI5IEFNJmhhc2hfdmFsdWU9NmpEZ2gzY3BtdFo5RGsyKzdtSEdWUT09JnZhbGlkbWludXRlcz0y
