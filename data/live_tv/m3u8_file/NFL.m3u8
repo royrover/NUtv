@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=20000000
-https://lsv2.inwstream.com/transcoder_F2/nfl_fwiptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjAvMjAyNSAxMjoyMToxNiBQTSZoYXNoX3ZhbHVlPWkwckRqR0ZwOXl3L21kS2FOM1R6dUE9PSZ2YWxpZG1pbnV0ZXM9Mg==
+https://lsv1.inwstream.com/transcoder_F2/nfl_fwiptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjAvMjAyNSA0OjE0OjA5IFBNJmhhc2hfdmFsdWU9MktteDA0YmdrcHJvQ0QwL3VSWGFmZz09JnZhbGlkbWludXRlcz0y
