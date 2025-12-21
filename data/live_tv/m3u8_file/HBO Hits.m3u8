@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=20000000
-https://lsv1.inwstream.com/transcoder_F1/hbohits_inwiptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjAvMjAyNSA4OjEyOjE4IFBNJmhhc2hfdmFsdWU9TjJLNzNzT0Q2RkpORHRSbmtpZlYyQT09JnZhbGlkbWludXRlcz0y
+https://lsv2.inwstream.com/transcoder_F1/hbohits_inwiptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjEvMjAyNSAxOjAxOjE0IEFNJmhhc2hfdmFsdWU9MDhUWUtaamF4SXF1ZTIyK29YTEZ4UT09JnZhbGlkbWludXRlcz0y
