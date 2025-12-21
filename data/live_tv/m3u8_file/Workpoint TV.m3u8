@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=20000000
-https://lsv1.inwstream.com/transcoder_F3/dtv23_workpointtv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjEvMjAyNSAxMjoyMDo1MyBQTSZoYXNoX3ZhbHVlPWV6TmhSVjFqUDFjRGVXaDAwYVBDMkE9PSZ2YWxpZG1pbnV0ZXM9Mg==
+https://lsv2.inwstream.com/transcoder_F3/dtv23_workpointtv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjEvMjAyNSA0OjEzOjM0IFBNJmhhc2hfdmFsdWU9R2wxb1dYYnR1WVJJVE5KdnY1bmZmUT09JnZhbGlkbWludXRlcz0y
