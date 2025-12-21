@@ -2,8 +2,78 @@
     "name": "acdsport replay",
     "image": "https://acdsport.com/acd/social.jpg",
     "url": "https://dl.dropbox.com/scl/fi/2lk9rp530f3mh8sn095pu/acdsport_replay.json?rlkey=ikxvfvv3nljrwb9xervk3r9mp&st=6nqt04sc&dl=0",
-    "author": "update 21-12-2025 07:56:26",
+    "author": "update 21-12-2025 19:18:45",
     "stations": [
+        {
+            "name": "Dec 20 - 20:00 Premier League Leeds vs Crystal Palace",
+            "image": "https://allsp.org/assets/images/team/67ca90f66e1e21741328630.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_ssepl-1766260800-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 20 - 20:00 Premier League Everton vs Arsenal",
+            "image": "https://allsp.org/assets/images/team/67ca90f3a1c6c1741328627.png",
+            "url": "https://vod.starxcdn.xyz/vod/epl_eve-1766260800-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 20 - 20:00 La Liga Real Madrid vs Sevilla",
+            "image": "https://allsp.org/assets/images/team/67ca90e975ebf1741328617.png",
+            "url": "https://vod.starxcdn.xyz/vod/pt_elevensport2-1766260800-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 20 - 19:45 Serie A Juventus vs AS Roma",
+            "image": "https://allsp.org/assets/images/team/67ca90e8da5451741328616.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount2-1766259900-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 20 - 17:30 Bundesliga RB Leipzig vs Bayer Leverkusen",
+            "image": "https://allsp.org/assets/images/team/67ca90e71673f1741328615.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_ssfb-1766251800-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 20 - 17:30 Premier League Tottenham vs Liverpool",
+            "image": "https://allsp.org/assets/images/team/67ca90ee5fb9f1741328622.png",
+            "url": "https://vod.starxcdn.xyz/vod/epl_tot-1766251800-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 20 - 15:00 Premier League Brighton vs Sunderland",
+            "image": "https://allsp.org/assets/images/team/67ca90f41da851741328628.png",
+            "url": "https://vod.starxcdn.xyz/vod/epl_bra-1766242800-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 20 - 15:00 Premier League Manchester City vs West Ham",
+            "image": "https://allsp.org/assets/images/team/67ca90e603f1e1741328614.png",
+            "url": "https://vod.starxcdn.xyz/vod/epl_mci-1766242800-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 20 - 15:00 Premier League Wolves vs Brentford",
+            "image": "https://allsp.org/assets/images/team/67ca90f3647c21741328627.png",
+            "url": "https://vod.starxcdn.xyz/vod/epl_wol-1766242800-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 20 - 15:00 Premier League Bournemouth vs Burnley",
+            "image": "https://allsp.org/assets/images/team/67ca90f32cdf41741328627.png",
+            "url": "https://vod.starxcdn.xyz/vod/epl_bou-1766242800-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
         {
             "name": "Dec 15 - 20:00 La Liga Rayo Vallecano vs Real Betis",
             "image": "https://allsp.org/assets/images/team/67ca915e5362f1741328734.png",

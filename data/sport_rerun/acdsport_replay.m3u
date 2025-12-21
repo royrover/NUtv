@@ -1,4 +1,24 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90f66e1e21741328630.png", group-title="LIVE SPORT", Dec 20 - 2000 Premier League Leeds vs Crystal Palace
+https://vod.starxcdn.xyz/vod/uk_ssepl-1766260800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90f3a1c6c1741328627.png", group-title="LIVE SPORT", Dec 20 - 2000 Premier League Everton vs Arsenal
+https://vod.starxcdn.xyz/vod/epl_eve-1766260800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e975ebf1741328617.png", group-title="LIVE SPORT", Dec 20 - 2000 La Liga Real Madrid vs Sevilla
+https://vod.starxcdn.xyz/vod/pt_elevensport2-1766260800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e8da5451741328616.png", group-title="LIVE SPORT", Dec 20 - 1945 Serie A Juventus vs AS Roma
+https://vod.starxcdn.xyz/vod/paramount2-1766259900-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e71673f1741328615.png", group-title="LIVE SPORT", Dec 20 - 1730 Bundesliga RB Leipzig vs Bayer Leverkusen
+https://vod.starxcdn.xyz/vod/uk_ssfb-1766251800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90ee5fb9f1741328622.png", group-title="LIVE SPORT", Dec 20 - 1730 Premier League Tottenham vs Liverpool
+https://vod.starxcdn.xyz/vod/epl_tot-1766251800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90f41da851741328628.png", group-title="LIVE SPORT", Dec 20 - 1500 Premier League Brighton vs Sunderland
+https://vod.starxcdn.xyz/vod/epl_bra-1766242800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e603f1e1741328614.png", group-title="LIVE SPORT", Dec 20 - 1500 Premier League Manchester City vs West Ham
+https://vod.starxcdn.xyz/vod/epl_mci-1766242800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90f3647c21741328627.png", group-title="LIVE SPORT", Dec 20 - 1500 Premier League Wolves vs Brentford
+https://vod.starxcdn.xyz/vod/epl_wol-1766242800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90f32cdf41741328627.png", group-title="LIVE SPORT", Dec 20 - 1500 Premier League Bournemouth vs Burnley
+https://vod.starxcdn.xyz/vod/epl_bou-1766242800-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca915e5362f1741328734.png", group-title="LIVE SPORT", Dec 15 - 2000 La Liga Rayo Vallecano vs Real Betis
 https://vod.starxcdn.xyz/vod/uk_premiersports1-1765828800-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90ee3e84c1741328622.png", group-title="LIVE SPORT", Dec 15 - 2000 Premier League Manchester United vs Bournemouth
