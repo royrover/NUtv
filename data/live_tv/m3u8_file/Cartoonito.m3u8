@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=20000000
-https://lsv2.inwstream.com/transcoder_F1/cartoonito_inwiptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjEvMjAyNSA0OjMwOjAwIEFNJmhhc2hfdmFsdWU9YUJYblhhUWhxdnRPOGlraE92L1E3Zz09JnZhbGlkbWludXRlcz0y
+https://lsv1.inwstream.com/transcoder_F1/cartoonito_inwiptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjEvMjAyNSA4OjE1OjE3IEFNJmhhc2hfdmFsdWU9RmxTbUJQSmxIbkl0Tko1OHB2Q0xNdz09JnZhbGlkbWludXRlcz0y
