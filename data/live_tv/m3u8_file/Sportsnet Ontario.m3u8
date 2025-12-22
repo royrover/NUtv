@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=20000000
-https://lsv2.inwstream.com/transcoder_F2/sportnetsontario_fwiptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjIvMjAyNSA4OjE5OjExIEFNJmhhc2hfdmFsdWU9UjE1V1BCVEQxc2JMZXYwK29Qc1F3Zz09JnZhbGlkbWludXRlcz0y
+https://lsv1.inwstream.com/transcoder_F2/sportnetsontario_fwiptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjIvMjAyNSAxMjoyNToxMiBQTSZoYXNoX3ZhbHVlPUlvSE9DZ2FjODdtcFo2RHBSM3ZrMlE9PSZ2YWxpZG1pbnV0ZXM9Mg==
