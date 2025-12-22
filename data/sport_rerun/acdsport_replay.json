@@ -2,8 +2,85 @@
     "name": "acdsport replay",
     "image": "https://acdsport.com/acd/social.jpg",
     "url": "https://dl.dropbox.com/scl/fi/2lk9rp530f3mh8sn095pu/acdsport_replay.json?rlkey=ikxvfvv3nljrwb9xervk3r9mp&st=6nqt04sc&dl=0",
-    "author": "update 21-12-2025 19:18:45",
+    "author": "update 22-12-2025 07:55:28",
     "stations": [
+        {
+            "name": "Dec 21 - 20:00 La Liga Real Betis vs Getafe",
+            "image": "https://allsp.org/assets/images/team/67ca915de28b31741328733.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_premiersports1-1766347200-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 21 - 19:45 Serie A Genoa vs Atalanta",
+            "image": "https://allsp.org/assets/images/team/67ca91556217d1741328725.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount4-1766346300-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 21 - 17:30 La Liga Elche vs Rayo Vallecano",
+            "image": "https://allsp.org/assets/images/team/67ca916d8e9261741328749.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_premiersports1-1766338200-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 21 - 17:00 Serie A Fiorentina vs Udinese",
+            "image": "https://allsp.org/assets/images/team/67ca91557b0f91741328725.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount3-1766336400-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 21 - 16:30 Premier League Aston Villa vs Manchester United",
+            "image": "https://allsp.org/assets/images/team/67ca90e61ddc51741328614.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_ssepl-1766334600-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 21 - 16:30 Bundesliga 1. FC Heidenheim vs Bayern München",
+            "image": "https://allsp.org/assets/images/team/67ca91532e5591741328723.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn1-1766334600-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 21 - 15:15 La Liga Villarreal vs Barcelona",
+            "image": "https://allsp.org/assets/images/team/67ca915d2834e1741328733.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_premiersports1-1766330100-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 21 - 14:30 Bundesliga FSV Mainz 05 vs FC St. Pauli",
+            "image": "https://allsp.org/assets/images/team/67ca9152e5ddb1741328722.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn0-1766327400-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 21 - 14:00 Serie A Sassuolo vs Torino",
+            "image": "https://allsp.org/assets/images/team/67ca916377dca1741328739.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount2-1766325600-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 21 - 13:00 La Liga Girona vs Atletico Madrid",
+            "image": "https://allsp.org/assets/images/team/67ca90e98fd451741328617.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_premiersports1-1766322000-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 21 - 11:30 Serie A Cagliari vs Pisa",
+            "image": "https://allsp.org/assets/images/team/67ca91550c6551741328725.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount1-1766316600-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
         {
             "name": "Dec 20 - 20:00 Premier League Leeds vs Crystal Palace",
             "image": "https://allsp.org/assets/images/team/67ca90f66e1e21741328630.png",

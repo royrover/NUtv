@@ -1,4 +1,26 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca915de28b31741328733.png", group-title="LIVE SPORT", Dec 21 - 2000 La Liga Real Betis vs Getafe
+https://vod.starxcdn.xyz/vod/uk_premiersports1-1766347200-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca91556217d1741328725.png", group-title="LIVE SPORT", Dec 21 - 1945 Serie A Genoa vs Atalanta
+https://vod.starxcdn.xyz/vod/paramount4-1766346300-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca916d8e9261741328749.png", group-title="LIVE SPORT", Dec 21 - 1730 La Liga Elche vs Rayo Vallecano
+https://vod.starxcdn.xyz/vod/uk_premiersports1-1766338200-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca91557b0f91741328725.png", group-title="LIVE SPORT", Dec 21 - 1700 Serie A Fiorentina vs Udinese
+https://vod.starxcdn.xyz/vod/paramount3-1766336400-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e61ddc51741328614.png", group-title="LIVE SPORT", Dec 21 - 1630 Premier League Aston Villa vs Manchester United
+https://vod.starxcdn.xyz/vod/uk_ssepl-1766334600-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca91532e5591741328723.png", group-title="LIVE SPORT", Dec 21 - 1630 Bundesliga 1. FC Heidenheim vs Bayern München
+https://vod.starxcdn.xyz/vod/espn1-1766334600-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca915d2834e1741328733.png", group-title="LIVE SPORT", Dec 21 - 1515 La Liga Villarreal vs Barcelona
+https://vod.starxcdn.xyz/vod/uk_premiersports1-1766330100-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca9152e5ddb1741328722.png", group-title="LIVE SPORT", Dec 21 - 1430 Bundesliga FSV Mainz 05 vs FC St. Pauli
+https://vod.starxcdn.xyz/vod/espn0-1766327400-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca916377dca1741328739.png", group-title="LIVE SPORT", Dec 21 - 1400 Serie A Sassuolo vs Torino
+https://vod.starxcdn.xyz/vod/paramount2-1766325600-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e98fd451741328617.png", group-title="LIVE SPORT", Dec 21 - 1300 La Liga Girona vs Atletico Madrid
+https://vod.starxcdn.xyz/vod/uk_premiersports1-1766322000-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca91550c6551741328725.png", group-title="LIVE SPORT", Dec 21 - 1130 Serie A Cagliari vs Pisa
+https://vod.starxcdn.xyz/vod/paramount1-1766316600-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90f66e1e21741328630.png", group-title="LIVE SPORT", Dec 20 - 2000 Premier League Leeds vs Crystal Palace
 https://vod.starxcdn.xyz/vod/uk_ssepl-1766260800-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90f3a1c6c1741328627.png", group-title="LIVE SPORT", Dec 20 - 2000 Premier League Everton vs Arsenal
