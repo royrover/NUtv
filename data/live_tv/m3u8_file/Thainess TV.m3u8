@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=20000000
-https://lsv2.inwstream.com/transcoder_F1/thainess_inwiptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjMvMjAyNSAxMjoyMzo1MyBQTSZoYXNoX3ZhbHVlPXR2Z3I1ZlI0bTVMWWQ1THhDVDF2N0E9PSZ2YWxpZG1pbnV0ZXM9Mg==
+https://lsv1.inwstream.com/transcoder_F1/thainess_inwiptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjMvMjAyNSA0OjE1OjM0IFBNJmhhc2hfdmFsdWU9K3VCY3RxV2F1NFRTUmF5QUVGZ1g4UT09JnZhbGlkbWludXRlcz0y
