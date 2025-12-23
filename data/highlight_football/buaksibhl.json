@@ -2,8 +2,14 @@
     "name": "highlights football buaksib",
     "image": "https://www.buaksib.com/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Flogo-summer.5abd78a6.png&w=256&q=75",
     "url": "",
-    "author": "update 23-12-2025 09:23:49",
+    "author": "update 23-12-2025 20:04:06",
     "stations": [
+        {
+            "name": "⚽ ฟูแล่ม พบ ฟอเรสต์ 22.12.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/12/Fulham_Vs_Forest_22_12_25.jpg",
+            "url": "https://bdphap.com/ssd1/th/Fulham_Vs_Forest_22_12_25.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
         {
             "name": "⚽ แอสตัน วิลล่า พบ แมนเชสเตอร์ ยูไนเต็ด 21.12.2025 ไฮไลท์ฟุตบอล",
             "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/12/Villa_Vs_Man_United_21_12_25.jpg",
