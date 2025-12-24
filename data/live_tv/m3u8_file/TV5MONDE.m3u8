@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=20000000
-https://lsv2.inwstream.com/transcoder_F1/tv5mondeasie_inwiptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjQvMjAyNSAxMjoyMzoxNyBQTSZoYXNoX3ZhbHVlPVZESHNQZTlhVGQrdnh4VFNXZ3pRRWc9PSZ2YWxpZG1pbnV0ZXM9Mg==
+https://lsv1.inwstream.com/transcoder_F1/tv5mondeasie_inwiptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjQvMjAyNSA0OjE1OjIxIFBNJmhhc2hfdmFsdWU9NFJ3SFdseUdxSGVRWmFFeldGNld3UT09JnZhbGlkbWludXRlcz0y
