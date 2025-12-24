@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=20000000
-https://lsv2.inwstream.com/transcoder_F2/skycomedy_fwiptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjQvMjAyNSA0OjI5OjM4IEFNJmhhc2hfdmFsdWU9WjR1VzJqUGZkeEMrS1N3bnJqTmdiZz09JnZhbGlkbWludXRlcz0y
+https://lsv1.inwstream.com/transcoder_F2/skycomedy_fwiptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjQvMjAyNSA4OjE4OjIzIEFNJmhhc2hfdmFsdWU9cXVjM1RTaTJGbk5HOFRmV2laS241dz09JnZhbGlkbWludXRlcz0y
