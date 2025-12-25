@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://newbackend.buaksib.com/wp-content/uploads/2025/12/BG_Pathum_Vs_Kanchanaburi_24_12_25.jpg", group-title="LIVE SPORT", ⚽ บีจี ปทุม ยูไนเต็ด พบ พลังกาญจน์ เอฟซี 24.12.2025 ไฮไลท์ฟุตบอล
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.buaksib.com/
+https://bdphap.com/ssd1/th/BG_Pathum_Vs_Kanchanaburi_24_12_25.mp4
+#EXTINF:-1 tvg-logo="https://newbackend.buaksib.com/wp-content/uploads/2025/12/Buriram_Vs_Sukhothai_24_12_25.jpg", group-title="LIVE SPORT", ⚽ สุโขทัย เอฟซี พบ บุรีรัมย์ ยูไนเต็ด 24.12.2025 ไฮไลท์ฟุตบอล
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.buaksib.com/
+https://bdphap.com/ssd1/th/Buriram_Vs_Sukhothai_24_12_25.mp4
+#EXTINF:-1 tvg-logo="https://newbackend.buaksib.com/wp-content/uploads/2025/12/rat.jpg", group-title="LIVE SPORT", ⚽ ราชบุรี เอฟซี พบ สิงห์ เชียงราย ยูไนเต็ด 24.12.2025 ไฮไลท์ฟุตบอล
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.buaksib.com/
+https://bdphap.com/ssd1/th/Ratchaburi_Vs_Chiangrai_24_12_25.mp4
 #EXTINF:-1 tvg-logo="https://newbackend.buaksib.com/wp-content/uploads/2025/12/Arsenal_Vs_Palace_23_12_25.jpg", group-title="LIVE SPORT", ⚽ อาร์เซน่อล พบ คริสตัล พาเลซ 23.12.2025 ไฮไลท์ฟุตบอล
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.buaksib.com/
