@@ -2,8 +2,28 @@
     "name": "DOOKEELA Rerun",
     "image": "https://www.dropbox.com/scl/fi/0wslhpbbirva0wx4rlbzn/DKL.png?rlkey=37e1vu25obzmo5kikjkax30t7&st=7ey1fj5e&raw=1",
     "url": "",
-    "author": "update 27-12-2025 19:18:32",
+    "author": "update 28-12-2025 07:58:42",
     "stations": [
+        {
+            "name": "Chelsea vs Aston Villa | Premier League (28-12-2025)",
+            "image": "https://images.dookeela4.live/1ea51f4905fd47abb43f7ba22c817198:dkl-images-storage/rerun/1766882682.jpg",
+            "url": "https://ks7jcc.cdn.akamaiz.com/rerun/พรีเมียร์ลีก อังกฤษ 2025_2026 - เชลซี v แอสตัน วิลล่า [28-12-2025 00_30].mp4/playlist.m3u8"
+        },
+        {
+            "name": "Liverpool vs Wolves | Premier League (28-12-2025)",
+            "image": "https://images.dookeela4.live/1ea51f4905fd47abb43f7ba22c817198:dkl-images-storage/rerun/1766882143.jpg",
+            "url": "https://ks7jcc.cdn.akamaiz.com/rerun/พรีเมียร์ลีก อังกฤษ 2025_2026 - ลิเวอร์พูล v วูล์ฟแฮมป์ตัน [27-12-2025 22_00].mp4/playlist.m3u8"
+        },
+        {
+            "name": "Arsenal vs Brighton | Premier League (28-12-2025)",
+            "image": "https://images.dookeela4.live/1ea51f4905fd47abb43f7ba22c817198:dkl-images-storage/rerun/1766881720.jpg",
+            "url": "https://ks7jcc.cdn.akamaiz.com/rerun/พรีเมียร์ลีก อังกฤษ 2025_2026 - อาร์เซน่อล v ไบรท์ตัน [27-12-2025 22_00].mp4/playlist.m3u8"
+        },
+        {
+            "name": "Nottingham Forest vs Manchester City | Premier League (28-12-2025)",
+            "image": "https://images.dookeela4.live/1ea51f4905fd47abb43f7ba22c817198:dkl-images-storage/rerun/1766881485.jpg",
+            "url": "https://ks7jcc.cdn.akamaiz.com/rerun/พรีเมียร์ลีก อังกฤษ 2025_2026 - น็อตติงแฮม ฟอเรสต์ v แมนเชสเตอร์ ซิตี้ [27-12-2025 19_30].mp4/playlist.m3u8"
+        },
         {
             "name": "Manchester United vs Newcastle | Premier League (27-12-2025)",
             "image": "https://images.dookeela4.live/1ea51f4905fd47abb43f7ba22c817198:dkl-images-storage/rerun/1766811209.jpg",

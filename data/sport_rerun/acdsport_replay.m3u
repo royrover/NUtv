@@ -1,4 +1,28 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca91651afee1741328741.png", group-title="LIVE SPORT", Dec 27 - 1945 Serie A Pisa vs Juventus
+https://vod.starxcdn.xyz/vod/uk_bts2-1766864700-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90f4040541741328628.png", group-title="LIVE SPORT", Dec 27 - 1730 Premier League Chelsea vs Aston Villa
+https://vod.starxcdn.xyz/vod/uk_ssepl-1766856600-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca91554a3261741328725.png", group-title="LIVE SPORT", Dec 27 - 1700 Serie A Udinese vs Lazio
+https://vod.starxcdn.xyz/vod/paramount4-1766854800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90f4591821741328628.png", group-title="LIVE SPORT", Dec 27 - 1500 Premier League Brentford vs Bournemouth
+https://vod.starxcdn.xyz/vod/epl_bre-1766847600-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90f3dd3b81741328627.png", group-title="LIVE SPORT", Dec 27 - 1500 Premier League West Ham vs Fulham
+https://vod.starxcdn.xyz/vod/epl_whu-1766847600-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90f5466a01741328629.png", group-title="LIVE SPORT", Dec 27 - 1500 Premier League Burnley vs Everton
+https://vod.starxcdn.xyz/vod/epl_bly-1766847600-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e5dda801741328613.png", group-title="LIVE SPORT", Dec 27 - 1500 Premier League Arsenal vs Brighton
+https://vod.starxcdn.xyz/vod/epl_ars-1766847600-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/689fc7f968c2a1755301881.png", group-title="LIVE SPORT", Dec 27 - 1500 Premier League Liverpool vs Wolves
+https://vod.starxcdn.xyz/vod/uk_premiersports1-1766847600-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca9156219501741328726.png", group-title="LIVE SPORT", Dec 27 - 1400 Serie A Lecce vs Como
+https://vod.starxcdn.xyz/vod/paramount3-1766844000-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca9155942131741328725.png", group-title="LIVE SPORT", Dec 27 - 1400 Serie A Torino vs Cagliari
+https://vod.starxcdn.xyz/vod/paramount2-1766844000-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90f497dc91741328628.png", group-title="LIVE SPORT", Dec 27 - 1230 Premier League Nottingham Forest vs Manchester City
+https://vod.starxcdn.xyz/vod/uk_bts1-1766838600-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca91560d6651741328726.png", group-title="LIVE SPORT", Dec 27 - 1130 Serie A Parma vs Fiorentina
+https://vod.starxcdn.xyz/vod/paramount1-1766835000-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90ee3e84c1741328622.png", group-title="LIVE SPORT", Dec 26 - 2000 Premier League Manchester United vs Newcastle
 https://vod.starxcdn.xyz/vod/uk_ssepl-1766779200-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90f346b741741328627.png", group-title="LIVE SPORT", Dec 22 - 2000 Premier League Fulham vs Nottingham Forest
