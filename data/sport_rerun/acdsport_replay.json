@@ -2,8 +2,50 @@
     "name": "acdsport replay",
     "image": "https://acdsport.com/acd/social.jpg",
     "url": "https://dl.dropbox.com/scl/fi/2lk9rp530f3mh8sn095pu/acdsport_replay.json?rlkey=ikxvfvv3nljrwb9xervk3r9mp&st=6nqt04sc&dl=0",
-    "author": "update 28-12-2025 19:19:31",
+    "author": "update 29-12-2025 07:57:30",
     "stations": [
+        {
+            "name": "Dec 28 - 19:45 Serie A Atalanta vs Inter",
+            "image": "https://allsp.org/assets/images/team/67ca90e9015a01741328617.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts1-1766951100-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 28 - 17:00 Serie A Bologna vs Sassuolo",
+            "image": "https://allsp.org/assets/images/team/67ca90e918e141741328617.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount3-1766941200-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 28 - 16:30 Premier League Crystal Palace vs Tottenham",
+            "image": "https://allsp.org/assets/images/team/67ca90f439b891741328628.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_ssepl-1766939400-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 28 - 14:00 Serie A Cremonese vs Napoli",
+            "image": "https://allsp.org/assets/images/team/67ca9164adc421741328740.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount2-1766930400-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 28 - 14:00 Premier League Sunderland vs Leeds",
+            "image": "https://allsp.org/assets/images/team/67ca90f806f2e1741328632.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_ssepl-1766930400-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Dec 28 - 11:30 Serie A AC Milan vs Verona",
+            "image": "https://allsp.org/assets/images/team/67ca90e8bde0a1741328616.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount1-1766921400-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
         {
             "name": "Dec 27 - 19:45 Serie A Pisa vs Juventus",
             "image": "https://allsp.org/assets/images/team/67ca91651afee1741328741.png",
