@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90efdd70f1741328623.png", group-title="LIVE SPORT", Dec 29 - 1945 Serie A AS Roma vs Genoa
+https://vod.starxcdn.xyz/vod/paramount1-1767037500-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e9015a01741328617.png", group-title="LIVE SPORT", Dec 28 - 1945 Serie A Atalanta vs Inter
 https://vod.starxcdn.xyz/vod/uk_bts1-1766951100-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e918e141741328617.png", group-title="LIVE SPORT", Dec 28 - 1700 Serie A Bologna vs Sassuolo
