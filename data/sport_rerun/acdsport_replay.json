@@ -2,8 +2,36 @@
     "name": "acdsport replay",
     "image": "https://acdsport.com/acd/social.jpg",
     "url": "https://dl.dropbox.com/scl/fi/2lk9rp530f3mh8sn095pu/acdsport_replay.json?rlkey=ikxvfvv3nljrwb9xervk3r9mp&st=6nqt04sc&dl=0",
-    "author": "update 01-01-2026 19:21:11",
+    "author": "update 02-01-2026 07:54:02",
     "stations": [
+        {
+            "name": "Jan 01 - 20:00 Premier League Sunderland vs Manchester City",
+            "image": "https://allsp.org/assets/images/team/67ca90f806f2e1741328632.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_ssmain-1767297600-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Jan 01 - 20:00 Premier League Brentford vs Tottenham",
+            "image": "https://allsp.org/assets/images/team/67ca90f4591821741328628.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_ssepl-1767297600-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Jan 01 - 17:30 Premier League Crystal Palace vs Fulham",
+            "image": "https://allsp.org/assets/images/team/67ca90f439b891741328628.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_ssepl-1767288600-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Jan 01 - 17:30 Premier League Liverpool vs Leeds",
+            "image": "https://allsp.org/assets/images/team/689fc7f968c2a1755301881.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_ssmain-1767288600-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
         {
             "name": "Dec 30 - 20:15 Premier League Arsenal vs Aston Villa",
             "image": "https://allsp.org/assets/images/team/67ca90e5dda801741328613.png",
