@@ -2,8 +2,26 @@
     "name": "highlights football buaksib",
     "image": "https://www.buaksib.com/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Flogo-summer.5abd78a6.png&w=256&q=75",
     "url": "",
-    "author": "update 02-01-2026 09:26:58",
+    "author": "update 02-01-2026 20:01:23",
     "stations": [
+        {
+            "name": "⚽ เบรนท์ฟอร์ด พบ สเปอร์ส 01.01.2024 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2026/01/ben.jpg",
+            "url": "https://bdphap.com/ssd1/th/Brentford_Vs_Spurs_01_01_26.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ ซันเดอร์แลนด์ พบ แมนเชสเตอร์ ซิตี้ 01.01.2024 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2026/01/sun.jpg",
+            "url": "https://bdphap.com/ssd1/th/Sunderland_Vs_Man_City_01_01_26.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ ลิเวอร์พูล พบ ลีดส์ ยูไนเต็ด 01.01.2024 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2026/01/li.jpg",
+            "url": "https://bdphap.com/ssd1/th/Liverpool_Vs_Leeds_01_01_26.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
         {
             "name": "⚽ คริสตัล พาเลซ พบ สเปอร์ส 28.12.2025 ไฮไลท์ฟุตบอล",
             "image": "https://newbackend.buaksib.com/wp-content/uploads/2025/12/Palace_Vs_Spur_28_12_25.jpg",
