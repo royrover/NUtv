@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca915e5362f1741328734.png", group-title="LIVE SPORT", Jan 02 - 2000 La Liga Rayo Vallecano vs Getafe
+https://vod.starxcdn.xyz/vod/uk_premiersports2-1767384000-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca915201c1e1741328722.png", group-title="LIVE SPORT", Jan 02 - 1945 Ligue 1 Toulouse vs Lens
+https://vod.starxcdn.xyz/vod/pt_sporttv4-1767383100-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca91550c6551741328725.png", group-title="LIVE SPORT", Jan 02 - 1945 Serie A Cagliari vs AC Milan
+https://vod.starxcdn.xyz/vod/paramount1-1767383100-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90f806f2e1741328632.png", group-title="LIVE SPORT", Jan 01 - 2000 Premier League Sunderland vs Manchester City
 https://vod.starxcdn.xyz/vod/uk_ssmain-1767297600-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90f4591821741328628.png", group-title="LIVE SPORT", Jan 01 - 2000 Premier League Brentford vs Tottenham

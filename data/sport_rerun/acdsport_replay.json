@@ -2,8 +2,29 @@
     "name": "acdsport replay",
     "image": "https://acdsport.com/acd/social.jpg",
     "url": "https://dl.dropbox.com/scl/fi/2lk9rp530f3mh8sn095pu/acdsport_replay.json?rlkey=ikxvfvv3nljrwb9xervk3r9mp&st=6nqt04sc&dl=0",
-    "author": "update 02-01-2026 19:20:31",
+    "author": "update 03-01-2026 07:50:37",
     "stations": [
+        {
+            "name": "Jan 02 - 20:00 La Liga Rayo Vallecano vs Getafe",
+            "image": "https://allsp.org/assets/images/team/67ca915e5362f1741328734.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_premiersports2-1767384000-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Jan 02 - 19:45 Ligue 1 Toulouse vs Lens",
+            "image": "https://allsp.org/assets/images/team/67ca915201c1e1741328722.png",
+            "url": "https://vod.starxcdn.xyz/vod/pt_sporttv4-1767383100-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Jan 02 - 19:45 Serie A Cagliari vs AC Milan",
+            "image": "https://allsp.org/assets/images/team/67ca91550c6551741328725.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount1-1767383100-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
         {
             "name": "Jan 01 - 20:00 Premier League Sunderland vs Manchester City",
             "image": "https://allsp.org/assets/images/team/67ca90f806f2e1741328632.png",
