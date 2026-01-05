@@ -2,8 +2,20 @@
     "name": "highlights football buaksib",
     "image": "https://www.buaksib.com/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Flogo-summer.5abd78a6.png&w=256&q=75",
     "url": "",
-    "author": "update 04-01-2026 19:59:50",
+    "author": "update 05-01-2026 09:38:16",
     "stations": [
+        {
+            "name": "⚽ พีที ประจวบ เอฟซี พบ บุรีรัมย์ ยูไนเต็ด 04.01.2026 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2026/01/Prachuap_Vs_Buriram_04_01_26.jpg",
+            "url": "https://bdphap.com/ssd1/th/Prachuap_Vs_Buriram_04_01_26.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ ลีดส์ ยูไนเต็ด พบ แมนเชสเตอร์ ยูไนเต็ด 04.01.2024 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2026/01/Leeds_Vs_Man_United_04_01_26.jpg",
+            "url": "https://bdphap.com/ssd1/th/Leeds_Vs_Man_United_04_01_26.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
         {
             "name": "⚽ บอร์นมัธ พบ อาร์เซน่อล 03.01.2026 ไฮไลท์ฟุตบอล",
             "image": "https://newbackend.buaksib.com/wp-content/uploads/2026/01/Bournemouth_Vs_Arsenal_03_01_26.jpg",
