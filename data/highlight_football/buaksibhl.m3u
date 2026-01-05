@@ -1,4 +1,24 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://newbackend.buaksib.com/wp-content/uploads/2026/01/Man_City_Vs_Chelsea_04_01_26.jpg", group-title="LIVE SPORT", ⚽ แมนเชสเตอร์ ซิตี้ พบ เชลซี 04.01.2026 ไฮไลท์ฟุตบอล
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.buaksib.com/
+https://bdphap.com/ssd1/th/Man_City_Vs_Chelsea_04_01_26.mp4
+#EXTINF:-1 tvg-logo="https://newbackend.buaksib.com/wp-content/uploads/2026/01/Fulham_Vs_Liverpool_04_01_26.jpg", group-title="LIVE SPORT", ⚽ ฟูแล่ม พบ ลิเวอร์พูล 04.01.2026 ไฮไลท์ฟุตบอล
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.buaksib.com/
+https://bdphap.com/ssd1/th/Fulham_Vs_Liverpool_04_01_26.mp4
+#EXTINF:-1 tvg-logo="https://newbackend.buaksib.com/wp-content/uploads/2026/01/Spur_Vs_Sunderland_04_01_26.jpg", group-title="LIVE SPORT", ⚽ สเปอร์ส พบ ซันเดอร์แลนด์ 04.01.2026 ไฮไลท์ฟุตบอล
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.buaksib.com/
+https://bdphap.com/ssd1/th/Spur_Vs_Sunderland_04_01_26.mp4
+#EXTINF:-1 tvg-logo="https://newbackend.buaksib.com/wp-content/uploads/2026/01/Newcastle_Vs_Palace_04_01_26.jpg", group-title="LIVE SPORT", ⚽ นิวคาสเซิ่ล ยูไนเต็ด พบ คริสตัล พาเลซ 04.01.2024 ไฮไลท์ฟุตบอล
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.buaksib.com/
+https://bdphap.com/ssd1/th/Newcastle_Vs_Palace_04_01_26.mp4
+#EXTINF:-1 tvg-logo="https://newbackend.buaksib.com/wp-content/uploads/2026/01/Everton_Vs_Brentford_04_01_26.jpg", group-title="LIVE SPORT", ⚽ เอฟเวอร์ตัน พบ เบรนท์ฟอร์ด 04.01.2024 ไฮไลท์ฟุตบอล
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.buaksib.com/
+https://bdphap.com/ssd1/th/Everton_Vs_Brentford_04_01_26.mp4
 #EXTINF:-1 tvg-logo="https://newbackend.buaksib.com/wp-content/uploads/2026/01/Prachuap_Vs_Buriram_04_01_26.jpg", group-title="LIVE SPORT", ⚽ พีที ประจวบ เอฟซี พบ บุรีรัมย์ ยูไนเต็ด 04.01.2026 ไฮไลท์ฟุตบอล
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.buaksib.com/
