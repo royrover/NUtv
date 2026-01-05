@@ -1,4 +1,44 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90f01baf31741328624.png", group-title="LIVE SPORT", Jan 04 - 2000 La Liga Real Sociedad vs Atletico Madrid
+https://vod.starxcdn.xyz/vod/uk_premiersports1-1767556800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e930c021741328617.png", group-title="LIVE SPORT", Jan 04 - 1945 Serie A Inter vs Bologna
+https://vod.starxcdn.xyz/vod/uk_bts1-1767555900-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e6535731741328614.png", group-title="LIVE SPORT", Jan 04 - 1945 Ligue 1 Paris Saint Germain vs Paris FC
+https://vod.starxcdn.xyz/vod/pt_sporttv3-1767555900-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca915e6c9ae1741328734.png", group-title="LIVE SPORT", Jan 04 - 1730 La Liga Mallorca vs Girona
+https://vod.starxcdn.xyz/vod/uk_premiersports1-1767547800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca915dc7e401741328733.png", group-title="LIVE SPORT", Jan 04 - 1730 La Liga Alaves vs Oviedo
+https://vod.starxcdn.xyz/vod/espn2-1767547800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e603f1e1741328614.png", group-title="LIVE SPORT", Jan 04 - 1730 Premier League Manchester City vs Chelsea
+https://vod.starxcdn.xyz/vod/uk_ssepl-1767547800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca9155ad1bc1741328725.png", group-title="LIVE SPORT", Jan 04 - 1700 Serie A Verona vs Torino
+https://vod.starxcdn.xyz/vod/paramount3-1767546000-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca91523b2051741328722.png", group-title="LIVE SPORT", Jan 04 - 1615 Ligue 1 LE Havre vs Angers
+https://vod.starxcdn.xyz/vod/pt_sporttv4-1767543300-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e6866821741328614.png", group-title="LIVE SPORT", Jan 04 - 1615 Ligue 1 Stade Brestois 29 vs Auxerre
+https://vod.starxcdn.xyz/vod/live03-1767543300-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/6808f2b8ca27d1745416888.png", group-title="LIVE SPORT", Jan 04 - 1615 Ligue 1 Lorient vs Metz
+https://vod.starxcdn.xyz/vod/live02-1767543300-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e975ebf1741328617.png", group-title="LIVE SPORT", Jan 04 - 1515 La Liga Real Madrid vs Real Betis
+https://vod.starxcdn.xyz/vod/uk_premiersports1-1767539700-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90f346b741741328627.png", group-title="LIVE SPORT", Jan 04 - 1515 Premier League Fulham vs Liverpool
+https://vod.starxcdn.xyz/vod/uk_ssmain-1767539700-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90ee5fb9f1741328622.png", group-title="LIVE SPORT", Jan 04 - 1500 Premier League Tottenham vs Sunderland
+https://vod.starxcdn.xyz/vod/uk_ssfb-1767538800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90f3a1c6c1741328627.png", group-title="LIVE SPORT", Jan 04 - 1500 Premier League Everton vs Brentford
+https://vod.starxcdn.xyz/vod/epl_eve-1767538800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90f30f54f1741328627.png", group-title="LIVE SPORT", Jan 04 - 1500 Premier League Newcastle vs Crystal Palace
+https://vod.starxcdn.xyz/vod/uk_ssepl-1767538800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca91557b0f91741328725.png", group-title="LIVE SPORT", Jan 04 - 1400 Serie A Fiorentina vs Cremonese
+https://vod.starxcdn.xyz/vod/paramount2-1767535200-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca9151691e91741328721.png", group-title="LIVE SPORT", Jan 04 - 1400 Ligue 1 Marseille vs Nantes
+https://vod.starxcdn.xyz/vod/pt_sporttv1-1767535200-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca915d5ed5c1741328733.png", group-title="LIVE SPORT", Jan 04 - 1300 La Liga Sevilla vs Levante
+https://vod.starxcdn.xyz/vod/uk_premiersports1-1767531600-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90f66e1e21741328630.png", group-title="LIVE SPORT", Jan 04 - 1230 Premier League Leeds vs Manchester United
+https://vod.starxcdn.xyz/vod/uk_bts1-1767529800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90efc4d4f1741328623.png", group-title="LIVE SPORT", Jan 04 - 1130 Serie A Lazio vs Napoli
+https://vod.starxcdn.xyz/vod/uk_bts2-1767526200-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e63814c1741328614.png", group-title="LIVE SPORT", Jan 03 - 2005 Ligue 1 Lille vs Rennes
 https://vod.starxcdn.xyz/vod/pt_sporttv3-1767470700-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca915dad7611741328733.png", group-title="LIVE SPORT", Jan 03 - 2000 La Liga Espanyol vs Barcelona
