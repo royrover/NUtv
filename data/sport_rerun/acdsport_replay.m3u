@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90f3dd3b81741328627.png", group-title="LIVE SPORT", Jan 06 - 2000 Premier League West Ham vs Nottingham Forest
+https://vod.starxcdn.xyz/vod/uk_ssepl-1767729600-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca916377dca1741328739.png", group-title="LIVE SPORT", Jan 06 - 1945 Serie A Sassuolo vs Juventus
+https://vod.starxcdn.xyz/vod/uk_bts1-1767728700-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca9156219501741328726.png", group-title="LIVE SPORT", Jan 06 - 1700 Serie A Lecce vs AS Roma
+https://vod.starxcdn.xyz/vod/paramount2-1767718800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca91651afee1741328741.png", group-title="LIVE SPORT", Jan 06 - 1400 Serie A Pisa vs Como
+https://vod.starxcdn.xyz/vod/paramount1-1767708000-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90f01baf31741328624.png", group-title="LIVE SPORT", Jan 04 - 2000 La Liga Real Sociedad vs Atletico Madrid
 https://vod.starxcdn.xyz/vod/uk_premiersports1-1767556800-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e930c021741328617.png", group-title="LIVE SPORT", Jan 04 - 1945 Serie A Inter vs Bologna

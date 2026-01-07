@@ -2,8 +2,36 @@
     "name": "acdsport replay",
     "image": "https://acdsport.com/acd/social.jpg",
     "url": "https://dl.dropbox.com/scl/fi/2lk9rp530f3mh8sn095pu/acdsport_replay.json?rlkey=ikxvfvv3nljrwb9xervk3r9mp&st=6nqt04sc&dl=0",
-    "author": "update 06-01-2026 19:21:53",
+    "author": "update 07-01-2026 07:54:32",
     "stations": [
+        {
+            "name": "Jan 06 - 20:00 Premier League West Ham vs Nottingham Forest",
+            "image": "https://allsp.org/assets/images/team/67ca90f3dd3b81741328627.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_ssepl-1767729600-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Jan 06 - 19:45 Serie A Sassuolo vs Juventus",
+            "image": "https://allsp.org/assets/images/team/67ca916377dca1741328739.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts1-1767728700-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Jan 06 - 17:00 Serie A Lecce vs AS Roma",
+            "image": "https://allsp.org/assets/images/team/67ca9156219501741328726.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount2-1767718800-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Jan 06 - 14:00 Serie A Pisa vs Como",
+            "image": "https://allsp.org/assets/images/team/67ca91651afee1741328741.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount1-1767708000-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
         {
             "name": "Jan 04 - 20:00 La Liga Real Sociedad vs Atletico Madrid",
             "image": "https://allsp.org/assets/images/team/67ca90f01baf31741328624.png",
