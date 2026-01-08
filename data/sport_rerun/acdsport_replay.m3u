@@ -1,4 +1,30 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90f5466a01741328629.png", group-title="LIVE SPORT", Jan 07 - 2015 Premier League Burnley vs Manchester United
+https://vod.starxcdn.xyz/vod/uk_ssepl-1767816900-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90f30f54f1741328627.png", group-title="LIVE SPORT", Jan 07 - 2015 Premier League Newcastle vs Leeds
+https://vod.starxcdn.xyz/vod/epl_new-1767816900-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca91560d6651741328726.png", group-title="LIVE SPORT", Jan 07 - 1945 Serie A Parma vs Inter
+https://vod.starxcdn.xyz/vod/uk_bts3-1767815100-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca9155942131741328725.png", group-title="LIVE SPORT", Jan 07 - 1945 Serie A Torino vs Udinese
+https://vod.starxcdn.xyz/vod/paramount4-1767815100-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90efc4d4f1741328623.png", group-title="LIVE SPORT", Jan 07 - 1945 Serie A Lazio vs Fiorentina
+https://vod.starxcdn.xyz/vod/paramount3-1767815100-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90f4591821741328628.png", group-title="LIVE SPORT", Jan 07 - 1930 Premier League Brentford vs Sunderland
+https://vod.starxcdn.xyz/vod/epl_bre-1767814200-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90f439b891741328628.png", group-title="LIVE SPORT", Jan 07 - 1930 Premier League Crystal Palace vs Aston Villa
+https://vod.starxcdn.xyz/vod/epl_cry-1767814200-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e603f1e1741328614.png", group-title="LIVE SPORT", Jan 07 - 1930 Premier League Manchester City vs Brighton
+https://vod.starxcdn.xyz/vod/uk_ssmain-1767814200-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90f3a1c6c1741328627.png", group-title="LIVE SPORT", Jan 07 - 1930 Premier League Everton vs Wolves
+https://vod.starxcdn.xyz/vod/epl_eve-1767814200-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90f346b741741328627.png", group-title="LIVE SPORT", Jan 07 - 1930 Premier League Fulham vs Chelsea
+https://vod.starxcdn.xyz/vod/uk_ssfb-1767814200-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90f32cdf41741328627.png", group-title="LIVE SPORT", Jan 07 - 1930 Premier League Bournemouth vs Tottenham
+https://vod.starxcdn.xyz/vod/epl_bou-1767814200-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e918e141741328617.png", group-title="LIVE SPORT", Jan 07 - 1730 Serie A Bologna vs Atalanta
+https://vod.starxcdn.xyz/vod/paramount2-1767807000-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca91552c3811741328725.png", group-title="LIVE SPORT", Jan 07 - 1730 Serie A Napoli vs Verona
+https://vod.starxcdn.xyz/vod/paramount1-1767807000-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90f3dd3b81741328627.png", group-title="LIVE SPORT", Jan 06 - 2000 Premier League West Ham vs Nottingham Forest
 https://vod.starxcdn.xyz/vod/uk_ssepl-1767729600-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca916377dca1741328739.png", group-title="LIVE SPORT", Jan 06 - 1945 Serie A Sassuolo vs Juventus
