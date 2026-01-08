@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://images.dookeela4.live/1ea51f4905fd47abb43f7ba22c817198:dkl-images-storage/rerun/1767865179.jpg", group-title="LIVE SPORT", Burnley vs Manchester United | Premier League (08-01-2026)
+https://ks7jcc.cdn.akamaiz.com/rerun/พรีเมียร์ลีก อังกฤษ 2025_2026 - เบิร์นลีย์ v แมนเชสเตอร์ ยูไนเต็ด [08-01-2026 03_15].mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.dookeela4.live/1ea51f4905fd47abb43f7ba22c817198:dkl-images-storage/rerun/1767864674.jpg", group-title="LIVE SPORT", Manchester City vs Brighton | Premier League (08-01-2026)
+https://ks7jcc.cdn.akamaiz.com/rerun/พรีเมียร์ลีก อังกฤษ 2025_2026 - แมนเชสเตอร์ ซิตี้ v ไบรท์ตัน [08-01-2026 02_30].mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.dookeela4.live/1ea51f4905fd47abb43f7ba22c817198:dkl-images-storage/rerun/1767864246.jpg", group-title="LIVE SPORT", Fulham vs Chelsea | Premier League (08-01-2026)
+https://ks7jcc.cdn.akamaiz.com/rerun/พรีเมียร์ลีก อังกฤษ 2025_2026 - ฟูแล่ม v เชลซี [08-01-2026 02_30].mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.dookeela4.live/1ea51f4905fd47abb43f7ba22c817198:dkl-images-storage/rerun/1767697648.jpg", group-title="LIVE SPORT", Manchester City vs Chelsea | Premier League (06-01-2026)
 https://ks7jcc.cdn.akamaiz.com/rerun/พรีเมียร์ลีก อังกฤษ 2025_2026 - แมนเชสเตอร์ ซิตี้ v เชลซี [05-01-2026 00_30].mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.dookeela4.live/1ea51f4905fd47abb43f7ba22c817198:dkl-images-storage/rerun/1767150269.jpg", group-title="LIVE SPORT", Arsenal vs Aston Villa | Premier League (31-12-2025)
