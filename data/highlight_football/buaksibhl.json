@@ -2,8 +2,14 @@
     "name": "highlights football buaksib",
     "image": "https://www.buaksib.com/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Flogo-summer.5abd78a6.png&w=256&q=75",
     "url": "",
-    "author": "update 08-01-2026 20:07:15",
+    "author": "update 09-01-2026 09:27:06",
     "stations": [
+        {
+            "name": "⚽ ออสเตรเลีย U23 พบ ทีมชาติไทย U23 08.01.2026 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2026/01/Australia_Vs_Thai_08_01_26.jpg",
+            "url": "https://bdphap.com/ssd1/th/Australia_Vs_Thai_08_01_26.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
         {
             "name": "⚽ ฟูแล่ม พบ เชลซี 07.01.2026 ไฮไลท์ฟุตบอล",
             "image": "https://newbackend.buaksib.com/wp-content/uploads/2026/01/Fulham_Vs_Chelsea_07_01_26.jpg",

@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://newbackend.buaksib.com/wp-content/uploads/2026/01/Australia_Vs_Thai_08_01_26.jpg", group-title="LIVE SPORT", ⚽ ออสเตรเลีย U23 พบ ทีมชาติไทย U23 08.01.2026 ไฮไลท์ฟุตบอล
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.buaksib.com/
+https://bdphap.com/ssd1/th/Australia_Vs_Thai_08_01_26.mp4
 #EXTINF:-1 tvg-logo="https://newbackend.buaksib.com/wp-content/uploads/2026/01/Fulham_Vs_Chelsea_07_01_26.jpg", group-title="LIVE SPORT", ⚽ ฟูแล่ม พบ เชลซี 07.01.2026 ไฮไลท์ฟุตบอล
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.buaksib.com/
