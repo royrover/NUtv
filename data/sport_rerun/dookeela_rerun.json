@@ -2,8 +2,13 @@
     "name": "DOOKEELA Rerun",
     "image": "https://www.dropbox.com/scl/fi/0wslhpbbirva0wx4rlbzn/DKL.png?rlkey=37e1vu25obzmo5kikjkax30t7&st=7ey1fj5e&raw=1",
     "url": "",
-    "author": "update 09-01-2026 07:54:20",
+    "author": "update 09-01-2026 19:21:36",
     "stations": [
+        {
+            "name": "playlist.m3u8 - 09-01-2026",
+            "image": "https://images.dookeela4.live/1ea51f4905fd47abb43f7ba22c817198:dkl-images-storage/rerun/1767949988.jpg",
+            "url": "https://ks7jcc.cdn.akamaiz.com/rerun/พรีเมียร์ลีก อังกฤษ 2025_2026 - อาร์เซน่อล v ลิเวอร์พูล [09-01-2026 03_00].mp4/playlist.m3u8"
+        },
         {
             "name": "Burnley vs Manchester United | Premier League (08-01-2026)",
             "image": "https://images.dookeela4.live/1ea51f4905fd47abb43f7ba22c817198:dkl-images-storage/rerun/1767865179.jpg",
