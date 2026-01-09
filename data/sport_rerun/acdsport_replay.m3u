@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e5dda801741328613.png", group-title="LIVE SPORT", Jan 08 - 2000 Premier League Arsenal vs Liverpool
+https://vod.starxcdn.xyz/vod/uk_ssepl-1767902400-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e8bde0a1741328616.png", group-title="LIVE SPORT", Jan 08 - 1945 Serie A AC Milan vs Genoa
+https://vod.starxcdn.xyz/vod/paramount2-1767901500-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca9164adc421741328740.png", group-title="LIVE SPORT", Jan 08 - 1730 Serie A Cremonese vs Cagliari
+https://vod.starxcdn.xyz/vod/paramount1-1767893400-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90f5466a01741328629.png", group-title="LIVE SPORT", Jan 07 - 2015 Premier League Burnley vs Manchester United
 https://vod.starxcdn.xyz/vod/uk_ssepl-1767816900-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90f30f54f1741328627.png", group-title="LIVE SPORT", Jan 07 - 2015 Premier League Newcastle vs Leeds

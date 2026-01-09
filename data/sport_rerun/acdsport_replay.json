@@ -2,8 +2,29 @@
     "name": "acdsport replay",
     "image": "https://acdsport.com/acd/social.jpg",
     "url": "https://dl.dropbox.com/scl/fi/2lk9rp530f3mh8sn095pu/acdsport_replay.json?rlkey=ikxvfvv3nljrwb9xervk3r9mp&st=6nqt04sc&dl=0",
-    "author": "update 08-01-2026 19:22:47",
+    "author": "update 09-01-2026 07:54:22",
     "stations": [
+        {
+            "name": "Jan 08 - 20:00 Premier League Arsenal vs Liverpool",
+            "image": "https://allsp.org/assets/images/team/67ca90e5dda801741328613.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_ssepl-1767902400-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Jan 08 - 19:45 Serie A AC Milan vs Genoa",
+            "image": "https://allsp.org/assets/images/team/67ca90e8bde0a1741328616.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount2-1767901500-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Jan 08 - 17:30 Serie A Cremonese vs Cagliari",
+            "image": "https://allsp.org/assets/images/team/67ca9164adc421741328740.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount1-1767893400-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
         {
             "name": "Jan 07 - 20:15 Premier League Burnley vs Manchester United",
             "image": "https://allsp.org/assets/images/team/67ca90f5466a01741328629.png",
