@@ -2,8 +2,14 @@
     "name": "highlights football buaksib",
     "image": "https://www.buaksib.com/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Flogo-summer.5abd78a6.png&w=256&q=75",
     "url": "",
-    "author": "update 09-01-2026 20:06:24",
+    "author": "update 10-01-2026 09:22:55",
     "stations": [
+        {
+            "name": "⚽ อุทัยธานี เอฟซี พบ บุรีรัมย์ ยูไนเต็ด 09.01.2026 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2026/01/Uthai_Vs_Buriram_09_01_26.jpg",
+            "url": "https://bdphap.com/ssd1/th/Uthai_Vs_Buriram_09_01_26.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
         {
             "name": "⚽ อาร์เซน่อล พบ ลิเวอร์พูล 08.01.2026 ไฮไลท์ฟุตบอล",
             "image": "https://newbackend.buaksib.com/wp-content/uploads/2026/01/Arsenal_Vs_Liverpool_08_01_26.jpg",
