@@ -2,8 +2,20 @@
     "name": "highlights football buaksib",
     "image": "https://www.buaksib.com/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Flogo-summer.5abd78a6.png&w=256&q=75",
     "url": "",
-    "author": "update 11-01-2026 09:38:21",
+    "author": "update 11-01-2026 20:00:27",
     "stations": [
+        {
+            "name": "⚽ นิวคาสเซิ่ล ยูไนเต็ด พบ บอร์นมัธ 10.01.2026 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2026/01/Newcastle_Vs_Bournemouth_10_01_26.jpg",
+            "url": "https://bdphap.com/ssd1/th/Newcastle_Vs_Bournemouth_10_01_26.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ แมนเชสเตอร์ ซิตี้ พบ เอ็กซ์เซเตอร์ ซิตี้ 10.01.2026 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2026/01/Man_City_Vs_Exeter_10_01_26.jpg",
+            "url": "https://bdphap.com/ssd1/th/Man_City_Vs_Exeter_10_01_26.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
         {
             "name": "⚽ ลําพูน วอริเออร์ พบ บีจี ปทุม ยูไนเต็ด 10.01.2026 ไฮไลท์ฟุตบอล",
             "image": "https://newbackend.buaksib.com/wp-content/uploads/2026/01/Lamphun_Vs_Bg_10_01_26.jpg",
