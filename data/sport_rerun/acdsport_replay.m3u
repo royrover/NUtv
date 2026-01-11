@@ -1,4 +1,28 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca915d0c7731741328733.png", group-title="LIVE SPORT", Jan 10 - 2000 La Liga Valencia vs Elche
+https://vod.starxcdn.xyz/vod/espn10-1768075200-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e9015a01741328617.png", group-title="LIVE SPORT", Jan 10 - 1945 Serie A Atalanta vs Torino
+https://vod.starxcdn.xyz/vod/paramount4-1768074300-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e98fd451741328617.png", group-title="LIVE SPORT", Jan 10 - 1730 La Liga Girona vs Osasuna
+https://vod.starxcdn.xyz/vod/espn9-1768066200-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e6d4d401741328614.png", group-title="LIVE SPORT", Jan 10 - 1730 Bundesliga Bayer Leverkusen vs VfB Stuttgart
+https://vod.starxcdn.xyz/vod/espn8-1768066200-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90efdd70f1741328623.png", group-title="LIVE SPORT", Jan 10 - 1700 Serie A AS Roma vs Sassuolo
+https://vod.starxcdn.xyz/vod/uk_bts3-1768064400-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca915d2834e1741328733.png", group-title="LIVE SPORT", Jan 10 - 1515 La Liga Villarreal vs Alaves
+https://vod.starxcdn.xyz/vod/espn10-1768058100-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca9153427721741328723.png", group-title="LIVE SPORT", Jan 10 - 1430 Bundesliga Union Berlin vs FSV Mainz 05
+https://vod.starxcdn.xyz/vod/espn6-1768055400-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca91532e5591741328723.png", group-title="LIVE SPORT", Jan 10 - 1430 Bundesliga 1. FC Heidenheim vs 1.FC Köln
+https://vod.starxcdn.xyz/vod/espn5-1768055400-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca9152913e71741328722.png", group-title="LIVE SPORT", Jan 10 - 1430 Bundesliga SC Freiburg vs Hamburger SV
+https://vod.starxcdn.xyz/vod/espn3-1768055400-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca91563a04b1741328726.png", group-title="LIVE SPORT", Jan 10 - 1400 Serie A Como vs Bologna
+https://vod.starxcdn.xyz/vod/paramount2-1768053600-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca91554a3261741328725.png", group-title="LIVE SPORT", Jan 10 - 1400 Serie A Udinese vs Pisa
+https://vod.starxcdn.xyz/vod/paramount1-1768053600-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca916ca21991741328748.png", group-title="LIVE SPORT", Jan 10 - 1300 La Liga Oviedo vs Real Betis
+https://vod.starxcdn.xyz/vod/espn9-1768050000-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca915e0814a1741328734.png", group-title="LIVE SPORT", Jan 09 - 2000 La Liga Getafe vs Real Sociedad
 https://vod.starxcdn.xyz/vod/espn1-1767988800-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90eebe2ca1741328622.png", group-title="LIVE SPORT", Jan 09 - 1930 Bundesliga Eintracht Frankfurt vs Borussia Dortmund

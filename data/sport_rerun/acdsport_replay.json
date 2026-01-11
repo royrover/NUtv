@@ -2,8 +2,92 @@
     "name": "acdsport replay",
     "image": "https://acdsport.com/acd/social.jpg",
     "url": "https://dl.dropbox.com/scl/fi/2lk9rp530f3mh8sn095pu/acdsport_replay.json?rlkey=ikxvfvv3nljrwb9xervk3r9mp&st=6nqt04sc&dl=0",
-    "author": "update 10-01-2026 19:18:45",
+    "author": "update 11-01-2026 07:59:10",
     "stations": [
+        {
+            "name": "Jan 10 - 20:00 La Liga Valencia vs Elche",
+            "image": "https://allsp.org/assets/images/team/67ca915d0c7731741328733.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn10-1768075200-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Jan 10 - 19:45 Serie A Atalanta vs Torino",
+            "image": "https://allsp.org/assets/images/team/67ca90e9015a01741328617.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount4-1768074300-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Jan 10 - 17:30 La Liga Girona vs Osasuna",
+            "image": "https://allsp.org/assets/images/team/67ca90e98fd451741328617.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn9-1768066200-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Jan 10 - 17:30 Bundesliga Bayer Leverkusen vs VfB Stuttgart",
+            "image": "https://allsp.org/assets/images/team/67ca90e6d4d401741328614.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn8-1768066200-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Jan 10 - 17:00 Serie A AS Roma vs Sassuolo",
+            "image": "https://allsp.org/assets/images/team/67ca90efdd70f1741328623.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts3-1768064400-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Jan 10 - 15:15 La Liga Villarreal vs Alaves",
+            "image": "https://allsp.org/assets/images/team/67ca915d2834e1741328733.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn10-1768058100-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Jan 10 - 14:30 Bundesliga Union Berlin vs FSV Mainz 05",
+            "image": "https://allsp.org/assets/images/team/67ca9153427721741328723.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn6-1768055400-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Jan 10 - 14:30 Bundesliga 1. FC Heidenheim vs 1.FC Köln",
+            "image": "https://allsp.org/assets/images/team/67ca91532e5591741328723.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn5-1768055400-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Jan 10 - 14:30 Bundesliga SC Freiburg vs Hamburger SV",
+            "image": "https://allsp.org/assets/images/team/67ca9152913e71741328722.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn3-1768055400-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Jan 10 - 14:00 Serie A Como vs Bologna",
+            "image": "https://allsp.org/assets/images/team/67ca91563a04b1741328726.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount2-1768053600-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Jan 10 - 14:00 Serie A Udinese vs Pisa",
+            "image": "https://allsp.org/assets/images/team/67ca91554a3261741328725.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount1-1768053600-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Jan 10 - 13:00 La Liga Oviedo vs Real Betis",
+            "image": "https://allsp.org/assets/images/team/67ca916ca21991741328748.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn9-1768050000-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
         {
             "name": "Jan 09 - 20:00 La Liga Getafe vs Real Sociedad",
             "image": "https://allsp.org/assets/images/team/67ca915e0814a1741328734.png",
