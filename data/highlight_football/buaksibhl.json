@@ -2,8 +2,56 @@
     "name": "highlights football buaksib",
     "image": "https://www.buaksib.com/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Flogo-summer.5abd78a6.png&w=256&q=75",
     "url": "",
-    "author": "update 11-01-2026 20:00:27",
+    "author": "update 12-01-2026 09:33:51",
     "stations": [
+        {
+            "name": "⚽ แมนเชสเตอร์ ยูไนเต็ด พบ ไบรท์ตัน 11.01.2026 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2026/01/Man_U_Vs_Brighton_11_01_26.jpg",
+            "url": "https://bdphap.com/ssd1/th/Man_U_Vs_Brighton_11_01_26.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ พอร์ทสมัธ พบ อาร์เซน่อล 11.01.2026 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2026/01/Portsmouth_Vs_Arsenal_11_01_26.jpg",
+            "url": "https://bdphap.com/ssd1/th/Portsmouth_Vs_Arsenal_11_01_26.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ เมืองทอง ยูไนเต็ด พบ อยุธยา ยูไนเต็ด 11.01.2026 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2026/01/Muangthong_Vs_Ayutthaya_11_01_26.jpg",
+            "url": "https://bdphap.com/ssd1/th/Muangthong_Vs_Ayutthaya_11_01_26.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ พีที ประจวบ เอฟซี พบ สิงห์ เชียงราย ยูไนเต็ด 10.01.2026 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2026/01/Prachuap_Vs_Chiang_Rai_10_01_26.jpg",
+            "url": "https://bdphap.com/ssd1/th/Prachuap_Vs_Chiang_Rai_10_01_26.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ การท่าเรือ เอฟซี พบ สุโขทัย เอฟซี 10.01.2026 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2026/01/Port_Vs_Sukhothai_10_01_26.jpg",
+            "url": "https://bdphap.com/ssd1/th/Port_Vs_Sukhothai_10_01_26.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ ทรู แบงค็อก ยูไนเต็ด พบ พลังกาญจน์ เอฟซี 10.01.2026 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2026/01/True_Bangkok_Kanchanaburi_10_01_26.jpg",
+            "url": "https://bdphap.com/ssd1/th/True_Bangkok_Kanchanaburi_10_01_26.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ ทีมชาติไทย U23 พบ ทีมชาติอิรัก U23 11.01.2026 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2026/01/thai.jpg",
+            "url": "https://bdphap.com/ssd1/th/Thai_Vs_Iraq_11_01_26.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ ราชบุรี เอฟซี พบ ชลบุรี เอฟซี 11.01.2026 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2026/01/Ratchaburi_Vs_Chonburi_11_01_26.jpg",
+            "url": "https://bdphap.com/ssd1/th/Ratchaburi_Vs_Chonburi_11_01_26.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
         {
             "name": "⚽ นิวคาสเซิ่ล ยูไนเต็ด พบ บอร์นมัธ 10.01.2026 ไฮไลท์ฟุตบอล",
             "image": "https://newbackend.buaksib.com/wp-content/uploads/2026/01/Newcastle_Vs_Bournemouth_10_01_26.jpg",
