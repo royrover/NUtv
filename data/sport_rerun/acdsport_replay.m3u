@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e930c021741328617.png", group-title="LIVE SPORT", Jan 11 - 1945 Serie A Inter vs Napoli
+https://vod.starxcdn.xyz/vod/uk_bts2-1768160700-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca9155ad1bc1741328725.png", group-title="LIVE SPORT", Jan 11 - 1700 Serie A Verona vs Lazio
+https://vod.starxcdn.xyz/vod/paramount3-1768150800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e6a2dc81741328614.png", group-title="LIVE SPORT", Jan 11 - 1630 Bundesliga Bayern München vs VfL Wolfsburg
+https://vod.starxcdn.xyz/vod/espn9-1768149000-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca916bb7f841741328747.png", group-title="LIVE SPORT", Jan 11 - 1515 La Liga Levante vs Espanyol
+https://vod.starxcdn.xyz/vod/espn11-1768144500-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca9152d24161741328722.png", group-title="LIVE SPORT", Jan 11 - 1430 Bundesliga Borussia Mönchengladbach vs FC Augsburg
+https://vod.starxcdn.xyz/vod/espn8-1768141800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca91557b0f91741328725.png", group-title="LIVE SPORT", Jan 11 - 1400 Serie A Fiorentina vs AC Milan
+https://vod.starxcdn.xyz/vod/paramount2-1768140000-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca915e5362f1741328734.png", group-title="LIVE SPORT", Jan 11 - 1300 La Liga Rayo Vallecano vs Mallorca
+https://vod.starxcdn.xyz/vod/espn10-1768136400-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca9156219501741328726.png", group-title="LIVE SPORT", Jan 11 - 1130 Serie A Lecce vs Parma
+https://vod.starxcdn.xyz/vod/paramount1-1768131000-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca915d0c7731741328733.png", group-title="LIVE SPORT", Jan 10 - 2000 La Liga Valencia vs Elche
 https://vod.starxcdn.xyz/vod/espn10-1768075200-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e9015a01741328617.png", group-title="LIVE SPORT", Jan 10 - 1945 Serie A Atalanta vs Torino

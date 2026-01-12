@@ -2,8 +2,18 @@
     "name": "DOOKEELA Rerun",
     "image": "https://www.dropbox.com/scl/fi/0wslhpbbirva0wx4rlbzn/DKL.png?rlkey=37e1vu25obzmo5kikjkax30t7&st=7ey1fj5e&raw=1",
     "url": "",
-    "author": "update 11-01-2026 19:20:02",
+    "author": "update 12-01-2026 07:57:07",
     "stations": [
+        {
+            "name": "Manchester United vs Brighton | FA Cup (11-01-2026)",
+            "image": "https://images.dookeela4.live/1ea51f4905fd47abb43f7ba22c817198:dkl-images-storage/rerun/1768167317.jpg",
+            "url": "https://ks7jcc.cdn.akamaiz.com/rerun/เอมิเรตส์ เอฟเอ คัพ 2025_2026 - แมนเชสเตอร์ ยูไนเต็ด v ไบรท์ตัน [11-01-2026 23_30].mp4/playlist.m3u8"
+        },
+        {
+            "name": "Portsmouth vs Arsenal | FA Cup (11-01-2026)",
+            "image": "https://images.dookeela4.live/1ea51f4905fd47abb43f7ba22c817198:dkl-images-storage/rerun/1768162829.jpg",
+            "url": "https://ks7jcc.cdn.akamaiz.com/rerun/เอมิเรตส์ เอฟเอ คัพ 2025_2026 - พอร์ทสมัธ v อาร์เซน่อล [11-01-2026 21_00].mp4/playlist.m3u8"
+        },
         {
             "name": "Charlton vs Chelsea | FA Cup (11-01-2026)",
             "image": "https://images.dookeela4.live/1ea51f4905fd47abb43f7ba22c817198:dkl-images-storage/rerun/1768125820.jpg",
