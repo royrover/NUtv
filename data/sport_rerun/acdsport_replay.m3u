@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca915d5ed5c1741328733.png", group-title="LIVE SPORT", Jan 12 - 2000 La Liga Sevilla vs Celta Vigo
+https://vod.starxcdn.xyz/vod/uk_premiersports1-1768248000-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e8da5451741328616.png", group-title="LIVE SPORT", Jan 12 - 1945 Serie A Juventus vs Cremonese
+https://vod.starxcdn.xyz/vod/paramount2-1768247100-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca91556217d1741328725.png", group-title="LIVE SPORT", Jan 12 - 1730 Serie A Genoa vs Cagliari
+https://vod.starxcdn.xyz/vod/paramount1-1768239000-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e930c021741328617.png", group-title="LIVE SPORT", Jan 11 - 1945 Serie A Inter vs Napoli
 https://vod.starxcdn.xyz/vod/uk_bts2-1768160700-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca9155ad1bc1741328725.png", group-title="LIVE SPORT", Jan 11 - 1700 Serie A Verona vs Lazio
