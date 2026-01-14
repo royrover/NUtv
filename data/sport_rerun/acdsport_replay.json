@@ -2,8 +2,29 @@
     "name": "acdsport replay",
     "image": "https://acdsport.com/acd/social.jpg",
     "url": "https://dl.dropbox.com/scl/fi/2lk9rp530f3mh8sn095pu/acdsport_replay.json?rlkey=ikxvfvv3nljrwb9xervk3r9mp&st=6nqt04sc&dl=0",
-    "author": "update 13-01-2026 19:22:50",
+    "author": "update 14-01-2026 07:56:05",
     "stations": [
+        {
+            "name": "Jan 13 - 19:30 Bundesliga Borussia Dortmund vs Werder Bremen",
+            "image": "https://allsp.org/assets/images/team/67ca90e6bea951741328614.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn2-1768332600-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Jan 13 - 19:30 Bundesliga FSV Mainz 05 vs 1. FC Heidenheim",
+            "image": "https://allsp.org/assets/images/team/67ca9152e5ddb1741328722.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn1-1768332600-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Jan 13 - 17:30 Bundesliga VfB Stuttgart vs Eintracht Frankfurt",
+            "image": "https://allsp.org/assets/images/team/67ca90e6efd741741328614.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn0-1768325400-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
         {
             "name": "Jan 12 - 20:00 La Liga Sevilla vs Celta Vigo",
             "image": "https://allsp.org/assets/images/team/67ca915d5ed5c1741328733.png",
