@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e930c021741328617.png", group-title="LIVE SPORT", Jan 14 - 1945 Serie A Inter vs Lecce
+https://vod.starxcdn.xyz/vod/paramount2-1768419900-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca91552c3811741328725.png", group-title="LIVE SPORT", Jan 14 - 1730 Serie A Napoli vs Parma
+https://vod.starxcdn.xyz/vod/paramount1-1768411800-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e6bea951741328614.png", group-title="LIVE SPORT", Jan 13 - 1930 Bundesliga Borussia Dortmund vs Werder Bremen
 https://vod.starxcdn.xyz/vod/espn2-1768332600-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca9152e5ddb1741328722.png", group-title="LIVE SPORT", Jan 13 - 1930 Bundesliga FSV Mainz 05 vs 1. FC Heidenheim
