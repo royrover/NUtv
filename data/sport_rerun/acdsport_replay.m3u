@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca91563a04b1741328726.png", group-title="LIVE SPORT", Jan 15 - 1945 Serie A Como vs AC Milan
+https://vod.starxcdn.xyz/vod/uk_bts3-1768506300-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca915305cd11741328723.png", group-title="LIVE SPORT", Jan 15 - 1930 Bundesliga FC Augsburg vs Union Berlin
+https://vod.starxcdn.xyz/vod/espn0-1768505400-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca9155ad1bc1741328725.png", group-title="LIVE SPORT", Jan 15 - 1730 Serie A Verona vs Bologna
+https://vod.starxcdn.xyz/vod/paramount1-1768498200-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e930c021741328617.png", group-title="LIVE SPORT", Jan 14 - 1945 Serie A Inter vs Lecce
 https://vod.starxcdn.xyz/vod/paramount2-1768419900-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca91552c3811741328725.png", group-title="LIVE SPORT", Jan 14 - 1730 Serie A Napoli vs Parma
