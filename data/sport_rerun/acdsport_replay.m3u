@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca915dad7611741328733.png", group-title="LIVE SPORT", Jan 16 - 2000 La Liga Espanyol vs Girona
+https://vod.starxcdn.xyz/vod/espn1-1768593600-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e6535731741328614.png", group-title="LIVE SPORT", Jan 16 - 2000 Ligue 1 Paris Saint Germain vs Lille
+https://vod.starxcdn.xyz/vod/fr_beinsports1-1768593600-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca91651afee1741328741.png", group-title="LIVE SPORT", Jan 16 - 1945 Serie A Pisa vs Atalanta
+https://vod.starxcdn.xyz/vod/paramount1-1768592700-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca9152bc41b1741328722.png", group-title="LIVE SPORT", Jan 16 - 1930 Bundesliga Werder Bremen vs Eintracht Frankfurt
+https://vod.starxcdn.xyz/vod/espn0-1768591800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e66d1ab1741328614.png", group-title="LIVE SPORT", Jan 16 - 1800 Ligue 1 Monaco vs Lorient
+https://vod.starxcdn.xyz/vod/pt_sporttv3-1768586400-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca91563a04b1741328726.png", group-title="LIVE SPORT", Jan 15 - 1945 Serie A Como vs AC Milan
 https://vod.starxcdn.xyz/vod/uk_bts3-1768506300-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca915305cd11741328723.png", group-title="LIVE SPORT", Jan 15 - 1930 Bundesliga FC Augsburg vs Union Berlin

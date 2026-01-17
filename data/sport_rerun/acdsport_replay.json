@@ -2,8 +2,43 @@
     "name": "acdsport replay",
     "image": "https://acdsport.com/acd/social.jpg",
     "url": "https://dl.dropbox.com/scl/fi/2lk9rp530f3mh8sn095pu/acdsport_replay.json?rlkey=ikxvfvv3nljrwb9xervk3r9mp&st=6nqt04sc&dl=0",
-    "author": "update 16-01-2026 19:21:22",
+    "author": "update 17-01-2026 07:52:03",
     "stations": [
+        {
+            "name": "Jan 16 - 20:00 La Liga Espanyol vs Girona",
+            "image": "https://allsp.org/assets/images/team/67ca915dad7611741328733.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn1-1768593600-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Jan 16 - 20:00 Ligue 1 Paris Saint Germain vs Lille",
+            "image": "https://allsp.org/assets/images/team/67ca90e6535731741328614.png",
+            "url": "https://vod.starxcdn.xyz/vod/fr_beinsports1-1768593600-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Jan 16 - 19:45 Serie A Pisa vs Atalanta",
+            "image": "https://allsp.org/assets/images/team/67ca91651afee1741328741.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount1-1768592700-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Jan 16 - 19:30 Bundesliga Werder Bremen vs Eintracht Frankfurt",
+            "image": "https://allsp.org/assets/images/team/67ca9152bc41b1741328722.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn0-1768591800-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Jan 16 - 18:00 Ligue 1 Monaco vs Lorient",
+            "image": "https://allsp.org/assets/images/team/67ca90e66d1ab1741328614.png",
+            "url": "https://vod.starxcdn.xyz/vod/pt_sporttv3-1768586400-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
         {
             "name": "Jan 15 - 19:45 Serie A Como vs AC Milan",
             "image": "https://allsp.org/assets/images/team/67ca91563a04b1741328726.png",
