@@ -2,8 +2,50 @@
     "name": "highlights football buaksib",
     "image": "https://www.buaksib.com/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Flogo-summer.5abd78a6.png&w=256&q=75",
     "url": "",
-    "author": "update 18-01-2026 09:37:01",
+    "author": "update 18-01-2026 19:59:10",
     "stations": [
+        {
+            "name": "⚽ ลิเวอร์พูล พบ เบิร์นลี่ย์ 17.01.2026 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2026/01/Liverpool_Vs_Burnley_17_01_26.jpg",
+            "url": "https://bdphap.com/ssd1/th/Liverpool_Vs_Burnley_17_01_26.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ สเปอร์ส พบ เวสต์แฮม ยูไนเต็ด 17.01.2026 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2026/01/Spurs_Vs_Westham_17_01_26.jpg",
+            "url": "https://bdphap.com/ssd1/th/Spurs_Vs_Westham_17_01_26.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ พลังกาญจน์ เอฟซี พบ เมืองทอง ยูไนเต็ด 17.01.2026 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2026/01/Muangthong_Vs_Kanchanaburi_17_01_26.jpg",
+            "url": "https://bdphap.com/ssd1/th/Muangthong_Vs_Kanchanaburi_17_01_26.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ ชลบุรี เอฟซี พบ ลําพูน วอริเออร์ 17.01.2026 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2026/01/Chonburi_Vs_Lamphun_17_01_26.jpg",
+            "url": "https://bdphap.com/ssd1/th/Chonburi_Vs_Lamphun_17_01_26.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ ฟอเรสต์ พบ อาร์เซน่อล 17.01.2026 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2026/01/Forest_Vs_Arsenal_17_01_26.jpg",
+            "url": "https://bdphap.com/ssd1/th/Forest_Vs_Arsenal_17_01_26.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ เชลซี พบ เบรนท์ฟอร์ด 17.01.2026 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2026/01/Chelsea_Vs_Brentford_17_01_26.jpg",
+            "url": "https://bdphap.com/ssd1/th/Chelsea_Vs_Brentford_17_01_26.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ แมนเชสเตอร์ ยูไนเต็ด พบ แมนเชสเตอร์ ซิตี้ 17.01.2026 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2026/01/Man_U_Vs_Man_City_17_01_26.jpg",
+            "url": "https://bdphap.com/ssd1/th/Man_U_Vs_Man_City_17_01_26.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
         {
             "name": "⚽ สุโขทัย เอฟซี พบ พีที ประจวบ เอฟซี 17.01.2026 ไฮไลท์ฟุตบอล",
             "image": "https://newbackend.buaksib.com/wp-content/uploads/2026/01/s-1.jpg",
