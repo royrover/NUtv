@@ -1,4 +1,36 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90f01baf31741328624.png", group-title="LIVE SPORT", Jan 18 - 2000 La Liga Real Sociedad vs Barcelona
+https://vod.starxcdn.xyz/vod/uk_premiersports2-1768766400-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e8bde0a1741328616.png", group-title="LIVE SPORT", Jan 18 - 1945 Serie A AC Milan vs Lecce
+https://vod.starxcdn.xyz/vod/uk_bts1-1768765500-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90ee7affb1741328622.png", group-title="LIVE SPORT", Jan 18 - 1945 Ligue 1 Lyon vs Stade Brestois 29
+https://vod.starxcdn.xyz/vod/live02-1768765500-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca915d9580f1741328733.png", group-title="LIVE SPORT", Jan 18 - 1730 La Liga Celta Vigo vs Rayo Vallecano
+https://vod.starxcdn.xyz/vod/espn5-1768757400-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca9155942131741328725.png", group-title="LIVE SPORT", Jan 18 - 1700 Serie A Torino vs AS Roma
+https://vod.starxcdn.xyz/vod/paramount3-1768755600-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca915305cd11741328723.png", group-title="LIVE SPORT", Jan 18 - 1630 Bundesliga FC Augsburg vs SC Freiburg
+https://vod.starxcdn.xyz/vod/espn1-1768753800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e61ddc51741328614.png", group-title="LIVE SPORT", Jan 18 - 1630 Premier League Aston Villa vs Everton
+https://vod.starxcdn.xyz/vod/uk_ssepl-1768753800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca9151c7bb11741328721.png", group-title="LIVE SPORT", Jan 18 - 1615 Ligue 1 Rennes vs LE Havre
+https://vod.starxcdn.xyz/vod/live01-1768752900-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca9151990aa1741328721.png", group-title="LIVE SPORT", Jan 18 - 1615 Ligue 1 Nantes vs Paris FC
+https://vod.starxcdn.xyz/vod/pt_sporttv3-1768752900-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e96070e1741328617.png", group-title="LIVE SPORT", Jan 18 - 1515 La Liga Atletico Madrid vs Alaves
+https://vod.starxcdn.xyz/vod/espn4-1768749300-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e6efd741741328614.png", group-title="LIVE SPORT", Jan 18 - 1430 Bundesliga VfB Stuttgart vs Union Berlin
+https://vod.starxcdn.xyz/vod/espn0-1768746600-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e918e141741328617.png", group-title="LIVE SPORT", Jan 18 - 1400 Serie A Bologna vs Fiorentina
+https://vod.starxcdn.xyz/vod/paramount2-1768744800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca9151dcd2c1741328721.png", group-title="LIVE SPORT", Jan 18 - 1400 Ligue 1 Strasbourg vs Metz
+https://vod.starxcdn.xyz/vod/pt_sporttv3-1768744800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90f3647c21741328627.png", group-title="LIVE SPORT", Jan 18 - 1400 Premier League Wolves vs Newcastle
+https://vod.starxcdn.xyz/vod/uk_ssepl-1768744800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca915e0814a1741328734.png", group-title="LIVE SPORT", Jan 18 - 1300 La Liga Getafe vs Valencia
+https://vod.starxcdn.xyz/vod/espn3-1768741200-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca91560d6651741328726.png", group-title="LIVE SPORT", Jan 18 - 1130 Serie A Parma vs Genoa
+https://vod.starxcdn.xyz/vod/paramount1-1768735800-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca9151549ff1741328721.png", group-title="LIVE SPORT", Jan 17 - 2005 Ligue 1 Angers vs Marseille
 https://vod.starxcdn.xyz/vod/pt_sporttv3-1768680300-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca915de28b31741328733.png", group-title="LIVE SPORT", Jan 17 - 2000 La Liga Real Betis vs Villarreal
