@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://newbackend.buaksib.com/wp-content/uploads/2026/01/Ratchaburi_Vs_Nakhonratchasima_18_01_26.jpg", group-title="LIVE SPORT", ⚽ ราชบุรี เอฟซี พบ นครราชสีมา มาสด้า เอฟซี 18.01.2026 ไฮไลท์ฟุตบอล
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.buaksib.com/
+https://bdphap.com/ssd1/th/Ratchaburi_Vs_Nakhonratchasima_18_01_26.mp4
+#EXTINF:-1 tvg-logo="https://newbackend.buaksib.com/wp-content/uploads/2026/01/Buriram_Vs_Chiangrai_18_01_26.jpg", group-title="LIVE SPORT", ⚽ บุรีรัมย์ ยูไนเต็ด พบ สิงห์ เชียงราย ยูไนเต็ด 18.01.2026 ไฮไลท์ฟุตบอล
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.buaksib.com/
+https://bdphap.com/ssd1/th/Buriram_Vs_Chiangrai_18_01_26.mp4
 #EXTINF:-1 tvg-logo="https://newbackend.buaksib.com/wp-content/uploads/2026/01/Liverpool_Vs_Burnley_17_01_26.jpg", group-title="LIVE SPORT", ⚽ ลิเวอร์พูล พบ เบิร์นลี่ย์ 17.01.2026 ไฮไลท์ฟุตบอล
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.buaksib.com/
