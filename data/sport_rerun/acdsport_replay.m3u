@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca916d8e9261741328749.png", group-title="LIVE SPORT", Jan 19 - 2000 La Liga Elche vs Sevilla
+https://vod.starxcdn.xyz/vod/uk_premiersports1-1768852800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90f41da851741328628.png", group-title="LIVE SPORT", Jan 19 - 2000 Premier League Brighton vs Bournemouth
+https://vod.starxcdn.xyz/vod/uk_ssepl-1768852800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90efc4d4f1741328623.png", group-title="LIVE SPORT", Jan 19 - 1945 Serie A Lazio vs Como
+https://vod.starxcdn.xyz/vod/paramount2-1768851900-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca9164adc421741328740.png", group-title="LIVE SPORT", Jan 19 - 1730 Serie A Cremonese vs Verona
+https://vod.starxcdn.xyz/vod/paramount1-1768843800-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90f01baf31741328624.png", group-title="LIVE SPORT", Jan 18 - 2000 La Liga Real Sociedad vs Barcelona
 https://vod.starxcdn.xyz/vod/uk_premiersports2-1768766400-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e8bde0a1741328616.png", group-title="LIVE SPORT", Jan 18 - 1945 Serie A AC Milan vs Lecce
