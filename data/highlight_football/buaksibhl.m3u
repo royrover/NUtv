@@ -1,4 +1,28 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://newbackend.buaksib.com/wp-content/uploads/2026/01/Madrid_Vs_Monaco_20_01_26.jpg", group-title="LIVE SPORT", ⚽ เรอัล มาดริด พบ โมนาโก 20.01.2026 ไฮไลท์ฟุตบอล
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.buaksib.com/
+https://bdphap.com/ssd1/th/Madrid_Vs_Monaco_20_01_26.mp4
+#EXTINF:-1 tvg-logo="https://newbackend.buaksib.com/wp-content/uploads/2026/01/Spurs_Vs_Dortmund_20_01_26.jpg", group-title="LIVE SPORT", ⚽ สเปอร์ส พบ ดอร์ทมุนด์ 20.01.2026 ไฮไลท์ฟุตบอล
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.buaksib.com/
+https://bdphap.com/ssd1/th/Spurs_Vs_Dortmund_20_01_26.mp4
+#EXTINF:-1 tvg-logo="https://newbackend.buaksib.com/wp-content/uploads/2026/01/Copenhagen_Vs_Napoli_20_01_26.jpg", group-title="LIVE SPORT", ⚽ โคเปนเฮเก้น พบ นาโปลี 20.01.2026 ไฮไลท์ฟุตบอล
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.buaksib.com/
+https://bdphap.com/ssd1/th/Copenhagen_Vs_Napoli_20_01_26.mp4
+#EXTINF:-1 tvg-logo="https://newbackend.buaksib.com/wp-content/uploads/2026/01/Inter_Vs_Arsenal_20_01_26.jpg", group-title="LIVE SPORT", ⚽ อินเตอร์ มิลาน พบ อาร์เซน่อล 20.01.2025 ไฮไลท์ฟุตบอล
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.buaksib.com/
+https://bdphap.com/ssd1/th/Inter_Vs_Arsenal_20_01_26.mp4
+#EXTINF:-1 tvg-logo="https://newbackend.buaksib.com/wp-content/uploads/2026/01/Sporting_Vs_PSG_20_01_26.jpg", group-title="LIVE SPORT", ⚽ สปอร์ติ้ง ลิสบอน พบ ปารีส แซงต์ แชร์กแมง 20.01.2025 ไฮไลท์ฟุตบอล
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.buaksib.com/
+https://bdphap.com/ssd1/th/Sporting_Vs_PSG_20_01_26.mp4
+#EXTINF:-1 tvg-logo="https://newbackend.buaksib.com/wp-content/uploads/2026/01/BodoGlimt_Vs_Man_City_20_01_26.jpg", group-title="LIVE SPORT", ⚽ โบโด กลิมท์ พบ แมนเชสเตอร์ ซิตี้ 20.01.2025 ไฮไลท์ฟุตบอล
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.buaksib.com/
+https://bdphap.com/ssd1/th/BodoGlimt_Vs_Man_City_20_01_26.mp4
 #EXTINF:-1 tvg-logo="https://newbackend.buaksib.com/wp-content/uploads/2026/01/Ratchaburi_Vs_Nakhonratchasima_18_01_26.jpg", group-title="LIVE SPORT", ⚽ ราชบุรี เอฟซี พบ นครราชสีมา มาสด้า เอฟซี 18.01.2026 ไฮไลท์ฟุตบอล
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.buaksib.com/

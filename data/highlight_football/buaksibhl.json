@@ -2,8 +2,44 @@
     "name": "highlights football buaksib",
     "image": "https://www.buaksib.com/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Flogo-summer.5abd78a6.png&w=256&q=75",
     "url": "",
-    "author": "update 21-01-2026 09:30:43",
+    "author": "update 21-01-2026 20:11:34",
     "stations": [
+        {
+            "name": "⚽ เรอัล มาดริด พบ โมนาโก 20.01.2026 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2026/01/Madrid_Vs_Monaco_20_01_26.jpg",
+            "url": "https://bdphap.com/ssd1/th/Madrid_Vs_Monaco_20_01_26.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ สเปอร์ส พบ ดอร์ทมุนด์ 20.01.2026 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2026/01/Spurs_Vs_Dortmund_20_01_26.jpg",
+            "url": "https://bdphap.com/ssd1/th/Spurs_Vs_Dortmund_20_01_26.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ โคเปนเฮเก้น พบ นาโปลี 20.01.2026 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2026/01/Copenhagen_Vs_Napoli_20_01_26.jpg",
+            "url": "https://bdphap.com/ssd1/th/Copenhagen_Vs_Napoli_20_01_26.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ อินเตอร์ มิลาน พบ อาร์เซน่อล 20.01.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2026/01/Inter_Vs_Arsenal_20_01_26.jpg",
+            "url": "https://bdphap.com/ssd1/th/Inter_Vs_Arsenal_20_01_26.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ สปอร์ติ้ง ลิสบอน พบ ปารีส แซงต์ แชร์กแมง 20.01.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2026/01/Sporting_Vs_PSG_20_01_26.jpg",
+            "url": "https://bdphap.com/ssd1/th/Sporting_Vs_PSG_20_01_26.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ โบโด กลิมท์ พบ แมนเชสเตอร์ ซิตี้ 20.01.2025 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2026/01/BodoGlimt_Vs_Man_City_20_01_26.jpg",
+            "url": "https://bdphap.com/ssd1/th/BodoGlimt_Vs_Man_City_20_01_26.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
         {
             "name": "⚽ ราชบุรี เอฟซี พบ นครราชสีมา มาสด้า เอฟซี 18.01.2026 ไฮไลท์ฟุตบอล",
             "image": "https://newbackend.buaksib.com/wp-content/uploads/2026/01/Ratchaburi_Vs_Nakhonratchasima_18_01_26.jpg",
