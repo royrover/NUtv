@@ -2,8 +2,18 @@
     "name": "DOOKEELA Rerun",
     "image": "https://www.dropbox.com/scl/fi/0wslhpbbirva0wx4rlbzn/DKL.png?rlkey=37e1vu25obzmo5kikjkax30t7&st=7ey1fj5e&raw=1",
     "url": "",
-    "author": "update 21-01-2026 07:55:43",
+    "author": "update 21-01-2026 19:24:32",
     "stations": [
+        {
+            "name": "Real Madrid vs Monaco | UEFA Champions League (21-01-2026)",
+            "image": "https://images.dookeela4.live/1ea51f4905fd47abb43f7ba22c817198:dkl-images-storage/rerun/1768989071.jpg",
+            "url": "https://ks7jcc.cdn.akamaiz.com/rerun/เรอัล มาดริด พบ โมนาโก ยูฟ่า แชมเปียนส์ ลีก 2025-26 (21 ม.ค.).mp4/playlist.m3u8"
+        },
+        {
+            "name": "Inter vs Arsenal | UEFA Champions League (21-01-2026)",
+            "image": "https://images.dookeela4.live/1ea51f4905fd47abb43f7ba22c817198:dkl-images-storage/rerun/1768988855.jpg",
+            "url": "https://ks7jcc.cdn.akamaiz.com/rerun/อินเตอร์ พบ อาร์เซนอล ยูฟ่า แชมเปียนส์ ลีก 2025-26 (21 ม.ค.).mp4/playlist.m3u8"
+        },
         {
             "name": "Real Sociedad vs Barcelona | La Liga (20-01-2026)",
             "image": "https://images.dookeela4.live/1ea51f4905fd47abb43f7ba22c817198:dkl-images-storage/rerun/1768904075.jpg",
