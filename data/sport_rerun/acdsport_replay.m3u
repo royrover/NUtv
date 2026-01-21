@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90f0673e31741328624.png", group-title="LIVE SPORT", Jan 20 - 2000 Champions League Olympiakos Piraeus vs Bayer Leverkusen
+https://vod.starxcdn.xyz/vod/uk_bts7-1768939200-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e975ebf1741328617.png", group-title="LIVE SPORT", Jan 20 - 2000 Champions League Real Madrid vs Monaco
+https://vod.starxcdn.xyz/vod/uk_bts2-1768939200-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca915d2834e1741328733.png", group-title="LIVE SPORT", Jan 20 - 2000 Champions League Villarreal vs Ajax
+https://vod.starxcdn.xyz/vod/uk_bts6-1768939200-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e930c021741328617.png", group-title="LIVE SPORT", Jan 20 - 2000 Champions League Inter vs Arsenal
+https://vod.starxcdn.xyz/vod/uk_premiersports1-1768939200-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca9178d09251741328760.png", group-title="LIVE SPORT", Jan 20 - 2000 Champions League FC Copenhagen vs Napoli
+https://vod.starxcdn.xyz/vod/uk_bts5-1768939200-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e780d391741328615.png", group-title="LIVE SPORT", Jan 20 - 2000 Champions League Sporting CP vs Paris Saint Germain
+https://vod.starxcdn.xyz/vod/uk_bts4-1768939200-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90ee5fb9f1741328622.png", group-title="LIVE SPORT", Jan 20 - 2000 Champions League Tottenham vs Borussia Dortmund
+https://vod.starxcdn.xyz/vod/uk_bts1-1768939200-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e801a571741328616.png", group-title="LIVE SPORT", Jan 20 - 1745 Champions League Bodo/Glimt vs Manchester City
+https://vod.starxcdn.xyz/vod/uk_bts2-1768931100-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/685b4a12819c91750813202.png", group-title="LIVE SPORT", Jan 20 - 1530 Champions League Kairat Almaty vs Club Brugge KV
+https://vod.starxcdn.xyz/vod/uk_bts1-1768923000-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca916d8e9261741328749.png", group-title="LIVE SPORT", Jan 19 - 2000 La Liga Elche vs Sevilla
 https://vod.starxcdn.xyz/vod/uk_premiersports1-1768852800-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90f41da851741328628.png", group-title="LIVE SPORT", Jan 19 - 2000 Premier League Brighton vs Bournemouth
