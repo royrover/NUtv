@@ -2,8 +2,71 @@
     "name": "acdsport replay",
     "image": "https://acdsport.com/acd/social.jpg",
     "url": "https://dl.dropbox.com/scl/fi/2lk9rp530f3mh8sn095pu/acdsport_replay.json?rlkey=ikxvfvv3nljrwb9xervk3r9mp&st=6nqt04sc&dl=0",
-    "author": "update 21-01-2026 19:24:33",
+    "author": "update 22-01-2026 07:54:28",
     "stations": [
+        {
+            "name": "Jan 21 - 20:00 Champions League Slavia Praha vs Barcelona",
+            "image": "https://allsp.org/assets/images/team/67ca90e9f30691741328617.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount8-1769025600-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Jan 21 - 20:00 Champions League Atalanta vs Athletic Club",
+            "image": "https://allsp.org/assets/images/team/67ca90e9015a01741328617.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts8-1769025600-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Jan 21 - 20:00 Champions League Juventus vs Benfica",
+            "image": "https://allsp.org/assets/images/team/67ca90e8da5451741328616.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts5-1769025600-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Jan 21 - 20:00 Champions League Bayern München vs Union St. Gilloise",
+            "image": "https://allsp.org/assets/images/team/67ca90e6a2dc81741328614.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount5-1769025600-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Jan 21 - 20:00 Champions League Marseille vs Liverpool",
+            "image": "https://allsp.org/assets/images/team/67ca9151691e91741328721.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_premiersports1-1769025600-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Jan 21 - 20:00 Champions League Chelsea vs Pafos",
+            "image": "https://allsp.org/assets/images/team/67ca90f4040541741328628.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount3-1769025600-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Jan 21 - 20:00 Champions League Newcastle vs PSV Eindhoven",
+            "image": "https://allsp.org/assets/images/team/67ca90f30f54f1741328627.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts2-1769025600-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Jan 21 - 17:45 Champions League Galatasaray vs Atletico Madrid",
+            "image": "https://allsp.org/assets/images/team/67ca90eb7d5f81741328619.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts4-1769017500-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Jan 21 - 17:45 Champions League Qarabag vs Eintracht Frankfurt",
+            "image": "https://allsp.org/assets/images/team/67ca90e9bfe1a1741328617.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount1-1769017500-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
         {
             "name": "Jan 20 - 20:00 Champions League Olympiakos Piraeus vs Bayer Leverkusen",
             "image": "https://allsp.org/assets/images/team/67ca90f0673e31741328624.png",

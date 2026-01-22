@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e9f30691741328617.png", group-title="LIVE SPORT", Jan 21 - 2000 Champions League Slavia Praha vs Barcelona
+https://vod.starxcdn.xyz/vod/paramount8-1769025600-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e9015a01741328617.png", group-title="LIVE SPORT", Jan 21 - 2000 Champions League Atalanta vs Athletic Club
+https://vod.starxcdn.xyz/vod/uk_bts8-1769025600-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e8da5451741328616.png", group-title="LIVE SPORT", Jan 21 - 2000 Champions League Juventus vs Benfica
+https://vod.starxcdn.xyz/vod/uk_bts5-1769025600-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e6a2dc81741328614.png", group-title="LIVE SPORT", Jan 21 - 2000 Champions League Bayern München vs Union St. Gilloise
+https://vod.starxcdn.xyz/vod/paramount5-1769025600-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca9151691e91741328721.png", group-title="LIVE SPORT", Jan 21 - 2000 Champions League Marseille vs Liverpool
+https://vod.starxcdn.xyz/vod/uk_premiersports1-1769025600-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90f4040541741328628.png", group-title="LIVE SPORT", Jan 21 - 2000 Champions League Chelsea vs Pafos
+https://vod.starxcdn.xyz/vod/paramount3-1769025600-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90f30f54f1741328627.png", group-title="LIVE SPORT", Jan 21 - 2000 Champions League Newcastle vs PSV Eindhoven
+https://vod.starxcdn.xyz/vod/uk_bts2-1769025600-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90eb7d5f81741328619.png", group-title="LIVE SPORT", Jan 21 - 1745 Champions League Galatasaray vs Atletico Madrid
+https://vod.starxcdn.xyz/vod/uk_bts4-1769017500-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e9bfe1a1741328617.png", group-title="LIVE SPORT", Jan 21 - 1745 Champions League Qarabag vs Eintracht Frankfurt
+https://vod.starxcdn.xyz/vod/paramount1-1769017500-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90f0673e31741328624.png", group-title="LIVE SPORT", Jan 20 - 2000 Champions League Olympiakos Piraeus vs Bayer Leverkusen
 https://vod.starxcdn.xyz/vod/uk_bts7-1768939200-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e975ebf1741328617.png", group-title="LIVE SPORT", Jan 20 - 2000 Champions League Real Madrid vs Monaco
