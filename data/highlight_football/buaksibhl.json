@@ -2,8 +2,26 @@
     "name": "highlights football buaksib",
     "image": "https://www.buaksib.com/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Flogo-summer.5abd78a6.png&w=256&q=75",
     "url": "",
-    "author": "update 21-01-2026 20:11:34",
+    "author": "update 22-01-2026 09:33:02",
     "stations": [
+        {
+            "name": "⚽ บาเยิร์น มิวนิค พบ ยูนิยง แซงต์ กิลลุส 21.01.2026 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2026/01/Bayern_Vs_Royale_21_01_26.jpg",
+            "url": "https://bdphap.com/ssd1/th/Bayern_Vs_Royale_21_01_26.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ สลาเวีย ปราก พบ บาร์เซโลน่า 21.01.2026 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2026/01/Slavia_Vs_Barcelona_21_01_26.jpg",
+            "url": "https://bdphap.com/ssd1/th/Slavia_Vs_Barcelona_21_01_26.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ กาลาตาซาราย พบ แอตเลติโก้ มาดริด 21.01.2026 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2026/01/Galatasaray_Vs_Atletico_21_01_26.jpg",
+            "url": "https://bdphap.com/ssd1/th/Galatasaray_Vs_Atletico_21_01_26.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
         {
             "name": "⚽ เรอัล มาดริด พบ โมนาโก 20.01.2026 ไฮไลท์ฟุตบอล",
             "image": "https://newbackend.buaksib.com/wp-content/uploads/2026/01/Madrid_Vs_Monaco_20_01_26.jpg",
