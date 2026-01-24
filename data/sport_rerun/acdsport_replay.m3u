@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca916bb7f841741328747.png", group-title="LIVE SPORT", Jan 23 - 2000 La Liga Levante vs Elche
+https://vod.starxcdn.xyz/vod/espn1-1769198400-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e930c021741328617.png", group-title="LIVE SPORT", Jan 23 - 1945 Serie A Inter vs Pisa
+https://vod.starxcdn.xyz/vod/uk_bts2-1769197500-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca915357cd61741328723.png", group-title="LIVE SPORT", Jan 23 - 1930 Bundesliga FC St. Pauli vs Hamburger SV
+https://vod.starxcdn.xyz/vod/espn0-1769196600-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca9152207fa1741328722.png", group-title="LIVE SPORT", Jan 23 - 1900 Ligue 1 Auxerre vs Paris Saint Germain
+https://vod.starxcdn.xyz/vod/live01-1769194800-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca915d9580f1741328733.png", group-title="LIVE SPORT", Jan 22 - 2000 Europa League Celta Vigo vs Lille
 https://vod.starxcdn.xyz/vod/uk_bts5-1769112000-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90efdd70f1741328623.png", group-title="LIVE SPORT", Jan 22 - 2000 Europa League AS Roma vs VfB Stuttgart

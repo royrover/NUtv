@@ -2,8 +2,36 @@
     "name": "acdsport replay",
     "image": "https://acdsport.com/acd/social.jpg",
     "url": "https://dl.dropbox.com/scl/fi/2lk9rp530f3mh8sn095pu/acdsport_replay.json?rlkey=ikxvfvv3nljrwb9xervk3r9mp&st=6nqt04sc&dl=0",
-    "author": "update 23-01-2026 19:23:00",
+    "author": "update 24-01-2026 07:53:12",
     "stations": [
+        {
+            "name": "Jan 23 - 20:00 La Liga Levante vs Elche",
+            "image": "https://allsp.org/assets/images/team/67ca916bb7f841741328747.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn1-1769198400-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Jan 23 - 19:45 Serie A Inter vs Pisa",
+            "image": "https://allsp.org/assets/images/team/67ca90e930c021741328617.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts2-1769197500-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Jan 23 - 19:30 Bundesliga FC St. Pauli vs Hamburger SV",
+            "image": "https://allsp.org/assets/images/team/67ca915357cd61741328723.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn0-1769196600-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Jan 23 - 19:00 Ligue 1 Auxerre vs Paris Saint Germain",
+            "image": "https://allsp.org/assets/images/team/67ca9152207fa1741328722.png",
+            "url": "https://vod.starxcdn.xyz/vod/live01-1769194800-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
         {
             "name": "Jan 22 - 20:00 Europa League Celta Vigo vs Lille",
             "image": "https://allsp.org/assets/images/team/67ca915d9580f1741328733.png",
