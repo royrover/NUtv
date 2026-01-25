@@ -2,8 +2,50 @@
     "name": "highlights football buaksib",
     "image": "https://www.buaksib.com/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Flogo-summer.5abd78a6.png&w=256&q=75",
     "url": "",
-    "author": "update 25-01-2026 09:41:06",
+    "author": "update 25-01-2026 20:02:43",
     "stations": [
+        {
+            "name": "⚽ เบิร์นลี่ย์ พบ สเปอร์ส 24.01.2026 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2026/01/Burnley_Vs_Spur_24_01_26.jpg",
+            "url": "https://bdphap.com/ssd1/th/Burnley_Vs_Spur_24_01_26.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ ฟูแล่ม พบ ไบรท์ตัน 24.01.2026 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2026/01/Fulham_Vs_Brighton_24_01_26.jpg",
+            "url": "https://bdphap.com/ssd1/th/Fulham_Vs_Brighton_24_01_26.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ เวสต์แฮม ยูไนเต็ด พบ ซันเดอร์แลนด์ 24.01.2026 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2026/01/West_Ham_Vs_Sunderland_24_01_26.jpg",
+            "url": "https://bdphap.com/ssd1/th/West_Ham_Vs_Sunderland_24_01_26.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ บอร์นมัธ พบ ลิเวอร์พูล 24.01.2026 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2026/01/Bournemouth_Vs_Liverpool_24_01_26.jpg",
+            "url": "https://bdphap.com/ssd1/th/Bournemouth_Vs_Liverpool_24_01_26.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ แมนเชสเตอร์ ซิตี้ พบ วูล์ฟแฮมป์ตัน 24.01.2026 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2026/01/Man_City_Vs_Wolver_24_01_26.jpg",
+            "url": "https://bdphap.com/ssd1/th/Man_City_Vs_Wolver_24_01_26.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ การท่าเรือ เอฟซี พบ ราชบุรี เอฟซี 24.01.2026 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2026/01/Port_Vs_Ratchaburi_24_01_26.jpg",
+            "url": "https://bdphap.com/ssd1/th/Port_Vs_Ratchaburi_24_01_26.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
+        {
+            "name": "⚽ ทรู แบงค็อก ยูไนเต็ด พบ ชลบุรี เอฟซี 24.01.2026 ไฮไลท์ฟุตบอล",
+            "image": "https://newbackend.buaksib.com/wp-content/uploads/2026/01/True_Bangkok_Vs_Chonburi_24_01_26.jpg",
+            "url": "https://bdphap.com/ssd1/th/True_Bangkok_Vs_Chonburi_24_01_26.mp4",
+            "referer": "https://www.buaksib.com/"
+        },
         {
             "name": "⚽ สิงห์ เชียงราย ยูไนเต็ด พบ อยุธยา ยูไนเต็ด 24.01.2026 ไฮไลท์ฟุตบอล",
             "image": "https://newbackend.buaksib.com/wp-content/uploads/2026/01/Chiangrai_Vs_Ayutthaya_24_01_26.jpg",
