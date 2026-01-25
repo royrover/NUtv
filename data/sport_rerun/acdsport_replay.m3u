@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca9151691e91741328721.png", group-title="LIVE SPORT", Jan 24 - 2005 Ligue 1 Marseille vs Lens
+https://vod.starxcdn.xyz/vod/pt_sporttv3-1769285100-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca9151691e91741328721.png", group-title="LIVE SPORT", Jan 24 - 2005 Ligue 1 Marseille vs Lens
 https://vod.starxcdn.xyz/vod/fr_ligue1-1769285100-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca915d2834e1741328733.png", group-title="LIVE SPORT", Jan 24 - 2000 La Liga Villarreal vs Real Madrid
 https://vod.starxcdn.xyz/vod/espn9-1769284800-7800.mp4/index.m3u8
