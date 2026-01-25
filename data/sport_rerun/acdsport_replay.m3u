@@ -1,4 +1,46 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca9151691e91741328721.png", group-title="LIVE SPORT", Jan 24 - 2005 Ligue 1 Marseille vs Lens
+https://vod.starxcdn.xyz/vod/fr_ligue1-1769285100-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca915d2834e1741328733.png", group-title="LIVE SPORT", Jan 24 - 2000 La Liga Villarreal vs Real Madrid
+https://vod.starxcdn.xyz/vod/espn9-1769284800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca9156219501741328726.png", group-title="LIVE SPORT", Jan 24 - 1945 Serie A Lecce vs Lazio
+https://vod.starxcdn.xyz/vod/paramount3-1769283900-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca91523b2051741328722.png", group-title="LIVE SPORT", Jan 24 - 1800 Ligue 1 LE Havre vs Monaco
+https://vod.starxcdn.xyz/vod/pt_sporttv3-1769277600-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca915d5ed5c1741328733.png", group-title="LIVE SPORT", Jan 24 - 1730 La Liga Sevilla vs Athletic Club
+https://vod.starxcdn.xyz/vod/espn8-1769275800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca9153427721741328723.png", group-title="LIVE SPORT", Jan 24 - 1730 Bundesliga Union Berlin vs Borussia Dortmund
+https://vod.starxcdn.xyz/vod/espn6-1769275800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90f32cdf41741328627.png", group-title="LIVE SPORT", Jan 24 - 1730 Premier League Bournemouth vs Liverpool
+https://vod.starxcdn.xyz/vod/uk_ssepl-1769275800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca91557b0f91741328725.png", group-title="LIVE SPORT", Jan 24 - 1700 Serie A Fiorentina vs Cagliari
+https://vod.starxcdn.xyz/vod/paramount2-1769274000-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca9151c7bb11741328721.png", group-title="LIVE SPORT", Jan 24 - 1600 Ligue 1 Rennes vs Lorient
+https://vod.starxcdn.xyz/vod/pt_sporttv3-1769270400-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca915d0c7731741328733.png", group-title="LIVE SPORT", Jan 24 - 1515 La Liga Valencia vs Espanyol
+https://vod.starxcdn.xyz/vod/espn7-1769267700-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e603f1e1741328614.png", group-title="LIVE SPORT", Jan 24 - 1500 Premier League Manchester City vs Wolves
+https://vod.starxcdn.xyz/vod/uk_premiersports1-1769266800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90f5466a01741328629.png", group-title="LIVE SPORT", Jan 24 - 1500 Premier League Burnley vs Tottenham
+https://vod.starxcdn.xyz/vod/epl_bly-1769266800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90f346b741741328627.png", group-title="LIVE SPORT", Jan 24 - 1500 Premier League Fulham vs Brighton
+https://vod.starxcdn.xyz/vod/epl_ful-1769266800-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca91532e5591741328723.png", group-title="LIVE SPORT", Jan 24 - 1430 Bundesliga 1. FC Heidenheim vs RB Leipzig
+https://vod.starxcdn.xyz/vod/espn5-1769265000-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90eebe2ca1741328622.png", group-title="LIVE SPORT", Jan 24 - 1430 Bundesliga Eintracht Frankfurt vs 1899 Hoffenheim
+https://vod.starxcdn.xyz/vod/espn4-1769265000-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e6d4d401741328614.png", group-title="LIVE SPORT", Jan 24 - 1430 Bundesliga Bayer Leverkusen vs Werder Bremen
+https://vod.starxcdn.xyz/vod/espn3-1769265000-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca9152e5ddb1741328722.png", group-title="LIVE SPORT", Jan 24 - 1430 Bundesliga FSV Mainz 05 vs VfL Wolfsburg
+https://vod.starxcdn.xyz/vod/espn2-1769265000-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e6a2dc81741328614.png", group-title="LIVE SPORT", Jan 24 - 1430 Bundesliga Bayern München vs FC Augsburg
+https://vod.starxcdn.xyz/vod/espn1-1769265000-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca91563a04b1741328726.png", group-title="LIVE SPORT", Jan 24 - 1400 Serie A Como vs Torino
+https://vod.starxcdn.xyz/vod/paramount1-1769263200-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca915e5362f1741328734.png", group-title="LIVE SPORT", Jan 24 - 1300 La Liga Rayo Vallecano vs Osasuna
+https://vod.starxcdn.xyz/vod/espn0-1769259600-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90f3dd3b81741328627.png", group-title="LIVE SPORT", Jan 24 - 1230 Premier League West Ham vs Sunderland
+https://vod.starxcdn.xyz/vod/uk_bts1-1769257800-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca916bb7f841741328747.png", group-title="LIVE SPORT", Jan 23 - 2000 La Liga Levante vs Elche
 https://vod.starxcdn.xyz/vod/espn1-1769198400-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e930c021741328617.png", group-title="LIVE SPORT", Jan 23 - 1945 Serie A Inter vs Pisa
