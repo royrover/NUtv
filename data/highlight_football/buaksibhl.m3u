@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://newbackend.buaksib.com/wp-content/uploads/2026/01/BG_Pathum_Vs_Uthai_25_01_26.jpg", group-title="LIVE SPORT", ⚽ บีจี ปทุม ยูไนเต็ด พบ อุทัยธานี เอฟซี 25.01.2026 ไฮไลท์ฟุตบอล
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.buaksib.com/
+https://bdphap.com/ssd1/th/BG_Pathum_Vs_Uthai_25_01_26.mp4
+#EXTINF:-1 tvg-logo="https://newbackend.buaksib.com/wp-content/uploads/2026/01/Arsenal_Vs_Man_U_25_01_26.jpg", group-title="LIVE SPORT", ⚽ อาร์เซน่อล พบ แมนเชสเตอร์ ยูไนเต็ด 25.01.2026 ไฮไลท์ฟุตบอล
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.buaksib.com/
+https://bdphap.com/ssd1/th/Arsenal_Vs_Man_U_25_01_26.mp4
+#EXTINF:-1 tvg-logo="https://newbackend.buaksib.com/wp-content/uploads/2026/01/Palace_Vs_Chelsea_25_01_26.jpg", group-title="LIVE SPORT", ⚽ คริสตัล พาเลซ พบ เชลซี 25.01.2026 ไฮไลท์ฟุตบอล
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.buaksib.com/
+https://bdphap.com/ssd1/th/Palace_Vs_Chelsea_25_01_26.mp4
 #EXTINF:-1 tvg-logo="https://newbackend.buaksib.com/wp-content/uploads/2026/01/Newcastle_Vs_Villa_25_01_26.jpg", group-title="LIVE SPORT", ⚽ นิวคาสเซิ่ล ยูไนเต็ด พบ แอสตัน วิลล่า 25.01.2026 ไฮไลท์ฟุตบอล
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.buaksib.com/
