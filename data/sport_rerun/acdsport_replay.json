@@ -2,8 +2,148 @@
     "name": "acdsport replay",
     "image": "https://acdsport.com/acd/social.jpg",
     "url": "https://dl.dropbox.com/scl/fi/2lk9rp530f3mh8sn095pu/acdsport_replay.json?rlkey=ikxvfvv3nljrwb9xervk3r9mp&st=6nqt04sc&dl=0",
-    "author": "update 25-01-2026 19:20:37",
+    "author": "update 26-01-2026 07:59:17",
     "stations": [
+        {
+            "name": "Jan 25 - 20:00 La Liga Alaves vs Real Betis",
+            "image": "https://allsp.org/assets/images/team/67ca915dc7e401741328733.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_premiersports1-1769371200-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Jan 25 - 19:45 Serie A AS Roma vs AC Milan",
+            "image": "https://allsp.org/assets/images/team/67ca90efdd70f1741328623.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_bts1-1769370300-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Jan 25 - 19:45 Ligue 1 Lille vs Strasbourg",
+            "image": "https://allsp.org/assets/images/team/67ca90e63814c1741328614.png",
+            "url": "https://vod.starxcdn.xyz/vod/pt_sporttv3-1769370300-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Jan 25 - 17:30 La Liga Real Sociedad vs Celta Vigo",
+            "image": "https://allsp.org/assets/images/team/67ca90f01baf31741328624.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_premiersports1-1769362200-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Jan 25 - 17:00 Serie A Juventus vs Napoli",
+            "image": "https://allsp.org/assets/images/team/67ca90e8da5451741328616.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount4-1769360400-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Jan 25 - 16:30 Premier League Arsenal vs Manchester United",
+            "image": "https://allsp.org/assets/images/team/67ca90e5dda801741328613.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_ssepl-1769358600-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Jan 25 - 16:30 Bundesliga SC Freiburg vs 1.FC Köln",
+            "image": "https://allsp.org/assets/images/team/67ca9152913e71741328722.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn1-1769358600-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Jan 25 - 16:15 Ligue 1 Paris FC vs Angers",
+            "image": "https://allsp.org/assets/images/team/6808f2b9ed2041745416889.png",
+            "url": "https://vod.starxcdn.xyz/vod/live03-1769357700-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Jan 25 - 16:15 Ligue 1 Metz vs Lyon",
+            "image": "https://allsp.org/assets/images/team/6808f2b9b73801745416889.png",
+            "url": "https://vod.starxcdn.xyz/vod/pt_sporttv3-1769357700-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Jan 25 - 16:15 Ligue 1 Stade Brestois 29 vs Toulouse",
+            "image": "https://allsp.org/assets/images/team/67ca90e6866821741328614.png",
+            "url": "https://vod.starxcdn.xyz/vod/live02-1769357700-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Jan 25 - 15:15 La Liga Barcelona vs Oviedo",
+            "image": "https://allsp.org/assets/images/team/67ca90e948da41741328617.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_premiersports1-1769354100-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Jan 25 - 14:30 Bundesliga Borussia Mönchengladbach vs VfB Stuttgart",
+            "image": "https://allsp.org/assets/images/team/67ca9152d24161741328722.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn0-1769351400-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Jan 25 - 14:00 Premier League Brentford vs Nottingham Forest",
+            "image": "https://allsp.org/assets/images/team/67ca90f4591821741328628.png",
+            "url": "https://vod.starxcdn.xyz/vod/epl_bre-1769349600-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Jan 25 - 14:00 Premier League Crystal Palace vs Chelsea",
+            "image": "https://allsp.org/assets/images/team/67ca90f439b891741328628.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_ssepl-1769349600-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Jan 25 - 14:00 Premier League Newcastle vs Aston Villa",
+            "image": "https://allsp.org/assets/images/team/67ca90f30f54f1741328627.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_ssmain-1769349600-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Jan 25 - 14:00 Serie A Atalanta vs Parma",
+            "image": "https://allsp.org/assets/images/team/67ca90e9015a01741328617.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount3-1769349600-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Jan 25 - 14:00 Serie A Genoa vs Bologna",
+            "image": "https://allsp.org/assets/images/team/67ca91556217d1741328725.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount2-1769349600-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Jan 25 - 14:00 Ligue 1 Nantes vs Nice",
+            "image": "https://allsp.org/assets/images/team/67ca9151990aa1741328721.png",
+            "url": "https://vod.starxcdn.xyz/vod/pt_sporttv3-1769349600-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Jan 25 - 13:00 La Liga Atletico Madrid vs Mallorca",
+            "image": "https://allsp.org/assets/images/team/67ca90e96070e1741328617.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_premiersports1-1769346000-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Jan 25 - 11:30 Serie A Sassuolo vs Cremonese",
+            "image": "https://allsp.org/assets/images/team/67ca916377dca1741328739.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount1-1769340600-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
         {
             "name": "Jan 24 - 20:05 Ligue 1 Marseille vs Lens",
             "image": "https://allsp.org/assets/images/team/67ca9151691e91741328721.png",

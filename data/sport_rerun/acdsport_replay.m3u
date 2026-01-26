@@ -1,4 +1,44 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca915dc7e401741328733.png", group-title="LIVE SPORT", Jan 25 - 2000 La Liga Alaves vs Real Betis
+https://vod.starxcdn.xyz/vod/uk_premiersports1-1769371200-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90efdd70f1741328623.png", group-title="LIVE SPORT", Jan 25 - 1945 Serie A AS Roma vs AC Milan
+https://vod.starxcdn.xyz/vod/uk_bts1-1769370300-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e63814c1741328614.png", group-title="LIVE SPORT", Jan 25 - 1945 Ligue 1 Lille vs Strasbourg
+https://vod.starxcdn.xyz/vod/pt_sporttv3-1769370300-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90f01baf31741328624.png", group-title="LIVE SPORT", Jan 25 - 1730 La Liga Real Sociedad vs Celta Vigo
+https://vod.starxcdn.xyz/vod/uk_premiersports1-1769362200-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e8da5451741328616.png", group-title="LIVE SPORT", Jan 25 - 1700 Serie A Juventus vs Napoli
+https://vod.starxcdn.xyz/vod/paramount4-1769360400-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e5dda801741328613.png", group-title="LIVE SPORT", Jan 25 - 1630 Premier League Arsenal vs Manchester United
+https://vod.starxcdn.xyz/vod/uk_ssepl-1769358600-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca9152913e71741328722.png", group-title="LIVE SPORT", Jan 25 - 1630 Bundesliga SC Freiburg vs 1.FC Köln
+https://vod.starxcdn.xyz/vod/espn1-1769358600-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/6808f2b9ed2041745416889.png", group-title="LIVE SPORT", Jan 25 - 1615 Ligue 1 Paris FC vs Angers
+https://vod.starxcdn.xyz/vod/live03-1769357700-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/6808f2b9b73801745416889.png", group-title="LIVE SPORT", Jan 25 - 1615 Ligue 1 Metz vs Lyon
+https://vod.starxcdn.xyz/vod/pt_sporttv3-1769357700-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e6866821741328614.png", group-title="LIVE SPORT", Jan 25 - 1615 Ligue 1 Stade Brestois 29 vs Toulouse
+https://vod.starxcdn.xyz/vod/live02-1769357700-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e948da41741328617.png", group-title="LIVE SPORT", Jan 25 - 1515 La Liga Barcelona vs Oviedo
+https://vod.starxcdn.xyz/vod/uk_premiersports1-1769354100-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca9152d24161741328722.png", group-title="LIVE SPORT", Jan 25 - 1430 Bundesliga Borussia Mönchengladbach vs VfB Stuttgart
+https://vod.starxcdn.xyz/vod/espn0-1769351400-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90f4591821741328628.png", group-title="LIVE SPORT", Jan 25 - 1400 Premier League Brentford vs Nottingham Forest
+https://vod.starxcdn.xyz/vod/epl_bre-1769349600-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90f439b891741328628.png", group-title="LIVE SPORT", Jan 25 - 1400 Premier League Crystal Palace vs Chelsea
+https://vod.starxcdn.xyz/vod/uk_ssepl-1769349600-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90f30f54f1741328627.png", group-title="LIVE SPORT", Jan 25 - 1400 Premier League Newcastle vs Aston Villa
+https://vod.starxcdn.xyz/vod/uk_ssmain-1769349600-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e9015a01741328617.png", group-title="LIVE SPORT", Jan 25 - 1400 Serie A Atalanta vs Parma
+https://vod.starxcdn.xyz/vod/paramount3-1769349600-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca91556217d1741328725.png", group-title="LIVE SPORT", Jan 25 - 1400 Serie A Genoa vs Bologna
+https://vod.starxcdn.xyz/vod/paramount2-1769349600-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca9151990aa1741328721.png", group-title="LIVE SPORT", Jan 25 - 1400 Ligue 1 Nantes vs Nice
+https://vod.starxcdn.xyz/vod/pt_sporttv3-1769349600-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e96070e1741328617.png", group-title="LIVE SPORT", Jan 25 - 1300 La Liga Atletico Madrid vs Mallorca
+https://vod.starxcdn.xyz/vod/uk_premiersports1-1769346000-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca916377dca1741328739.png", group-title="LIVE SPORT", Jan 25 - 1130 Serie A Sassuolo vs Cremonese
+https://vod.starxcdn.xyz/vod/paramount1-1769340600-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca9151691e91741328721.png", group-title="LIVE SPORT", Jan 24 - 2005 Ligue 1 Marseille vs Lens
 https://vod.starxcdn.xyz/vod/pt_sporttv3-1769285100-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca9151691e91741328721.png", group-title="LIVE SPORT", Jan 24 - 2005 Ligue 1 Marseille vs Lens
