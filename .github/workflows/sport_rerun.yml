@@ -1,8 +1,8 @@
 name: Sport Rerun Update
 
 on:
-  schedule:
-    - cron: '0 0,12 * * *'  # 07:00 และ 19:00 ไทย
+#  schedule:
+#    - cron: '0 0,12 * * *'  # 07:00 และ 19:00 ไทย
   workflow_dispatch:
 
 jobs:
