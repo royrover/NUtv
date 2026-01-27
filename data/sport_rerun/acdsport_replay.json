@@ -2,8 +2,29 @@
     "name": "acdsport replay",
     "image": "https://acdsport.com/acd/social.jpg",
     "url": "https://dl.dropbox.com/scl/fi/2lk9rp530f3mh8sn095pu/acdsport_replay.json?rlkey=ikxvfvv3nljrwb9xervk3r9mp&st=6nqt04sc&dl=0",
-    "author": "update 26-01-2026 19:24:03",
+    "author": "update 27-01-2026 07:57:45",
     "stations": [
+        {
+            "name": "Jan 26 - 20:00 Premier League Everton vs Leeds",
+            "image": "https://allsp.org/assets/images/team/67ca90f3a1c6c1741328627.png",
+            "url": "https://vod.starxcdn.xyz/vod/uk_ssepl-1769457600-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Jan 26 - 20:00 La Liga Girona vs Getafe",
+            "image": "https://allsp.org/assets/images/team/67ca90e98fd451741328617.png",
+            "url": "https://vod.starxcdn.xyz/vod/espn0-1769457600-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
+        {
+            "name": "Jan 26 - 19:45 Serie A Verona vs Udinese",
+            "image": "https://allsp.org/assets/images/team/67ca9155ad1bc1741328725.png",
+            "url": "https://vod.starxcdn.xyz/vod/paramount1-1769456700-7800.mp4/index.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "referer": "https://acdsport.com/"
+        },
         {
             "name": "Jan 25 - 20:00 La Liga Alaves vs Real Betis",
             "image": "https://allsp.org/assets/images/team/67ca915dc7e401741328733.png",

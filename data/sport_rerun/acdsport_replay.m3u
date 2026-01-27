@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90f3a1c6c1741328627.png", group-title="LIVE SPORT", Jan 26 - 2000 Premier League Everton vs Leeds
+https://vod.starxcdn.xyz/vod/uk_ssepl-1769457600-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90e98fd451741328617.png", group-title="LIVE SPORT", Jan 26 - 2000 La Liga Girona vs Getafe
+https://vod.starxcdn.xyz/vod/espn0-1769457600-7800.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca9155ad1bc1741328725.png", group-title="LIVE SPORT", Jan 26 - 1945 Serie A Verona vs Udinese
+https://vod.starxcdn.xyz/vod/paramount1-1769456700-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca915dc7e401741328733.png", group-title="LIVE SPORT", Jan 25 - 2000 La Liga Alaves vs Real Betis
 https://vod.starxcdn.xyz/vod/uk_premiersports1-1769371200-7800.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://allsp.org/assets/images/team/67ca90efdd70f1741328623.png", group-title="LIVE SPORT", Jan 25 - 1945 Serie A AS Roma vs AC Milan
