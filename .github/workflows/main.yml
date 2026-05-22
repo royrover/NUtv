@@ -2,7 +2,7 @@ name: Update Stream Link
 
 on:
   schedule:
-    - cron: '*/5 * * * *' # สั่งรันอัตโนมัติทุกๆ 5 นาที
+    #- cron: '*/5 * * * *' # สั่งรันอัตโนมัติทุกๆ 5 นาที
   workflow_dispatch: # ปุ่มกดสั่งรันเองแบบ Manual
 
 jobs:
