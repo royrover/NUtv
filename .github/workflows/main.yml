@@ -3,7 +3,7 @@ name: Update Stream Link
 on:
   schedule:
     - cron: '*/5 * * * *' # สั่งรันอัตโนมัติทุกๆ 5 นาที
-  workflow_dispatch: # เพิ่มปุ่มกดสั่งรันเองแบบ Manual ได้ตามปกติ
+  workflow_dispatch: # ปุ่มกดสั่งรันเองแบบ Manual
 
 jobs:
   update-link:
@@ -21,7 +21,6 @@ jobs:
       run: |
         pip install cloudscraper
 
-    # 🛠️ จุดแก้ไข: สั่งให้ GitHub สร้างไฟล์ fetch.py ขึ้นมาตรงนี้เลยก่อนกดรัน
     - name: Create Fetch Script
       run: |
         cat << 'EOF' > fetch.py
@@ -32,18 +31,24 @@ jobs:
 
         headers = {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
-            "Accept-Language": "en-US,en;q=0.9",
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8",
+            "Accept-Language": "th-TH,th;q=0.9,en-US;q=0.8",
             "Referer": "https://ipplaybox.fun/",
+            "Connection": "keep-alive"
         }
 
         try:
+            # ใช้ cloudscraper แบบเปิด Session ต่อเนื่องเพื่อความเนียน
             scraper = cloudscraper.create_scraper(
+                delay=10,
                 browser={"browser": "chrome", "platform": "windows", "desktop": True}
             )
-            response = scraper.get(url, headers=headers, timeout=15)
+            response = scraper.get(url, headers=headers, timeout=20)
             
-            if response.status_code == 200 and "#EXTM3U" in response.text:
-                raw_content = response.text
+            raw_content = response.text
+            
+            # ตรวจสอบว่าได้ไฟล์สตรีมจริงไหม
+            if response.status_code == 200 and "#EXTM3U" in raw_content:
                 lines = raw_content.split("\n")
                 new_lines = []
                 base_url = "https://ipplaybox.fun/dookeela/ch3hd/"
@@ -58,14 +63,16 @@ jobs:
                     new_lines.append(t)
                     
                 processed_content = "\n".join(new_lines)
-                
-                with open("live.m3u8", "w", encoding="utf-8") as f:
-                    f.write(processed_content)
-                print("Fetch and Convert Successful!")
             else:
-                print(f"Failed to fetch. Status code: {response.status_code}")
+                # [จุดสำคัญ] ถ้าพัง บังคับเซฟข้อความที่เซิร์ฟเวอร์ตอบกลับมาลงไฟล์ เพื่อให้เรากดดูได้ว่าติดอะไร
+                processed_content = f"#ERROR_LOG\n#STATUS: {response.status_code}\n{raw_content}"
+                
+            with open("live.m3u8", "w", encoding="utf-8") as f:
+                f.write(processed_content)
+                
         except Exception as e:
-            print(f"Error occurred: {e}")
+            with open("live.m3u8", "w", encoding="utf-8") as f:
+                f.write(f"#EXCEPTION_LOG\n{str(e)}")
         EOF
 
     - name: Run Fetch Script
